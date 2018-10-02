@@ -1,0 +1,14 @@
+{
+    "name": "ddf--unstats--sdg_indicators",
+    "author": "Gapminder",
+    "description": "SDG indicators",
+    "language": {
+        "name": "English",
+        "id": "en"
+    },
+    "translations": [],
+    "license": "CC-BY-4.0",
+    "title": "SDG indicators",
+    "version": "0.0.1",
+    "resources": []
+}
