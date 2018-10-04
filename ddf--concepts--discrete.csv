@@ -20,7 +20,7 @@ type_of_occupation,entity_domain,Type Of Occupation
 migratory_status,entity_domain,Migratory Status
 tariff_regime_status,entity_domain,Tariff Regime Status
 hazard_type,entity_domain,Hazard Type
-country,entity_domain,Country
+geo_area,entity_domain,Geo Area
 year,time,Year
 name,string,Name
 description,string,Description

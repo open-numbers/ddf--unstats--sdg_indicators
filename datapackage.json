@@ -5,12 +5,12 @@
         "id": "en"
     },
     "author": "Gapminder",
+    "created": "2018-10-04T12:48:39.828848+00:00",
     "description": "SDG indicators",
     "license": "CC-BY-4.0",
     "title": "SDG indicators",
     "translations": [],
     "version": "0.0.1",
-    "created": "2018-10-04T12:34:47.990663+00:00",
     "resources": [
         {
             "path": "ddf--concepts--continuous.csv",
