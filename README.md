@@ -1,25 +1,15 @@
 # SDG indicators
 
-SDG indicators
+DDF dataset for [SDG indicators](https://unstats.un.org/sdgs/indicators/database/) by UNSD.
 
 ## Indicators
 
-- List of indicators in this repo
-
-## Definition of indicator
-
-
-## Unit of measurement
-
-
-## Versions
-
-
-### Revision history
-
+all 355 data series in SDG indicators are available.
 
 ## Data sources summary
 
+Datapoints source data are downloaded with the [CSV API](https://unstats.un.org/SDGAPI/swagger/#!/Series/V1SdgSeriesDataCSVPost)
 
-## Specific information about this indicator
+Geo Area entity domain comes form [GeoArea List API](https://unstats.un.org/SDGAPI/swagger/#!/GeoArea/V1SdgGeoAreaListGet)
 
+Other entity domains are gathered from all datapoints
