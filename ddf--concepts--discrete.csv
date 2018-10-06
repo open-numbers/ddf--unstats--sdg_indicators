@@ -1,25 +1,25 @@
 concept,concept_type,name
-type_of_product,entity_domain,Type Of Product
 age,entity_domain,Age
 bounds,entity_domain,Bounds
-location,entity_domain,Location
-cities,entity_domain,Cities
-level_status,entity_domain,Level Status
-quantile,entity_domain,Quantile
 sex,entity_domain,Sex
+education_level,entity_domain,Education Level
+name_of_international_institution,entity_domain,Name Of International Institution
 mode_of_transportation,entity_domain,Mode Of Transportation
+migratory_status,entity_domain,Migratory Status
+level_status,entity_domain,Level Status
+location,entity_domain,Location
+quantile,entity_domain,Quantile
+type_of_skill,entity_domain,Type Of Skill
 type_of_mobile_technology,entity_domain,Type Of Mobile Technology
 type_of_speed,entity_domain,Type Of Speed
-education_level,entity_domain,Education Level
-type_of_skill,entity_domain,Type Of Skill
-name_of_international_institution,entity_domain,Name Of International Institution
 freq,entity_domain,Freq
+type_of_product,entity_domain,Type Of Product
+type_of_occupation,entity_domain,Type Of Occupation
+cities,entity_domain,Cities
+hazard_type,entity_domain,Hazard Type
 name_of_non_communicable_disease,entity_domain,Name Of Non Communicable Disease
 ihr_capacity,entity_domain,Ihr Capacity
-type_of_occupation,entity_domain,Type Of Occupation
-migratory_status,entity_domain,Migratory Status
 tariff_regime_status,entity_domain,Tariff Regime Status
-hazard_type,entity_domain,Hazard Type
 geo_area,entity_domain,Geo Area
 year,time,Year
 name,string,Name

@@ -1,4 +1,6 @@
 type_of_skill,name
+nume,NUME
+lite,LITE
 arsp,ARSP
 inst,INST
 eprs,EPRS
@@ -8,6 +10,4 @@ soft,SOFT
 traf,TRAF
 pcpr,PCPR
 cmfl,CMFL
-nume,NUME
-lite,LITE
 ,

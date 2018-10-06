@@ -1,5 +1,4 @@
 geo_area,year,mode_of_transportation,is_rdp_frgvol
-1,2016,roa,21079021316580.40
 1,2016,air,"196,669,721,388"
 1,2016,rai,13061891704067.60
 4,2016,air,"29,010,881"
@@ -555,3 +554,4 @@ geo_area,year,mode_of_transportation,is_rdp_frgvol
 894,2016,rai,740993757.26047
 894,2016,air,"79,092,827"
 894,2016,roa,3872289957.29663
+1,2016,roa,21079021316580.40
