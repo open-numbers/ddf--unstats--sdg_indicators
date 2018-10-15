@@ -6,13 +6,17 @@ import pandas as pd
 import numpy as np
 import requests as req
 
-from ddf_utils.str import to_concept_id
-
+from pandas.api.types import is_numeric_dtype
+from ddf_utils.str import to_concept_id, format_float_digits
+from functools import partial
 from update_source import api_path, API_BASE, get_all_series
 
 
+FORMATTER = partial(format_float_digits, digits=7)
+
+
 def read_source(name):
-    return pd.read_csv(f'../source/{name}.csv').dropna(how='all')
+    return pd.read_csv(f'../source/{name}.csv', thousands=',').dropna(how='all')
 
 
 def get_key_columns(df):
@@ -60,7 +64,12 @@ def serve_datapoints(df, concept=None):
     if df['year'].dtype != np.int:
         df['year'] = df['year'].map(lambda x: int(x))
 
-    df.to_csv(f'../../ddf--datapoints--{concept}--by--{by}.csv', index=False)
+    if not is_numeric_dtype(df[concept]):
+        print("\tnot numeric data")
+    else:
+        df[concept] = df[concept].map(FORMATTER)
+
+    df.dropna(how='any').to_csv(f'../../ddf--datapoints--{concept}--by--{by}.csv', index=False)
 
 
 def serve_entities(entities):

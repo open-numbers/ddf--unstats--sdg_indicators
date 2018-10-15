@@ -35,7 +35,7 @@ geo_area,year,sex,ic_gen_mgtn
 40,2004,female,22.18
 40,2005,female,21.5
 40,2006,female,20.96
-40,2007,female,21.0
+40,2007,female,21
 40,2008,female,25.19
 40,2009,female,23.25
 40,2010,female,25.42
@@ -83,9 +83,9 @@ geo_area,year,sex,ic_gen_mgtn
 100,2008,female,36.51
 100,2009,female,35.79
 100,2010,female,38.63
-100,2011,female,37.0
+100,2011,female,37
 100,2012,female,35.5
-100,2013,female,36.0
+100,2013,female,36
 100,2014,female,35.36
 100,2015,female,37.38
 100,2016,female,39.28
@@ -121,7 +121,7 @@ geo_area,year,sex,ic_gen_mgtn
 196,2001,female,18.55
 196,2002,female,17.3
 196,2003,female,17.94
-196,2004,female,17.0
+196,2004,female,17
 196,2005,female,17.07
 196,2006,female,17.23
 196,2007,female,17.69
@@ -235,7 +235,7 @@ geo_area,year,sex,ic_gen_mgtn
 250,2003,female,32.53
 250,2004,female,33.06
 250,2005,female,36.34
-250,2006,female,37.0
+250,2006,female,37
 250,2007,female,36.46
 250,2008,female,36.77
 250,2009,female,37.38
@@ -312,7 +312,7 @@ geo_area,year,sex,ic_gen_mgtn
 352,2000,female,30.41
 352,2001,female,30.18
 352,2002,female,32.26
-352,2003,female,40.0
+352,2003,female,40
 352,2004,female,38.12
 352,2005,female,30.04
 352,2006,female,33.97
@@ -373,7 +373,7 @@ geo_area,year,sex,ic_gen_mgtn
 428,2002,female,38.09
 428,2003,female,45.38
 428,2004,female,42.47
-428,2005,female,42.0
+428,2005,female,42
 428,2006,female,40.86
 428,2007,female,42.11
 428,2008,female,41.25
@@ -423,7 +423,7 @@ geo_area,year,sex,ic_gen_mgtn
 450,2012,female,24.45
 458,2009,female,26.3
 458,2010,female,29.4
-458,2011,female,22.0
+458,2011,female,22
 458,2012,female,20.76
 458,2013,female,20.91
 458,2014,female,21.59
@@ -443,7 +443,7 @@ geo_area,year,sex,ic_gen_mgtn
 470,2011,female,24.81
 470,2012,female,26.63
 470,2013,female,28.58
-470,2014,female,26.0
+470,2014,female,26
 470,2015,female,26.18
 470,2016,female,28.98
 480,2011,female,21.52
@@ -657,11 +657,11 @@ geo_area,year,sex,ic_gen_mgtn
 764,2015,female,29.83
 764,2016,female,29.02
 792,2006,female,17.26
-792,2007,female,18.0
+792,2007,female,18
 792,2008,female,19.38
 792,2009,female,20.08
 792,2010,female,18.76
-792,2011,female,13.0
+792,2011,female,13
 792,2012,female,14.34
 792,2013,female,16.57
 792,2014,female,15.54
@@ -682,7 +682,7 @@ geo_area,year,sex,ic_gen_mgtn
 807,2012,female,23.28
 807,2013,female,24.67
 807,2014,female,25.95
-807,2015,female,23.0
+807,2015,female,23
 807,2016,female,27.27
 826,2000,female,34.69
 826,2001,female,29.62
