@@ -16,6 +16,7 @@ geo_area,year,level_status,location,er_h2o_prdu
 858,2014,cldpr,rural,10
 858,2017,cldpr,rural,10
 860,2012,cldpr,rural,10
+860,2017,notspec,rural,0
 862,2017,cldpr,rural,10
 882,2012,cldpr,rural,10
 4,2012,cldpr,rural,10
@@ -34,6 +35,7 @@ geo_area,year,level_status,location,er_h2o_prdu
 50,2012,cldpr,rural,10
 50,2014,cldpr,rural,10
 50,2017,cldpr,rural,10
+52,2017,notspec,rural,0
 64,2012,cldpr,rural,10
 64,2014,cldpr,rural,10
 64,2017,cldpr,rural,10
@@ -50,6 +52,7 @@ geo_area,year,level_status,location,er_h2o_prdu
 104,2012,cldpr,rural,10
 104,2014,ncdpr,rural,5
 104,2017,cldpr,rural,10
+108,2010,notspec,rural,0
 108,2012,cldpr,rural,10
 108,2014,cldpr,rural,10
 108,2017,cldpr,rural,10
@@ -77,6 +80,7 @@ geo_area,year,level_status,location,er_h2o_prdu
 170,2014,cldpr,rural,10
 170,2017,cldpr,rural,10
 178,2012,ncdpr,rural,5
+178,2014,notspec,rural,0
 180,2010,cldpr,rural,10
 180,2012,cldpr,rural,10
 180,2014,cldpr,rural,10
@@ -90,6 +94,7 @@ geo_area,year,level_status,location,er_h2o_prdu
 204,2012,cldpr,rural,10
 204,2014,cldpr,rural,10
 214,2012,cldpr,rural,10
+214,2014,notspec,rural,0
 214,2017,cldpr,rural,10
 218,2017,cldpr,rural,10
 222,2012,cldpr,rural,10
@@ -116,6 +121,7 @@ geo_area,year,level_status,location,er_h2o_prdu
 288,2012,cldpr,rural,10
 288,2014,cldpr,rural,10
 288,2017,cldpr,rural,10
+320,2017,notspec,rural,0
 324,2012,cldpr,rural,10
 324,2014,cldpr,rural,10
 324,2017,cldpr,rural,10
@@ -128,6 +134,7 @@ geo_area,year,level_status,location,er_h2o_prdu
 340,2014,cldpr,rural,10
 340,2017,cldpr,rural,10
 356,2012,cldpr,rural,10
+356,2014,notspec,rural,0
 356,2017,cldpr,rural,10
 360,2012,cldpr,rural,10
 360,2014,cldpr,rural,10
@@ -138,6 +145,7 @@ geo_area,year,level_status,location,er_h2o_prdu
 384,2014,cldpr,rural,10
 384,2017,cldpr,rural,10
 388,2017,cldpr,rural,10
+398,2010,notspec,rural,0
 398,2014,cldpr,rural,10
 400,2012,cldpr,rural,10
 400,2014,cldpr,rural,10
@@ -152,6 +160,7 @@ geo_area,year,level_status,location,er_h2o_prdu
 418,2012,cldpr,rural,10
 418,2014,cldpr,rural,10
 418,2017,cldpr,rural,10
+422,2012,notspec,rural,0
 422,2014,cldpr,rural,10
 426,2010,cldpr,rural,10
 426,2012,cldpr,rural,10
@@ -225,6 +234,7 @@ geo_area,year,level_status,location,er_h2o_prdu
 608,2014,cldpr,rural,10
 608,2017,cldpr,rural,10
 624,2012,cldpr,rural,10
+624,2014,notspec,rural,0
 626,2010,cldpr,rural,10
 626,2012,cldpr,rural,10
 626,2014,cldpr,rural,10
@@ -274,6 +284,7 @@ geo_area,year,level_status,location,er_h2o_prdu
 768,2012,cldpr,rural,10
 768,2014,cldpr,rural,10
 768,2017,cldpr,rural,10
+776,2014,notspec,rural,0
 776,2017,cldpr,rural,10
 788,2014,cldpr,rural,10
 887,2012,cldpr,rural,10

@@ -4,6 +4,7 @@ geo_area,year,level_status,er_wat_prdu
 31,2017,cldpr,10
 32,2017,cldpr,10
 50,2017,cldpr,10
+52,2017,notspec,0
 64,2017,cldpr,10
 68,2017,cldpr,10
 70,2017,cldpr,10
@@ -28,6 +29,7 @@ geo_area,year,level_status,er_wat_prdu
 268,2017,cldpr,10
 275,2017,cldpr,10
 288,2017,cldpr,10
+320,2017,notspec,0
 324,2017,cldpr,10
 328,2017,ncdpr,5
 332,2017,ncdpr,5
@@ -72,6 +74,7 @@ geo_area,year,level_status,er_wat_prdu
 764,2017,cldpr,10
 768,2017,cldpr,10
 776,2017,cldpr,10
+804,2017,notspec,0
 834,2017,cldpr,10
 854,2017,cldpr,10
 858,2017,cldpr,10

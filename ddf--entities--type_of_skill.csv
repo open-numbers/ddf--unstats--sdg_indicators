@@ -1,6 +1,7 @@
 type_of_skill,name
 nume,NUME
 lite,LITE
+notspec,NOTSPEC
 email,EMAIL
 arsp,ARSP
 inst,INST
@@ -10,4 +11,3 @@ eprs,EPRS
 copa,COPA
 soft,SOFT
 cmfl,CMFL
-,
