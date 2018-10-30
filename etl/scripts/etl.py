@@ -54,9 +54,11 @@ def serve_datapoints(df, concept=None):
     """save a dataframe to disk, with DDF naming. Assume primaryKeys are
     in front of measure column.
     """
-    by = '--'.join(df.columns[:-1])
     if not concept:
+        by = '--'.join(df.columns[:-1])
         concept = df.columns[-1]
+    else:
+        by = list(filter(lambda x: x != concept, df.columns))
 
     if df['geo_area'].dtype != np.int:
         df['geo_area'] = df['geo_area'].map(lambda x: int(x))
