@@ -31,7 +31,6 @@ geo_area,year,age,bounds,sh_sta_waste
 35,2017,lt5y,lb,6.4
 35,2017,lt5y,mp,8.7
 35,2017,lt5y,ub,11.8
-36,2007,lt5y,mp,
 50,2000,lt5y,mp,12.5
 50,2001,lt5y,mp,12.7
 50,2002,lt5y,mp,12.4

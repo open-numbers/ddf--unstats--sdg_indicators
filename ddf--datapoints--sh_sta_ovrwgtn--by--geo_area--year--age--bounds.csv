@@ -165,11 +165,9 @@ geo_area,year,age,bounds,sh_sta_ovrwgtn
 419,2017,lt5y,lb,3.5
 419,2017,lt5y,mp,3.9
 543,2000,lt5y,mp,0.1
-543,2000,lt5y,lb,
 543,2000,lt5y,ub,0.1
 543,2005,lt5y,ub,0.1
 543,2005,lt5y,mp,0.1
-543,2005,lt5y,lb,
 543,2010,lt5y,ub,0.1
 543,2010,lt5y,lb,0.1
 543,2010,lt5y,mp,0.1
