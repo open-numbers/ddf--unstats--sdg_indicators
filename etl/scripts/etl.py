@@ -80,7 +80,7 @@ def serve_datapoints(df, concept=None):
     else:
         df[concept] = df[concept].map(FORMATTER)
 
-    df.to_csv(f'../../ddf--datapoints--{concept}--by--{by}.csv', index=False)
+    df.dropna(subset=[concept]).to_csv(f'../../ddf--datapoints--{concept}--by--{by}.csv', index=False)
 
 
 def serve_entities(entities):
