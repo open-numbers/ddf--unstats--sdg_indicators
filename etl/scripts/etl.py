@@ -40,12 +40,19 @@ def check_source(df, key_columns):
     if len(df.Indicator.unique()) > 1:
         df = df[df.Indicator == df.Indicator.values[0]]
 
-    if df.TimePeriod.hasnans:
-        print("TimePeriod contains NaNs")
-
     if df.duplicated(subset=key_columns).any():
         print("duplicated datapoints.")
         print(df.columns)
+
+    for k in key_columns:
+        if df[k].hasnans:
+            print("column {} has NaNs".format(k))
+            if k == 'TimePeriod':
+                # if timePeriod is N/A, we will just drop it
+                df = df.dropna(subset=['TimePeriod'])
+            else:
+                # otherwise we fillna with new value
+                df[k] = df[k].fillna("NOTSPEC")
 
     return df
 
@@ -68,15 +75,12 @@ def serve_datapoints(df, concept=None):
     if df['year'].dtype != np.int:
         df['year'] = df['year'].map(lambda x: int(x))
 
-    for pk in by_lst:
-        df[pk] = df[pk].fillna("NOTSPECIFIED")
-
     if not is_numeric_dtype(df[concept]):
         print("\tnot numeric data")
     else:
         df[concept] = df[concept].map(FORMATTER)
 
-    df.dropna(how='any').to_csv(f'../../ddf--datapoints--{concept}--by--{by}.csv', index=False)
+    df.to_csv(f'../../ddf--datapoints--{concept}--by--{by}.csv', index=False)
 
 
 def serve_entities(entities):
