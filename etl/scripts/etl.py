@@ -55,7 +55,8 @@ def serve_datapoints(df, concept=None):
     in front of measure column.
     """
     if not concept:
-        by = '--'.join(df.columns[:-1])
+        by_lst = df.columns[:-1]
+        by = '--'.join(by_lst)
         concept = df.columns[-1]
     else:
         by_lst = list(filter(lambda x: x != concept, df.columns))
@@ -66,6 +67,9 @@ def serve_datapoints(df, concept=None):
 
     if df['year'].dtype != np.int:
         df['year'] = df['year'].map(lambda x: int(x))
+
+    for pk in by_lst:
+        df[pk] = df[pk].fillna("NOTSPECIFIED")
 
     if not is_numeric_dtype(df[concept]):
         print("\tnot numeric data")
