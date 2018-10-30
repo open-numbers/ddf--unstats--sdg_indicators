@@ -17,9 +17,10 @@ def cleanup_source():
     for f in glob.glob("../source/*csv"):
         os.remove(f)
 
+
 # from https://www.peterbe.com/plog/best-practice-with-retries-with-requests
 def requests_retry_session(
-    retries=3,
+    retries=5,
     backoff_factor=0.3,
     status_forcelist=(500, 502, 504),
     session=None,
