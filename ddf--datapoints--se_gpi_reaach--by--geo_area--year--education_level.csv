@@ -80,8 +80,8 @@ geo_area,year,education_level,se_gpi_reaach
 152,2006,primar,1.02815
 152,2009,lowsec,1.17705
 152,2012,lowsec,1.19866
-152,2013,grad23,1.04124
 152,2013,primar,1.02582
+152,2013,grad23,1.04124
 152,2015,lowsec,1.07576
 156,2009,lowsec,1.05357
 156,2015,lowsec,1.06133
@@ -167,8 +167,8 @@ geo_area,year,education_level,se_gpi_reaach
 276,2000,lowsec,1.11437
 276,2001,primar,1.00833
 276,2003,lowsec,1.16365
-276,2006,primar,1.00315
 276,2006,lowsec,1.15204
+276,2006,primar,1.00315
 276,2009,lowsec,1.14916
 276,2011,primar,1.01345
 276,2012,lowsec,1.14367
@@ -198,8 +198,8 @@ geo_area,year,education_level,se_gpi_reaach
 348,2000,lowsec,1.12746
 348,2001,primar,1.02062
 348,2003,lowsec,1.14243
-348,2006,lowsec,1.19398
 348,2006,primar,1.00554
+348,2006,lowsec,1.19398
 348,2009,lowsec,1.16072
 348,2011,primar,1.02408
 348,2012,lowsec,1.18975
@@ -207,8 +207,8 @@ geo_area,year,education_level,se_gpi_reaach
 352,2000,lowsec,1.15043
 352,2001,grad23,1.05455
 352,2003,lowsec,1.23781
-352,2006,grad23,1.04832
 352,2006,lowsec,1.21984
+352,2006,grad23,1.04832
 352,2009,lowsec,1.18309
 352,2012,lowsec,1.25283
 352,2015,lowsec,1.18586
@@ -363,8 +363,8 @@ geo_area,year,education_level,se_gpi_reaach
 554,2000,lowsec,1.12435
 554,2001,grad23,1.06899
 554,2003,lowsec,1.08274
-554,2006,lowsec,1.12104
 554,2006,grad23,1.06611
+554,2006,lowsec,1.12104
 554,2009,lowsec,1.16121
 554,2011,grad23,1.03574
 554,2012,lowsec,1.1224
@@ -378,8 +378,8 @@ geo_area,year,education_level,se_gpi_reaach
 578,2000,lowsec,1.16564
 578,2001,grad23,1.06569
 578,2003,lowsec,1.17987
-578,2006,grad23,1.05272
 578,2006,lowsec,1.2058
+578,2006,grad23,1.05272
 578,2009,lowsec,1.16594
 578,2011,grad23,1.03453
 578,2012,lowsec,1.16698
@@ -400,8 +400,8 @@ geo_area,year,education_level,se_gpi_reaach
 604,2015,lowsec,1.09195
 616,2000,lowsec,1.20778
 616,2003,lowsec,1.17178
-616,2006,grad23,1.03585
 616,2006,lowsec,1.15703
+616,2006,grad23,1.03585
 616,2009,lowsec,1.1964
 616,2011,grad23,1.02872
 616,2012,lowsec,1.13178
@@ -439,8 +439,8 @@ geo_area,year,education_level,se_gpi_reaach
 643,2015,lowsec,1.10933
 682,2011,grad23,1.52745
 686,2006,primar,0.93967
-686,2014,primar,0.97613
 686,2014,grad23,0.86937
+686,2014,primar,0.97613
 688,2003,lowsec,1.5461
 688,2006,lowsec,1.50271
 688,2009,lowsec,1.34231
@@ -455,8 +455,8 @@ geo_area,year,education_level,se_gpi_reaach
 702,2015,lowsec,1.06012
 703,2001,primar,1.02867
 703,2003,lowsec,1.17904
-703,2006,primar,1.01443
 703,2006,lowsec,1.22857
+703,2006,primar,1.01443
 703,2009,lowsec,1.28693
 703,2011,primar,1.00852
 703,2012,lowsec,1.23164
@@ -559,8 +559,8 @@ geo_area,year,education_level,se_gpi_reaach
 858,2006,lowsec,1.3497
 858,2009,lowsec,1.36461
 858,2012,lowsec,1.32662
-858,2013,grad23,1.0559
 858,2013,primar,1.05092
+858,2013,grad23,1.0559
 858,2015,lowsec,1.19535
 862,2009,lowsec,1.11249
 894,2001,primar,1.04178

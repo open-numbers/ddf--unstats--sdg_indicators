@@ -88,7 +88,7 @@ si_cov_socast,SI_COV_SOCAST,measure,Proportion of population covered by social a
 si_cov_socastpq,SI_COV_SOCASTPQ,measure,Poorest quintile covered by social assistance programs (%),1.3,1,1.3.1
 si_cov_socins,SI_COV_SOCINS,measure,Proportion of population covered by social insurance programs (%),1.3,1,1.3.1
 sl_dom_tspdcw,SL_DOM_TSPDCW,measure,"Proportion of time spent on unpaid care work, by sex, age and location (%)",5.4,5,5.4.1
-sl_emp_ftlinjur,SL_EMP_FTLINJUR,measure,"Fatal occupational injuries among employees, by sex (per 100,000 employees)",8.8,8,8.8.1
+sl_emp_ftlinjur,SL_EMP_FTLINJUR,measure,"Fatal occupational injuries among employees, by sex and migrant status (per 100,000 employees)",8.8,8,8.8.1
 sl_tlf_manf,SL_TLF_MANF,measure,Manufacturing employment as a proportion of total employment (%),9.2,9,9.2.2
 sl_tlf_uem,SL_TLF_UEM,measure,"Unemployment rate, by sex and age (%)",8.5,8,8.5.2
 sp_dyn_mrbf18,SP_DYN_MRBF18,measure,Proportion of women aged 20-24 years who were married or in a union before age 18 (%),5.3,5,5.3.1
@@ -206,7 +206,7 @@ si_cov_pensn,SI_COV_PENSN,measure,"Proportion of population above statutory pens
 si_pov_emp1,SI_POV_EMP1,measure,"Employed population below international poverty line, by sex and age (%)",1.1,1,1.1.1
 si_pov_nahc,SI_POV_NAHC,measure,Proportion of population living below the national poverty line (%),1.2,1,1.2.1
 sl_dom_tspd,SL_DOM_TSPD,measure,"Proportion of time spent on unpaid domestic chores and care work, by sex, age and location (%)",5.4,5,5.4.1
-sl_emp_injur,SL_EMP_INJUR,measure,"Non-fatal occupational injuries among employees, by sex (per 100,000 employees)",8.8,8,8.8.1
+sl_emp_injur,SL_EMP_INJUR,measure,"Non-fatal occupational injuries among employees, by sex and migrant status (per 100,000 employees)",8.8,8,8.8.1
 sl_emp_pcap,SL_EMP_PCAP,measure,Annual growth rate of real GDP per employed person (%),8.2,8,8.2.1
 sl_isv_ifrm,SL_ISV_IFRM,measure,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%)",8.3,8,8.3.1
 sl_tlf_neet,SL_TLF_NEET,measure,"Proportion of youth not in education, employment or training, by sex and age (%)",8.6,8,8.6.1

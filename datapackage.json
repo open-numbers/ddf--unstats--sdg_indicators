@@ -5,7 +5,7 @@
         "id": "en"
     },
     "author": "Gapminder",
-    "created": "2018-10-30T07:50:58.052086+00:00",
+    "created": "2018-11-04T01:50:19.924784+00:00",
     "description": "SDG indicators",
     "license": "CC-BY-4.0",
     "title": "SDG indicators",
@@ -4650,8 +4650,8 @@
             }
         },
         {
-            "path": "ddf--datapoints--sg_pln_prvrimon--by--geo_area--year--freq.csv",
-            "name": "ddf--datapoints--sg_pln_prvrimon--by--geo_area--year--freq",
+            "path": "ddf--datapoints--sg_pln_prvrimon--by--geo_area--year.csv",
+            "name": "ddf--datapoints--sg_pln_prvrimon--by--geo_area--year",
             "schema": {
                 "fields": [
                     {
@@ -4661,16 +4661,12 @@
                         "name": "year"
                     },
                     {
-                        "name": "freq"
-                    },
-                    {
                         "name": "sg_pln_prvrimon"
                     }
                 ],
                 "primaryKey": [
                     "geo_area",
-                    "year",
-                    "freq"
+                    "year"
                 ]
             }
         },
@@ -5727,8 +5723,8 @@
             }
         },
         {
-            "path": "ddf--datapoints--sh_san_defect--by--geo_area--year--age--bounds--freq--location--sex.csv",
-            "name": "ddf--datapoints--sh_san_defect--by--geo_area--year--age--bounds--freq--location--sex",
+            "path": "ddf--datapoints--sh_san_defect--by--geo_area--year--location.csv",
+            "name": "ddf--datapoints--sh_san_defect--by--geo_area--year--location",
             "schema": {
                 "fields": [
                     {
@@ -5738,19 +5734,7 @@
                         "name": "year"
                     },
                     {
-                        "name": "age"
-                    },
-                    {
-                        "name": "bounds"
-                    },
-                    {
-                        "name": "freq"
-                    },
-                    {
                         "name": "location"
-                    },
-                    {
-                        "name": "sex"
                     },
                     {
                         "name": "sh_san_defect"
@@ -5759,17 +5743,13 @@
                 "primaryKey": [
                     "geo_area",
                     "year",
-                    "age",
-                    "bounds",
-                    "freq",
-                    "location",
-                    "sex"
+                    "location"
                 ]
             }
         },
         {
-            "path": "ddf--datapoints--sh_san_hndwsh--by--geo_area--year--age--bounds--freq--location--sex.csv",
-            "name": "ddf--datapoints--sh_san_hndwsh--by--geo_area--year--age--bounds--freq--location--sex",
+            "path": "ddf--datapoints--sh_san_hndwsh--by--geo_area--year--location.csv",
+            "name": "ddf--datapoints--sh_san_hndwsh--by--geo_area--year--location",
             "schema": {
                 "fields": [
                     {
@@ -5779,19 +5759,7 @@
                         "name": "year"
                     },
                     {
-                        "name": "age"
-                    },
-                    {
-                        "name": "bounds"
-                    },
-                    {
-                        "name": "freq"
-                    },
-                    {
                         "name": "location"
-                    },
-                    {
-                        "name": "sex"
                     },
                     {
                         "name": "sh_san_hndwsh"
@@ -5800,17 +5768,13 @@
                 "primaryKey": [
                     "geo_area",
                     "year",
-                    "age",
-                    "bounds",
-                    "freq",
-                    "location",
-                    "sex"
+                    "location"
                 ]
             }
         },
         {
-            "path": "ddf--datapoints--sh_san_safe--by--geo_area--year--age--bounds--freq--location--sex.csv",
-            "name": "ddf--datapoints--sh_san_safe--by--geo_area--year--age--bounds--freq--location--sex",
+            "path": "ddf--datapoints--sh_san_safe--by--geo_area--year--location.csv",
+            "name": "ddf--datapoints--sh_san_safe--by--geo_area--year--location",
             "schema": {
                 "fields": [
                     {
@@ -5820,19 +5784,7 @@
                         "name": "year"
                     },
                     {
-                        "name": "age"
-                    },
-                    {
-                        "name": "bounds"
-                    },
-                    {
-                        "name": "freq"
-                    },
-                    {
                         "name": "location"
-                    },
-                    {
-                        "name": "sex"
                     },
                     {
                         "name": "sh_san_safe"
@@ -5841,11 +5793,7 @@
                 "primaryKey": [
                     "geo_area",
                     "year",
-                    "age",
-                    "bounds",
-                    "freq",
-                    "location",
-                    "sex"
+                    "location"
                 ]
             }
         },
@@ -6179,8 +6127,8 @@
             }
         },
         {
-            "path": "ddf--datapoints--sh_sta_traf--by--geo_area--year--age--bounds--freq--location--sex.csv",
-            "name": "ddf--datapoints--sh_sta_traf--by--geo_area--year--age--bounds--freq--location--sex",
+            "path": "ddf--datapoints--sh_sta_traf--by--geo_area--year.csv",
+            "name": "ddf--datapoints--sh_sta_traf--by--geo_area--year",
             "schema": {
                 "fields": [
                     {
@@ -6190,32 +6138,12 @@
                         "name": "year"
                     },
                     {
-                        "name": "age"
-                    },
-                    {
-                        "name": "bounds"
-                    },
-                    {
-                        "name": "freq"
-                    },
-                    {
-                        "name": "location"
-                    },
-                    {
-                        "name": "sex"
-                    },
-                    {
                         "name": "sh_sta_traf"
                     }
                 ],
                 "primaryKey": [
                     "geo_area",
-                    "year",
-                    "age",
-                    "bounds",
-                    "freq",
-                    "location",
-                    "sex"
+                    "year"
                 ]
             }
         },
@@ -11102,13 +11030,12 @@
             },
             {
                 "primaryKey": [
-                    "freq",
                     "geo_area",
                     "year"
                 ],
                 "value": "sg_pln_prvrimon",
                 "resources": [
-                    "ddf--datapoints--sg_pln_prvrimon--by--geo_area--year--freq"
+                    "ddf--datapoints--sg_pln_prvrimon--by--geo_area--year"
                 ]
             },
             {
@@ -11585,47 +11512,35 @@
             },
             {
                 "primaryKey": [
-                    "age",
-                    "bounds",
-                    "freq",
                     "geo_area",
                     "location",
-                    "sex",
                     "year"
                 ],
                 "value": "sh_san_defect",
                 "resources": [
-                    "ddf--datapoints--sh_san_defect--by--geo_area--year--age--bounds--freq--location--sex"
+                    "ddf--datapoints--sh_san_defect--by--geo_area--year--location"
                 ]
             },
             {
                 "primaryKey": [
-                    "age",
-                    "bounds",
-                    "freq",
                     "geo_area",
                     "location",
-                    "sex",
                     "year"
                 ],
                 "value": "sh_san_hndwsh",
                 "resources": [
-                    "ddf--datapoints--sh_san_hndwsh--by--geo_area--year--age--bounds--freq--location--sex"
+                    "ddf--datapoints--sh_san_hndwsh--by--geo_area--year--location"
                 ]
             },
             {
                 "primaryKey": [
-                    "age",
-                    "bounds",
-                    "freq",
                     "geo_area",
                     "location",
-                    "sex",
                     "year"
                 ],
                 "value": "sh_san_safe",
                 "resources": [
-                    "ddf--datapoints--sh_san_safe--by--geo_area--year--age--bounds--freq--location--sex"
+                    "ddf--datapoints--sh_san_safe--by--geo_area--year--location"
                 ]
             },
             {
@@ -11774,17 +11689,12 @@
             },
             {
                 "primaryKey": [
-                    "age",
-                    "bounds",
-                    "freq",
                     "geo_area",
-                    "location",
-                    "sex",
                     "year"
                 ],
                 "value": "sh_sta_traf",
                 "resources": [
-                    "ddf--datapoints--sh_sta_traf--by--geo_area--year--age--bounds--freq--location--sex"
+                    "ddf--datapoints--sh_sta_traf--by--geo_area--year"
                 ]
             },
             {
