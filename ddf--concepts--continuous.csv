@@ -82,11 +82,11 @@ sh_san_hndwsh,SH_SAN_HNDWSH,measure,"Proportion of population with basic handwas
 sh_sta_malr,SH_STA_MALR,measure,"Malaria incidence per 1,000 population at risk (per 1,000 population)",3.3,3,3.3.3
 sh_sta_poisn,SH_STA_POISN,measure,"Mortality rate attributed to unintentional poisonings, by sex (deaths per 100,000 population)",3.9,3,3.9.3
 sh_sta_wash,SH_STA_WASH,measure,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (deaths per 100,000 population)",3.9,3,3.9.2
-si_cov_matnl,SI_COV_MATNL,measure,Proportion of mothers with newborns receiving maternity cash benefit (%),1.3,1,1.3.1
-si_cov_poor,SI_COV_POOR,measure,Proportion of poor population receiving social assistance cash benefit (%),1.3,1,1.3.1
-si_cov_socast,SI_COV_SOCAST,measure,Proportion of population covered by social assistance programs (%),1.3,1,1.3.1
-si_cov_socastpq,SI_COV_SOCASTPQ,measure,Poorest quintile covered by social assistance programs (%),1.3,1,1.3.1
-si_cov_socins,SI_COV_SOCINS,measure,Proportion of population covered by social insurance programs (%),1.3,1,1.3.1
+si_cov_matnl,SI_COV_MATNL,measure,[ILO] Proportion of mothers with newborns receiving maternity cash benefit (%),1.3,1,1.3.1
+si_cov_poor,SI_COV_POOR,measure,[ILO] Proportion of poor population receiving social assistance cash benefit (%),1.3,1,1.3.1
+si_cov_socast,SI_COV_SOCAST,measure,[World Bank] Proportion of population covered by social assistance programs (%),1.3,1,1.3.1
+si_cov_socastpq,SI_COV_SOCASTPQ,measure,[World Bank] Poorest quintile covered by social assistance programs (%),1.3,1,1.3.1
+si_cov_socins,SI_COV_SOCINS,measure,[World Bank] Proportion of population covered by social insurance programs (%),1.3,1,1.3.1
 sl_dom_tspdcw,SL_DOM_TSPDCW,measure,"Proportion of time spent on unpaid care work, by sex, age and location (%)",5.4,5,5.4.1
 sl_emp_ftlinjur,SL_EMP_FTLINJUR,measure,"Fatal occupational injuries among employees, by sex and migrant status (per 100,000 employees)",8.8,8,8.8.1
 sl_tlf_manf,SL_TLF_MANF,measure,Manufacturing employment as a proportion of total employment (%),9.2,9,9.2.2
@@ -142,11 +142,11 @@ sh_san_safe,SH_SAN_SAFE,measure,"Proportion of population using safely managed s
 sh_sta_brtc,SH_STA_BRTC,measure,Proportion of births attended by skilled health personnel (%),3.1,3,3.1.2
 sh_sta_scide,SH_STA_SCIDE,measure,"Suicide mortality rate, by sex (deaths per 100,000 population)",3.4,3,3.4.2
 sh_sta_sciden,SH_STA_SCIDEN,measure,"Number of deaths attributed to suicide, by sex (number)",3.4,3,3.4.2
-si_cov_chld,SI_COV_CHLD,measure,Proportion of children/households receiving child/family cash benefit (%),1.3,1,1.3.1
-si_cov_socinspq,SI_COV_SOCINSPQ,measure,Poorest quintile covered by social insurance programs (%),1.3,1,1.3.1
-si_cov_uemp,SI_COV_UEMP,measure,"Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",1.3,1,1.3.1
-si_cov_vuln,SI_COV_VULN,measure,Proportion of vulnerable population receiving social assistance cash benefit (%),1.3,1,1.3.1
-si_cov_wkinjry,SI_COV_WKINJRY,measure,Proportion of employed population covered in the event of work injury (%),1.3,1,1.3.1
+si_cov_chld,SI_COV_CHLD,measure,[ILO] Proportion of children/households receiving child/family cash benefit (%),1.3,1,1.3.1
+si_cov_socinspq,SI_COV_SOCINSPQ,measure,[World Bank] Poorest quintile covered by social insurance programs (%),1.3,1,1.3.1
+si_cov_uemp,SI_COV_UEMP,measure,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",1.3,1,1.3.1
+si_cov_vuln,SI_COV_VULN,measure,[ILO] Proportion of vulnerable population receiving social assistance cash benefit (%),1.3,1,1.3.1
+si_cov_wkinjry,SI_COV_WKINJRY,measure,[ILO] Proportion of employed population covered in the event of work injury (%),1.3,1,1.3.1
 si_hei_btn40,SI_HEI_BTN40,measure,Growth rates of household expenditure or income per capita among the bottom 40 per cent of the population (%),10.1,10,10.1.1
 si_pov_day1,SI_POV_DAY1,measure,Proportion of population below international poverty line (%),1.1,1,1.1.1
 si_rmt_cost,SI_RMT_COST,measure,Remittance costs as a proportion of the amount remitted (%),10.c,10,10.c.1
@@ -198,11 +198,11 @@ sh_hap_mort,SH_HAP_MORT,measure,"Crude death rate attributed to household air po
 sh_san_defect,SH_SAN_DEFECT,measure,"Proportion of population practicing open defecation, by urban/rural (%)",6.2,6,6.2.1
 sh_sta_fgms,SH_STA_FGMS,measure,"Proportion of girls and women aged 15-49 years who have undergone female genital mutilation/cutting, by age (%)",5.3,5,5.3.2
 sh_trp_intvn,SH_TRP_INTVN,measure,Number of people requiring interventions against neglected tropical diseases (number),3.3,3,3.3.5
-si_cov_benfts,SI_COV_BENFTS,measure,Proportion of population covered by at least one social protection benefit (%),1.3,1,1.3.1
-si_cov_disab,SI_COV_DISAB,measure,Proportion of population with severe disabilities receiving disability cash benefit (%),1.3,1,1.3.1
-si_cov_lmkt,SI_COV_LMKT,measure,Proportion of population covered by labour market programs (%),1.3,1,1.3.1
-si_cov_lmktpq,SI_COV_LMKTPQ,measure,Poorest quintile covered by labour market programs (%),1.3,1,1.3.1
-si_cov_pensn,SI_COV_PENSN,measure,"Proportion of population above statutory pensionable age receiving a pension, by sex (%)",1.3,1,1.3.1
+si_cov_benfts,SI_COV_BENFTS,measure,[ILO] Proportion of population covered by at least one social protection benefit (%),1.3,1,1.3.1
+si_cov_disab,SI_COV_DISAB,measure,[ILO] Proportion of population with severe disabilities receiving disability cash benefit (%),1.3,1,1.3.1
+si_cov_lmkt,SI_COV_LMKT,measure,[World Bank] Proportion of population covered by labour market programs (%),1.3,1,1.3.1
+si_cov_lmktpq,SI_COV_LMKTPQ,measure,[World Bank] Poorest quintile covered by labour market programs (%) ,1.3,1,1.3.1
+si_cov_pensn,SI_COV_PENSN,measure,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",1.3,1,1.3.1
 si_pov_emp1,SI_POV_EMP1,measure,"Employed population below international poverty line, by sex and age (%)",1.1,1,1.1.1
 si_pov_nahc,SI_POV_NAHC,measure,Proportion of population living below the national poverty line (%),1.2,1,1.2.1
 sl_dom_tspd,SL_DOM_TSPD,measure,"Proportion of time spent on unpaid domestic chores and care work, by sex, age and location (%)",5.4,5,5.4.1
