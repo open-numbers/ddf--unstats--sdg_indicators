@@ -16,7 +16,10 @@ FORMATTER = partial(format_float_digits, digits=7)
 
 
 def read_source(name):
-    return pd.read_csv(f'../source/{name}.csv', thousands=',').dropna(how='all')
+    try:
+        return pd.read_csv(f'../source/{name}.csv', thousands=',').dropna(how='all')
+    except pd.errors.EmptyDataError:
+        return None
 
 
 def get_key_columns(df):
@@ -125,6 +128,9 @@ def main():
         print(concept)
 
         df = read_source(name)
+        if df is None:
+            print("\tno data")
+            continue
         key_columns = get_key_columns(df)
         df = check_source(df, key_columns)
 
