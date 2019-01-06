@@ -320,6 +320,14 @@ geo_area,year,education_level,type_of_skill,se_nap_achima
 826,2012,lowsec,notspec,0.9072
 826,2015,lowsec,notspec,0.93266
 840,2000,lowsec,notspec,0.84522
+32,2015,lowsec,notspec,0.8387
+36,2000,lowsec,notspec,1.00913
+36,2003,lowsec,notspec,0.97572
+36,2006,lowsec,notspec,1.01453
+36,2009,lowsec,notspec,1.01129
+36,2012,lowsec,notspec,1.04456
+36,2015,lowsec,notspec,1.02629
+40,2000,lowsec,notspec,0.79028
 840,2003,lowsec,notspec,0.83852
 840,2006,lowsec,notspec,0.85321
 840,2009,lowsec,notspec,0.88776
@@ -331,11 +339,3 @@ geo_area,year,education_level,type_of_skill,se_nap_achima
 858,2012,lowsec,notspec,1.10719
 858,2015,lowsec,notspec,1.00349
 862,2009,lowsec,notspec,0.81946
-32,2015,lowsec,notspec,0.8387
-36,2000,lowsec,notspec,1.00913
-36,2003,lowsec,notspec,0.97572
-36,2006,lowsec,notspec,1.01453
-36,2009,lowsec,notspec,1.01129
-36,2012,lowsec,notspec,1.04456
-36,2015,lowsec,notspec,1.02629
-40,2000,lowsec,notspec,0.79028
