@@ -51,8 +51,8 @@ geo_area,year,education_level,type_of_skill,se_nap_achire
 152,2006,lowsec,notspec,1.20566
 152,2009,lowsec,notspec,0.8008
 152,2012,lowsec,notspec,1.05179
-152,2013,grad23,notspec,0.93212
 152,2013,primar,notspec,1.03165
+152,2013,grad23,notspec,0.93212
 156,2009,lowsec,notspec,0.78895
 156,2015,lowsec,notspec,0.36188
 170,2006,lowsec,notspec,0.16947
@@ -80,8 +80,8 @@ geo_area,year,education_level,type_of_skill,se_nap_achire
 208,2009,lowsec,notspec,0.74213
 208,2012,lowsec,notspec,0.76567
 208,2015,lowsec,notspec,0.75756
-214,2013,primar,notspec,0.69085
 214,2013,grad23,notspec,0.77127
+214,2013,primar,notspec,0.69085
 214,2015,lowsec,notspec,0.41822
 233,2006,lowsec,notspec,0.83711
 233,2009,lowsec,notspec,0.8857
@@ -237,8 +237,8 @@ geo_area,year,education_level,type_of_skill,se_nap_achire
 591,2009,lowsec,notspec,0.87935
 591,2013,grad23,notspec,0.79037
 591,2013,primar,notspec,0.72355
-600,2013,grad23,notspec,1.25128
 600,2013,primar,notspec,1.10818
+600,2013,grad23,notspec,1.25128
 604,2000,lowsec,notspec,0.74187
 604,2009,lowsec,notspec,0.11838
 604,2012,lowsec,notspec,0.27769

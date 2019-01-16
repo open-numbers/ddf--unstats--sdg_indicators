@@ -2,12 +2,12 @@ type_of_skill,name
 nume,NUME
 lite,LITE
 notspec,NOTSPEC
+traf,TRAF
+pcpr,PCPR
+soft,SOFT
 eprs,EPRS
 copa,COPA
 email,EMAIL
 arsp,ARSP
 inst,INST
-traf,TRAF
-pcpr,PCPR
-soft,SOFT
 cmfl,CMFL

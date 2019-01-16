@@ -11,6 +11,7 @@ location,entity_domain,Location
 type_of_product,entity_domain,Type Of Product
 cities,entity_domain,Cities
 name_of_international_institution,entity_domain,Name Of International Institution
+level_status,entity_domain,Level Status
 freq,entity_domain,Freq
 type_of_occupation,entity_domain,Type Of Occupation
 tariff_regime_status,entity_domain,Tariff Regime Status

@@ -5,7 +5,7 @@
         "id": "en"
     },
     "author": "Gapminder",
-    "created": "2019-01-06T02:11:14.027576+00:00",
+    "created": "2019-01-16T07:32:02.096354+00:00",
     "description": "SDG indicators",
     "license": "CC-BY-4.0",
     "title": "SDG indicators",
@@ -2074,6 +2074,56 @@
             }
         },
         {
+            "path": "ddf--datapoints--er_h2o_iwrmd--by--geo_area--year--level_status.csv",
+            "name": "ddf--datapoints--er_h2o_iwrmd--by--geo_area--year--level_status",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "level_status"
+                    },
+                    {
+                        "name": "er_h2o_iwrmd"
+                    }
+                ],
+                "primaryKey": [
+                    "geo_area",
+                    "year",
+                    "level_status"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--er_h2o_iwrmp--by--geo_area--year--level_status.csv",
+            "name": "ddf--datapoints--er_h2o_iwrmp--by--geo_area--year--level_status",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "level_status"
+                    },
+                    {
+                        "name": "er_h2o_iwrmp"
+                    }
+                ],
+                "primaryKey": [
+                    "geo_area",
+                    "year",
+                    "level_status"
+                ]
+            }
+        },
+        {
             "path": "ddf--datapoints--er_h2o_partic--by--geo_area--year--location.csv",
             "name": "ddf--datapoints--er_h2o_partic--by--geo_area--year--location",
             "schema": {
@@ -2099,6 +2149,35 @@
             }
         },
         {
+            "path": "ddf--datapoints--er_h2o_prdu--by--geo_area--year--level_status--location.csv",
+            "name": "ddf--datapoints--er_h2o_prdu--by--geo_area--year--level_status--location",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "level_status"
+                    },
+                    {
+                        "name": "location"
+                    },
+                    {
+                        "name": "er_h2o_prdu"
+                    }
+                ],
+                "primaryKey": [
+                    "geo_area",
+                    "year",
+                    "level_status",
+                    "location"
+                ]
+            }
+        },
+        {
             "path": "ddf--datapoints--er_h2o_proced--by--geo_area--year--location.csv",
             "name": "ddf--datapoints--er_h2o_proced--by--geo_area--year--location",
             "schema": {
@@ -2119,6 +2198,35 @@
                 "primaryKey": [
                     "geo_area",
                     "year",
+                    "location"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--er_h2o_rurp--by--geo_area--year--level_status--location.csv",
+            "name": "ddf--datapoints--er_h2o_rurp--by--geo_area--year--level_status--location",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "level_status"
+                    },
+                    {
+                        "name": "location"
+                    },
+                    {
+                        "name": "er_h2o_rurp"
+                    }
+                ],
+                "primaryKey": [
+                    "geo_area",
+                    "year",
+                    "level_status",
                     "location"
                 ]
             }
@@ -2522,8 +2630,8 @@
             }
         },
         {
-            "path": "ddf--datapoints--er_wat_partic--by--geo_area--year.csv",
-            "name": "ddf--datapoints--er_wat_partic--by--geo_area--year",
+            "path": "ddf--datapoints--er_wat_part--by--geo_area--year--level_status.csv",
+            "name": "ddf--datapoints--er_wat_part--by--geo_area--year--level_status",
             "schema": {
                 "fields": [
                     {
@@ -2533,12 +2641,66 @@
                         "name": "year"
                     },
                     {
+                        "name": "level_status"
+                    },
+                    {
+                        "name": "er_wat_part"
+                    }
+                ],
+                "primaryKey": [
+                    "geo_area",
+                    "year",
+                    "level_status"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--er_wat_partic--by--geo_area--year--location.csv",
+            "name": "ddf--datapoints--er_wat_partic--by--geo_area--year--location",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "location"
+                    },
+                    {
                         "name": "er_wat_partic"
                     }
                 ],
                 "primaryKey": [
                     "geo_area",
-                    "year"
+                    "year",
+                    "location"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--er_wat_prdu--by--geo_area--year--level_status.csv",
+            "name": "ddf--datapoints--er_wat_prdu--by--geo_area--year--level_status",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "level_status"
+                    },
+                    {
+                        "name": "er_wat_prdu"
+                    }
+                ],
+                "primaryKey": [
+                    "geo_area",
+                    "year",
+                    "level_status"
                 ]
             }
         },
@@ -8298,6 +8460,21 @@
             }
         },
         {
+            "path": "ddf--entities--level_status.csv",
+            "name": "ddf--entities--level_status",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "level_status"
+                    },
+                    {
+                        "name": "name"
+                    }
+                ],
+                "primaryKey": "level_status"
+            }
+        },
+        {
             "path": "ddf--entities--location.csv",
             "name": "ddf--entities--location",
             "schema": {
@@ -8623,6 +8800,15 @@
                 "value": "name",
                 "resources": [
                     "ddf--entities--ihr_capacity"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "level_status"
+                ],
+                "value": "name",
+                "resources": [
+                    "ddf--entities--level_status"
                 ]
             },
             {
@@ -9692,6 +9878,28 @@
             {
                 "primaryKey": [
                     "geo_area",
+                    "level_status",
+                    "year"
+                ],
+                "value": "er_h2o_iwrmd",
+                "resources": [
+                    "ddf--datapoints--er_h2o_iwrmd--by--geo_area--year--level_status"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo_area",
+                    "level_status",
+                    "year"
+                ],
+                "value": "er_h2o_iwrmp",
+                "resources": [
+                    "ddf--datapoints--er_h2o_iwrmp--by--geo_area--year--level_status"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo_area",
                     "location",
                     "year"
                 ],
@@ -9703,12 +9911,36 @@
             {
                 "primaryKey": [
                     "geo_area",
+                    "level_status",
+                    "location",
+                    "year"
+                ],
+                "value": "er_h2o_prdu",
+                "resources": [
+                    "ddf--datapoints--er_h2o_prdu--by--geo_area--year--level_status--location"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo_area",
                     "location",
                     "year"
                 ],
                 "value": "er_h2o_proced",
                 "resources": [
                     "ddf--datapoints--er_h2o_proced--by--geo_area--year--location"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo_area",
+                    "level_status",
+                    "location",
+                    "year"
+                ],
+                "value": "er_h2o_rurp",
+                "resources": [
+                    "ddf--datapoints--er_h2o_rurp--by--geo_area--year--level_status--location"
                 ]
             },
             {
@@ -9899,11 +10131,34 @@
             {
                 "primaryKey": [
                     "geo_area",
+                    "level_status",
+                    "year"
+                ],
+                "value": "er_wat_part",
+                "resources": [
+                    "ddf--datapoints--er_wat_part--by--geo_area--year--level_status"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo_area",
+                    "location",
                     "year"
                 ],
                 "value": "er_wat_partic",
                 "resources": [
-                    "ddf--datapoints--er_wat_partic--by--geo_area--year"
+                    "ddf--datapoints--er_wat_partic--by--geo_area--year--location"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo_area",
+                    "level_status",
+                    "year"
+                ],
+                "value": "er_wat_prdu",
+                "resources": [
+                    "ddf--datapoints--er_wat_prdu--by--geo_area--year--level_status"
                 ]
             },
             {

@@ -1,7 +1,7 @@
 geo_area,year,age,bounds,sh_sta_waste
+1,2017,lt5y,lb,6.4
 1,2017,lt5y,ub,8.5
 1,2017,lt5y,mp,7.5
-1,2017,lt5y,lb,6.4
 4,2004,lt5y,mp,8.6
 4,2013,lt5y,mp,9.5
 8,2000,lt5y,mp,12.2
@@ -11,9 +11,9 @@ geo_area,year,age,bounds,sh_sta_waste
 12,2002,lt5y,mp,9.6
 12,2005,lt5y,mp,4
 12,2012,lt5y,mp,4.1
-15,2017,lt5y,lb,4.5
-15,2017,lt5y,ub,14.4
 15,2017,lt5y,mp,8.1
+15,2017,lt5y,ub,14.4
+15,2017,lt5y,lb,4.5
 24,2007,lt5y,mp,8.2
 24,2016,lt5y,mp,4.9
 30,2017,lt5y,ub,1.9
@@ -26,11 +26,11 @@ geo_area,year,age,bounds,sh_sta_waste
 31,2013,lt5y,mp,3.1
 32,2005,lt5y,mp,1.2
 34,2017,lt5y,lb,11.9
-34,2017,lt5y,mp,15.3
 34,2017,lt5y,ub,19.3
-35,2017,lt5y,ub,11.8
+34,2017,lt5y,mp,15.3
 35,2017,lt5y,lb,6.4
 35,2017,lt5y,mp,8.7
+35,2017,lt5y,ub,11.8
 50,2000,lt5y,mp,12.5
 50,2001,lt5y,mp,12.7
 50,2002,lt5y,mp,12.4
@@ -100,8 +100,8 @@ geo_area,year,age,bounds,sh_sta_waste
 144,2012,lt5y,mp,21.4
 144,2016,lt5y,mp,15.1
 145,2017,lt5y,ub,11.6
-145,2017,lt5y,mp,3.9
 145,2017,lt5y,lb,1.2
+145,2017,lt5y,mp,3.9
 148,2000,lt5y,mp,13.9
 148,2004,lt5y,mp,16.1
 148,2010,lt5y,mp,15.7
@@ -464,9 +464,9 @@ geo_area,year,age,bounds,sh_sta_waste
 740,2000,lt5y,mp,7
 740,2006,lt5y,mp,4.9
 740,2010,lt5y,mp,5
+747,2017,lt5y,ub,9.3
 747,2017,lt5y,lb,2.8
 747,2017,lt5y,mp,6
-747,2017,lt5y,ub,9.3
 748,2000,lt5y,mp,1.7
 748,2006,lt5y,mp,2.9
 748,2008,lt5y,mp,1.1
