@@ -79,9 +79,9 @@ geo_area,year,sex,si_cov_uemp
 376,2014,bothsex,29.4
 380,2014,bothsex,37.8
 392,2014,bothsex,20
-398,2016,female,4.54469
 398,2016,bothsex,5.8231
 398,2016,male,6.77238
+398,2016,female,4.54469
 404,2016,bothsex,0
 410,2014,bothsex,40
 417,2016,bothsex,1.74089
@@ -94,9 +94,9 @@ geo_area,year,sex,si_cov_uemp
 438,2011,female,68.8
 440,2014,bothsex,26
 442,2014,bothsex,41
+446,2016,male,15.83333
 446,2016,bothsex,26.9178
 446,2016,female,43.33333
-446,2016,male,15.83333
 470,2015,bothsex,62.2
 480,2011,bothsex,1.2
 496,2016,bothsex,31
@@ -123,8 +123,8 @@ geo_area,year,sex,si_cov_uemp
 688,2012,bothsex,8.8
 703,2014,bothsex,9.8
 704,2016,bothsex,45.0096
-704,2016,female,56.74657
 704,2016,male,35.32461
+704,2016,female,56.74657
 705,2014,bothsex,26.2171
 705,2016,female,22.24516
 705,2016,male,30.43379

@@ -9,8 +9,8 @@ geo_area,year,education_level,type_of_skill,se_nap_achima
 32,2006,lowsec,notspec,0.85186
 32,2009,lowsec,notspec,0.75276
 32,2012,lowsec,notspec,0.4871
-32,2013,primar,notspec,0.94629
 32,2013,grad23,notspec,0.85846
+32,2013,primar,notspec,0.94629
 32,2015,lowsec,notspec,0.8387
 36,2000,lowsec,notspec,1.00913
 36,2003,lowsec,notspec,0.97572
@@ -232,10 +232,10 @@ geo_area,year,education_level,type_of_skill,se_nap_achima
 578,2012,lowsec,notspec,0.73355
 578,2015,lowsec,notspec,0.82267
 591,2009,lowsec,notspec,1.31423
-591,2013,grad23,notspec,0.87452
 591,2013,primar,notspec,0.77226
-600,2013,primar,notspec,1.3622
+591,2013,grad23,notspec,0.87452
 600,2013,grad23,notspec,1.33875
+600,2013,primar,notspec,1.3622
 604,2000,lowsec,notspec,1.40462
 604,2009,lowsec,notspec,0.11142
 604,2012,lowsec,notspec,0.38933
