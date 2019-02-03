@@ -1,32 +1,35 @@
 concept,name,concept_type,description,target,goal,indicator
-dc_oda_bdvdl,DC_ODA_BDVDL,measure,"Total official development assistance for biodiversity, by donor countries (millions of constant 2016 United States dollars)","15.a, 15.b","15, 15","15.a.1, 15.b.1"
-dc_tof_hlthnt,DC_TOF_HLTHNT,measure,"Total official development assistance to medical research and basic heath sectors, net disbursement, by recipient countries (millions of constant 2016 United States dollars)",3.b,3,3.b.2
-dc_tof_infral,DC_TOF_INFRAL,measure,"Total official flows for infrastructure, by recipient countries (millions of constant 2016 United States dollars)",9.a,9,9.a.1
-dc_tof_schipsl,DC_TOF_SCHIPSL,measure,"Total official flows for scholarships, by recipient countries (millions of constant 2016 United States dollars)",4.b,4,4.b.1
-dc_tof_trdcmdl,DC_TOF_TRDCMDL,measure,"Total official flows (commitments) for Aid for Trade, by donor countries (millions of constant 2016 United States dollars)",8.a,8,8.a.1
-dc_tof_washl,DC_TOF_WASHL,measure,"Total official development assistance (gross disbursement) for water supply and sanitation, by recipient countries (millions of constant 2016 United States dollars)",6.a,6,6.a.1
-dc_trf_totdl,DC_TRF_TOTDL,measure,"Total assistance for development, by donor countries (millions of current United States dollars)",10.b,10,10.b.1
-dt_tds_dect,DT_TDS_DECT,measure,Debt service as a proportion of exports of goods and services (%),17.4,17,17.4.1
-eg_egy_clean,EG_EGY_CLEAN,measure,Proportion of population with primary reliance on clean fuels and technology (%),7.1,7,7.1.2
-en_atm_co2,EN_ATM_CO2,measure,Carbon dioxide emissions from fuel combustion (millions of tonnes),9.4,9,9.4.1
-en_atm_co2mva,EN_ATM_CO2MVA,measure,Carbon dioxide emissions per unit of manufacturing value added (kilogrammes of CO2 per constant 2010 United States dollars),9.4,9,9.4.1
-en_atm_pm25,EN_ATM_PM25,measure,"Annual mean levels of fine particulate matter in cities, urban population (micrograms per cubic meter)",11.6,11,11.6.2
-er_cbd_smta,ER_CBD_SMTA,measure,Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the country (number),15.6,15,15.6.1
-er_grf_animkpt,ER_GRF_ANIMKPT,measure,Number of local breeds kept in the country,2.5,2,2.5.1
-er_grf_animrcntn,ER_GRF_ANIMRCNTN,measure,Number of local breeds for which sufficient genetic resources are stored for reconstitution,2.5,2,2.5.1
-er_grf_animstor,ER_GRF_ANIMSTOR,measure,Proportion of local breeds with genetic material stored (%),2.5,2,2.5.1
-er_h2o_fishovexp,ER_H2O_FISHOVEXP,measure,Proportion of fish stocks that are overexploited (%),14.4,14,14.4.1
-er_h2o_fwtl,ER_H2O_FWTL,measure,Proportion of fish stocks within biologically sustainable levels (not overexploited) (%),14.4,14,14.4.1
-er_h2o_stress,ER_H2O_STRESS,measure,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources (%),6.4,6,6.4.2
 er_mtn_grncvi,ER_MTN_GRNCVI,measure,Mountain Green Cover Index,15.4,15,15.4.2
 er_unk_lbredn,ER_UNK_LBREDN,measure,Local breeds classified as being at unknown level of risk of extinction (number),2.5,2,2.5.2
 er_wat_proced,ER_WAT_PROCED,measure,Proportion of countries with clearly defined procedures in law or policy for participation by service users/communities in planning program in water resources planning and management (%),6.b,6,6.b.1
 fb_atm_totl,FB_ATM_TOTL,measure,"Number of automated teller machines (ATMs) per 100,000 adults",8.10,8,8.10.1
 fb_bnk_accss,FB_BNK_ACCSS,measure,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider (% of adults aged 15 years and older),8.10,8,8.10.2
-ic_gen_mgtl,IC_GEN_MGTL,measure,Proportion of women in managerial positions (%),5.5,5,5.5.2
-ic_gen_mgtn,IC_GEN_MGTN,measure,Proportion of women in senior and middle management positions (%),5.5,5,5.5.2
-nv_ind_manfpc,NV_IND_MANFPC,measure,Manufacturing value added per capita (constant 2010 United States dollars),9.2,9,9.2.1
+er_h2o_stress,ER_H2O_STRESS,measure,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources (%),6.4,6,6.4.2
+er_h2o_fwtl,ER_H2O_FWTL,measure,Proportion of fish stocks within biologically sustainable levels (not overexploited) (%),14.4,14,14.4.1
+er_h2o_fishovexp,ER_H2O_FISHOVEXP,measure,Proportion of fish stocks that are overexploited (%),14.4,14,14.4.1
+er_grf_animstor,ER_GRF_ANIMSTOR,measure,Proportion of local breeds with genetic material stored (%),2.5,2,2.5.1
+er_grf_animrcntn,ER_GRF_ANIMRCNTN,measure,Number of local breeds for which sufficient genetic resources are stored for reconstitution,2.5,2,2.5.1
+er_grf_animkpt,ER_GRF_ANIMKPT,measure,Number of local breeds kept in the country,2.5,2,2.5.1
+er_cbd_smta,ER_CBD_SMTA,measure,Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the country (number),15.6,15,15.6.1
+en_atm_pm25,EN_ATM_PM25,measure,"Annual mean levels of fine particulate matter in cities, urban population (micrograms per cubic meter)",11.6,11,11.6.2
+en_atm_co2mva,EN_ATM_CO2MVA,measure,Carbon dioxide emissions per unit of manufacturing value added (kilogrammes of CO2 per constant 2010 United States dollars),9.4,9,9.4.1
+en_atm_co2,EN_ATM_CO2,measure,Carbon dioxide emissions from fuel combustion (millions of tonnes),9.4,9,9.4.1
+eg_egy_clean,EG_EGY_CLEAN,measure,Proportion of population with primary reliance on clean fuels and technology (%),7.1,7,7.1.2
+dt_tds_dect,DT_TDS_DECT,measure,Debt service as a proportion of exports of goods and services (%),17.4,17,17.4.1
+dc_trf_totdl,DC_TRF_TOTDL,measure,"Total assistance for development, by donor countries (millions of current United States dollars)",10.b,10,10.b.1
+dc_tof_washl,DC_TOF_WASHL,measure,"Total official development assistance (gross disbursement) for water supply and sanitation, by recipient countries (millions of constant 2016 United States dollars)",6.a,6,6.a.1
+dc_tof_trdcmdl,DC_TOF_TRDCMDL,measure,"Total official flows (commitments) for Aid for Trade, by donor countries (millions of constant 2016 United States dollars)",8.a,8,8.a.1
+dc_tof_schipsl,DC_TOF_SCHIPSL,measure,"Total official flows for scholarships, by recipient countries (millions of constant 2016 United States dollars)",4.b,4,4.b.1
+dc_tof_infral,DC_TOF_INFRAL,measure,"Total official flows for infrastructure, by recipient countries (millions of constant 2016 United States dollars)",9.a,9,9.a.1
+dc_tof_hlthnt,DC_TOF_HLTHNT,measure,"Total official development assistance to medical research and basic heath sectors, net disbursement, by recipient countries (millions of constant 2016 United States dollars)",3.b,3,3.b.2
+dc_oda_bdvdl,DC_ODA_BDVDL,measure,"Total official development assistance for biodiversity, by donor countries (millions of constant 2016 United States dollars)","15.a, 15.b","15, 15","15.a.1, 15.b.1"
 se_adt_eductrn,SE_ADT_EDUCTRN,measure,"Participation rate in formal and non-formal education and training, by sex (%)",4.3,4,4.3.1
+sh_sta_asairp,SH_STA_ASAIRP,measure,"Age-standardized mortality rate attributed to household and ambient air pollution (deaths per 100,000 population)",3.9,3,3.9.1
+sh_sta_traf,SH_STA_TRAF,measure,"Death rate due to road traffic injuries (per 100,000 population)",3.6,3,3.6.1
+si_hei_totl,SI_HEI_TOTL,measure,Growth rates of household expenditure or income per capita (%),10.1,10,10.1.1
+nv_ind_manfpc,NV_IND_MANFPC,measure,Manufacturing value added per capita (constant 2010 United States dollars),9.2,9,9.2.1
+ic_gen_mgtn,IC_GEN_MGTN,measure,Proportion of women in senior and middle management positions (%),5.5,5,5.5.2
+ic_gen_mgtl,IC_GEN_MGTL,measure,Proportion of women in managerial positions (%),5.5,5,5.5.2
 se_pre_partn,SE_PRE_PARTN,measure,"Participation rate in organized learning (one year before the official primary entry age), by sex (%)",4.2,4,4.2.2
 sg_nhr_impl,SG_NHR_IMPL,measure,Proportion of countries with independent National Human Rights Institutions in compliance with the Paris Principles (%),16.a,16,16.a.1
 sg_nhr_impln,SG_NHR_IMPLN,measure,"Countries with National Human Rights Institutions in compliance with the Paris Principles, A status (1 = YES; 0 = NO)",16.a,16,16.a.1
@@ -36,61 +39,36 @@ sg_pln_recrimon,SG_PLN_RECRIMON,measure,Proportion of results indicators which w
 sg_reg_brth90,SG_REG_BRTH90,measure,Proportion of countries with birth registration data that are at least 90 percent complete (%),17.19,17,17.19.2
 sg_reg_deth75,SG_REG_DETH75,measure,Proportion of countries with death registration data that are at least 75 percent complete (%),17.19,17,17.19.2
 sg_stt_nsdsfdgvt,SG_STT_NSDSFDGVT,measure,Countries with national statistical plans with funding from Government (1 = YES; 0 = NO),17.18,17,17.18.3
+er_mrn_marint,ER_MRN_MARINT,measure,Protected marine area (Exclusive Economic Zones) (square kilometres),14.5,14,14.5.1
+er_nrk_lbred,ER_NRK_LBRED,measure,Proportion of local breeds classified as known being at risk (%),2.5,2,2.5.2
+er_nrk_lbredn,ER_NRK_LBREDN,measure,Local breeds classified as known being at risk (number),2.5,2,2.5.2
 sh_dth_ncom,SH_DTH_NCOM,measure,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability)",3.4,3,3.4.1
 sh_dyn_imrtn,SH_DYN_IMRTN,measure,Infant deaths (number),3.2,3,3.2.1
 sh_dyn_mort,SH_DYN_MORT,measure,"Under-five mortality rate, by sex (deaths per 1,000 live births)",3.2,3,3.2.1
 sh_dyn_nmrtn,SH_DYN_NMRTN,measure,Neonatal deaths (number),3.2,3,3.2.2
+is_trp_mailtkm,IS_TRP_MAILTKM,measure,"Mail volume, by mode of transport (tonne kilometres)",9.1,9,9.1.2
 sh_h2o_safe,SH_H2O_SAFE,measure,"Proportion of population using safely managed drinking water services, by urban/rural (%)",6.1,6,6.1.1
 sh_hap_asmort,SH_HAP_ASMORT,measure,"Age-standardized mortality rate attributed to household air pollution (deaths per 100,000 population)",3.9,3,3.9.1
 sh_hiv_incd,SH_HIV_INCD,measure,"Number of new HIV infections per 1,000 uninfected population, by sex and age (per 1,000 uninfected population)",3.3,3,3.3.1
 sh_ihr_capprd,SH_IHR_CAPPRD,measure,Average of 13 International Health Regulations (IHR) core capacities,3.d,3,3.d.1
 sh_prv_smok,SH_PRV_SMOK,measure,"Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%)",3.a,3,3.a.1
 sh_sta_airp,SH_STA_AIRP,measure,"Crude death rate attributed to household and ambient air pollution (deaths per 100,000 population)",3.9,3,3.9.1
-sh_sta_asairp,SH_STA_ASAIRP,measure,"Age-standardized mortality rate attributed to household and ambient air pollution (deaths per 100,000 population)",3.9,3,3.9.1
-sh_sta_traf,SH_STA_TRAF,measure,"Death rate due to road traffic injuries (per 100,000 population)",3.6,3,3.6.1
-si_hei_totl,SI_HEI_TOTL,measure,Growth rates of household expenditure or income per capita (%),10.1,10,10.1.1
 tm_trf_zero,TM_TRF_ZERO,measure,Proportion of tariff lines applied to imports with zero-tariff (%),10.a,10,10.a.1
 tx_imp_gbmrch,TX_IMP_GBMRCH,measure,Developing countries’ and least developed countries’ share of global merchandise imports (%),17.11,17,17.11.1
 vc_prs_unsec,VC_PRS_UNSEC,measure,Unsentenced detainees as a proportion of overall prison population (%),16.3,16,16.3.2
 vc_vaw_mtuhra,VC_VAW_MTUHRA,measure,"Number of cases of killings of human rights defenders, journalists and trade unionists",16.10,16,16.10.1
 ag_lnd_frstbiopha,AG_LND_FRSTBIOPHA,measure,Above-ground biomass in forest per hectare (tonnes per hectare),15.2,15,15.2.1
 ag_lnd_totl,AG_LND_TOTL,measure,Land area (thousands of hectares),15.1,15,15.1.1
-dc_fta_total,DC_FTA_TOTAL,measure,Total official development assistance (gross disbursement) for technical cooperation (millions of 2016 United States dollars),17.9,17,17.9.1
-dc_oda_sidsg,DC_ODA_SIDSG,measure,"Net official development assistance (ODA) to small island states (SIDS) as a percentage of OECD-DAC donors' GNI, by donor countries (%)",17.2,17,17.2.1
-eg_egy_prim,EG_EGY_PRIM,measure,Energy intensity level of primary energy (megajoules per constant 2011 purchasing power parity GDP),7.3,7,7.3.1
-en_mat_domcmpt,EN_MAT_DOMCMPT,measure,"Domestic material consumption, by type of raw material (tonnes)","12.2, 8.4","12, 8","12.2.2, 8.4.2"
-er_cbd_nagoya,ER_CBD_NAGOYA,measure,Countries that are parties to the Nagoya Protocol (1 = YES; 0 = NO),15.6,15,15.6.1
-er_h2o_fishnfexp,ER_H2O_FISHNFEXP,measure,Proportion of fish stocks that are not fully exploited (%),14.4,14,14.4.1
-er_mrn_marint,ER_MRN_MARINT,measure,Protected marine area (Exclusive Economic Zones) (square kilometres),14.5,14,14.5.1
-er_nrk_lbred,ER_NRK_LBRED,measure,Proportion of local breeds classified as known being at risk (%),2.5,2,2.5.2
-er_nrk_lbredn,ER_NRK_LBREDN,measure,Local breeds classified as known being at risk (number),2.5,2,2.5.2
-fb_cbk_brch,FB_CBK_BRCH,measure,"Number of commercial bank branches per 100,000 adults",8.10,8,8.10.1
-gb_pop_scierd,GB_POP_SCIERD,measure,"Researchers (in full-time equivalent) per million inhabitants (per 1,000,000 population)",9.5,9,9.5.2
-gb_xpd_rsdv,GB_XPD_RSDV,measure,Research and development expenditure as a proportion of GDP (%),9.5,9,9.5.1
-ic_frm_brib,IC_FRM_BRIB,measure,Bribery incidence (% of firms experiencing at least one bribe payment request),16.5,16,16.5.2
-is_trp_mailtkm,IS_TRP_MAILTKM,measure,"Mail volume, by mode of transport (tonne kilometres)",9.1,9,9.1.2
-sg_gen_parln,SG_GEN_PARLN,measure,Number of seats held by women in national parliaments (number),5.5,5,5.5.1
-sg_gen_parlnt,SG_GEN_PARLNT,measure,Number of seats in national parliaments (number),5.5,5,5.5.1
-sg_haz_cmrmntrl,SG_HAZ_CMRMNTRL,measure,Compliance with the Montreal Protocol on hazardous waste and other chemicals,12.4,12,12.4.1
-sg_pln_prvndi,SG_PLN_PRVNDI,measure,Proportion of new development interventions drawn from country-led result frameworks - data by provider (%),17.15,17,17.15.1
-sg_pln_recndi,SG_PLN_RECNDI,measure,Proportion of new development interventions drawn from country-led result frameworks - data by recipient (%),17.15,17,17.15.1
-sh_aap_mort,SH_AAP_MORT,measure,"Crude death rate attributed to ambient air pollution (deaths per 100,000 population)",3.9,3,3.9.1
-sh_alc_conspt,SH_ALC_CONSPT,measure,Alcohol consumption per capita (aged 15 years and older) within a calendar year (litres of pure alcohol),3.5,3,3.5.2
 sh_dyn_imrt,SH_DYN_IMRT,measure,"Infant mortality rate (deaths per 1,000 live births)",3.2,3,3.2.1
 sh_fpl_infm,SH_FPL_INFM,measure,"Proportion of women who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care (% of women aged 15-49 years)",5.6,5,5.6.1
 sh_san_hndwsh,SH_SAN_HNDWSH,measure,"Proportion of population with basic handwashing facilities on premises, by urban/rural (%)",6.2,6,6.2.1
 sh_sta_malr,SH_STA_MALR,measure,"Malaria incidence per 1,000 population at risk (per 1,000 population)",3.3,3,3.3.3
 sh_sta_poisn,SH_STA_POISN,measure,"Mortality rate attributed to unintentional poisonings, by sex (deaths per 100,000 population)",3.9,3,3.9.3
 sh_sta_wash,SH_STA_WASH,measure,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (deaths per 100,000 population)",3.9,3,3.9.2
-si_cov_matnl,SI_COV_MATNL,measure,[ILO] Proportion of mothers with newborns receiving maternity cash benefit (%),1.3,1,1.3.1
-si_cov_poor,SI_COV_POOR,measure,[ILO] Proportion of poor population receiving social assistance cash benefit (%),1.3,1,1.3.1
-si_cov_socast,SI_COV_SOCAST,measure,[World Bank] Proportion of population covered by social assistance programs (%),1.3,1,1.3.1
-si_cov_socastpq,SI_COV_SOCASTPQ,measure,[World Bank] Poorest quintile covered by social assistance programs (%),1.3,1,1.3.1
-si_cov_socins,SI_COV_SOCINS,measure,[World Bank] Proportion of population covered by social insurance programs (%),1.3,1,1.3.1
-sl_dom_tspdcw,SL_DOM_TSPDCW,measure,"Proportion of time spent on unpaid care work, by sex, age and location (%)",5.4,5,5.4.1
-sl_emp_ftlinjur,SL_EMP_FTLINJUR,measure,"Fatal occupational injuries among employees, by sex and migrant status (per 100,000 employees)",8.8,8,8.8.1
-sl_tlf_manf,SL_TLF_MANF,measure,Manufacturing employment as a proportion of total employment (%),9.2,9,9.2.2
-sl_tlf_uem,SL_TLF_UEM,measure,"Unemployment rate, by sex and age (%)",8.5,8,8.5.2
+dc_fta_total,DC_FTA_TOTAL,measure,Total official development assistance (gross disbursement) for technical cooperation (millions of 2016 United States dollars),17.9,17,17.9.1
+dc_oda_sidsg,DC_ODA_SIDSG,measure,"Net official development assistance (ODA) to small island states (SIDS) as a percentage of OECD-DAC donors' GNI, by donor countries (%)",17.2,17,17.2.1
+eg_egy_prim,EG_EGY_PRIM,measure,Energy intensity level of primary energy (megajoules per constant 2011 purchasing power parity GDP),7.3,7,7.3.1
+en_mat_domcmpt,EN_MAT_DOMCMPT,measure,"Domestic material consumption, by type of raw material (tonnes)","12.2, 8.4","12, 8","12.2.2, 8.4.2"
 sp_dyn_mrbf18,SP_DYN_MRBF18,measure,Proportion of women aged 20-24 years who were married or in a union before age 18 (%),5.3,5,5.3.1
 tx_exp_gbmrch,TX_EXP_GBMRCH,measure,Developing countries’ and least developed countries’ share of global merchandise exports (%),17.11,17,17.11.1
 tx_exp_gbsvr,TX_EXP_GBSVR,measure,Developing countries’ and least developed countries’ share of global services exports (%),17.11,17,17.11.1
@@ -100,25 +78,25 @@ vc_vaw_marr,VC_VAW_MARR,measure,"Proportion of ever-partnered women and girls su
 vc_vaw_sxvln,VC_VAW_SXVLN,measure,"Proportion of population aged 18-29 years who experienced sexual violence by age 18, by sex (% of population aged 18-29)",16.2,16,16.2.3
 ag_lnd_frstbiom,AG_LND_FRSTBIOM,measure,Above-ground biomass in forest (tonnes),15.2,15,15.2.1
 ag_lnd_frstcert,AG_LND_FRSTCERT,measure,Forest area certified under an independently verified certification scheme (thousands of hectares),15.2,15,15.2.1
-ag_lnd_frstn,AG_LND_FRSTN,measure,Forest area (thousands of hectares),15.1,15,15.1.1
-ag_prd_ortind,AG_PRD_ORTIND,measure,Agriculture orientation index for government expenditures,2.a,2,2.a.1
-ag_prd_xsubdy,AG_PRD_XSUBDY,measure,Agricultural export subsidies (millions of current United States dollars),2.b,2,2.b.1
-bx_trf_pwkr,BX_TRF_PWKR,measure,Volume of remittances (in United States dollars) as a proportion of total GDP (%),17.3,17,17.3.2
-dc_oda_bdvl,DC_ODA_BDVL,measure,"Total official development assistance for biodiversity, by recipient countries (millions of constant 2016 United States dollars)","15.a, 15.b","15, 15","15.a.1, 15.b.1"
-dc_oda_ldcg,DC_ODA_LDCG,measure,"Net official development assistance (ODA) to LDCs as a percentage of OECD-DAC donors' GNI, by donor countries (%)",17.2,17,17.2.1
-dc_oda_lldc,DC_ODA_LLDC,measure,"Net official development assistance (ODA) to landlocked developing countries from OECD-DAC countries, by donor countries (millions of constant 2016 United States dollars)",17.2,17,17.2.1
-dc_oda_sids,DC_ODA_SIDS,measure,"Net official development assistance (ODA) to small island states (SIDS) from OECD-DAC countries, by donor countries (millions of constant 2016 United States dollars)",17.2,17,17.2.1
-dc_tof_agrl,DC_TOF_AGRL,measure,"Total official flows (disbursements) for agriculture, by recipient countries (millions of constant 2016 United States dollars)",2.a,2,2.a.2
-dc_tof_hlthl,DC_TOF_HLTHL,measure,"Total official development assistance to medical research and basic heath sectors, gross disbursement, by recipient countries (millions of constant 2016 United States dollars)",3.b,3,3.b.2
-dc_tof_trddbmdl,DC_TOF_TRDDBMDL,measure,"Total official flows (disbursement) for Aid for Trade, by donor countries (millions of constant 2016 United States dollars)",8.a,8,8.a.1
-dc_tof_trddbml,DC_TOF_TRDDBML,measure,"Total official flows (disbursement) for Aid for Trade, by recipient countries (millions of constant 2016 United States dollars)",8.a,8,8.a.1
-en_mat_domcmpg,EN_MAT_DOMCMPG,measure,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2010 United States dollars)","12.2, 8.4","12, 8","12.2.2, 8.4.2"
+er_cbd_nagoya,ER_CBD_NAGOYA,measure,Countries that are parties to the Nagoya Protocol (1 = YES; 0 = NO),15.6,15,15.6.1
+er_h2o_fishnfexp,ER_H2O_FISHNFEXP,measure,Proportion of fish stocks that are not fully exploited (%),14.4,14,14.4.1
+fb_cbk_brch,FB_CBK_BRCH,measure,"Number of commercial bank branches per 100,000 adults",8.10,8,8.10.1
+gb_pop_scierd,GB_POP_SCIERD,measure,"Researchers (in full-time equivalent) per million inhabitants (per 1,000,000 population)",9.5,9,9.5.2
+gb_xpd_rsdv,GB_XPD_RSDV,measure,Research and development expenditure as a proportion of GDP (%),9.5,9,9.5.1
+ic_frm_brib,IC_FRM_BRIB,measure,Bribery incidence (% of firms experiencing at least one bribe payment request),16.5,16,16.5.2
+sg_gen_parln,SG_GEN_PARLN,measure,Number of seats held by women in national parliaments (number),5.5,5,5.5.1
+sg_gen_parlnt,SG_GEN_PARLNT,measure,Number of seats in national parliaments (number),5.5,5,5.5.1
+sg_haz_cmrmntrl,SG_HAZ_CMRMNTRL,measure,Compliance with the Montreal Protocol on hazardous waste and other chemicals,12.4,12,12.4.1
+sg_pln_prvndi,SG_PLN_PRVNDI,measure,Proportion of new development interventions drawn from country-led result frameworks - data by provider (%),17.15,17,17.15.1
+sg_pln_recndi,SG_PLN_RECNDI,measure,Proportion of new development interventions drawn from country-led result frameworks - data by recipient (%),17.15,17,17.15.1
+sh_aap_mort,SH_AAP_MORT,measure,"Crude death rate attributed to ambient air pollution (deaths per 100,000 population)",3.9,3,3.9.1
+sh_alc_conspt,SH_ALC_CONSPT,measure,Alcohol consumption per capita (aged 15 years and older) within a calendar year (litres of pure alcohol),3.5,3,3.5.2
 er_cbd_absclrhs,ER_CBD_ABSCLRHS,measure,"Countries that have legislative, administrative and policy framework or measures reported to the Access and Benefit-Sharing Clearing-House (1 = YES; 0 = NO)",15.6,15,15.6.1
 er_cbd_orspgrfa,ER_CBD_ORSPGRFA,measure,"Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance  of the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO)",15.6,15,15.6.1
 er_grf_animrcnt,ER_GRF_ANIMRCNT,measure,Proportion of local breeds for which sufficient genetic resources are stored for reconstitution (%),2.5,2,2.5.1
 er_grf_plntstor,ER_GRF_PLNTSTOR,measure,Plant breeds for which sufficient genetic resources are stored (number),2.5,2,2.5.1
 er_h2o_partic,ER_H2O_PARTIC,measure,Proportion of countries with high level of users/communities participating in planning programs in rural drinking-water supply (%),6.b,6,6.b.1
-er_mrn_marin,ER_MRN_MARIN,measure,Coverage of protected areas in relation to marine areas (Exclusive Economic Zones) (%),14.5,14,14.5.1
+si_cov_matnl,SI_COV_MATNL,measure,[ILO] Proportion of mothers with newborns receiving maternity cash benefit (%),1.3,1,1.3.1
 er_mtn_totl,ER_MTN_TOTL,measure,Mountain area (square kilometres),15.4,15,15.4.2
 er_rsk_lbredn,ER_RSK_LBREDN,measure,Local breeds classified as known being not at risk (number),2.5,2,2.5.2
 it_use_ii99,IT_USE_ii99,measure,Internet users per 100 inhabitants,17.8,17,17.8.1
@@ -151,6 +129,28 @@ si_hei_btn40,SI_HEI_BTN40,measure,Growth rates of household expenditure or incom
 si_pov_day1,SI_POV_DAY1,measure,Proportion of population below international poverty line (%),1.1,1,1.1.1
 si_rmt_cost,SI_RMT_COST,measure,Remittance costs as a proportion of the amount remitted (%),10.c,10,10.c.1
 sl_dom_tspddc,SL_DOM_TSPDDC,measure,"Proportion of time spent on unpaid domestic chores, by sex, age and location (%)",5.4,5,5.4.1
+si_cov_poor,SI_COV_POOR,measure,[ILO] Proportion of poor population receiving social assistance cash benefit (%),1.3,1,1.3.1
+si_cov_socast,SI_COV_SOCAST,measure,[World Bank] Proportion of population covered by social assistance programs (%),1.3,1,1.3.1
+si_cov_socastpq,SI_COV_SOCASTPQ,measure,[World Bank] Poorest quintile covered by social assistance programs (%),1.3,1,1.3.1
+si_cov_socins,SI_COV_SOCINS,measure,[World Bank] Proportion of population covered by social insurance programs (%),1.3,1,1.3.1
+sl_dom_tspdcw,SL_DOM_TSPDCW,measure,"Proportion of time spent on unpaid care work, by sex, age and location (%)",5.4,5,5.4.1
+sl_emp_ftlinjur,SL_EMP_FTLINJUR,measure,"Fatal occupational injuries among employees, by sex and migrant status (per 100,000 employees)",8.8,8,8.8.1
+sl_tlf_manf,SL_TLF_MANF,measure,Manufacturing employment as a proportion of total employment (%),9.2,9,9.2.2
+sl_tlf_uem,SL_TLF_UEM,measure,"Unemployment rate, by sex and age (%)",8.5,8,8.5.2
+ag_lnd_frstn,AG_LND_FRSTN,measure,Forest area (thousands of hectares),15.1,15,15.1.1
+ag_prd_ortind,AG_PRD_ORTIND,measure,Agriculture orientation index for government expenditures,2.a,2,2.a.1
+ag_prd_xsubdy,AG_PRD_XSUBDY,measure,Agricultural export subsidies (millions of current United States dollars),2.b,2,2.b.1
+bx_trf_pwkr,BX_TRF_PWKR,measure,Volume of remittances (in United States dollars) as a proportion of total GDP (%),17.3,17,17.3.2
+dc_oda_bdvl,DC_ODA_BDVL,measure,"Total official development assistance for biodiversity, by recipient countries (millions of constant 2016 United States dollars)","15.a, 15.b","15, 15","15.a.1, 15.b.1"
+dc_oda_ldcg,DC_ODA_LDCG,measure,"Net official development assistance (ODA) to LDCs as a percentage of OECD-DAC donors' GNI, by donor countries (%)",17.2,17,17.2.1
+dc_oda_lldc,DC_ODA_LLDC,measure,"Net official development assistance (ODA) to landlocked developing countries from OECD-DAC countries, by donor countries (millions of constant 2016 United States dollars)",17.2,17,17.2.1
+dc_oda_sids,DC_ODA_SIDS,measure,"Net official development assistance (ODA) to small island states (SIDS) from OECD-DAC countries, by donor countries (millions of constant 2016 United States dollars)",17.2,17,17.2.1
+dc_tof_agrl,DC_TOF_AGRL,measure,"Total official flows (disbursements) for agriculture, by recipient countries (millions of constant 2016 United States dollars)",2.a,2,2.a.2
+dc_tof_hlthl,DC_TOF_HLTHL,measure,"Total official development assistance to medical research and basic heath sectors, gross disbursement, by recipient countries (millions of constant 2016 United States dollars)",3.b,3,3.b.2
+dc_tof_trddbmdl,DC_TOF_TRDDBMDL,measure,"Total official flows (disbursement) for Aid for Trade, by donor countries (millions of constant 2016 United States dollars)",8.a,8,8.a.1
+dc_tof_trddbml,DC_TOF_TRDDBML,measure,"Total official flows (disbursement) for Aid for Trade, by recipient countries (millions of constant 2016 United States dollars)",8.a,8,8.a.1
+en_mat_domcmpg,EN_MAT_DOMCMPG,measure,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2010 United States dollars)","12.2, 8.4","12, 8","12.2.2, 8.4.2"
+er_mrn_marin,ER_MRN_MARIN,measure,Coverage of protected areas in relation to marine areas (Exclusive Economic Zones) (%),14.5,14,14.5.1
 sl_emp_gtotl,SL_EMP_GTOTL,measure,"Labour share of GDP, comprising wages and social protection transfers (%)",10.4,10,10.4.1
 sn_itk_defc,SN_ITK_DEFC,measure,Prevalence of undernourishment (%),2.1,2,2.1.1
 vc_dsr_miss,VC_DSR_MISS,measure,Number of missing persons due to disaster (number),"1.5, 11.5, 13.1","1, 11, 13","1.5.1, 11.5.1, 13.1.1"
@@ -354,3 +354,7 @@ er_mrn_mpa,ER_MRN_MPA,measure,Average proportion of Marine Key Biodiversity Area
 vc_vaw_dist,VC_VAW_DIST,measure,Age and sex distribution of detected victims of trafficking in persons (%),16.2,16,16.2.2
 sg_pln_repolres,SG_PLN_REPOLRES,measure,Extent of use of country-owned results frameworks and planning tools by providers of development cooperation - data by recipient (%) ,17.15,17,17.15.1
 sg_pln_prpolres,SG_PLN_PRPOLRES,measure,Extent of use of country-owned results frameworks and planning tools by providers of development cooperation - data by provider (%) ,17.15,17,17.15.1
+sg_scp_cntry,SG_SCP_CNTRY,measure,Countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or target into national policies (1 = YES; 0 = NO),12.1,12,12.1.1
+sg_scp_cormec,SG_SCP_CORMEC,measure,Countries with coordination mechanism for sustainable consumption and production (1 = YES; 0 = NO),12.1,12,12.1.1
+sg_scp_macpol,SG_SCP_MACPOL,measure,Countries with macro policy for sustainable consumption and production (1 = YES; 0 = NO),12.1,12,12.1.1
+sg_scp_polins,SG_SCP_POLINS,measure,Countries with policy instrument for sustainable consumption and production (1 = YES; 0 = NO),12.1,12,12.1.1
