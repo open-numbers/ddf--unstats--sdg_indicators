@@ -339,8 +339,10 @@ en_wbe_pmpn,EN_WBE_PMPN,measure,Water body extent (permanent and maybe permanent
 en_wbe_ndetot,EN_WBE_NDETOT,measure,Nationally derived total extent (square kilometres),6.6,6,6.6.1
 en_wbe_ndopw,EN_WBE_NDOPW,measure,Nationally derived extent of open water bodies (square kilometres),6.6,6,6.6.1
 en_wbe_ndqlgrw,EN_WBE_NDQLGRW,measure,Nationally derived quality of groundwater (%),6.6,6,6.6.1
-en_wbe_ndqlopw,EN_WBE_NDQLOPW,measure,Nationally derived quality of open water bodies(%),6.6,6,6.6.1
-en_wbe_ndqlrvr,EN_WBE_NDQLRVR,measure,Nationally derived quality of river(%),6.6,6,6.6.1
+en_wbe_ndqlopw,EN_WBE_NDQLOPW,measure,"Nationally derived quality of open water bodies
+(%)",6.6,6,6.6.1
+en_wbe_ndqlrvr,EN_WBE_NDQLRVR,measure,"Nationally derived quality of river
+(%)",6.6,6,6.6.1
 en_wbe_ndqltot,EN_WBE_NDQLTOT,measure,Nationally derived proportion of water bodies with good quality (%),6.6,6,6.6.1
 en_wbe_ndqtgrw,EN_WBE_NDQTGRW,measure,Nationally derived quantity of groundwater (millions of cubic metres per annum),6.6,6,6.6.1
 en_wbe_ndqtopw,EN_WBE_NDQTOPW,measure,Nationally derived quantity of open water bodies (million of cubic metres per annum),6.6,6,6.6.1

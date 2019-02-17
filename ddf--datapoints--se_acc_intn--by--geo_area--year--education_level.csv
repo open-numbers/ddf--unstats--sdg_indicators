@@ -836,10 +836,6 @@ geo_area,year,education_level,se_acc_intn
 858,2009,primar,94.78599
 858,2015,lowsec,100
 858,2015,primar,100
-858,2015,uppsec,100
-860,2017,primar,90.69548
-860,2017,uppsec,97.06258
-860,2017,lowsec,89.32741
 64,2015,lowsec,41.01382
 72,2012,lowsec,99.51923
 72,2012,uppsec,46.37681
@@ -849,3 +845,7 @@ geo_area,year,education_level,se_acc_intn
 90,2016,uppsec,15.15152
 90,2016,lowsec,13.27434
 90,2016,primar,0
+858,2015,uppsec,100
+860,2017,primar,90.69548
+860,2017,uppsec,97.06258
+860,2017,lowsec,89.32741
