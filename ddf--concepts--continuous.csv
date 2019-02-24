@@ -257,13 +257,13 @@ sh_dth_rncom,SH_DTH_RNCOM,measure,"Number of deaths attributed to non-communicab
 sh_med_heawor,SH_MED_HEAWOR,measure,"Health worker density, by type of occupation (per 1,000 population)",3.c,3,3.c.1
 sh_sta_mmr,SH_STA_MMR,measure,Maternal mortality ratio,3.1,3,3.1.1
 sh_sta_stunt,SH_STA_STUNT,measure,Proportion of children moderately or severely stunted (%),2.2,2,2.2.1
-sh_sta_stuntn,SH_STA_STUNTN,measure,Children moderately or severely stunted (number),2.2,2,2.2.1
+sh_sta_stuntn,SH_STA_STUNTN,measure,Children moderately or severely stunted (millions),2.2,2,2.2.1
 sh_sta_waste,SH_STA_WASTE,measure,Proportion of children moderately or severely wasted (%),2.2,2,2.2.2
-sh_sta_wasten,SH_STA_WASTEN,measure,Children moderately or severely wasted (number),2.2,2,2.2.2
+sh_sta_wasten,SH_STA_WASTEN,measure,Children moderately or severely wasted (millions),2.2,2,2.2.2
 sh_tbs_incid,SH_TBS_INCID,measure,"Tuberculosis incidence (per 100,000 population)",3.3,3,3.3.2
 sl_emp_aearn,SL_EMP_AEARN,measure,Average hourly earnings of managers (ISCO-08) (local currency),8.5,8,8.5.1
 sh_sta_ovrwgt,SH_STA_OVRWGT,measure,Proportion of children moderately or severely overweight (%),2.2,2,2.2.2
-sh_sta_ovrwgtn,SH_STA_OVRWGTN,measure,Children moderately or severely overweight (number),2.2,2,2.2.2
+sh_sta_ovrwgtn,SH_STA_OVRWGTN,measure,Children moderately or severely overweight (millions),2.2,2,2.2.2
 tm_tax_atrfd,TM_TAX_ATRFD,measure,"Average tariff applied by developed countries, by type of product (%)",17.12,17,17.12.1
 tm_tax_wwtav,TM_TAX_WWTAV,measure,"Worldwide weighted tariff-average (weighted mean), by type of product and trade regime (%)",17.10,17,17.10.1
 en_h2o_opambq,EN_H2O_OPAMBQ,measure,Proportion of open water bodies with good ambient water quality (%),6.3,6,6.3.2

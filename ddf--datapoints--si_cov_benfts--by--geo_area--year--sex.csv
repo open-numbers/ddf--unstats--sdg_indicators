@@ -1,4 +1,8 @@
 geo_area,year,sex,si_cov_benfts
+1,2016,bothsex,45.16676
+5,2016,bothsex,58.71949
+9,2016,bothsex,71.68598
+11,2016,bothsex,8.66779
 13,2016,bothsex,67.15862
 14,2016,bothsex,11.12869
 15,2016,bothsex,39.18886
@@ -100,7 +104,3 @@ geo_area,year,sex,si_cov_benfts
 854,2016,bothsex,7.53027
 858,2016,bothsex,94.5
 894,2016,bothsex,15.3134
-1,2016,bothsex,45.16676
-5,2016,bothsex,58.71949
-9,2016,bothsex,71.68598
-11,2016,bothsex,8.66779
