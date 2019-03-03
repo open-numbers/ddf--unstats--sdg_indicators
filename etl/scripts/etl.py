@@ -8,6 +8,7 @@ import requests as req
 
 from pandas.api.types import is_numeric_dtype
 from ddf_utils.str import to_concept_id, format_float_digits
+from ddf_utils.chef.helpers import sort_df
 from functools import partial
 from update_source import api_path, API_BASE, get_all_series
 
@@ -83,12 +84,17 @@ def serve_datapoints(df, concept=None):
     else:
         df[concept] = df[concept].map(FORMATTER)
 
-    df.dropna(subset=[concept]).to_csv(f'../../ddf--datapoints--{concept}--by--{by}.csv', index=False)
+    # sort dataframe and remove NaNs
+    df = df.dropna(subset=[concept])
+    df = sort_df(df, by_lst)
+
+    df.to_csv(f'../../ddf--datapoints--{concept}--by--{by}.csv', index=False)
 
 
 def serve_entities(entities):
     for e, d in entities.items():
-        d.drop_duplicates().to_csv(f'../../ddf--entities--{e}.csv', index=False)
+        d_ = sort_df(d.drop_duplicates(), e)
+        d_.to_csv(f'../../ddf--entities--{e}.csv', index=False)
 
 
 def create_measure_concepts():
@@ -152,7 +158,6 @@ def main():
                     entities[c] = create_entity(c, df_[c].unique())
                 # convert key columns into concept IDs
                 df_[c] = df_[c].map(to_concept_id)
-
         serve_datapoints(df_, concept)
 
     # entities
@@ -160,10 +165,12 @@ def main():
 
     # geo entity, from the api
     gdf = create_geo_entity()
+    gdf = sort_df(gdf, 'geo_area')
     gdf.to_csv('../../ddf--entities--geo_area.csv', index=False)
 
     # concepts
     cdf = create_measure_concepts()
+    cdf = sort_df(cdf, 'concept')
     cdf.to_csv('../../ddf--concepts--continuous.csv', index=False)
 
     cdf2 = pd.DataFrame({'concept': list(entities.keys())})
@@ -176,6 +183,7 @@ def main():
         'name': ['Geo Area', 'Year', 'Name', 'Description', 'Goal', 'Indicator', 'Target']
     })
     cdf_ = cdf2.append(cdf3, ignore_index=True)
+    cdf_ = sort_df(cdf_, 'concept')
     cdf_.to_csv('../../ddf--concepts--discrete.csv', index=False)
 
 
