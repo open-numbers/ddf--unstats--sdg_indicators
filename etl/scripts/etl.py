@@ -66,11 +66,11 @@ def serve_datapoints(df, concept=None):
     in front of measure column.
     """
     if not concept:
-        by_lst = df.columns[:-1]
+        by_lst = sorted(df.columns[:-1])
         by = '--'.join(by_lst)
         concept = df.columns[-1]
     else:
-        by_lst = list(filter(lambda x: x != concept, df.columns))
+        by_lst = sorted(list(filter(lambda x: x != concept, df.columns)))
         by = '--'.join(by_lst)
 
     if df['geo_area'].dtype != np.int:
