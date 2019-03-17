@@ -64,10 +64,8 @@ en_ref_wascol,measure,"Municipal Solid Waste collection coverage, by cities (%)"
 en_wbe_ndetot,measure,Nationally derived total extent (square kilometres),6,6.6.1,EN_WBE_NDETOT,6.6
 en_wbe_ndopw,measure,Nationally derived extent of open water bodies (square kilometres),6,6.6.1,EN_WBE_NDOPW,6.6
 en_wbe_ndqlgrw,measure,Nationally derived quality of groundwater (%),6,6.6.1,EN_WBE_NDQLGRW,6.6
-en_wbe_ndqlopw,measure,"Nationally derived quality of open water bodies
-(%)",6,6.6.1,EN_WBE_NDQLOPW,6.6
-en_wbe_ndqlrvr,measure,"Nationally derived quality of river
-(%)",6,6.6.1,EN_WBE_NDQLRVR,6.6
+en_wbe_ndqlopw,measure,Nationally derived quality of open water bodies(%),6,6.6.1,EN_WBE_NDQLOPW,6.6
+en_wbe_ndqlrvr,measure,Nationally derived quality of river(%),6,6.6.1,EN_WBE_NDQLRVR,6.6
 en_wbe_ndqltot,measure,Nationally derived proportion of water bodies with good quality (%),6,6.6.1,EN_WBE_NDQLTOT,6.6
 en_wbe_ndqtgrw,measure,Nationally derived quantity of groundwater (millions of cubic metres per annum),6,6.6.1,EN_WBE_NDQTGRW,6.6
 en_wbe_ndqtopw,measure,Nationally derived quantity of open water bodies (million of cubic metres per annum),6,6.6.1,EN_WBE_NDQTOPW,6.6
