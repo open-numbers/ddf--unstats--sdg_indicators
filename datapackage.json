@@ -5,7 +5,7 @@
         "id": "en"
     },
     "author": "Gapminder",
-    "created": "2019-03-24T03:09:34.386053+00:00",
+    "created": "2019-03-31T01:53:26.149556+00:00",
     "description": "SDG indicators",
     "license": "CC-BY-4.0",
     "title": "SDG indicators",
@@ -61,6 +61,27 @@
             }
         },
         {
+            "name": "ddf--datapoints--ag_fpa_cfpi--by--geo_area--year",
+            "path": "ddf--datapoints--ag_fpa_cfpi--by--geo_area--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "ag_fpa_cfpi"
+                    }
+                ],
+                "primaryKey": [
+                    "geo_area",
+                    "year"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--ag_fpa_comm--by--geo_area--type_of_product--year",
             "path": "ddf--datapoints--ag_fpa_comm--by--geo_area--type_of_product--year.csv",
             "schema": {
@@ -98,27 +119,6 @@
                     },
                     {
                         "name": "ag_lnd_frst"
-                    }
-                ],
-                "primaryKey": [
-                    "geo_area",
-                    "year"
-                ]
-            }
-        },
-        {
-            "name": "ddf--datapoints--ag_lnd_frstbiom--by--geo_area--year",
-            "path": "ddf--datapoints--ag_lnd_frstbiom--by--geo_area--year.csv",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "geo_area"
-                    },
-                    {
-                        "name": "year"
-                    },
-                    {
-                        "name": "ag_lnd_frstbiom"
                     }
                 ],
                 "primaryKey": [
@@ -275,16 +275,10 @@
             }
         },
         {
-            "name": "ddf--datapoints--ag_prd_fiesmsi--by--age--bounds--geo_area--year",
-            "path": "ddf--datapoints--ag_prd_fiesmsi--by--age--bounds--geo_area--year.csv",
+            "name": "ddf--datapoints--ag_prd_agvas--by--geo_area--year",
+            "path": "ddf--datapoints--ag_prd_agvas--by--geo_area--year.csv",
             "schema": {
                 "fields": [
-                    {
-                        "name": "age"
-                    },
-                    {
-                        "name": "bounds"
-                    },
                     {
                         "name": "geo_area"
                     },
@@ -292,41 +286,10 @@
                         "name": "year"
                     },
                     {
-                        "name": "ag_prd_fiesmsi"
+                        "name": "ag_prd_agvas"
                     }
                 ],
                 "primaryKey": [
-                    "age",
-                    "bounds",
-                    "geo_area",
-                    "year"
-                ]
-            }
-        },
-        {
-            "name": "ddf--datapoints--ag_prd_fiesmsin--by--age--bounds--geo_area--year",
-            "path": "ddf--datapoints--ag_prd_fiesmsin--by--age--bounds--geo_area--year.csv",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "age"
-                    },
-                    {
-                        "name": "bounds"
-                    },
-                    {
-                        "name": "geo_area"
-                    },
-                    {
-                        "name": "year"
-                    },
-                    {
-                        "name": "ag_prd_fiesmsin"
-                    }
-                ],
-                "primaryKey": [
-                    "age",
-                    "bounds",
                     "geo_area",
                     "year"
                 ]
@@ -424,6 +387,27 @@
                     },
                     {
                         "name": "ag_prd_xsubdy"
+                    }
+                ],
+                "primaryKey": [
+                    "geo_area",
+                    "year"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--ag_xpd_agsgb--by--geo_area--year",
+            "path": "ddf--datapoints--ag_xpd_agsgb--by--geo_area--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "ag_xpd_agsgb"
                     }
                 ],
                 "primaryKey": [
@@ -1759,6 +1743,27 @@
             }
         },
         {
+            "name": "ddf--datapoints--en_wwt_wwds--by--geo_area--year",
+            "path": "ddf--datapoints--en_wwt_wwds--by--geo_area--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "en_wwt_wwds"
+                    }
+                ],
+                "primaryKey": [
+                    "geo_area",
+                    "year"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--er_cbd_absclrhs--by--geo_area--year",
             "path": "ddf--datapoints--er_cbd_absclrhs--by--geo_area--year.csv",
             "schema": {
@@ -1843,8 +1848,8 @@
             }
         },
         {
-            "name": "ddf--datapoints--er_cbd_smta--by--geo_area--year",
-            "path": "ddf--datapoints--er_cbd_smta--by--geo_area--year.csv",
+            "name": "ddf--datapoints--er_ffs_prtspc--by--geo_area--year",
+            "path": "ddf--datapoints--er_ffs_prtspc--by--geo_area--year.csv",
             "schema": {
                 "fields": [
                     {
@@ -1854,7 +1859,49 @@
                         "name": "year"
                     },
                     {
-                        "name": "er_cbd_smta"
+                        "name": "er_ffs_prtspc"
+                    }
+                ],
+                "primaryKey": [
+                    "geo_area",
+                    "year"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--er_ffs_prtspr--by--geo_area--year",
+            "path": "ddf--datapoints--er_ffs_prtspr--by--geo_area--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "er_ffs_prtspr"
+                    }
+                ],
+                "primaryKey": [
+                    "geo_area",
+                    "year"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--er_ffs_prtsst--by--geo_area--year",
+            "path": "ddf--datapoints--er_ffs_prtsst--by--geo_area--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "er_ffs_prtsst"
                     }
                 ],
                 "primaryKey": [
@@ -1981,69 +2028,6 @@
                     },
                     {
                         "name": "er_grf_plntstor"
-                    }
-                ],
-                "primaryKey": [
-                    "geo_area",
-                    "year"
-                ]
-            }
-        },
-        {
-            "name": "ddf--datapoints--er_h2o_fishfexp--by--geo_area--year",
-            "path": "ddf--datapoints--er_h2o_fishfexp--by--geo_area--year.csv",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "geo_area"
-                    },
-                    {
-                        "name": "year"
-                    },
-                    {
-                        "name": "er_h2o_fishfexp"
-                    }
-                ],
-                "primaryKey": [
-                    "geo_area",
-                    "year"
-                ]
-            }
-        },
-        {
-            "name": "ddf--datapoints--er_h2o_fishnfexp--by--geo_area--year",
-            "path": "ddf--datapoints--er_h2o_fishnfexp--by--geo_area--year.csv",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "geo_area"
-                    },
-                    {
-                        "name": "year"
-                    },
-                    {
-                        "name": "er_h2o_fishnfexp"
-                    }
-                ],
-                "primaryKey": [
-                    "geo_area",
-                    "year"
-                ]
-            }
-        },
-        {
-            "name": "ddf--datapoints--er_h2o_fishovexp--by--geo_area--year",
-            "path": "ddf--datapoints--er_h2o_fishovexp--by--geo_area--year.csv",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "geo_area"
-                    },
-                    {
-                        "name": "year"
-                    },
-                    {
-                        "name": "er_h2o_fishovexp"
                     }
                 ],
                 "primaryKey": [
@@ -2244,6 +2228,27 @@
                     },
                     {
                         "name": "er_h2o_stress"
+                    }
+                ],
+                "primaryKey": [
+                    "geo_area",
+                    "year"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--er_h2o_wueyst--by--geo_area--year",
+            "path": "ddf--datapoints--er_h2o_wueyst--by--geo_area--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "er_h2o_wueyst"
                     }
                 ],
                 "primaryKey": [
@@ -2512,6 +2517,48 @@
                     },
                     {
                         "name": "er_rde_osex"
+                    }
+                ],
+                "primaryKey": [
+                    "geo_area",
+                    "year"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--er_reg_ssfrar--by--geo_area--year",
+            "path": "ddf--datapoints--er_reg_ssfrar--by--geo_area--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "er_reg_ssfrar"
+                    }
+                ],
+                "primaryKey": [
+                    "geo_area",
+                    "year"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--er_reg_unfcim--by--geo_area--year",
+            "path": "ddf--datapoints--er_reg_unfcim--by--geo_area--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "er_reg_unfcim"
                     }
                 ],
                 "primaryKey": [
@@ -2830,6 +2877,153 @@
             }
         },
         {
+            "name": "ddf--datapoints--fi_fsi_fsanl--by--geo_area--year",
+            "path": "ddf--datapoints--fi_fsi_fsanl--by--geo_area--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "fi_fsi_fsanl"
+                    }
+                ],
+                "primaryKey": [
+                    "geo_area",
+                    "year"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--fi_fsi_fsera--by--geo_area--year",
+            "path": "ddf--datapoints--fi_fsi_fsera--by--geo_area--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "fi_fsi_fsera"
+                    }
+                ],
+                "primaryKey": [
+                    "geo_area",
+                    "year"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--fi_fsi_fska--by--geo_area--year",
+            "path": "ddf--datapoints--fi_fsi_fska--by--geo_area--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "fi_fsi_fska"
+                    }
+                ],
+                "primaryKey": [
+                    "geo_area",
+                    "year"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--fi_fsi_fsknl--by--geo_area--year",
+            "path": "ddf--datapoints--fi_fsi_fsknl--by--geo_area--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "fi_fsi_fsknl"
+                    }
+                ],
+                "primaryKey": [
+                    "geo_area",
+                    "year"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--fi_fsi_fskrtc--by--geo_area--year",
+            "path": "ddf--datapoints--fi_fsi_fskrtc--by--geo_area--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "fi_fsi_fskrtc"
+                    }
+                ],
+                "primaryKey": [
+                    "geo_area",
+                    "year"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--fi_fsi_fsls--by--geo_area--year",
+            "path": "ddf--datapoints--fi_fsi_fsls--by--geo_area--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "fi_fsi_fsls"
+                    }
+                ],
+                "primaryKey": [
+                    "geo_area",
+                    "year"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--fi_fsi_fssno--by--geo_area--year",
+            "path": "ddf--datapoints--fi_fsi_fssno--by--geo_area--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "fi_fsi_fssno"
+                    }
+                ],
+                "primaryKey": [
+                    "geo_area",
+                    "year"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--gb_pop_scierd--by--geo_area--year",
             "path": "ddf--datapoints--gb_pop_scierd--by--geo_area--year.csv",
             "schema": {
@@ -2863,6 +3057,27 @@
                     },
                     {
                         "name": "gb_xpd_rsdv"
+                    }
+                ],
+                "primaryKey": [
+                    "geo_area",
+                    "year"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--gf_xpd_gbpc--by--geo_area--year",
+            "path": "ddf--datapoints--gf_xpd_gbpc--by--geo_area--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "gf_xpd_gbpc"
                     }
                 ],
                 "primaryKey": [
@@ -5557,6 +5772,93 @@
             }
         },
         {
+            "name": "ddf--datapoints--sh_fpl_infmcu--by--age--geo_area--sex--year",
+            "path": "ddf--datapoints--sh_fpl_infmcu--by--age--geo_area--sex--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "age"
+                    },
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "sex"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "sh_fpl_infmcu"
+                    }
+                ],
+                "primaryKey": [
+                    "age",
+                    "geo_area",
+                    "sex",
+                    "year"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--sh_fpl_infmrh--by--age--geo_area--sex--year",
+            "path": "ddf--datapoints--sh_fpl_infmrh--by--age--geo_area--sex--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "age"
+                    },
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "sex"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "sh_fpl_infmrh"
+                    }
+                ],
+                "primaryKey": [
+                    "age",
+                    "geo_area",
+                    "sex",
+                    "year"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--sh_fpl_infmsr--by--age--geo_area--sex--year",
+            "path": "ddf--datapoints--sh_fpl_infmsr--by--age--geo_area--sex--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "age"
+                    },
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "sex"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "sh_fpl_infmsr"
+                    }
+                ],
+                "primaryKey": [
+                    "age",
+                    "geo_area",
+                    "sex",
+                    "year"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--sh_fpl_mtmm--by--age--geo_area--sex--year",
             "path": "ddf--datapoints--sh_fpl_mtmm--by--age--geo_area--sex--year.csv",
             "schema": {
@@ -6737,12 +7039,15 @@
             }
         },
         {
-            "name": "ddf--datapoints--si_cov_wkinjry--by--geo_area--year",
-            "path": "ddf--datapoints--si_cov_wkinjry--by--geo_area--year.csv",
+            "name": "ddf--datapoints--si_cov_wkinjry--by--geo_area--sex--year",
+            "path": "ddf--datapoints--si_cov_wkinjry--by--geo_area--sex--year.csv",
             "schema": {
                 "fields": [
                     {
                         "name": "geo_area"
+                    },
+                    {
+                        "name": "sex"
                     },
                     {
                         "name": "year"
@@ -6753,6 +7058,7 @@
                 ],
                 "primaryKey": [
                     "geo_area",
+                    "sex",
                     "year"
                 ]
             }
@@ -7286,8 +7592,66 @@
             }
         },
         {
-            "name": "ddf--datapoints--sn_itk_defc--by--geo_area--year",
-            "path": "ddf--datapoints--sn_itk_defc--by--geo_area--year.csv",
+            "name": "ddf--datapoints--sl_tlf_uemdis--by--disability_status--geo_area--sex--year",
+            "path": "ddf--datapoints--sl_tlf_uemdis--by--disability_status--geo_area--sex--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "disability_status"
+                    },
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "sex"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "sl_tlf_uemdis"
+                    }
+                ],
+                "primaryKey": [
+                    "disability_status",
+                    "geo_area",
+                    "sex",
+                    "year"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--sn_itk_defc--by--age--bounds--geo_area--year",
+            "path": "ddf--datapoints--sn_itk_defc--by--age--bounds--geo_area--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "age"
+                    },
+                    {
+                        "name": "bounds"
+                    },
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "sn_itk_defc"
+                    }
+                ],
+                "primaryKey": [
+                    "age",
+                    "bounds",
+                    "geo_area",
+                    "year"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--sn_itk_defcn--by--geo_area--year",
+            "path": "ddf--datapoints--sn_itk_defcn--by--geo_area--year.csv",
             "schema": {
                 "fields": [
                     {
@@ -7297,7 +7661,7 @@
                         "name": "year"
                     },
                     {
-                        "name": "sn_itk_defc"
+                        "name": "sn_itk_defcn"
                     }
                 ],
                 "primaryKey": [
@@ -8228,12 +8592,15 @@
             }
         },
         {
-            "name": "ddf--datapoints--vc_ihr_psrc--by--geo_area--year",
-            "path": "ddf--datapoints--vc_ihr_psrc--by--geo_area--year.csv",
+            "name": "ddf--datapoints--vc_ihr_psrc--by--geo_area--sex--year",
+            "path": "ddf--datapoints--vc_ihr_psrc--by--geo_area--sex--year.csv",
             "schema": {
                 "fields": [
                     {
                         "name": "geo_area"
+                    },
+                    {
+                        "name": "sex"
                     },
                     {
                         "name": "year"
@@ -8244,17 +8611,21 @@
                 ],
                 "primaryKey": [
                     "geo_area",
+                    "sex",
                     "year"
                 ]
             }
         },
         {
-            "name": "ddf--datapoints--vc_ihr_psrcn--by--geo_area--year",
-            "path": "ddf--datapoints--vc_ihr_psrcn--by--geo_area--year.csv",
+            "name": "ddf--datapoints--vc_ihr_psrcn--by--geo_area--sex--year",
+            "path": "ddf--datapoints--vc_ihr_psrcn--by--geo_area--sex--year.csv",
             "schema": {
                 "fields": [
                     {
                         "name": "geo_area"
+                    },
+                    {
+                        "name": "sex"
                     },
                     {
                         "name": "year"
@@ -8265,6 +8636,7 @@
                 ],
                 "primaryKey": [
                     "geo_area",
+                    "sex",
                     "year"
                 ]
             }
@@ -8320,8 +8692,8 @@
             }
         },
         {
-            "name": "ddf--datapoints--vc_vaw_marr--by--age--geo_area--year",
-            "path": "ddf--datapoints--vc_vaw_marr--by--age--geo_area--year.csv",
+            "name": "ddf--datapoints--vc_vaw_marr--by--age--geo_area--sex--year",
+            "path": "ddf--datapoints--vc_vaw_marr--by--age--geo_area--sex--year.csv",
             "schema": {
                 "fields": [
                     {
@@ -8329,6 +8701,9 @@
                     },
                     {
                         "name": "geo_area"
+                    },
+                    {
+                        "name": "sex"
                     },
                     {
                         "name": "year"
@@ -8340,6 +8715,7 @@
                 "primaryKey": [
                     "age",
                     "geo_area",
+                    "sex",
                     "year"
                 ]
             }
@@ -8466,6 +8842,21 @@
                     }
                 ],
                 "primaryKey": "cities"
+            }
+        },
+        {
+            "name": "ddf--entities--disability_status",
+            "path": "ddf--entities--disability_status.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "disability_status"
+                    },
+                    {
+                        "name": "name"
+                    }
+                ],
+                "primaryKey": "disability_status"
             }
         },
         {
@@ -8843,6 +9234,15 @@
             },
             {
                 "primaryKey": [
+                    "disability_status"
+                ],
+                "value": "name",
+                "resources": [
+                    "ddf--entities--disability_status"
+                ]
+            },
+            {
+                "primaryKey": [
                     "education_level"
                 ],
                 "value": "name",
@@ -9017,6 +9417,16 @@
             {
                 "primaryKey": [
                     "geo_area",
+                    "year"
+                ],
+                "value": "ag_fpa_cfpi",
+                "resources": [
+                    "ddf--datapoints--ag_fpa_cfpi--by--geo_area--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo_area",
                     "type_of_product",
                     "year"
                 ],
@@ -9033,16 +9443,6 @@
                 "value": "ag_lnd_frst",
                 "resources": [
                     "ddf--datapoints--ag_lnd_frst--by--geo_area--year"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo_area",
-                    "year"
-                ],
-                "value": "ag_lnd_frstbiom",
-                "resources": [
-                    "ddf--datapoints--ag_lnd_frstbiom--by--geo_area--year"
                 ]
             },
             {
@@ -9117,26 +9517,12 @@
             },
             {
                 "primaryKey": [
-                    "age",
-                    "bounds",
                     "geo_area",
                     "year"
                 ],
-                "value": "ag_prd_fiesmsi",
+                "value": "ag_prd_agvas",
                 "resources": [
-                    "ddf--datapoints--ag_prd_fiesmsi--by--age--bounds--geo_area--year"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "age",
-                    "bounds",
-                    "geo_area",
-                    "year"
-                ],
-                "value": "ag_prd_fiesmsin",
-                "resources": [
-                    "ddf--datapoints--ag_prd_fiesmsin--by--age--bounds--geo_area--year"
+                    "ddf--datapoints--ag_prd_agvas--by--geo_area--year"
                 ]
             },
             {
@@ -9181,6 +9567,16 @@
                 "value": "ag_prd_xsubdy",
                 "resources": [
                     "ddf--datapoints--ag_prd_xsubdy--by--geo_area--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo_area",
+                    "year"
+                ],
+                "value": "ag_xpd_agsgb",
+                "resources": [
+                    "ddf--datapoints--ag_xpd_agsgb--by--geo_area--year"
                 ]
             },
             {
@@ -9814,6 +10210,16 @@
                     "geo_area",
                     "year"
                 ],
+                "value": "en_wwt_wwds",
+                "resources": [
+                    "ddf--datapoints--en_wwt_wwds--by--geo_area--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo_area",
+                    "year"
+                ],
                 "value": "er_cbd_absclrhs",
                 "resources": [
                     "ddf--datapoints--er_cbd_absclrhs--by--geo_area--year"
@@ -9854,9 +10260,29 @@
                     "geo_area",
                     "year"
                 ],
-                "value": "er_cbd_smta",
+                "value": "er_ffs_prtspc",
                 "resources": [
-                    "ddf--datapoints--er_cbd_smta--by--geo_area--year"
+                    "ddf--datapoints--er_ffs_prtspc--by--geo_area--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo_area",
+                    "year"
+                ],
+                "value": "er_ffs_prtspr",
+                "resources": [
+                    "ddf--datapoints--er_ffs_prtspr--by--geo_area--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo_area",
+                    "year"
+                ],
+                "value": "er_ffs_prtsst",
+                "resources": [
+                    "ddf--datapoints--er_ffs_prtsst--by--geo_area--year"
                 ]
             },
             {
@@ -9917,36 +10343,6 @@
                 "value": "er_grf_plntstor",
                 "resources": [
                     "ddf--datapoints--er_grf_plntstor--by--geo_area--year"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo_area",
-                    "year"
-                ],
-                "value": "er_h2o_fishfexp",
-                "resources": [
-                    "ddf--datapoints--er_h2o_fishfexp--by--geo_area--year"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo_area",
-                    "year"
-                ],
-                "value": "er_h2o_fishnfexp",
-                "resources": [
-                    "ddf--datapoints--er_h2o_fishnfexp--by--geo_area--year"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo_area",
-                    "year"
-                ],
-                "value": "er_h2o_fishovexp",
-                "resources": [
-                    "ddf--datapoints--er_h2o_fishovexp--by--geo_area--year"
                 ]
             },
             {
@@ -10035,6 +10431,16 @@
                 "value": "er_h2o_stress",
                 "resources": [
                     "ddf--datapoints--er_h2o_stress--by--geo_area--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo_area",
+                    "year"
+                ],
+                "value": "er_h2o_wueyst",
+                "resources": [
+                    "ddf--datapoints--er_h2o_wueyst--by--geo_area--year"
                 ]
             },
             {
@@ -10159,6 +10565,26 @@
                 "value": "er_rde_osex",
                 "resources": [
                     "ddf--datapoints--er_rde_osex--by--geo_area--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo_area",
+                    "year"
+                ],
+                "value": "er_reg_ssfrar",
+                "resources": [
+                    "ddf--datapoints--er_reg_ssfrar--by--geo_area--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo_area",
+                    "year"
+                ],
+                "value": "er_reg_unfcim",
+                "resources": [
+                    "ddf--datapoints--er_reg_unfcim--by--geo_area--year"
                 ]
             },
             {
@@ -10305,6 +10731,76 @@
                     "geo_area",
                     "year"
                 ],
+                "value": "fi_fsi_fsanl",
+                "resources": [
+                    "ddf--datapoints--fi_fsi_fsanl--by--geo_area--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo_area",
+                    "year"
+                ],
+                "value": "fi_fsi_fsera",
+                "resources": [
+                    "ddf--datapoints--fi_fsi_fsera--by--geo_area--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo_area",
+                    "year"
+                ],
+                "value": "fi_fsi_fska",
+                "resources": [
+                    "ddf--datapoints--fi_fsi_fska--by--geo_area--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo_area",
+                    "year"
+                ],
+                "value": "fi_fsi_fsknl",
+                "resources": [
+                    "ddf--datapoints--fi_fsi_fsknl--by--geo_area--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo_area",
+                    "year"
+                ],
+                "value": "fi_fsi_fskrtc",
+                "resources": [
+                    "ddf--datapoints--fi_fsi_fskrtc--by--geo_area--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo_area",
+                    "year"
+                ],
+                "value": "fi_fsi_fsls",
+                "resources": [
+                    "ddf--datapoints--fi_fsi_fsls--by--geo_area--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo_area",
+                    "year"
+                ],
+                "value": "fi_fsi_fssno",
+                "resources": [
+                    "ddf--datapoints--fi_fsi_fssno--by--geo_area--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo_area",
+                    "year"
+                ],
                 "value": "gb_pop_scierd",
                 "resources": [
                     "ddf--datapoints--gb_pop_scierd--by--geo_area--year"
@@ -10318,6 +10814,16 @@
                 "value": "gb_xpd_rsdv",
                 "resources": [
                     "ddf--datapoints--gb_xpd_rsdv--by--geo_area--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo_area",
+                    "year"
+                ],
+                "value": "gf_xpd_gbpc",
+                "resources": [
+                    "ddf--datapoints--gf_xpd_gbpc--by--geo_area--year"
                 ]
             },
             {
@@ -11535,6 +12041,42 @@
                     "sex",
                     "year"
                 ],
+                "value": "sh_fpl_infmcu",
+                "resources": [
+                    "ddf--datapoints--sh_fpl_infmcu--by--age--geo_area--sex--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "age",
+                    "geo_area",
+                    "sex",
+                    "year"
+                ],
+                "value": "sh_fpl_infmrh",
+                "resources": [
+                    "ddf--datapoints--sh_fpl_infmrh--by--age--geo_area--sex--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "age",
+                    "geo_area",
+                    "sex",
+                    "year"
+                ],
+                "value": "sh_fpl_infmsr",
+                "resources": [
+                    "ddf--datapoints--sh_fpl_infmsr--by--age--geo_area--sex--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "age",
+                    "geo_area",
+                    "sex",
+                    "year"
+                ],
                 "value": "sh_fpl_mtmm",
                 "resources": [
                     "ddf--datapoints--sh_fpl_mtmm--by--age--geo_area--sex--year"
@@ -12054,11 +12596,12 @@
             {
                 "primaryKey": [
                     "geo_area",
+                    "sex",
                     "year"
                 ],
                 "value": "si_cov_wkinjry",
                 "resources": [
-                    "ddf--datapoints--si_cov_wkinjry--by--geo_area--year"
+                    "ddf--datapoints--si_cov_wkinjry--by--geo_area--sex--year"
                 ]
             },
             {
@@ -12290,12 +12833,36 @@
             },
             {
                 "primaryKey": [
+                    "disability_status",
+                    "geo_area",
+                    "sex",
+                    "year"
+                ],
+                "value": "sl_tlf_uemdis",
+                "resources": [
+                    "ddf--datapoints--sl_tlf_uemdis--by--disability_status--geo_area--sex--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "age",
+                    "bounds",
                     "geo_area",
                     "year"
                 ],
                 "value": "sn_itk_defc",
                 "resources": [
-                    "ddf--datapoints--sn_itk_defc--by--geo_area--year"
+                    "ddf--datapoints--sn_itk_defc--by--age--bounds--geo_area--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo_area",
+                    "year"
+                ],
+                "value": "sn_itk_defcn",
+                "resources": [
+                    "ddf--datapoints--sn_itk_defcn--by--geo_area--year"
                 ]
             },
             {
@@ -12726,21 +13293,23 @@
             {
                 "primaryKey": [
                     "geo_area",
+                    "sex",
                     "year"
                 ],
                 "value": "vc_ihr_psrc",
                 "resources": [
-                    "ddf--datapoints--vc_ihr_psrc--by--geo_area--year"
+                    "ddf--datapoints--vc_ihr_psrc--by--geo_area--sex--year"
                 ]
             },
             {
                 "primaryKey": [
                     "geo_area",
+                    "sex",
                     "year"
                 ],
                 "value": "vc_ihr_psrcn",
                 "resources": [
-                    "ddf--datapoints--vc_ihr_psrcn--by--geo_area--year"
+                    "ddf--datapoints--vc_ihr_psrcn--by--geo_area--sex--year"
                 ]
             },
             {
@@ -12769,11 +13338,12 @@
                 "primaryKey": [
                     "age",
                     "geo_area",
+                    "sex",
                     "year"
                 ],
                 "value": "vc_vaw_marr",
                 "resources": [
-                    "ddf--datapoints--vc_vaw_marr--by--age--geo_area--year"
+                    "ddf--datapoints--vc_vaw_marr--by--age--geo_area--sex--year"
                 ]
             },
             {

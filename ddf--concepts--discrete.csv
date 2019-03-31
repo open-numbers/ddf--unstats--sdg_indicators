@@ -3,6 +3,7 @@ age,entity_domain,Age
 bounds,entity_domain,Bounds
 cities,entity_domain,Cities
 description,string,Description
+disability_status,entity_domain,Disability Status
 education_level,entity_domain,Education Level
 freq,entity_domain,Freq
 geo_area,entity_domain,Geo Area
