@@ -8,7 +8,7 @@
     "description": "SDG indicators",
     "author": "Gapminder",
     "license": "CC-BY-4.0",
-    "created": "2019-05-19T03:45:42.541254+00:00",
+    "created": "2019-05-26T04:00:24.204721+00:00",
     "translations": [],
     "version": "0.0.1",
     "resources": [
@@ -4442,12 +4442,15 @@
             }
         },
         {
-            "name": "ddf--datapoints--sg_gen_parlnt--by--geo_area--year",
-            "path": "ddf--datapoints--sg_gen_parlnt--by--geo_area--year.csv",
+            "name": "ddf--datapoints--sg_gen_parlnt--by--geo_area--sex--year",
+            "path": "ddf--datapoints--sg_gen_parlnt--by--geo_area--sex--year.csv",
             "schema": {
                 "fields": [
                     {
                         "name": "geo_area"
+                    },
+                    {
+                        "name": "sex"
                     },
                     {
                         "name": "year"
@@ -4458,6 +4461,7 @@
                 ],
                 "primaryKey": [
                     "geo_area",
+                    "sex",
                     "year"
                 ]
             }
@@ -7758,12 +7762,15 @@
             }
         },
         {
-            "name": "ddf--datapoints--tm_tax_atrfd--by--geo_area--type_of_product--year",
-            "path": "ddf--datapoints--tm_tax_atrfd--by--geo_area--type_of_product--year.csv",
+            "name": "ddf--datapoints--tm_tax_atrfd--by--geo_area--tariff_regime_status--type_of_product--year",
+            "path": "ddf--datapoints--tm_tax_atrfd--by--geo_area--tariff_regime_status--type_of_product--year.csv",
             "schema": {
                 "fields": [
                     {
                         "name": "geo_area"
+                    },
+                    {
+                        "name": "tariff_regime_status"
                     },
                     {
                         "name": "type_of_product"
@@ -7777,6 +7784,7 @@
                 ],
                 "primaryKey": [
                     "geo_area",
+                    "tariff_regime_status",
                     "type_of_product",
                     "year"
                 ]
@@ -11429,11 +11437,12 @@
             {
                 "primaryKey": [
                     "geo_area",
+                    "sex",
                     "year"
                 ],
                 "value": "sg_gen_parlnt",
                 "resources": [
-                    "ddf--datapoints--sg_gen_parlnt--by--geo_area--year"
+                    "ddf--datapoints--sg_gen_parlnt--by--geo_area--sex--year"
                 ]
             },
             {
@@ -12904,12 +12913,13 @@
             {
                 "primaryKey": [
                     "geo_area",
+                    "tariff_regime_status",
                     "type_of_product",
                     "year"
                 ],
                 "value": "tm_tax_atrfd",
                 "resources": [
-                    "ddf--datapoints--tm_tax_atrfd--by--geo_area--type_of_product--year"
+                    "ddf--datapoints--tm_tax_atrfd--by--geo_area--tariff_regime_status--type_of_product--year"
                 ]
             },
             {
