@@ -1,6 +1,7 @@
 concept,concept_type,description,goal,indicator,name,target
 ag_fpa_cfpi,measure,Consumer Food Price Index,2,2.c.1,AG_FPA_CFPI,2.c
 ag_fpa_comm,measure,"Indicator of Food Price Anomalies (IFPA), by type of product",2,2.c.1,AG_FPA_COMM,2.c
+ag_lnd_dgrd,measure,Proportion of land that is degraded over total land area (%),15,15.3.1,AG_LND_DGRD,15.3
 ag_lnd_frst,measure,Forest area as a proportion of total land area (%),15,15.1.1,AG_LND_FRST,15.1
 ag_lnd_frstbiopha,measure,Above-ground biomass in forest per hectare (tonnes per hectare),15,15.2.1,AG_LND_FRSTBIOPHA,15.2
 ag_lnd_frstcert,measure,Forest area certified under an independently verified certification scheme (thousands of hectares),15,15.2.1,AG_LND_FRSTCERT,15.2
@@ -16,27 +17,29 @@ ag_prd_ortind,measure,Agriculture orientation index for government expenditures,
 ag_prd_xsubdy,measure,Agricultural export subsidies (millions of current United States dollars),2,2.b.1,AG_PRD_XSUBDY,2.b
 ag_xpd_agsgb,measure,Agriculture share of Government Expenditure (%),2,2.a.1,AG_XPD_AGSGB,2.a
 bx_trf_pwkr,measure,Volume of remittances (in United States dollars) as a proportion of total GDP (%),17,17.3.2,BX_TRF_PWKR,17.3
-dc_fta_total,measure,Total official development assistance (gross disbursement) for technical cooperation (millions of 2016 United States dollars),17,17.9.1,DC_FTA_TOTAL,17.9
-dc_oda_bdvdl,measure,"Total official development assistance for biodiversity, by donor countries (millions of constant 2016 United States dollars)","15, 15","15.a.1, 15.b.1",DC_ODA_BDVDL,"15.a, 15.b"
-dc_oda_bdvl,measure,"Total official development assistance for biodiversity, by recipient countries (millions of constant 2016 United States dollars)","15, 15","15.a.1, 15.b.1",DC_ODA_BDVL,"15.a, 15.b"
+dc_fta_total,measure,Total official development assistance (gross disbursement) for technical cooperation (millions of 2017 United States dollars),17,17.9.1,DC_FTA_TOTAL,17.9
+dc_oda_bdvdl,measure,"Total official development assistance for biodiversity, by donor countries (millions of constant 2017 United States dollars)","15, 15","15.a.1, 15.b.1",DC_ODA_BDVDL,"15.a, 15.b"
+dc_oda_bdvl,measure,"Total official development assistance for biodiversity, by recipient countries (millions of constant 2017 United States dollars)","15, 15","15.a.1, 15.b.1",DC_ODA_BDVL,"15.a, 15.b"
 dc_oda_ldcg,measure,"Net official development assistance (ODA) to LDCs as a percentage of OECD-DAC donors' GNI, by donor countries (%)",17,17.2.1,DC_ODA_LDCG,17.2
-dc_oda_ldcs,measure,"Net official development assistance (ODA) to LDCs from OECD-DAC countries, by donor countries (millions of constant 2016 United States dollars)",17,17.2.1,DC_ODA_LDCS,17.2
-dc_oda_lldc,measure,"Net official development assistance (ODA) to landlocked developing countries from OECD-DAC countries, by donor countries (millions of constant 2016 United States dollars)",17,17.2.1,DC_ODA_LLDC,17.2
+dc_oda_ldcs,measure,"Net official development assistance (ODA) to LDCs from OECD-DAC countries, by donor countries (millions of constant 2017 United States dollars)",17,17.2.1,DC_ODA_LDCS,17.2
+dc_oda_lldc,measure,"Net official development assistance (ODA) to landlocked developing countries from OECD-DAC countries, by donor countries (millions of constant 2017 United States dollars)",17,17.2.1,DC_ODA_LLDC,17.2
 dc_oda_lldcg,measure,"Net official development assistance (ODA) to landlocked developing countries as a percentage of OECD-DAC donors' GNI, by donor countries (%)",17,17.2.1,DC_ODA_LLDCG,17.2
-dc_oda_sids,measure,"Net official development assistance (ODA) to small island states (SIDS) from OECD-DAC countries, by donor countries (millions of constant 2016 United States dollars)",17,17.2.1,DC_ODA_SIDS,17.2
+dc_oda_sids,measure,"Net official development assistance (ODA) to small island states (SIDS) from OECD-DAC countries, by donor countries (millions of constant 2017 United States dollars)",17,17.2.1,DC_ODA_SIDS,17.2
 dc_oda_sidsg,measure,"Net official development assistance (ODA) to small island states (SIDS) as a percentage of OECD-DAC donors' GNI, by donor countries (%)",17,17.2.1,DC_ODA_SIDSG,17.2
 dc_oda_totg,measure,"Net official development assistance (ODA) as a percentage of OECD-DAC donors' GNI, by donor countries (%)",17,17.2.1,DC_ODA_TOTG,17.2
-dc_oda_totl,measure,"Net official development assistance (ODA) from OECD-DAC countries, by donor countries (millions of constant 2016 United States dollars)",17,17.2.1,DC_ODA_TOTL,17.2
-dc_tof_agrl,measure,"Total official flows (disbursements) for agriculture, by recipient countries (millions of constant 2016 United States dollars)",2,2.a.2,DC_TOF_AGRL,2.a
-dc_tof_hlthl,measure,"Total official development assistance to medical research and basic heath sectors, gross disbursement, by recipient countries (millions of constant 2016 United States dollars)",3,3.b.2,DC_TOF_HLTHL,3.b
-dc_tof_hlthnt,measure,"Total official development assistance to medical research and basic heath sectors, net disbursement, by recipient countries (millions of constant 2016 United States dollars)",3,3.b.2,DC_TOF_HLTHNT,3.b
-dc_tof_infral,measure,"Total official flows for infrastructure, by recipient countries (millions of constant 2016 United States dollars)",9,9.a.1,DC_TOF_INFRAL,9.a
-dc_tof_schipsl,measure,"Total official flows for scholarships, by recipient countries (millions of constant 2016 United States dollars)",4,4.b.1,DC_TOF_SCHIPSL,4.b
-dc_tof_trdcmdl,measure,"Total official flows (commitments) for Aid for Trade, by donor countries (millions of constant 2016 United States dollars)",8,8.a.1,DC_TOF_TRDCMDL,8.a
-dc_tof_trdcml,measure,"Total official flows (commitments) for Aid for Trade, by recipient countries (millions of constant 2016 United States dollars)",8,8.a.1,DC_TOF_TRDCML,8.a
-dc_tof_trddbmdl,measure,"Total official flows (disbursement) for Aid for Trade, by donor countries (millions of constant 2016 United States dollars)",8,8.a.1,DC_TOF_TRDDBMDL,8.a
-dc_tof_trddbml,measure,"Total official flows (disbursement) for Aid for Trade, by recipient countries (millions of constant 2016 United States dollars)",8,8.a.1,DC_TOF_TRDDBML,8.a
-dc_tof_washl,measure,"Total official development assistance (gross disbursement) for water supply and sanitation, by recipient countries (millions of constant 2016 United States dollars)",6,6.a.1,DC_TOF_WASHL,6.a
+dc_oda_totgge,measure,"Net official development assistance (ODA) as a percentage of OECD-DAC donors' GNI (grant equivalent methodology), by donor countries (%)",17,17.2.1,DC_ODA_TOTGGE,17.2
+dc_oda_totl,measure,"Net official development assistance (ODA) from OECD-DAC countries, by donor countries (millions of constant 2017 United States dollars)",17,17.2.1,DC_ODA_TOTL,17.2
+dc_oda_totlge,measure,"Net official development assistance (ODA) from OECD-DAC countries (grant equivalent methodology), by donor countries (millions of constant 2017 United States dollars)",17,17.2.1,DC_ODA_TOTLGE,17.2
+dc_tof_agrl,measure,"Total official flows (disbursements) for agriculture, by recipient countries (millions of constant 2017 United States dollars)",2,2.a.2,DC_TOF_AGRL,2.a
+dc_tof_hlthl,measure,"Total official development assistance to medical research and basic heath sectors, gross disbursement, by recipient countries (millions of constant 2017 United States dollars)",3,3.b.2,DC_TOF_HLTHL,3.b
+dc_tof_hlthnt,measure,"Total official development assistance to medical research and basic heath sectors, net disbursement, by recipient countries (millions of constant 2017 United States dollars)",3,3.b.2,DC_TOF_HLTHNT,3.b
+dc_tof_infral,measure,"Total official flows for infrastructure, by recipient countries (millions of constant 2017 United States dollars)",9,9.a.1,DC_TOF_INFRAL,9.a
+dc_tof_schipsl,measure,"Total official flows for scholarships, by recipient countries (millions of constant 2017 United States dollars)",4,4.b.1,DC_TOF_SCHIPSL,4.b
+dc_tof_trdcmdl,measure,"Total official flows (commitments) for Aid for Trade, by donor countries (millions of constant 2017 United States dollars)",8,8.a.1,DC_TOF_TRDCMDL,8.a
+dc_tof_trdcml,measure,"Total official flows (commitments) for Aid for Trade, by recipient countries (millions of constant 2017 United States dollars)",8,8.a.1,DC_TOF_TRDCML,8.a
+dc_tof_trddbmdl,measure,"Total official flows (disbursement) for Aid for Trade, by donor countries (millions of constant 2017 United States dollars)",8,8.a.1,DC_TOF_TRDDBMDL,8.a
+dc_tof_trddbml,measure,"Total official flows (disbursement) for Aid for Trade, by recipient countries (millions of constant 2017 United States dollars)",8,8.a.1,DC_TOF_TRDDBML,8.a
+dc_tof_washl,measure,"Total official development assistance (gross disbursement) for water supply and sanitation, by recipient countries (millions of constant 2017 United States dollars)",6,6.a.1,DC_TOF_WASHL,6.a
 dc_trf_tfdv,measure,"Total resource flows for development, by recipient and donor countries (millions of current United States dollars)",10,10.b.1,DC_TRF_TFDV,10.b
 dc_trf_totdl,measure,"Total assistance for development, by donor countries (millions of current United States dollars)",10,10.b.1,DC_TRF_TOTDL,10.b
 dc_trf_totl,measure,"Total assistance for development, by recipient countries (millions of current United States dollars)",10,10.b.1,DC_TRF_TOTL,10.b
@@ -45,6 +48,7 @@ eg_egy_clean,measure,Proportion of population with primary reliance on clean fue
 eg_egy_prim,measure,Energy intensity level of primary energy (megajoules per constant 2011 purchasing power parity GDP),7,7.3.1,EG_EGY_PRIM,7.3
 eg_elc_accs,measure,"Proportion of population with access to electricity, by urban/rural (%)",7,7.1.1,EG_ELC_ACCS,7.1
 eg_fec_rnew,measure,Renewable energy share in the total final energy consumption (%),7,7.2.1,EG_FEC_RNEW,7.2
+eg_iff_randn,measure,"International financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems (millions of constant 2016 United States dollars)",7,7.a.1,EG_IFF_RANDN,7.a
 eg_tba_h2co,measure,Proportion of transboundary basins (river and lake basins and aquifers) with an operational arrangement for water cooperation (%),6,6.5.2,EG_TBA_H2CO,6.5
 eg_tba_h2coaq,measure,Proportion of transboundary aquifers with an operational arrangement for water cooperation (%),6,6.5.2,EG_TBA_H2COAQ,6.5
 eg_tba_h2corl,measure,Proportion of transboundary river and lake basins with an operational arrangement for water cooperation (%),6,6.5.2,EG_TBA_H2CORL,6.5
@@ -60,6 +64,9 @@ en_lnd_slum,measure,Proportion of urban population living in slums (%),11,11.1.1
 en_mat_domcmpc,measure,"Domestic material consumption per capita, by type of raw material (tonnes)","12, 8","12.2.2, 8.4.2",EN_MAT_DOMCMPC,"12.2, 8.4"
 en_mat_domcmpg,measure,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2010 United States dollars)","12, 8","12.2.2, 8.4.2",EN_MAT_DOMCMPG,"12.2, 8.4"
 en_mat_domcmpt,measure,"Domestic material consumption, by type of raw material (tonnes)","12, 8","12.2.2, 8.4.2",EN_MAT_DOMCMPT,"12.2, 8.4"
+en_mat_ftprpc,measure,"Material footprint per capita, by type of raw material (tonnes)","12, 8","12.2.1, 8.4.1",EN_MAT_FTPRPC,"12.2, 8.4"
+en_mat_ftprpg,measure,"Material footprint per unit of GDP, by type of raw material (kilograms per constant 2010 United States dollar)","12, 8","12.2.1, 8.4.1",EN_MAT_FTPRPG,"12.2, 8.4"
+en_mat_ftprtn,measure,"Material footprint, by type of raw material (tonnes)","12, 8","12.2.1, 8.4.1",EN_MAT_FTPRTN,"12.2, 8.4"
 en_ref_wascol,measure,"Municipal Solid Waste collection coverage, by cities (%)",11,11.6.1,EN_REF_WASCOL,11.6
 en_wbe_ndetot,measure,Nationally derived total extent (square kilometres),6,6.6.1,EN_WBE_NDETOT,6.6
 en_wbe_ndopw,measure,Nationally derived extent of open water bodies (square kilometres),6,6.6.1,EN_WBE_NDOPW,6.6
@@ -82,14 +89,11 @@ er_cbd_absclrhs,measure,"Countries that have legislative, administrative and pol
 er_cbd_nagoya,measure,Countries that are parties to the Nagoya Protocol (1 = YES; 0 = NO),15,15.6.1,ER_CBD_NAGOYA,15.6
 er_cbd_orspgrfa,measure,"Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance  of the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO)",15,15.6.1,ER_CBD_ORSPGRFA,15.6
 er_cbd_ptypgrfa,measure,Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO),15,15.6.1,ER_CBD_PTYPGRFA,15.6
+er_cbd_smta,measure,Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the country (number),15,15.6.1,ER_CBD_SMTA,15.6
 er_ffs_prtspc,measure,Fossil-fuel pre-tax subsidies (consumption and production) per capita (current United States dollars),12,12.c.1,ER_FFS_PRTSPC,12.c
 er_ffs_prtspr,measure,Fossil-fuel pre-tax subsidies (consumption and production) as a proportion of total GDP (%),12,12.c.1,ER_FFS_PRTSPR,12.c
 er_ffs_prtsst,measure,Fossil-fuel pre-tax subsidies (consumption and production) (billions of current United States dollars),12,12.c.1,ER_FFS_PRTSST,12.c
-er_grf_animkpt,measure,Number of local breeds kept in the country,2,2.5.1,ER_GRF_ANIMKPT,2.5
 er_grf_animrcnt,measure,Proportion of local breeds for which sufficient genetic resources are stored for reconstitution (%),2,2.5.1,ER_GRF_ANIMRCNT,2.5
-er_grf_animrcntn,measure,Number of local breeds for which sufficient genetic resources are stored for reconstitution,2,2.5.1,ER_GRF_ANIMRCNTN,2.5
-er_grf_animstor,measure,Proportion of local breeds with genetic material stored (%),2,2.5.1,ER_GRF_ANIMSTOR,2.5
-er_grf_animstorn,measure,Number of local breeds with genetic material stored,2,2.5.1,ER_GRF_ANIMSTORN,2.5
 er_grf_plntstor,measure,Plant breeds for which sufficient genetic resources are stored (number),2,2.5.1,ER_GRF_PLNTSTOR,2.5
 er_h2o_fwtl,measure,Proportion of fish stocks within biologically sustainable levels (not overexploited) (%),14,14.4.1,ER_H2O_FWTL,14.4
 er_h2o_iwrmd,measure,Degree of integrated water resources management implementation (%),6,6.5.1,ER_H2O_IWRMD,6.5
@@ -106,25 +110,20 @@ er_mrn_mpa,measure,Average proportion of Marine Key Biodiversity Areas (KBAs) co
 er_mtn_grncov,measure,Mountain green cover area (square kilometres),15,15.4.2,ER_MTN_GRNCOV,15.4
 er_mtn_grncvi,measure,Mountain Green Cover Index,15,15.4.2,ER_MTN_GRNCVI,15.4
 er_mtn_totl,measure,Mountain area (square kilometres),15,15.4.2,ER_MTN_TOTL,15.4
-er_nrk_lbred,measure,Proportion of local breeds classified as known being at risk (%),2,2.5.2,ER_NRK_LBRED,2.5
-er_nrk_lbredn,measure,Local breeds classified as known being at risk (number),2,2.5.2,ER_NRK_LBREDN,2.5
 er_ptd_frwrt,measure,Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas (%),15,15.1.2,ER_PTD_FRWRT,15.1
 er_ptd_motn,measure,Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas (%),15,15.4.1,ER_PTD_MOTN,15.4
 er_ptd_terrs,measure,Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas (%),15,15.1.2,ER_PTD_TERRS,15.1
 er_rde_osex,measure,National ocean science expenditure as a share of total research and development funding (%),14,14.a.1,ER_RDE_OSEX,14.a
 er_reg_ssfrar,measure,Degree of application of a legal/regulatory/policy/institutional framework which recognizes and protects access rights for small-scale fisheries (level of implementation: 1 lowest to 5 highest),14,14.b.1,ER_REG_SSFRAR,14.b
 er_reg_unfcim,measure,"Progress by countries in the degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing (level of implementation: 1 lowest to 5 highest)",14,14.6.1,ER_REG_UNFCIM,14.6
-er_rsk_lbred,measure,Proportion of local breeds classified as known being not at risk (%),2,2.5.2,ER_RSK_LBRED,2.5
-er_rsk_lbredn,measure,Local breeds classified as known being not at risk (number),2,2.5.2,ER_RSK_LBREDN,2.5
+er_rsk_lbreds,measure,Proportion of local breeds classified as being at risk as a share of local breeds with known level of extinction risk (%),2,2.5.2,ER_RSK_LBREDS,2.5
 er_rsk_lsti,measure,Red List Index,15,15.5.1,ER_RSK_LSTI,15.5
-er_unk_lbred,measure,Proportion of local breeds classified as being at unknown level of risk of extinction (%),2,2.5.2,ER_UNK_LBRED,2.5
-er_unk_lbredn,measure,Local breeds classified as being at unknown level of risk of extinction (number),2,2.5.2,ER_UNK_LBREDN,2.5
 er_wat_part,measure,"Countries with users/communities participating in planning programs in water resources planning and management, by level of participation (3 = High; 2 = Moderate; 1 = Low; 0 = NA)",6,6.b.1,ER_WAT_PART,6.b
 er_wat_partic,measure,Proportion of countries with high level of users/communities participating in planning programs in water resources planning and management (%),6,6.b.1,ER_WAT_PARTIC,6.b
 er_wat_prdu,measure,"Countries with procedures in law or policy for participation by service users/communities in planning program in water resources planning and management, by level of definition in procedures (10 = Clearly defined; 5 = Not clearly defined ; 0 = NA)",6,6.b.1,ER_WAT_PRDU,6.b
 er_wat_proced,measure,Proportion of countries with clearly defined procedures in law or policy for participation by service users/communities in planning program in water resources planning and management (%),6,6.b.1,ER_WAT_PROCED,6.b
 fb_atm_totl,measure,"Number of automated teller machines (ATMs) per 100,000 adults",8,8.10.1,FB_ATM_TOTL,8.10
-fb_bnk_accss,measure,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider (% of adults aged 15 years and older),8,8.10.2,FB_BNK_ACCSS,8.10
+fb_bnk_accss,measure,"Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",8,8.10.2,FB_BNK_ACCSS,8.10
 fb_cbk_brch,measure,"Number of commercial bank branches per 100,000 adults",8,8.10.1,FB_CBK_BRCH,8.10
 fc_acc_ssid,measure,Proportion of small-scale industries with a loan or line of credit (%),9,9.3.2,FC_ACC_SSID,9.3
 fi_fsi_fsanl,measure,Non-performing loans to total gross loans (%),10,10.5.1,FI_FSI_FSANL,10.5
@@ -136,23 +135,26 @@ fi_fsi_fsls,measure,Liquid assets to short term liabilities (%),10,10.5.1,FI_FSI
 fi_fsi_fssno,measure,Net open position in foreign exchange to capital (%),10,10.5.1,FI_FSI_FSSNO,10.5
 gb_pop_scierd,measure,"Researchers (in full-time equivalent) per million inhabitants (per 1,000,000 population)",9,9.5.2,GB_POP_SCIERD,9.5
 gb_xpd_rsdv,measure,Research and development expenditure as a proportion of GDP (%),9,9.5.1,GB_XPD_RSDV,9.5
+gc_gob_taxd,measure,Proportion of domestic budget funded by domestic taxes (% of GDP),17,17.1.2,GC_GOB_TAXD,17.1
 gf_xpd_gbpc,measure,Primary government expenditures as a proportion of original approved budget (%),16,16.6.1,GF_XPD_GBPC,16.6
+gr_g14_gdp,measure,Total government revenue (budgetary central government) as a proportion of GDP (%),17,17.1.1,GR_G14_GDP,17.1
 ic_frm_brib,measure,Bribery incidence (% of firms experiencing at least one bribe payment request),16,16.5.2,IC_FRM_BRIB,16.5
 ic_gen_mgtl,measure,Proportion of women in managerial positions (%),5,5.5.2,IC_GEN_MGTL,5.5
 ic_gen_mgtn,measure,Proportion of women in senior and middle management positions (%),5,5.5.2,IC_GEN_MGTN,5.5
 is_rdp_frgvol,measure,"Freight volume, by mode of transport (tonne kilometres)",9,9.1.2,IS_RDP_FRGVOL,9.1
 is_rdp_pfvol,measure,"Passenger volume (passenger kilometres), by mode of transport",9,9.1.2,IS_RDP_PFVOL,9.1
-is_trp_mailtkm,measure,"Mail volume, by mode of transport (tonne kilometres)",9,9.1.2,IS_TRP_MAILTKM,9.1
 it_mob_ntwk,measure,"Proportion of population covered by a mobile network, by technology (%)",9,9.c.1,IT_MOB_NTWK,9.c
 it_mob_own,measure,"Proportion of individuals who own a mobile telephone, by sex (%)",5,5.b.1,IT_MOB_OWN,5.b
 it_net_bbn,measure,"Number of fixed Internet broadband subscriptions, by speed (number)",17,17.6.2,IT_NET_BBN,17.6
 it_net_bbp,measure,"Fixed Internet broadband subscriptions per 100 inhabitants, by speed (per 100 inhabitants)",17,17.6.2,IT_NET_BBP,17.6
 it_use_ii99,measure,Internet users per 100 inhabitants,17,17.8.1,IT_USE_ii99,17.8
+iu_cor_brib,measure,"Prevalence rate of bribery, by sex (%)",16,16.5.1,IU_COR_BRIB,16.5
 nv_ind_manf,measure,Manufacturing value added as a proportion of GDP (%),9,9.2.1,NV_IND_MANF,9.2
 nv_ind_manfpc,measure,Manufacturing value added per capita (constant 2010 United States dollars),9,9.2.1,NV_IND_MANFPC,9.2
 nv_ind_ssis,measure,Proportion of small-scale industries in total industry value added (%),9,9.3.1,NV_IND_SSIS,9.3
 nv_ind_tech,measure,Proportion of medium and high-tech industry value added in total value added (%),9,9.b.1,NV_IND_TECH,9.b
 ny_gdp_pcap,measure,Annual growth rate of real GDP per capita (%),8,8.1.1,NY_GDP_PCAP,8.1
+pd_agr_ssfp,measure,"Productivity of small-scale food producers (agricultural output per labour day, PPP) (constant 2011 international $)",2,2.3.1,PD_AGR_SSFP,2.3
 sd_xpd_esed,measure,"Proportion of total government spending on essential services, education (%)",1,1.a.2,SD_XPD_ESED,1.a
 se_acc_comp,measure,"Schools with access to computers for pedagogical purposes, by education level (%)",4,4.a.1,SE_ACC_COMP,4.a
 se_acc_dwat,measure,"Schools with access to basic drinking water, by education level (%)",4,4.a.1,SE_ACC_DWAT,4.a
@@ -183,13 +185,14 @@ se_rea_prof,measure,"Minimum proficiency in reading, by education level and sex 
 se_sep_funprof,measure,Low to high socio-economic parity status index achieving at least a fixed level of proficiency in functional numeracy skills  (ratio),4,4.5.1,SE_SEP_FUNPROF,4.5
 se_sep_matach,measure,"Low to high socio-economic parity status index for achievement in mathematics, by education level (ratio)",4,4.5.1,SE_SEP_MATACH,4.5
 se_sep_reaach,measure,"Low to high socio-economic parity status index for achievement in reading, by education level (ratio)",4,4.5.1,SE_SEP_REAACH,4.5
-se_tra_grdl,measure,"Proportion of teachers who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country, by education level (%)",4,4.c.1,SE_TRA_GRDL,4.c
+se_tra_grdl,measure,"Proportion of teachers who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country, by sex and education level (%)",4,4.c.1,SE_TRA_GRDL,4.c
 se_urp_matach,measure,"Rural to urban parity index for achievement in mathematics, by education level (ratio)",4,4.5.1,SE_URP_MATACH,4.5
 se_urp_reaach,measure,"Rural to urban parity index for achievement in reading, by education level (ratio)",4,4.5.1,SE_URP_REAACH,4.5
-sg_dsr_legreg,measure,Countries with legislative and/or regulatory provisions been made for managing disaster risk (1 = YES; 0 = NO),"1, 11, 13","1.5.3, 11.b.1, 13.1.2",SG_DSR_LEGREG,"1.5, 11.b, 13.1"
 sg_dsr_lgrgsr,measure,Score of adoption and implementation of national DRR strategies in line with the Sendai Framework,"1, 11, 13","1.5.3, 11.b.1, 13.1.2",SG_DSR_LGRGSR,"1.5, 11.b, 13.1"
 sg_dsr_siln,measure,Number of local governments that adopt and implement local DRR strategies in line with national strategies (number),"1, 13, 11","1.5.4, 13.1.3, 11.b.2",SG_DSR_SILN,"1.5, 13.1, 11.b"
 sg_dsr_sils,measure,Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies (%),"1, 13, 11","1.5.4, 13.1.3, 11.b.2",SG_DSR_SILS,"1.5, 13.1, 11.b"
+sg_gen_eqpwn,measure,Proportion of countries with systems to track and make public allocations for gender equality and women's empowerment (%),5,5.c.1,SG_GEN_EQPWN,5.c
+sg_gen_locgels,measure,Proportion of elected seats held by women in deliberative bodies of local government (%),5,5.5.1,SG_GEN_LOCGELS,5.5
 sg_gen_parl,measure,Proportion of seats held by women in national parliaments (% of total number of seats),5,5.5.1,SG_GEN_PARL,5.5
 sg_gen_parln,measure,Number of seats held by women in national parliaments (number),5,5.5.1,SG_GEN_PARLN,5.5
 sg_gen_parlnt,measure,Number of seats in national parliaments (number),5,5.5.1,SG_GEN_PARLNT,5.5
@@ -201,6 +204,10 @@ sg_haz_cmrstholm,measure,Compliance with the Stockholm Convention on hazardous w
 sg_inf_accss,measure,"Countries that adopt and implement constitutional, statutory and/or policy guarantees for public access to information",16,16.10.2,SG_INF_ACCSS,16.10
 sg_int_mbrdev,measure,"Proportion of members of developing countries in international organizations, by organization (%)","10, 16","10.6.1, 16.8.1",SG_INT_MBRDEV,"10.6, 16.8"
 sg_int_vrtdev,measure,"Proportion of voting rights of developing countries in international organizations, by organization (%)","10, 16","10.6.1, 16.8.1",SG_INT_VRTDEV,"10.6, 16.8"
+sg_lgl_geneqemp,measure,"Legal frameworks that promote, enforce and monitor gender equality (percentage of achievement, 0 - 100) -- Area 3: employment and economic benefits",5,5.1.1,SG_LGL_GENEQEMP,5.1
+sg_lgl_geneqlfp,measure,"Legal frameworks that promote, enforce and monitor gender equality (percentage of achievement, 0 - 100) -- Area 1: overarching legal frameworks and public life",5,5.1.1,SG_LGL_GENEQLFP,5.1
+sg_lgl_geneqmar,measure,"Legal frameworks that promote, enforce and monitor gender equality (percentage of achievement, 0 - 100) -- Area 4: marriage and family",5,5.1.1,SG_LGL_GENEQMAR,5.1
+sg_lgl_geneqvaw,measure,"Legal frameworks that promote, enforce and monitor gender equality (percentage of achievement, 0 - 100) --  Area 2: violence against women",5,5.1.1,SG_LGL_GENEQVAW,5.1
 sg_nhr_impl,measure,Proportion of countries with independent National Human Rights Institutions in compliance with the Paris Principles (%),16,16.a.1,SG_NHR_IMPL,16.a
 sg_nhr_impln,measure,"Countries with National Human Rights Institutions in compliance with the Paris Principles, A status (1 = YES; 0 = NO)",16,16.a.1,SG_NHR_IMPLN,16.a
 sg_nhr_intexst,measure,Proportion of countries that applied for accreditation as independent National Human Rights Institutions in compliance with the Paris Principles (%),16,16.a.1,SG_NHR_INTEXST,16.a
@@ -259,7 +266,6 @@ sh_hap_asmort,measure,"Age-standardized mortality rate attributed to household a
 sh_hap_hbsag,measure,Prevalence of hepatitis B surface antigen (HBsAg) (%),3,3.3.4,SH_HAP_HBSAG,3.3
 sh_hap_mort,measure,"Crude death rate attributed to household air pollution (deaths per 100,000 population)",3,3.9.1,SH_HAP_MORT,3.9
 sh_hiv_incd,measure,"Number of new HIV infections per 1,000 uninfected population, by sex and age (per 1,000 uninfected population)",3,3.3.1,SH_HIV_INCD,3.3
-sh_ihr_capprd,measure,Average of 13 International Health Regulations (IHR) core capacities,3,3.d.1,SH_IHR_CAPPRD,3.d
 sh_ihr_caps,measure,"International Health Regulations (IHR) capacity, by type of IHR capacity (%)",3,3.d.1,SH_IHR_CAPS,3.d
 sh_med_heawor,measure,"Health worker density, by type of occupation (per 10,000 population)",3,3.c.1,SH_MED_HEAWOR,3.c
 sh_prv_smok,measure,"Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%)",3,3.a.1,SH_PRV_SMOK,3.a
@@ -287,21 +293,22 @@ sh_tbs_incid,measure,"Tuberculosis incidence (per 100,000 population)",3,3.3.2,S
 sh_trp_intvn,measure,Number of people requiring interventions against neglected tropical diseases (number),3,3.3.5,SH_TRP_INTVN,3.3
 sh_xpd_earn10,measure,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income (%),3,3.8.2,SH_XPD_EARN10,3.8
 sh_xpd_earn25,measure,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income (%),3,3.8.2,SH_XPD_EARN25,3.8
-si_cov_benfts,measure,[ILO] Proportion of population covered by at least one social protection benefit (%),1,1.3.1,SI_COV_BENFTS,1.3
-si_cov_chld,measure,[ILO] Proportion of children/households receiving child/family cash benefit (%),1,1.3.1,SI_COV_CHLD,1.3
-si_cov_disab,measure,[ILO] Proportion of population with severe disabilities receiving disability cash benefit (%),1,1.3.1,SI_COV_DISAB,1.3
+si_agr_ssfp,measure,"Average income of small-scale food producers, PPP (constant 2011 international $)",2,2.3.2,SI_AGR_SSFP,2.3
+si_cov_benfts,measure,"[ILO] Proportion of population covered by at least one social protection benefit, by sex (%)",1,1.3.1,SI_COV_BENFTS,1.3
+si_cov_chld,measure,"[ILO] Proportion of children/households receiving child/family cash benefit, by sex (%)",1,1.3.1,SI_COV_CHLD,1.3
+si_cov_disab,measure,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",1,1.3.1,SI_COV_DISAB,1.3
 si_cov_lmkt,measure,[World Bank] Proportion of population covered by labour market programs (%),1,1.3.1,SI_COV_LMKT,1.3
 si_cov_lmktpq,measure,[World Bank] Poorest quintile covered by labour market programs (%) ,1,1.3.1,SI_COV_LMKTPQ,1.3
 si_cov_matnl,measure,[ILO] Proportion of mothers with newborns receiving maternity cash benefit (%),1,1.3.1,SI_COV_MATNL,1.3
 si_cov_pensn,measure,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",1,1.3.1,SI_COV_PENSN,1.3
-si_cov_poor,measure,[ILO] Proportion of poor population receiving social assistance cash benefit (%),1,1.3.1,SI_COV_POOR,1.3
+si_cov_poor,measure,"[ILO] Proportion of poor population receiving social assistance cash benefit, by sex (%)",1,1.3.1,SI_COV_POOR,1.3
 si_cov_socast,measure,[World Bank] Proportion of population covered by social assistance programs (%),1,1.3.1,SI_COV_SOCAST,1.3
 si_cov_socastpq,measure,[World Bank] Poorest quintile covered by social assistance programs (%),1,1.3.1,SI_COV_SOCASTPQ,1.3
 si_cov_socins,measure,[World Bank] Proportion of population covered by social insurance programs (%),1,1.3.1,SI_COV_SOCINS,1.3
 si_cov_socinspq,measure,[World Bank] Poorest quintile covered by social insurance programs (%),1,1.3.1,SI_COV_SOCINSPQ,1.3
 si_cov_uemp,measure,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",1,1.3.1,SI_COV_UEMP,1.3
-si_cov_vuln,measure,[ILO] Proportion of vulnerable population receiving social assistance cash benefit (%),1,1.3.1,SI_COV_VULN,1.3
-si_cov_wkinjry,measure,[ILO] Proportion of employed population covered in the event of work injury (%),1,1.3.1,SI_COV_WKINJRY,1.3
+si_cov_vuln,measure,"[ILO] Proportion of vulnerable population receiving social assistance cash benefit, by sex (%)",1,1.3.1,SI_COV_VULN,1.3
+si_cov_wkinjry,measure,"[ILO] Proportion of employed population covered in the event of work injury, by sex (%)",1,1.3.1,SI_COV_WKINJRY,1.3
 si_hei_btn40,measure,Growth rates of household expenditure or income per capita among the bottom 40 per cent of the population (%),10,10.1.1,SI_HEI_BTN40,10.1
 si_hei_totl,measure,Growth rates of household expenditure or income per capita (%),10,10.1.1,SI_HEI_TOTL,10.1
 si_pov_day1,measure,Proportion of population below international poverty line (%),1,1.1.1,SI_POV_DAY1,1.1
@@ -325,6 +332,8 @@ sl_tlf_uem,measure,"Unemployment rate, by sex and age (%)",8,8.5.2,SL_TLF_UEM,8.
 sl_tlf_uemdis,measure,"Unemployment rate, by sex and disability (%)",8,8.5.2,SL_TLF_UEMDIS,8.5
 sn_itk_defc,measure,Prevalence of undernourishment (%),2,2.1.1,SN_ITK_DEFC,2.1
 sn_itk_defcn,measure,Number of undernourish people (millions),2,2.1.1,SN_ITK_DEFCN,2.1
+sp_acs_bsrvh2o,measure,"Proportion of population using basic drinking water services, by location (%)",1,1.4.1,SP_ACS_BSRVH2O,1.4
+sp_acs_bsrvsan,measure,"Proportion of population using basic sanitation services, by location (%)",1,1.4.1,SP_ACS_BSRVSAN,1.4
 sp_dyn_adkl,measure,"Adolescent birth rate (per 1,000 women aged 15-19 years)",3,3.7.2,SP_DYN_ADKL,3.7
 sp_dyn_mrbf15,measure,Proportion of women aged 20-24 years who were married or in a union before age 15 (%),5,5.3.1,SP_DYN_MRBF15,5.3
 sp_dyn_mrbf18,measure,Proportion of women aged 20-24 years who were married or in a union before age 18 (%),5,5.3.1,SP_DYN_MRBF18,5.3
@@ -343,10 +352,9 @@ vc_dsr_cdan,measure,Number of damaged critical infrastructure attributed to disa
 vc_dsr_cdyn,measure,Number of other destroyed or damaged critical infrastructure units and facilities attributed to disasters (number),11,11.5.2,VC_DSR_CDYN,11.5
 vc_dsr_chln,measure,Direct economic loss to cultural heritage damaged or destroyed attributed to disasters (millions of current United States dollars),"1, 11","1.5.2, 11.5.2",VC_DSR_CHLN,"1.5, 11.5"
 vc_dsr_ciln,measure,Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters (millions of current United States dollars),"1, 11","1.5.2, 11.5.2",VC_DSR_CILN,"1.5, 11.5"
-vc_dsr_dadn,measure,Number damaged dwellings attributed to disasters (number),"1, 11, 13","1.5.1, 11.5.1, 13.1.1",VC_DSR_DADN,"1.5, 11.5, 13.1"
 vc_dsr_daff,measure,"Number of directly affected persons attributed to disasters per 100,000 population (number)","1, 11, 13","1.5.1, 11.5.1, 13.1.1",VC_DSR_DAFF,"1.5, 11.5, 13.1"
 vc_dsr_ddhn,measure,"Number damaged dwellings attributed to disasters, by hazard type (number)","1, 11, 13","1.5.1, 11.5.1, 13.1.1",VC_DSR_DDHN,"1.5, 11.5, 13.1"
-vc_dsr_dydn,measure,Number destroyed dwellings attributed to disasters (number),"1, 11, 13","1.5.1, 11.5.1, 13.1.1",VC_DSR_DYDN,"1.5, 11.5, 13.1"
+vc_dsr_ddpa,measure,Direct economic loss to other damaged or destroyed productive assets attributed to disasters (current United States dollars),"1, 11","1.5.2, 11.5.2",VC_DSR_DDPA,"1.5, 11.5"
 vc_dsr_dyhn,measure,"Number destroyed dwellings attributed to disasters, by hazard type (number)","1, 11, 13","1.5.1, 11.5.1, 13.1.1",VC_DSR_DYHN,"1.5, 11.5, 13.1"
 vc_dsr_efdn,measure,Number of destroyed or damaged educational facilities attributed to disasters (number),11,11.5.2,VC_DSR_EFDN,11.5
 vc_dsr_esdn,measure,Number of disruptions to educational services attributed to disasters (number),11,11.5.2,VC_DSR_ESDN,11.5
@@ -366,11 +374,22 @@ vc_dsr_obdn,measure,Number of disruptions to other basic services attributed to 
 vc_dsr_pdan,measure,Number of people whose damaged dwellings were attributed to disasters (number),"1, 11, 13","1.5.1, 11.5.1, 13.1.1",VC_DSR_PDAN,"1.5, 11.5, 13.1"
 vc_dsr_pdln,measure,"Number of people whose livelihoods were disrupted or destroyed, attributed to disasters (number)","1, 11, 13","1.5.1, 11.5.1, 13.1.1",VC_DSR_PDLN,"1.5, 11.5, 13.1"
 vc_dsr_pdyn,measure,Number of people whose destroyed dwellings were attributed to disasters (number),"1, 11, 13","1.5.1, 11.5.1, 13.1.1",VC_DSR_PDYN,"1.5, 11.5, 13.1"
+vc_htf_detv,measure,"Detected victims of human trafficking, by age and sex (number)",16,16.2.2,VC_HTF_DETV,16.2
+vc_htf_detvfl,measure,"Detected victims of human trafficking for forced labour, servitude and slavery, by age and sex (number)",16,16.2.2,VC_HTF_DETVFL,16.2
+vc_htf_detvog,measure,"Detected victims of human trafficking for removal of organ, by age and sex (number)",16,16.2.2,VC_HTF_DETVOG,16.2
+vc_htf_detvop,measure,"Detected victims of human trafficking for other purposes, by age and sex (number)",16,16.2.2,VC_HTF_DETVOP,16.2
+vc_htf_detvsx,measure,"Detected victims of human trafficking for sexual exploitaton, by age and sex (number)",16,16.2.2,VC_HTF_DETVSX,16.2
 vc_ihr_psrc,measure,"Number of victims of intentional homicide per 100,000 population, by sex (victims per 100,000 population)",16,16.1.1,VC_IHR_PSRC,16.1
 vc_ihr_psrcn,measure,"Number of victims of intentional homicide, by sex (number)",16,16.1.1,VC_IHR_PSRCN,16.1
+vc_prr_phyv,measure,"Police reporting rate for physical assault, by sex (%)",16,16.3.1,VC_PRR_PHYV,16.3
+vc_prr_robb,measure,"Police reporting rate for robbery, by sex (%)",16,16.3.1,VC_PRR_ROBB,16.3
+vc_prr_sexv,measure,"Police reporting rate for sexual assault, by sex (%)",16,16.3.1,VC_PRR_SEXV,16.3
 vc_prs_unsec,measure,Unsentenced detainees as a proportion of overall prison population (%),16,16.3.2,VC_PRS_UNSEC,16.3
-vc_vaw_dist,measure,Age and sex distribution of detected victims of trafficking in persons (%),16,16.2.2,VC_VAW_DIST,16.2
+vc_sns_waln,measure,Proportion of population that feel safe walking alone around the area they live (%),16,16.1.4,VC_SNS_WALN,16.1
 vc_vaw_marr,measure,"Proportion of ever-partnered women and girls subjected to physical and/or sexual violence by a current or former intimate partner in the previous 12 months, by age (%)",5,5.2.1,VC_VAW_MARR,5.2
 vc_vaw_mtuhra,measure,"Number of cases of killings of human rights defenders, journalists and trade unionists",16,16.10.1,VC_VAW_MTUHRA,16.10
 vc_vaw_phypyv,measure,Proportion of children aged 1-14 years who experienced physical punishment and/or psychological aggression by caregivers in last month (% of children aged 1-14 years),16,16.2.1,VC_VAW_PHYPYV,16.2
 vc_vaw_sxvln,measure,"Proportion of population aged 18-29 years who experienced sexual violence by age 18, by sex (% of population aged 18-29)",16,16.2.3,VC_VAW_SXVLN,16.2
+vc_vov_phyl,measure,"Proportion of population subjected to physical violence in the previous 12 months, by sex (%)",16,16.1.3,VC_VOV_PHYL,16.1
+vc_vov_robb,measure,"Proportion of population subjected to robbery in the previous 12 months, by sex (%)",16,16.1.3,VC_VOV_ROBB,16.1
+vc_vov_sexl,measure,"Proportion of population subjected to sexual violence in the previous 12 months, by sex (%)",16,16.1.3,VC_VOV_SEXL,16.1

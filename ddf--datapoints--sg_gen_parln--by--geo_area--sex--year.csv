@@ -18,6 +18,7 @@ geo_area,sex,year,sg_gen_parln
 1,female,2016,8837
 1,female,2017,9170
 1,female,2018,9066
+1,female,2019,9459
 4,female,2006,68
 4,female,2007,68
 4,female,2008,67
@@ -50,6 +51,7 @@ geo_area,sex,year,sg_gen_parln
 5,female,2016,436
 5,female,2017,470
 5,female,2018,446
+5,female,2019,511
 8,female,2000,8
 8,female,2001,8
 8,female,2002,8
@@ -69,6 +71,7 @@ geo_area,sex,year,sg_gen_parln
 8,female,2016,29
 8,female,2017,32
 8,female,2018,39
+8,female,2019,41
 9,female,2000,86
 9,female,2001,81
 9,female,2002,87
@@ -88,6 +91,7 @@ geo_area,sex,year,sg_gen_parln
 9,female,2016,101
 9,female,2017,113
 9,female,2018,116
+9,female,2019,122
 11,female,2000,133
 11,female,2001,145
 11,female,2002,154
@@ -107,6 +111,7 @@ geo_area,sex,year,sg_gen_parln
 11,female,2016,318
 11,female,2017,348
 11,female,2018,350
+11,female,2019,354
 12,female,2000,12
 12,female,2001,13
 12,female,2002,13
@@ -126,6 +131,7 @@ geo_area,sex,year,sg_gen_parln
 12,female,2016,146
 12,female,2017,146
 12,female,2018,119
+12,female,2019,119
 13,female,2000,154
 13,female,2001,139
 13,female,2002,149
@@ -145,6 +151,7 @@ geo_area,sex,year,sg_gen_parln
 13,female,2016,364
 13,female,2017,371
 13,female,2018,365
+13,female,2019,407
 14,female,2000,324
 14,female,2001,365
 14,female,2002,411
@@ -164,6 +171,7 @@ geo_area,sex,year,sg_gen_parln
 14,female,2016,1103
 14,female,2017,1178
 14,female,2018,1186
+14,female,2019,1205
 15,female,2000,70
 15,female,2001,71
 15,female,2002,71
@@ -183,6 +191,7 @@ geo_area,sex,year,sg_gen_parln
 15,female,2016,530
 15,female,2017,544
 15,female,2018,517
+15,female,2019,530
 17,female,2000,83
 17,female,2001,84
 17,female,2002,73
@@ -202,6 +211,7 @@ geo_area,sex,year,sg_gen_parln
 17,female,2016,270
 17,female,2017,284
 17,female,2018,270
+17,female,2019,278
 18,female,2000,149
 18,female,2001,150
 18,female,2002,150
@@ -221,6 +231,7 @@ geo_area,sex,year,sg_gen_parln
 18,female,2016,251
 18,female,2017,250
 18,female,2018,252
+18,female,2019,255
 20,female,2000,2
 20,female,2001,2
 20,female,2002,4
@@ -240,6 +251,7 @@ geo_area,sex,year,sg_gen_parln
 20,female,2016,11
 20,female,2017,9
 20,female,2018,9
+20,female,2019,9
 21,female,2000,120
 21,female,2001,123
 21,female,2002,123
@@ -259,6 +271,7 @@ geo_area,sex,year,sg_gen_parln
 21,female,2016,172
 21,female,2017,171
 21,female,2018,175
+21,female,2019,192
 24,female,2000,34
 24,female,2001,34
 24,female,2002,34
@@ -278,6 +291,7 @@ geo_area,sex,year,sg_gen_parln
 24,female,2016,81
 24,female,2017,84
 24,female,2018,67
+24,female,2019,66
 28,female,2000,1
 28,female,2001,1
 28,female,2002,1
@@ -297,6 +311,7 @@ geo_area,sex,year,sg_gen_parln
 28,female,2016,2
 28,female,2017,2
 28,female,2018,2
+28,female,2019,2
 29,female,2000,230
 29,female,2001,232
 29,female,2002,236
@@ -316,6 +331,7 @@ geo_area,sex,year,sg_gen_parln
 29,female,2016,390
 29,female,2017,410
 29,female,2018,410
+29,female,2019,436
 30,female,2000,828
 30,female,2001,847
 30,female,2002,847
@@ -335,6 +351,7 @@ geo_area,sex,year,sg_gen_parln
 30,female,2016,916
 30,female,2017,919
 30,female,2018,932
+30,female,2019,965
 31,female,2000,13
 31,female,2001,13
 31,female,2002,13
@@ -354,6 +371,7 @@ geo_area,sex,year,sg_gen_parln
 31,female,2016,21
 31,female,2017,21
 31,female,2018,21
+31,female,2019,20
 32,female,2000,72
 32,female,2001,68
 32,female,2002,79
@@ -373,6 +391,7 @@ geo_area,sex,year,sg_gen_parln
 32,female,2016,92
 32,female,2017,100
 32,female,2018,100
+32,female,2019,99
 34,female,2000,121
 34,female,2001,104
 34,female,2002,103
@@ -392,6 +411,7 @@ geo_area,sex,year,sg_gen_parln
 34,female,2016,482
 34,female,2017,489
 34,female,2018,319
+34,female,2019,337
 35,female,2000,255
 35,female,2001,284
 35,female,2002,301
@@ -411,6 +431,7 @@ geo_area,sex,year,sg_gen_parln
 35,female,2016,477
 35,female,2017,526
 35,female,2018,521
+35,female,2019,532
 36,female,2000,33
 36,female,2001,34
 36,female,2002,38
@@ -430,6 +451,7 @@ geo_area,sex,year,sg_gen_parln
 36,female,2016,40
 36,female,2017,43
 36,female,2018,43
+36,female,2019,45
 39,female,2000,257
 39,female,2001,312
 39,female,2002,325
@@ -449,6 +471,7 @@ geo_area,sex,year,sg_gen_parln
 39,female,2016,738
 39,female,2017,748
 39,female,2018,759
+39,female,2019,800
 40,female,2000,49
 40,female,2001,49
 40,female,2002,49
@@ -468,6 +491,7 @@ geo_area,sex,year,sg_gen_parln
 40,female,2016,56
 40,female,2017,56
 40,female,2018,63
+40,female,2019,68
 44,female,2000,6
 44,female,2001,6
 44,female,2002,6
@@ -487,6 +511,7 @@ geo_area,sex,year,sg_gen_parln
 44,female,2016,5
 44,female,2017,5
 44,female,2018,5
+44,female,2019,5
 48,female,2003,0
 48,female,2004,0
 48,female,2005,0
@@ -503,6 +528,7 @@ geo_area,sex,year,sg_gen_parln
 48,female,2016,3
 48,female,2017,3
 48,female,2018,3
+48,female,2019,6
 50,female,2000,30
 50,female,2001,6
 50,female,2002,6
@@ -520,6 +546,7 @@ geo_area,sex,year,sg_gen_parln
 50,female,2016,70
 50,female,2017,71
 50,female,2018,71
+50,female,2019,72
 51,female,2000,4
 51,female,2001,4
 51,female,2002,4
@@ -539,6 +566,7 @@ geo_area,sex,year,sg_gen_parln
 51,female,2016,14
 51,female,2017,13
 51,female,2018,19
+51,female,2019,32
 52,female,2000,3
 52,female,2001,3
 52,female,2002,3
@@ -558,6 +586,7 @@ geo_area,sex,year,sg_gen_parln
 52,female,2016,5
 52,female,2017,5
 52,female,2018,5
+52,female,2019,6
 53,female,2000,68
 53,female,2001,71
 53,female,2002,75
@@ -577,6 +606,7 @@ geo_area,sex,year,sg_gen_parln
 53,female,2016,78
 53,female,2017,84
 53,female,2018,89
+53,female,2019,93
 54,female,2000,11
 54,female,2001,3
 54,female,2002,6
@@ -596,6 +626,7 @@ geo_area,sex,year,sg_gen_parln
 54,female,2016,12
 54,female,2017,12
 54,female,2018,9
+54,female,2019,11
 56,female,2000,35
 56,female,2001,35
 56,female,2002,35
@@ -615,6 +646,7 @@ geo_area,sex,year,sg_gen_parln
 56,female,2016,59
 56,female,2017,57
 56,female,2018,57
+56,female,2019,57
 57,female,2000,3
 57,female,2001,3
 57,female,2002,3
@@ -634,6 +666,7 @@ geo_area,sex,year,sg_gen_parln
 57,female,2016,7
 57,female,2017,10
 57,female,2018,10
+57,female,2019,10
 61,female,2000,4
 61,female,2001,4
 61,female,2002,3
@@ -653,6 +686,7 @@ geo_area,sex,year,sg_gen_parln
 61,female,2016,4
 61,female,2017,7
 61,female,2018,8
+61,female,2019,8
 62,female,2000,165
 62,female,2001,153
 62,female,2002,156
@@ -672,6 +706,7 @@ geo_area,sex,year,sg_gen_parln
 62,female,2016,601
 62,female,2017,609
 62,female,2018,439
+62,female,2019,456
 64,female,2000,3
 64,female,2001,14
 64,female,2002,14
@@ -691,6 +726,7 @@ geo_area,sex,year,sg_gen_parln
 64,female,2016,4
 64,female,2017,4
 64,female,2018,4
+64,female,2019,7
 68,female,2000,15
 68,female,2001,15
 68,female,2002,15
@@ -710,6 +746,7 @@ geo_area,sex,year,sg_gen_parln
 68,female,2016,69
 68,female,2017,69
 68,female,2018,69
+68,female,2019,69
 70,female,2000,3
 70,female,2001,3
 70,female,2002,7
@@ -729,6 +766,7 @@ geo_area,sex,year,sg_gen_parln
 70,female,2016,9
 70,female,2017,9
 70,female,2018,9
+70,female,2019,9
 72,female,2000,8
 72,female,2001,8
 72,female,2002,8
@@ -748,6 +786,7 @@ geo_area,sex,year,sg_gen_parln
 72,female,2016,6
 72,female,2017,6
 72,female,2018,6
+72,female,2019,6
 76,female,2000,29
 76,female,2001,29
 76,female,2002,35
@@ -767,6 +806,7 @@ geo_area,sex,year,sg_gen_parln
 76,female,2016,51
 76,female,2017,55
 76,female,2018,55
+76,female,2019,77
 84,female,2000,2
 84,female,2001,2
 84,female,2002,2
@@ -786,6 +826,7 @@ geo_area,sex,year,sg_gen_parln
 84,female,2016,1
 84,female,2017,3
 84,female,2018,3
+84,female,2019,3
 90,female,2000,1
 90,female,2001,1
 90,female,2002,0
@@ -805,8 +846,10 @@ geo_area,sex,year,sg_gen_parln
 90,female,2016,1
 90,female,2017,1
 90,female,2018,1
+90,female,2019,1
 96,female,2017,3
 96,female,2018,3
+96,female,2019,3
 100,female,2000,26
 100,female,2001,26
 100,female,2002,63
@@ -826,6 +869,7 @@ geo_area,sex,year,sg_gen_parln
 100,female,2016,49
 100,female,2017,46
 100,female,2018,57
+100,female,2019,62
 104,female,2011,14
 104,female,2012,14
 104,female,2013,26
@@ -834,6 +878,7 @@ geo_area,sex,year,sg_gen_parln
 104,female,2016,43
 104,female,2017,44
 104,female,2018,44
+104,female,2019,49
 108,female,2000,7
 108,female,2001,17
 108,female,2002,33
@@ -853,6 +898,7 @@ geo_area,sex,year,sg_gen_parln
 108,female,2016,44
 108,female,2017,44
 108,female,2018,44
+108,female,2019,44
 112,female,2000,10
 112,female,2001,10
 112,female,2002,10
@@ -872,6 +918,7 @@ geo_area,sex,year,sg_gen_parln
 112,female,2016,30
 112,female,2017,38
 112,female,2018,38
+112,female,2019,38
 116,female,2000,10
 116,female,2001,9
 116,female,2002,9
@@ -891,6 +938,7 @@ geo_area,sex,year,sg_gen_parln
 116,female,2016,25
 116,female,2017,25
 116,female,2018,25
+116,female,2019,25
 120,female,2000,10
 120,female,2001,10
 120,female,2002,10
@@ -910,6 +958,7 @@ geo_area,sex,year,sg_gen_parln
 120,female,2016,56
 120,female,2017,56
 120,female,2018,56
+120,female,2019,56
 124,female,2000,62
 124,female,2001,62
 124,female,2002,62
@@ -929,6 +978,7 @@ geo_area,sex,year,sg_gen_parln
 124,female,2016,88
 124,female,2017,88
 124,female,2018,91
+124,female,2019,90
 132,female,2000,8
 132,female,2001,8
 132,female,2002,8
@@ -948,6 +998,7 @@ geo_area,sex,year,sg_gen_parln
 132,female,2016,15
 132,female,2017,17
 132,female,2018,17
+132,female,2019,17
 135,female,2000,78
 135,female,2001,83
 135,female,2002,87
@@ -967,6 +1018,7 @@ geo_area,sex,year,sg_gen_parln
 135,female,2016,171
 135,female,2017,178
 135,female,2018,184
+135,female,2019,193
 140,female,2000,8
 140,female,2001,8
 140,female,2002,8
@@ -980,6 +1032,7 @@ geo_area,sex,year,sg_gen_parln
 140,female,2013,13
 140,female,2017,12
 140,female,2018,12
+140,female,2019,12
 142,female,2000,1369
 142,female,2001,1410
 142,female,2002,1434
@@ -999,6 +1052,7 @@ geo_area,sex,year,sg_gen_parln
 142,female,2016,2351
 142,female,2017,2421
 142,female,2018,2268
+142,female,2019,2372
 143,female,2000,44
 143,female,2001,49
 143,female,2002,53
@@ -1018,6 +1072,7 @@ geo_area,sex,year,sg_gen_parln
 143,female,2016,119
 143,female,2017,120
 143,female,2018,120
+143,female,2019,119
 144,female,2000,11
 144,female,2001,10
 144,female,2002,10
@@ -1037,6 +1092,7 @@ geo_area,sex,year,sg_gen_parln
 144,female,2016,13
 144,female,2017,13
 144,female,2018,13
+144,female,2019,12
 145,female,2000,121
 145,female,2001,126
 145,female,2002,130
@@ -1056,6 +1112,7 @@ geo_area,sex,year,sg_gen_parln
 145,female,2016,357
 145,female,2017,367
 145,female,2018,376
+145,female,2019,419
 148,female,2000,3
 148,female,2001,3
 148,female,2002,3
@@ -1075,6 +1132,7 @@ geo_area,sex,year,sg_gen_parln
 148,female,2016,28
 148,female,2017,24
 148,female,2018,24
+148,female,2019,25
 150,female,2000,1577
 150,female,2001,1636
 150,female,2002,1727
@@ -1094,6 +1152,7 @@ geo_area,sex,year,sg_gen_parln
 150,female,2016,2551
 150,female,2017,2610
 150,female,2018,2711
+150,female,2019,2797
 151,female,2000,280
 151,female,2001,293
 151,female,2002,368
@@ -1113,6 +1172,7 @@ geo_area,sex,year,sg_gen_parln
 151,female,2016,482
 151,female,2017,517
 151,female,2018,532
+151,female,2019,545
 152,female,2000,13
 152,female,2001,13
 152,female,2002,15
@@ -1131,6 +1191,7 @@ geo_area,sex,year,sg_gen_parln
 152,female,2015,19
 152,female,2016,19
 152,female,2017,19
+152,female,2019,35
 154,female,2000,572
 154,female,2001,562
 154,female,2002,559
@@ -1150,6 +1211,7 @@ geo_area,sex,year,sg_gen_parln
 154,female,2016,688
 154,female,2017,703
 154,female,2018,713
+154,female,2019,741
 155,female,2000,468
 155,female,2001,469
 155,female,2002,475
@@ -1169,6 +1231,7 @@ geo_area,sex,year,sg_gen_parln
 155,female,2016,643
 155,female,2017,642
 155,female,2018,707
+155,female,2019,711
 156,female,2000,650
 156,female,2001,650
 156,female,2002,650
@@ -1188,6 +1251,7 @@ geo_area,sex,year,sg_gen_parln
 156,female,2016,699
 156,female,2017,699
 156,female,2018,709
+156,female,2019,742
 170,female,2000,19
 170,female,2001,19
 170,female,2002,19
@@ -1207,6 +1271,7 @@ geo_area,sex,year,sg_gen_parln
 170,female,2016,33
 170,female,2017,31
 170,female,2018,31
+170,female,2019,32
 174,female,2005,1
 174,female,2006,1
 174,female,2007,1
@@ -1220,6 +1285,7 @@ geo_area,sex,year,sg_gen_parln
 174,female,2016,1
 174,female,2017,2
 174,female,2018,2
+174,female,2019,2
 178,female,2000,9
 178,female,2001,9
 178,female,2002,9
@@ -1239,6 +1305,7 @@ geo_area,sex,year,sg_gen_parln
 178,female,2016,10
 178,female,2017,10
 178,female,2018,17
+178,female,2019,17
 180,female,2004,60
 180,female,2005,60
 180,female,2006,60
@@ -1254,6 +1321,7 @@ geo_area,sex,year,sg_gen_parln
 180,female,2016,44
 180,female,2017,44
 180,female,2018,44
+180,female,2019,50
 188,female,2000,11
 188,female,2001,11
 188,female,2002,11
@@ -1273,6 +1341,7 @@ geo_area,sex,year,sg_gen_parln
 188,female,2016,19
 188,female,2017,20
 188,female,2018,20
+188,female,2019,26
 191,female,2000,0
 191,female,2001,31
 191,female,2002,31
@@ -1292,6 +1361,7 @@ geo_area,sex,year,sg_gen_parln
 191,female,2016,23
 191,female,2017,30
 191,female,2018,28
+191,female,2019,31
 192,female,2000,166
 192,female,2001,166
 192,female,2002,166
@@ -1311,6 +1381,7 @@ geo_area,sex,year,sg_gen_parln
 192,female,2016,299
 192,female,2017,299
 192,female,2018,299
+192,female,2019,322
 196,female,2000,3
 196,female,2001,4
 196,female,2002,6
@@ -1330,6 +1401,7 @@ geo_area,sex,year,sg_gen_parln
 196,female,2016,7
 196,female,2017,10
 196,female,2018,10
+196,female,2019,10
 199,female,2000,546
 199,female,2001,581
 199,female,2002,634
@@ -1349,6 +1421,7 @@ geo_area,sex,year,sg_gen_parln
 199,female,2016,1955
 199,female,2017,2075
 199,female,2018,1886
+199,female,2019,1922
 202,female,2000,689
 202,female,2001,744
 202,female,2002,788
@@ -1368,6 +1441,7 @@ geo_area,sex,year,sg_gen_parln
 202,female,2016,1942
 202,female,2017,2060
 202,female,2018,2058
+202,female,2019,2092
 203,female,2000,30
 203,female,2001,30
 203,female,2002,30
@@ -1387,6 +1461,7 @@ geo_area,sex,year,sg_gen_parln
 203,female,2016,40
 203,female,2017,40
 203,female,2018,44
+203,female,2019,45
 204,female,2000,5
 204,female,2001,5
 204,female,2002,5
@@ -1406,6 +1481,7 @@ geo_area,sex,year,sg_gen_parln
 204,female,2016,6
 204,female,2017,6
 204,female,2018,6
+204,female,2019,6
 208,female,2000,67
 208,female,2001,67
 208,female,2002,68
@@ -1425,6 +1501,7 @@ geo_area,sex,year,sg_gen_parln
 208,female,2016,67
 208,female,2017,67
 208,female,2018,67
+208,female,2019,67
 212,female,2000,6
 212,female,2001,6
 212,female,2002,6
@@ -1444,6 +1521,7 @@ geo_area,sex,year,sg_gen_parln
 212,female,2016,7
 212,female,2017,8
 212,female,2018,8
+212,female,2019,8
 214,female,2000,24
 214,female,2001,24
 214,female,2002,24
@@ -1463,6 +1541,7 @@ geo_area,sex,year,sg_gen_parln
 214,female,2016,38
 214,female,2017,51
 214,female,2018,51
+214,female,2019,51
 218,female,2000,21
 218,female,2001,18
 218,female,2002,18
@@ -1482,6 +1561,7 @@ geo_area,sex,year,sg_gen_parln
 218,female,2016,57
 218,female,2017,57
 218,female,2018,52
+218,female,2019,52
 222,female,2000,14
 222,female,2001,8
 222,female,2002,8
@@ -1501,6 +1581,7 @@ geo_area,sex,year,sg_gen_parln
 222,female,2016,27
 222,female,2017,27
 222,female,2018,27
+222,female,2019,26
 226,female,2000,4
 226,female,2001,4
 226,female,2002,4
@@ -1520,6 +1601,7 @@ geo_area,sex,year,sg_gen_parln
 226,female,2016,24
 226,female,2017,24
 226,female,2018,20
+226,female,2019,20
 231,female,2000,11
 231,female,2001,42
 231,female,2002,42
@@ -1539,6 +1621,7 @@ geo_area,sex,year,sg_gen_parln
 231,female,2016,212
 231,female,2017,212
 231,female,2018,212
+231,female,2019,212
 232,female,2000,22
 232,female,2001,22
 232,female,2002,22
@@ -1558,6 +1641,7 @@ geo_area,sex,year,sg_gen_parln
 232,female,2016,33
 232,female,2017,33
 232,female,2018,33
+232,female,2019,33
 233,female,2000,18
 233,female,2001,18
 233,female,2002,18
@@ -1577,6 +1661,7 @@ geo_area,sex,year,sg_gen_parln
 233,female,2016,24
 233,female,2017,27
 233,female,2018,27
+233,female,2019,29
 242,female,2000,8
 242,female,2002,4
 242,female,2003,4
@@ -1587,6 +1672,7 @@ geo_area,sex,year,sg_gen_parln
 242,female,2016,8
 242,female,2017,8
 242,female,2018,8
+242,female,2019,10
 246,female,2000,74
 246,female,2001,73
 246,female,2002,73
@@ -1606,6 +1692,7 @@ geo_area,sex,year,sg_gen_parln
 246,female,2016,83
 246,female,2017,84
 246,female,2018,84
+246,female,2019,83
 250,female,2000,63
 250,female,2001,63
 250,female,2002,63
@@ -1625,6 +1712,7 @@ geo_area,sex,year,sg_gen_parln
 250,female,2016,151
 250,female,2017,149
 250,female,2018,225
+250,female,2019,229
 262,female,2000,0
 262,female,2001,0
 262,female,2002,0
@@ -1644,6 +1732,7 @@ geo_area,sex,year,sg_gen_parln
 262,female,2016,7
 262,female,2017,7
 262,female,2018,7
+262,female,2019,17
 266,female,2000,10
 266,female,2001,11
 266,female,2003,11
@@ -1662,6 +1751,7 @@ geo_area,sex,year,sg_gen_parln
 266,female,2016,17
 266,female,2017,20
 266,female,2018,20
+266,female,2019,24
 268,female,2000,17
 268,female,2001,17
 268,female,2002,17
@@ -1681,6 +1771,7 @@ geo_area,sex,year,sg_gen_parln
 268,female,2016,17
 268,female,2017,24
 268,female,2018,24
+268,female,2019,22
 270,female,2000,1
 270,female,2001,1
 270,female,2002,7
@@ -1700,6 +1791,7 @@ geo_area,sex,year,sg_gen_parln
 270,female,2016,5
 270,female,2017,5
 270,female,2018,6
+270,female,2019,6
 276,female,2000,207
 276,female,2001,207
 276,female,2002,211
@@ -1719,6 +1811,7 @@ geo_area,sex,year,sg_gen_parln
 276,female,2016,230
 276,female,2017,233
 276,female,2018,218
+276,female,2019,219
 288,female,2000,18
 288,female,2001,18
 288,female,2002,18
@@ -1738,6 +1831,7 @@ geo_area,sex,year,sg_gen_parln
 288,female,2016,30
 288,female,2017,35
 288,female,2018,35
+288,female,2019,36
 296,female,2000,2
 296,female,2001,2
 296,female,2002,2
@@ -1757,6 +1851,7 @@ geo_area,sex,year,sg_gen_parln
 296,female,2016,3
 296,female,2017,3
 296,female,2018,3
+296,female,2019,3
 300,female,2000,19
 300,female,2001,26
 300,female,2002,26
@@ -1776,6 +1871,7 @@ geo_area,sex,year,sg_gen_parln
 300,female,2016,59
 300,female,2017,55
 300,female,2018,55
+300,female,2019,56
 308,female,2000,4
 308,female,2001,4
 308,female,2002,4
@@ -1795,6 +1891,7 @@ geo_area,sex,year,sg_gen_parln
 308,female,2016,5
 308,female,2017,5
 308,female,2018,5
+308,female,2019,7
 320,female,2000,8
 320,female,2001,10
 320,female,2002,10
@@ -1814,6 +1911,7 @@ geo_area,sex,year,sg_gen_parln
 320,female,2016,22
 320,female,2017,20
 320,female,2018,20
+320,female,2019,30
 324,female,2000,10
 324,female,2001,10
 324,female,2002,10
@@ -1828,6 +1926,7 @@ geo_area,sex,year,sg_gen_parln
 324,female,2016,25
 324,female,2017,25
 324,female,2018,25
+324,female,2019,26
 328,female,2000,12
 328,female,2001,12
 328,female,2002,13
@@ -1847,6 +1946,7 @@ geo_area,sex,year,sg_gen_parln
 328,female,2016,21
 328,female,2017,22
 328,female,2018,22
+328,female,2019,22
 332,female,2000,3
 332,female,2001,3
 332,female,2002,3
@@ -1866,6 +1966,7 @@ geo_area,sex,year,sg_gen_parln
 332,female,2016,0
 332,female,2017,3
 332,female,2018,3
+332,female,2019,3
 340,female,2000,12
 340,female,2001,12
 340,female,2002,12
@@ -1885,6 +1986,7 @@ geo_area,sex,year,sg_gen_parln
 340,female,2016,33
 340,female,2017,33
 340,female,2018,27
+340,female,2019,27
 348,female,2000,32
 348,female,2001,32
 348,female,2002,32
@@ -1904,6 +2006,7 @@ geo_area,sex,year,sg_gen_parln
 348,female,2016,20
 348,female,2017,20
 348,female,2018,20
+348,female,2019,25
 352,female,2000,22
 352,female,2001,22
 352,female,2002,22
@@ -1923,6 +2026,7 @@ geo_area,sex,year,sg_gen_parln
 352,female,2016,26
 352,female,2017,30
 352,female,2018,24
+352,female,2019,24
 356,female,2000,49
 356,female,2001,49
 356,female,2002,48
@@ -1942,6 +2046,7 @@ geo_area,sex,year,sg_gen_parln
 356,female,2016,65
 356,female,2017,64
 356,female,2018,64
+356,female,2019,66
 360,female,2000,40
 360,female,2001,40
 360,female,2002,40
@@ -1961,6 +2066,7 @@ geo_area,sex,year,sg_gen_parln
 360,female,2016,95
 360,female,2017,111
 360,female,2018,111
+360,female,2019,102
 364,female,2000,13
 364,female,2001,10
 364,female,2002,10
@@ -1980,6 +2086,7 @@ geo_area,sex,year,sg_gen_parln
 364,female,2016,9
 364,female,2017,17
 364,female,2018,17
+364,female,2019,17
 368,female,2000,16
 368,female,2001,19
 368,female,2002,19
@@ -1997,6 +2104,7 @@ geo_area,sex,year,sg_gen_parln
 368,female,2016,87
 368,female,2017,83
 368,female,2018,83
+368,female,2019,83
 372,female,2000,20
 372,female,2001,20
 372,female,2002,20
@@ -2016,6 +2124,7 @@ geo_area,sex,year,sg_gen_parln
 372,female,2016,27
 372,female,2017,35
 372,female,2018,35
+372,female,2019,35
 376,female,2000,14
 376,female,2001,15
 376,female,2002,16
@@ -2035,6 +2144,7 @@ geo_area,sex,year,sg_gen_parln
 376,female,2016,32
 376,female,2017,33
 376,female,2018,33
+376,female,2019,35
 380,female,2000,70
 380,female,2001,70
 380,female,2002,62
@@ -2054,6 +2164,7 @@ geo_area,sex,year,sg_gen_parln
 380,female,2016,195
 380,female,2017,195
 380,female,2018,195
+380,female,2019,225
 384,female,2000,19
 384,female,2001,19
 384,female,2002,19
@@ -2073,6 +2184,7 @@ geo_area,sex,year,sg_gen_parln
 384,female,2016,23
 384,female,2017,29
 384,female,2018,27
+384,female,2019,28
 388,female,2000,8
 388,female,2001,8
 388,female,2002,8
@@ -2092,6 +2204,7 @@ geo_area,sex,year,sg_gen_parln
 388,female,2016,8
 388,female,2017,11
 388,female,2018,11
+388,female,2019,11
 392,female,2000,23
 392,female,2001,35
 392,female,2002,35
@@ -2111,6 +2224,7 @@ geo_area,sex,year,sg_gen_parln
 392,female,2016,45
 392,female,2017,44
 392,female,2018,47
+392,female,2019,47
 398,female,2000,8
 398,female,2001,8
 398,female,2002,8
@@ -2130,6 +2244,7 @@ geo_area,sex,year,sg_gen_parln
 398,female,2016,28
 398,female,2017,29
 398,female,2018,29
+398,female,2019,29
 400,female,2000,0
 400,female,2001,0
 400,female,2002,1
@@ -2149,6 +2264,7 @@ geo_area,sex,year,sg_gen_parln
 400,female,2016,18
 400,female,2017,20
 400,female,2018,20
+400,female,2019,20
 404,female,2000,8
 404,female,2001,8
 404,female,2002,8
@@ -2168,6 +2284,7 @@ geo_area,sex,year,sg_gen_parln
 404,female,2016,69
 404,female,2017,68
 404,female,2018,76
+404,female,2019,76
 408,female,2000,138
 408,female,2001,138
 408,female,2002,138
@@ -2186,6 +2303,7 @@ geo_area,sex,year,sg_gen_parln
 408,female,2016,112
 408,female,2017,112
 408,female,2018,112
+408,female,2019,112
 410,female,2000,11
 410,female,2001,16
 410,female,2002,16
@@ -2205,6 +2323,7 @@ geo_area,sex,year,sg_gen_parln
 410,female,2016,49
 410,female,2017,51
 410,female,2018,51
+410,female,2019,51
 414,female,2000,0
 414,female,2001,0
 414,female,2002,0
@@ -2224,6 +2343,7 @@ geo_area,sex,year,sg_gen_parln
 414,female,2016,1
 414,female,2017,2
 414,female,2018,2
+414,female,2019,3
 417,female,2000,1
 417,female,2001,1
 417,female,2002,6
@@ -2243,6 +2363,7 @@ geo_area,sex,year,sg_gen_parln
 417,female,2016,23
 417,female,2017,23
 417,female,2018,23
+417,female,2019,23
 418,female,2000,21
 418,female,2001,21
 418,female,2002,21
@@ -2262,6 +2383,7 @@ geo_area,sex,year,sg_gen_parln
 418,female,2016,33
 418,female,2017,41
 418,female,2018,41
+418,female,2019,41
 419,female,2000,625
 419,female,2001,599
 419,female,2002,640
@@ -2281,6 +2403,7 @@ geo_area,sex,year,sg_gen_parln
 419,female,2016,1190
 419,female,2017,1251
 419,female,2018,1221
+419,female,2019,1354
 422,female,2000,3
 422,female,2001,3
 422,female,2002,3
@@ -2300,6 +2423,7 @@ geo_area,sex,year,sg_gen_parln
 422,female,2016,4
 422,female,2017,4
 422,female,2018,4
+422,female,2019,6
 426,female,2000,3
 426,female,2001,3
 426,female,2002,3
@@ -2319,6 +2443,7 @@ geo_area,sex,year,sg_gen_parln
 426,female,2016,30
 426,female,2017,30
 426,female,2018,27
+426,female,2019,28
 428,female,2000,17
 428,female,2001,17
 428,female,2002,17
@@ -2338,6 +2463,7 @@ geo_area,sex,year,sg_gen_parln
 428,female,2016,18
 428,female,2017,16
 428,female,2018,16
+428,female,2019,31
 430,female,2000,5
 430,female,2001,5
 430,female,2002,5
@@ -2357,6 +2483,7 @@ geo_area,sex,year,sg_gen_parln
 430,female,2016,8
 430,female,2017,9
 430,female,2018,7
+430,female,2019,9
 432,female,2000,323
 432,female,2001,381
 432,female,2002,436
@@ -2376,6 +2503,7 @@ geo_area,sex,year,sg_gen_parln
 432,female,2016,1367
 432,female,2017,1448
 432,female,2018,1283
+432,female,2019,1329
 434,female,2006,36
 434,female,2007,36
 434,female,2008,36
@@ -2389,6 +2517,7 @@ geo_area,sex,year,sg_gen_parln
 434,female,2016,30
 434,female,2017,30
 434,female,2018,30
+434,female,2019,30
 438,female,2000,1
 438,female,2001,1
 438,female,2002,3
@@ -2408,6 +2537,7 @@ geo_area,sex,year,sg_gen_parln
 438,female,2016,5
 438,female,2017,3
 438,female,2018,3
+438,female,2019,3
 440,female,2000,24
 440,female,2001,15
 440,female,2002,15
@@ -2427,6 +2557,7 @@ geo_area,sex,year,sg_gen_parln
 440,female,2016,33
 440,female,2017,30
 440,female,2018,30
+440,female,2019,30
 442,female,2000,10
 442,female,2001,10
 442,female,2002,10
@@ -2446,6 +2577,7 @@ geo_area,sex,year,sg_gen_parln
 442,female,2016,17
 442,female,2017,17
 442,female,2018,17
+442,female,2019,15
 450,female,2000,12
 450,female,2001,12
 450,female,2002,12
@@ -2464,6 +2596,7 @@ geo_area,sex,year,sg_gen_parln
 450,female,2016,31
 450,female,2017,29
 450,female,2018,29
+450,female,2019,29
 454,female,2000,16
 454,female,2001,18
 454,female,2002,18
@@ -2483,6 +2616,7 @@ geo_area,sex,year,sg_gen_parln
 454,female,2016,32
 454,female,2017,32
 454,female,2018,32
+454,female,2019,32
 458,female,2000,14
 458,female,2001,20
 458,female,2002,20
@@ -2502,6 +2636,7 @@ geo_area,sex,year,sg_gen_parln
 458,female,2016,23
 458,female,2017,23
 458,female,2018,23
+458,female,2019,32
 462,female,2000,3
 462,female,2001,3
 462,female,2002,3
@@ -2521,6 +2656,7 @@ geo_area,sex,year,sg_gen_parln
 462,female,2016,5
 462,female,2017,5
 462,female,2018,5
+462,female,2019,4
 466,female,2000,18
 466,female,2001,18
 466,female,2002,18
@@ -2540,6 +2676,7 @@ geo_area,sex,year,sg_gen_parln
 466,female,2016,13
 466,female,2017,13
 466,female,2018,13
+466,female,2019,13
 470,female,2000,6
 470,female,2001,6
 470,female,2002,6
@@ -2559,6 +2696,7 @@ geo_area,sex,year,sg_gen_parln
 470,female,2016,9
 470,female,2017,9
 470,female,2018,8
+470,female,2019,8
 478,female,2000,3
 478,female,2001,3
 478,female,2002,3
@@ -2577,6 +2715,7 @@ geo_area,sex,year,sg_gen_parln
 478,female,2016,37
 478,female,2017,37
 478,female,2018,37
+478,female,2019,31
 480,female,2000,5
 480,female,2001,4
 480,female,2002,4
@@ -2596,6 +2735,7 @@ geo_area,sex,year,sg_gen_parln
 480,female,2016,8
 480,female,2017,8
 480,female,2018,8
+480,female,2019,8
 484,female,2000,91
 484,female,2001,80
 484,female,2002,80
@@ -2615,6 +2755,7 @@ geo_area,sex,year,sg_gen_parln
 484,female,2016,211
 484,female,2017,213
 484,female,2018,213
+484,female,2019,241
 485,female,2000,70
 485,female,2001,73
 485,female,2002,74
@@ -2634,6 +2775,7 @@ geo_area,sex,year,sg_gen_parln
 485,female,2016,266
 485,female,2017,266
 485,female,2018,269
+485,female,2019,300
 492,female,2000,4
 492,female,2001,4
 492,female,2002,4
@@ -2653,6 +2795,7 @@ geo_area,sex,year,sg_gen_parln
 492,female,2016,5
 492,female,2017,5
 492,female,2018,5
+492,female,2019,8
 496,female,2000,6
 496,female,2001,8
 496,female,2002,8
@@ -2672,6 +2815,7 @@ geo_area,sex,year,sg_gen_parln
 496,female,2016,11
 496,female,2017,13
 496,female,2018,13
+496,female,2019,13
 498,female,2000,9
 498,female,2001,8
 498,female,2002,13
@@ -2691,6 +2835,7 @@ geo_area,sex,year,sg_gen_parln
 498,female,2016,22
 498,female,2017,23
 498,female,2018,23
+498,female,2019,23
 499,female,2007,7
 499,female,2008,9
 499,female,2009,9
@@ -2703,6 +2848,7 @@ geo_area,sex,year,sg_gen_parln
 499,female,2016,14
 499,female,2017,19
 499,female,2018,19
+499,female,2019,19
 504,female,2000,2
 504,female,2001,2
 504,female,2002,2
@@ -2722,6 +2868,7 @@ geo_area,sex,year,sg_gen_parln
 504,female,2016,67
 504,female,2017,81
 504,female,2018,81
+504,female,2019,81
 508,female,2000,75
 508,female,2001,75
 508,female,2002,75
@@ -2741,6 +2888,7 @@ geo_area,sex,year,sg_gen_parln
 508,female,2016,99
 508,female,2017,99
 508,female,2018,99
+508,female,2019,99
 512,female,2005,2
 512,female,2006,2
 512,female,2007,2
@@ -2755,6 +2903,7 @@ geo_area,sex,year,sg_gen_parln
 512,female,2016,1
 512,female,2017,1
 512,female,2018,1
+512,female,2019,1
 513,female,2000,1697
 513,female,2001,1759
 513,female,2002,1850
@@ -2774,6 +2923,7 @@ geo_area,sex,year,sg_gen_parln
 513,female,2016,2723
 513,female,2017,2781
 513,female,2018,2886
+513,female,2019,2989
 514,female,2000,1805
 514,female,2001,1884
 514,female,2002,1982
@@ -2793,6 +2943,7 @@ geo_area,sex,year,sg_gen_parln
 514,female,2016,2885
 514,female,2017,2952
 514,female,2018,3065
+514,female,2019,3174
 516,female,2000,16
 516,female,2001,18
 516,female,2002,18
@@ -2812,6 +2963,7 @@ geo_area,sex,year,sg_gen_parln
 516,female,2016,43
 516,female,2017,43
 516,female,2018,48
+516,female,2019,48
 518,female,2000,805
 518,female,2001,812
 518,female,2002,812
@@ -2831,6 +2983,7 @@ geo_area,sex,year,sg_gen_parln
 518,female,2016,871
 518,female,2017,875
 518,female,2018,885
+518,female,2019,918
 520,female,2000,0
 520,female,2001,0
 520,female,2002,0
@@ -2850,6 +3003,7 @@ geo_area,sex,year,sg_gen_parln
 520,female,2016,1
 520,female,2017,2
 520,female,2018,2
+520,female,2019,2
 524,female,2000,12
 524,female,2001,12
 524,female,2002,12
@@ -2864,7 +3018,8 @@ geo_area,sex,year,sg_gen_parln
 524,female,2015,176
 524,female,2016,177
 524,female,2017,176
-524,female,2018,6
+524,female,2018,90
+524,female,2019,90
 528,female,2000,54
 528,female,2001,54
 528,female,2002,54
@@ -2884,6 +3039,7 @@ geo_area,sex,year,sg_gen_parln
 528,female,2016,56
 528,female,2017,57
 528,female,2018,54
+528,female,2019,47
 543,female,2000,18
 543,female,2001,10
 543,female,2002,12
@@ -2903,6 +3059,7 @@ geo_area,sex,year,sg_gen_parln
 543,female,2016,23
 543,female,2017,29
 543,female,2018,27
+543,female,2019,29
 548,female,2000,0
 548,female,2001,0
 548,female,2002,0
@@ -2922,6 +3079,7 @@ geo_area,sex,year,sg_gen_parln
 548,female,2016,0
 548,female,2017,0
 548,female,2018,0
+548,female,2019,0
 554,female,2000,35
 554,female,2001,37
 554,female,2002,37
@@ -2941,6 +3099,7 @@ geo_area,sex,year,sg_gen_parln
 554,female,2016,38
 554,female,2017,41
 554,female,2018,46
+554,female,2019,48
 558,female,2000,9
 558,female,2001,9
 558,female,2002,19
@@ -2960,6 +3119,7 @@ geo_area,sex,year,sg_gen_parln
 558,female,2016,38
 558,female,2017,42
 558,female,2018,42
+558,female,2019,41
 562,female,2000,1
 562,female,2001,1
 562,female,2002,1
@@ -2978,6 +3138,7 @@ geo_area,sex,year,sg_gen_parln
 562,female,2016,15
 562,female,2017,29
 562,female,2018,29
+562,female,2019,29
 566,female,2001,12
 566,female,2002,12
 566,female,2003,12
@@ -2996,6 +3157,7 @@ geo_area,sex,year,sg_gen_parln
 566,female,2016,20
 566,female,2017,20
 566,female,2018,20
+566,female,2019,20
 578,female,2000,60
 578,female,2001,60
 578,female,2002,59
@@ -3015,6 +3177,7 @@ geo_area,sex,year,sg_gen_parln
 578,female,2016,67
 578,female,2017,67
 578,female,2018,70
+578,female,2019,69
 583,female,2000,0
 583,female,2001,0
 583,female,2002,0
@@ -3034,6 +3197,7 @@ geo_area,sex,year,sg_gen_parln
 583,female,2016,0
 583,female,2017,0
 583,female,2018,0
+583,female,2019,0
 584,female,2000,1
 584,female,2001,1
 584,female,2002,1
@@ -3053,6 +3217,7 @@ geo_area,sex,year,sg_gen_parln
 584,female,2016,3
 584,female,2017,3
 584,female,2018,3
+584,female,2019,3
 585,female,2000,0
 585,female,2001,0
 585,female,2002,0
@@ -3072,6 +3237,7 @@ geo_area,sex,year,sg_gen_parln
 585,female,2016,0
 585,female,2017,2
 585,female,2018,2
+585,female,2019,2
 586,female,2003,74
 586,female,2004,74
 586,female,2005,73
@@ -3088,6 +3254,7 @@ geo_area,sex,year,sg_gen_parln
 586,female,2016,70
 586,female,2017,70
 586,female,2018,70
+586,female,2019,69
 591,female,2000,7
 591,female,2001,7
 591,female,2002,7
@@ -3107,6 +3274,7 @@ geo_area,sex,year,sg_gen_parln
 591,female,2016,13
 591,female,2017,13
 591,female,2018,13
+591,female,2019,13
 598,female,2000,2
 598,female,2001,2
 598,female,2002,2
@@ -3126,6 +3294,7 @@ geo_area,sex,year,sg_gen_parln
 598,female,2016,3
 598,female,2017,3
 598,female,2018,0
+598,female,2019,0
 600,female,2000,2
 600,female,2001,2
 600,female,2002,2
@@ -3145,6 +3314,7 @@ geo_area,sex,year,sg_gen_parln
 600,female,2016,12
 600,female,2017,11
 600,female,2018,11
+600,female,2019,12
 604,female,2000,13
 604,female,2001,24
 604,female,2002,22
@@ -3164,6 +3334,7 @@ geo_area,sex,year,sg_gen_parln
 604,female,2016,29
 604,female,2017,36
 604,female,2018,36
+604,female,2019,39
 608,female,2000,27
 608,female,2001,25
 608,female,2002,38
@@ -3183,6 +3354,7 @@ geo_area,sex,year,sg_gen_parln
 608,female,2016,79
 608,female,2017,86
 608,female,2018,86
+608,female,2019,86
 616,female,2000,60
 616,female,2001,60
 616,female,2002,93
@@ -3202,6 +3374,7 @@ geo_area,sex,year,sg_gen_parln
 616,female,2016,126
 616,female,2017,129
 616,female,2018,129
+616,female,2019,134
 620,female,2000,43
 620,female,2001,40
 620,female,2002,43
@@ -3221,6 +3394,7 @@ geo_area,sex,year,sg_gen_parln
 620,female,2016,80
 620,female,2017,80
 620,female,2018,80
+620,female,2019,82
 624,female,2000,8
 624,female,2001,8
 624,female,2002,8
@@ -3239,6 +3413,7 @@ geo_area,sex,year,sg_gen_parln
 624,female,2016,14
 624,female,2017,14
 624,female,2018,14
+624,female,2019,14
 626,female,2003,23
 626,female,2004,23
 626,female,2005,22
@@ -3255,6 +3430,7 @@ geo_area,sex,year,sg_gen_parln
 626,female,2016,25
 626,female,2017,25
 626,female,2018,21
+626,female,2019,26
 634,female,2006,0
 634,female,2007,0
 634,female,2008,0
@@ -3268,6 +3444,7 @@ geo_area,sex,year,sg_gen_parln
 634,female,2016,0
 634,female,2017,0
 634,female,2018,4
+634,female,2019,4
 642,female,2000,25
 642,female,2001,37
 642,female,2002,37
@@ -3287,6 +3464,7 @@ geo_area,sex,year,sg_gen_parln
 642,female,2016,55
 642,female,2017,68
 642,female,2018,68
+642,female,2019,68
 643,female,2000,34
 643,female,2001,34
 643,female,2002,34
@@ -3306,6 +3484,7 @@ geo_area,sex,year,sg_gen_parln
 643,female,2016,61
 643,female,2017,71
 643,female,2018,71
+643,female,2019,71
 646,female,2000,12
 646,female,2001,18
 646,female,2002,19
@@ -3325,6 +3504,7 @@ geo_area,sex,year,sg_gen_parln
 646,female,2016,51
 646,female,2017,49
 646,female,2018,49
+646,female,2019,49
 659,female,2000,2
 659,female,2001,2
 659,female,2002,2
@@ -3344,6 +3524,7 @@ geo_area,sex,year,sg_gen_parln
 659,female,2016,2
 659,female,2017,2
 659,female,2018,2
+659,female,2019,2
 662,female,2000,2
 662,female,2001,2
 662,female,2002,2
@@ -3363,6 +3544,7 @@ geo_area,sex,year,sg_gen_parln
 662,female,2016,3
 662,female,2017,3
 662,female,2018,3
+662,female,2019,3
 670,female,2000,1
 670,female,2001,1
 670,female,2002,5
@@ -3382,6 +3564,7 @@ geo_area,sex,year,sg_gen_parln
 670,female,2016,3
 670,female,2017,3
 670,female,2018,3
+670,female,2019,3
 674,female,2000,8
 674,female,2001,8
 674,female,2002,10
@@ -3401,6 +3584,7 @@ geo_area,sex,year,sg_gen_parln
 674,female,2016,10
 674,female,2017,16
 674,female,2018,16
+674,female,2019,15
 678,female,2000,5
 678,female,2001,5
 678,female,2002,5
@@ -3420,6 +3604,7 @@ geo_area,sex,year,sg_gen_parln
 678,female,2016,10
 678,female,2017,10
 678,female,2018,10
+678,female,2019,8
 682,female,2004,0
 682,female,2005,0
 682,female,2006,0
@@ -3435,6 +3620,7 @@ geo_area,sex,year,sg_gen_parln
 682,female,2016,30
 682,female,2017,30
 682,female,2018,30
+682,female,2019,30
 686,female,2000,17
 686,female,2001,17
 686,female,2002,20
@@ -3454,6 +3640,7 @@ geo_area,sex,year,sg_gen_parln
 686,female,2016,64
 686,female,2017,64
 686,female,2018,69
+686,female,2019,69
 688,female,2007,51
 688,female,2008,51
 688,female,2009,54
@@ -3466,6 +3653,7 @@ geo_area,sex,year,sg_gen_parln
 688,female,2016,85
 688,female,2017,86
 688,female,2018,86
+688,female,2019,93
 690,female,2000,8
 690,female,2001,8
 690,female,2002,8
@@ -3485,6 +3673,7 @@ geo_area,sex,year,sg_gen_parln
 690,female,2016,14
 690,female,2017,7
 690,female,2018,7
+690,female,2019,7
 694,female,2000,7
 694,female,2001,7
 694,female,2002,7
@@ -3504,6 +3693,7 @@ geo_area,sex,year,sg_gen_parln
 694,female,2016,15
 694,female,2017,15
 694,female,2018,15
+694,female,2019,18
 702,female,2000,4
 702,female,2001,6
 702,female,2002,10
@@ -3523,6 +3713,7 @@ geo_area,sex,year,sg_gen_parln
 702,female,2016,21
 702,female,2017,24
 702,female,2018,23
+702,female,2019,23
 703,female,2000,19
 703,female,2001,21
 703,female,2002,21
@@ -3542,6 +3733,7 @@ geo_area,sex,year,sg_gen_parln
 703,female,2016,28
 703,female,2017,30
 703,female,2018,30
+703,female,2019,30
 704,female,2000,117
 704,female,2001,117
 704,female,2002,117
@@ -3561,6 +3753,7 @@ geo_area,sex,year,sg_gen_parln
 704,female,2016,121
 704,female,2017,132
 704,female,2018,132
+704,female,2019,132
 705,female,2000,7
 705,female,2001,11
 705,female,2002,11
@@ -3580,6 +3773,7 @@ geo_area,sex,year,sg_gen_parln
 705,female,2016,33
 705,female,2017,33
 705,female,2018,33
+705,female,2019,22
 706,female,2006,22
 706,female,2007,21
 706,female,2008,21
@@ -3592,6 +3786,7 @@ geo_area,sex,year,sg_gen_parln
 706,female,2016,38
 706,female,2017,64
 706,female,2018,67
+706,female,2019,67
 710,female,2000,120
 710,female,2001,119
 710,female,2002,119
@@ -3611,6 +3806,7 @@ geo_area,sex,year,sg_gen_parln
 710,female,2016,168
 710,female,2017,167
 710,female,2018,167
+710,female,2019,168
 716,female,2000,21
 716,female,2001,14
 716,female,2002,15
@@ -3630,6 +3826,7 @@ geo_area,sex,year,sg_gen_parln
 716,female,2016,85
 716,female,2017,88
 716,female,2018,83
+716,female,2019,86
 722,female,2000,311
 722,female,2001,298
 722,female,2002,318
@@ -3649,6 +3846,7 @@ geo_area,sex,year,sg_gen_parln
 722,female,2016,561
 722,female,2017,589
 722,female,2018,582
+722,female,2019,614
 724,female,2000,75
 724,female,2001,99
 724,female,2002,99
@@ -3668,6 +3866,7 @@ geo_area,sex,year,sg_gen_parln
 724,female,2016,140
 724,female,2017,137
 724,female,2018,137
+724,female,2019,144
 728,female,2012,88
 728,female,2013,88
 728,female,2014,88
@@ -3675,6 +3874,7 @@ geo_area,sex,year,sg_gen_parln
 728,female,2016,88
 728,female,2017,109
 728,female,2018,109
+728,female,2019,109
 729,female,2012,87
 729,female,2013,87
 729,female,2014,86
@@ -3682,6 +3882,7 @@ geo_area,sex,year,sg_gen_parln
 729,female,2016,130
 729,female,2017,130
 729,female,2018,130
+729,female,2019,133
 736,female,2000,35
 736,female,2001,35
 736,female,2002,35
@@ -3713,6 +3914,7 @@ geo_area,sex,year,sg_gen_parln
 738,female,2016,2072
 738,female,2017,2190
 738,female,2018,2188
+738,female,2019,2225
 740,female,2000,8
 740,female,2001,0
 740,female,2002,9
@@ -3732,6 +3934,7 @@ geo_area,sex,year,sg_gen_parln
 740,female,2016,13
 740,female,2017,13
 740,female,2018,13
+740,female,2019,15
 746,female,2000,35
 746,female,2001,36
 746,female,2002,36
@@ -3751,6 +3954,7 @@ geo_area,sex,year,sg_gen_parln
 746,female,2016,400
 746,female,2017,414
 746,female,2018,387
+746,female,2019,397
 747,female,2000,191
 747,female,2001,197
 747,female,2002,201
@@ -3770,6 +3974,7 @@ geo_area,sex,year,sg_gen_parln
 747,female,2016,887
 747,female,2017,911
 747,female,2018,893
+747,female,2019,949
 748,female,2000,2
 748,female,2001,2
 748,female,2002,2
@@ -3789,6 +3994,7 @@ geo_area,sex,year,sg_gen_parln
 748,female,2016,4
 748,female,2017,4
 748,female,2018,4
+748,female,2019,5
 752,female,2000,149
 752,female,2001,149
 752,female,2002,149
@@ -3808,6 +4014,7 @@ geo_area,sex,year,sg_gen_parln
 752,female,2016,152
 752,female,2017,152
 752,female,2018,152
+752,female,2019,165
 753,female,2000,1083
 753,female,2001,1131
 753,female,2002,1148
@@ -3827,6 +4034,7 @@ geo_area,sex,year,sg_gen_parln
 753,female,2016,1393
 753,female,2017,1445
 753,female,2018,1453
+753,female,2019,1497
 756,female,2000,45
 756,female,2001,46
 756,female,2002,46
@@ -3846,6 +4054,7 @@ geo_area,sex,year,sg_gen_parln
 756,female,2016,64
 756,female,2017,65
 756,female,2018,65
+756,female,2019,65
 760,female,2000,26
 760,female,2001,26
 760,female,2002,26
@@ -3865,6 +4074,7 @@ geo_area,sex,year,sg_gen_parln
 760,female,2016,31
 760,female,2017,33
 760,female,2018,33
+760,female,2019,33
 762,female,2000,5
 762,female,2001,9
 762,female,2002,8
@@ -3884,6 +4094,7 @@ geo_area,sex,year,sg_gen_parln
 762,female,2016,12
 762,female,2017,12
 762,female,2018,12
+762,female,2019,12
 764,female,2000,22
 764,female,2001,46
 764,female,2002,46
@@ -3903,6 +4114,7 @@ geo_area,sex,year,sg_gen_parln
 764,female,2016,12
 764,female,2017,12
 764,female,2018,12
+764,female,2019,13
 768,female,2000,4
 768,female,2001,4
 768,female,2002,4
@@ -3922,6 +4134,7 @@ geo_area,sex,year,sg_gen_parln
 768,female,2016,16
 768,female,2017,16
 768,female,2018,16
+768,female,2019,15
 776,female,2000,0
 776,female,2001,0
 776,female,2002,0
@@ -3941,6 +4154,7 @@ geo_area,sex,year,sg_gen_parln
 776,female,2016,0
 776,female,2017,1
 776,female,2018,2
+776,female,2019,2
 780,female,2000,4
 780,female,2001,6
 780,female,2002,6
@@ -3960,6 +4174,7 @@ geo_area,sex,year,sg_gen_parln
 780,female,2016,13
 780,female,2017,13
 780,female,2018,13
+780,female,2019,13
 784,female,2000,0
 784,female,2001,0
 784,female,2002,0
@@ -3979,6 +4194,7 @@ geo_area,sex,year,sg_gen_parln
 784,female,2016,9
 784,female,2017,8
 784,female,2018,9
+784,female,2019,9
 788,female,2000,21
 788,female,2001,21
 788,female,2002,21
@@ -3998,6 +4214,7 @@ geo_area,sex,year,sg_gen_parln
 788,female,2016,68
 788,female,2017,68
 788,female,2018,68
+788,female,2019,78
 792,female,2000,23
 792,female,2001,23
 792,female,2002,23
@@ -4017,6 +4234,7 @@ geo_area,sex,year,sg_gen_parln
 792,female,2016,82
 792,female,2017,82
 792,female,2018,80
+792,female,2019,104
 795,female,2000,13
 795,female,2001,13
 795,female,2002,13
@@ -4035,6 +4253,7 @@ geo_area,sex,year,sg_gen_parln
 795,female,2016,32
 795,female,2017,32
 795,female,2018,32
+795,female,2019,31
 798,female,2000,0
 798,female,2001,0
 798,female,2002,0
@@ -4054,6 +4273,7 @@ geo_area,sex,year,sg_gen_parln
 798,female,2016,1
 798,female,2017,1
 798,female,2018,1
+798,female,2019,1
 800,female,2000,50
 800,female,2001,50
 800,female,2002,75
@@ -4073,6 +4293,7 @@ geo_area,sex,year,sg_gen_parln
 800,female,2016,135
 800,female,2017,154
 800,female,2018,154
+800,female,2019,160
 804,female,2000,35
 804,female,2001,35
 804,female,2002,35
@@ -4092,6 +4313,7 @@ geo_area,sex,year,sg_gen_parln
 804,female,2016,51
 804,female,2017,52
 804,female,2018,52
+804,female,2019,49
 807,female,2000,9
 807,female,2001,8
 807,female,2002,8
@@ -4111,9 +4333,11 @@ geo_area,sex,year,sg_gen_parln
 807,female,2016,41
 807,female,2017,38
 807,female,2018,45
+807,female,2019,46
 818,female,2016,89
 818,female,2017,89
 818,female,2018,89
+818,female,2019,89
 826,female,2000,121
 826,female,2001,121
 826,female,2002,118
@@ -4133,6 +4357,7 @@ geo_area,sex,year,sg_gen_parln
 826,female,2016,191
 826,female,2017,195
 826,female,2018,208
+826,female,2019,208
 834,female,2000,61
 834,female,2001,61
 834,female,2002,61
@@ -4152,6 +4377,7 @@ geo_area,sex,year,sg_gen_parln
 834,female,2016,136
 834,female,2017,143
 834,female,2018,145
+834,female,2019,145
 840,female,2000,58
 840,female,2001,61
 840,female,2002,61
@@ -4171,6 +4397,7 @@ geo_area,sex,year,sg_gen_parln
 840,female,2016,84
 840,female,2017,83
 840,female,2018,84
+840,female,2019,102
 854,female,2000,9
 854,female,2001,9
 854,female,2002,9
@@ -4190,6 +4417,7 @@ geo_area,sex,year,sg_gen_parln
 854,female,2016,12
 854,female,2017,14
 854,female,2018,14
+854,female,2019,17
 858,female,2000,12
 858,female,2001,12
 858,female,2002,12
@@ -4209,6 +4437,7 @@ geo_area,sex,year,sg_gen_parln
 858,female,2016,16
 858,female,2017,20
 858,female,2018,20
+858,female,2019,22
 860,female,2000,17
 860,female,2001,18
 860,female,2002,18
@@ -4228,6 +4457,7 @@ geo_area,sex,year,sg_gen_parln
 860,female,2016,24
 860,female,2017,24
 860,female,2018,24
+860,female,2019,24
 862,female,2000,25
 862,female,2001,16
 862,female,2002,16
@@ -4247,6 +4477,7 @@ geo_area,sex,year,sg_gen_parln
 862,female,2016,24
 862,female,2017,37
 862,female,2018,37
+862,female,2019,37
 882,female,2000,4
 882,female,2001,4
 882,female,2002,3
@@ -4266,6 +4497,7 @@ geo_area,sex,year,sg_gen_parln
 882,female,2016,3
 882,female,2017,5
 882,female,2018,5
+882,female,2019,5
 887,female,2000,2
 887,female,2001,2
 887,female,2002,2
@@ -4285,6 +4517,7 @@ geo_area,sex,year,sg_gen_parln
 887,female,2016,0
 887,female,2017,0
 887,female,2018,0
+887,female,2019,1
 891,female,2000,7
 891,female,2002,10
 891,female,2003,10
@@ -4310,3 +4543,4 @@ geo_area,sex,year,sg_gen_parln
 894,female,2016,20
 894,female,2017,30
 894,female,2018,30
+894,female,2019,30

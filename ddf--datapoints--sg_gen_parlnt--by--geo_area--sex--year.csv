@@ -18,6 +18,7 @@ geo_area,sex,year,sg_gen_parlnt
 1,bothsex,2016,38866
 1,bothsex,2017,39208
 1,bothsex,2018,38696
+1,bothsex,2019,38929
 4,bothsex,2006,249
 4,bothsex,2007,249
 4,bothsex,2008,242
@@ -50,6 +51,7 @@ geo_area,sex,year,sg_gen_parlnt
 5,bothsex,2016,1919
 5,bothsex,2017,1919
 5,bothsex,2018,1799
+5,bothsex,2019,1957
 8,bothsex,2000,155
 8,bothsex,2001,155
 8,bothsex,2002,140
@@ -69,6 +71,7 @@ geo_area,sex,year,sg_gen_parlnt
 8,bothsex,2016,140
 8,bothsex,2017,140
 8,bothsex,2018,140
+8,bothsex,2019,140
 9,bothsex,2000,761
 9,bothsex,2001,691
 9,bothsex,2002,767
@@ -88,6 +91,7 @@ geo_area,sex,year,sg_gen_parlnt
 9,bothsex,2016,752
 9,bothsex,2017,752
 9,bothsex,2018,748
+9,bothsex,2019,748
 11,bothsex,2000,1628
 11,bothsex,2001,1981
 11,bothsex,2002,1965
@@ -107,6 +111,7 @@ geo_area,sex,year,sg_gen_parlnt
 11,bothsex,2016,2279
 11,bothsex,2017,2339
 11,bothsex,2018,2359
+11,bothsex,2019,2391
 12,bothsex,2000,380
 12,bothsex,2001,380
 12,bothsex,2002,380
@@ -126,6 +131,7 @@ geo_area,sex,year,sg_gen_parlnt
 12,bothsex,2016,462
 12,bothsex,2017,462
 12,bothsex,2018,462
+12,bothsex,2019,462
 13,bothsex,2000,1076
 13,bothsex,2001,1075
 13,bothsex,2002,1074
@@ -145,6 +151,7 @@ geo_area,sex,year,sg_gen_parlnt
 13,bothsex,2016,1120
 13,bothsex,2017,1122
 13,bothsex,2018,1122
+13,bothsex,2019,1122
 14,bothsex,2000,2724
 14,bothsex,2001,2734
 14,bothsex,2002,2812
@@ -164,6 +171,7 @@ geo_area,sex,year,sg_gen_parlnt
 14,bothsex,2016,3823
 14,bothsex,2017,3967
 14,bothsex,2018,3954
+14,bothsex,2019,3987
 15,bothsex,2000,1287
 15,bothsex,2001,1287
 15,bothsex,2002,1247
@@ -183,6 +191,7 @@ geo_area,sex,year,sg_gen_parlnt
 15,bothsex,2016,2284
 15,bothsex,2017,2284
 15,bothsex,2018,2284
+15,bothsex,2019,2339
 17,bothsex,2000,964
 17,bothsex,2001,964
 17,bothsex,2002,964
@@ -202,6 +211,7 @@ geo_area,sex,year,sg_gen_parlnt
 17,bothsex,2016,1491
 17,bothsex,2017,1628
 17,bothsex,2018,1643
+17,bothsex,2019,1633
 18,bothsex,2000,663
 18,bothsex,2001,662
 18,bothsex,2002,662
@@ -221,6 +231,7 @@ geo_area,sex,year,sg_gen_parlnt
 18,bothsex,2016,752
 18,bothsex,2017,748
 18,bothsex,2018,748
+18,bothsex,2019,749
 20,bothsex,2000,28
 20,bothsex,2001,28
 20,bothsex,2002,28
@@ -240,6 +251,7 @@ geo_area,sex,year,sg_gen_parlnt
 20,bothsex,2016,28
 20,bothsex,2017,28
 20,bothsex,2018,28
+20,bothsex,2019,28
 21,bothsex,2000,736
 21,bothsex,2001,736
 21,bothsex,2002,736
@@ -259,6 +271,7 @@ geo_area,sex,year,sg_gen_parlnt
 21,bothsex,2016,772
 21,bothsex,2017,770
 21,bothsex,2018,768
+21,bothsex,2019,767
 24,bothsex,2000,220
 24,bothsex,2001,220
 24,bothsex,2002,220
@@ -278,6 +291,7 @@ geo_area,sex,year,sg_gen_parlnt
 24,bothsex,2016,220
 24,bothsex,2017,220
 24,bothsex,2018,220
+24,bothsex,2019,220
 28,bothsex,2000,19
 28,bothsex,2001,19
 28,bothsex,2002,19
@@ -297,6 +311,7 @@ geo_area,sex,year,sg_gen_parlnt
 28,bothsex,2016,18
 28,bothsex,2017,18
 28,bothsex,2018,18
+28,bothsex,2019,18
 29,bothsex,2000,1117
 29,bothsex,2001,1117
 29,bothsex,2002,1118
@@ -316,6 +331,7 @@ geo_area,sex,year,sg_gen_parlnt
 29,bothsex,2016,1181
 29,bothsex,2017,1213
 29,bothsex,2018,1215
+29,bothsex,2019,1208
 30,bothsex,2000,4541
 30,bothsex,2001,4500
 30,bothsex,2002,4500
@@ -335,6 +351,7 @@ geo_area,sex,year,sg_gen_parlnt
 30,bothsex,2016,4497
 30,bothsex,2017,4487
 30,bothsex,2018,4452
+30,bothsex,2019,4499
 31,bothsex,2000,125
 31,bothsex,2001,125
 31,bothsex,2002,124
@@ -354,6 +371,7 @@ geo_area,sex,year,sg_gen_parlnt
 31,bothsex,2016,124
 31,bothsex,2017,125
 31,bothsex,2018,125
+31,bothsex,2019,119
 32,bothsex,2000,257
 32,bothsex,2001,257
 32,bothsex,2002,257
@@ -373,6 +391,7 @@ geo_area,sex,year,sg_gen_parlnt
 32,bothsex,2016,257
 32,bothsex,2017,257
 32,bothsex,2018,257
+32,bothsex,2019,255
 34,bothsex,2000,1769
 34,bothsex,2001,1794
 34,bothsex,2002,1793
@@ -392,6 +411,7 @@ geo_area,sex,year,sg_gen_parlnt
 34,bothsex,2016,2728
 34,bothsex,2017,2722
 34,bothsex,2018,2292
+34,bothsex,2019,2134
 35,bothsex,2000,2067
 35,bothsex,2001,2179
 35,bothsex,2002,2163
@@ -411,6 +431,7 @@ geo_area,sex,year,sg_gen_parlnt
 35,bothsex,2016,2606
 35,bothsex,2017,2719
 35,bothsex,2018,2721
+35,bothsex,2019,2713
 36,bothsex,2000,147
 36,bothsex,2001,148
 36,bothsex,2002,150
@@ -430,6 +451,7 @@ geo_area,sex,year,sg_gen_parlnt
 36,bothsex,2016,150
 36,bothsex,2017,150
 36,bothsex,2018,150
+36,bothsex,2019,150
 39,bothsex,2000,2333
 39,bothsex,2001,2359
 39,bothsex,2002,2344
@@ -449,6 +471,7 @@ geo_area,sex,year,sg_gen_parlnt
 39,bothsex,2016,2545
 39,bothsex,2017,2544
 39,bothsex,2018,2539
+39,bothsex,2019,2536
 40,bothsex,2000,183
 40,bothsex,2001,183
 40,bothsex,2002,183
@@ -468,6 +491,7 @@ geo_area,sex,year,sg_gen_parlnt
 40,bothsex,2016,183
 40,bothsex,2017,183
 40,bothsex,2018,183
+40,bothsex,2019,183
 44,bothsex,2000,40
 44,bothsex,2001,40
 44,bothsex,2002,40
@@ -487,6 +511,7 @@ geo_area,sex,year,sg_gen_parlnt
 44,bothsex,2016,38
 44,bothsex,2017,38
 44,bothsex,2018,39
+44,bothsex,2019,39
 48,bothsex,2003,40
 48,bothsex,2004,40
 48,bothsex,2005,40
@@ -503,6 +528,7 @@ geo_area,sex,year,sg_gen_parlnt
 48,bothsex,2016,40
 48,bothsex,2017,40
 48,bothsex,2018,40
+48,bothsex,2019,40
 50,bothsex,2000,330
 50,bothsex,2001,330
 50,bothsex,2002,330
@@ -520,6 +546,7 @@ geo_area,sex,year,sg_gen_parlnt
 50,bothsex,2016,350
 50,bothsex,2017,350
 50,bothsex,2018,350
+50,bothsex,2019,348
 51,bothsex,2000,131
 51,bothsex,2001,131
 51,bothsex,2002,131
@@ -539,6 +566,7 @@ geo_area,sex,year,sg_gen_parlnt
 51,bothsex,2016,131
 51,bothsex,2017,131
 51,bothsex,2018,105
+51,bothsex,2019,132
 52,bothsex,2000,28
 52,bothsex,2001,28
 52,bothsex,2002,28
@@ -558,6 +586,7 @@ geo_area,sex,year,sg_gen_parlnt
 52,bothsex,2016,30
 52,bothsex,2017,30
 52,bothsex,2018,30
+52,bothsex,2019,30
 53,bothsex,2000,267
 53,bothsex,2001,268
 53,bothsex,2002,270
@@ -577,6 +606,7 @@ geo_area,sex,year,sg_gen_parlnt
 53,bothsex,2016,271
 53,bothsex,2017,270
 53,bothsex,2018,270
+53,bothsex,2019,270
 54,bothsex,2000,281
 54,bothsex,2001,210
 54,bothsex,2002,280
@@ -596,6 +626,7 @@ geo_area,sex,year,sg_gen_parlnt
 54,bothsex,2016,263
 54,bothsex,2017,263
 54,bothsex,2018,258
+54,bothsex,2019,258
 56,bothsex,2000,150
 56,bothsex,2001,150
 56,bothsex,2002,150
@@ -615,6 +646,7 @@ geo_area,sex,year,sg_gen_parlnt
 56,bothsex,2016,150
 56,bothsex,2017,150
 56,bothsex,2018,150
+56,bothsex,2019,150
 57,bothsex,2000,122
 57,bothsex,2001,122
 57,bothsex,2002,123
@@ -634,6 +666,7 @@ geo_area,sex,year,sg_gen_parlnt
 57,bothsex,2016,128
 57,bothsex,2017,128
 57,bothsex,2018,128
+57,bothsex,2019,128
 61,bothsex,2000,91
 61,bothsex,2001,91
 61,bothsex,2002,94
@@ -653,6 +686,7 @@ geo_area,sex,year,sg_gen_parlnt
 61,bothsex,2016,90
 61,bothsex,2017,91
 61,bothsex,2018,92
+61,bothsex,2019,92
 62,bothsex,2000,2397
 62,bothsex,2001,2274
 62,bothsex,2002,2293
@@ -672,6 +706,7 @@ geo_area,sex,year,sg_gen_parlnt
 62,bothsex,2016,3292
 62,bothsex,2017,3286
 62,bothsex,2018,2856
+62,bothsex,2019,2698
 64,bothsex,2000,150
 64,bothsex,2001,150
 64,bothsex,2002,150
@@ -691,6 +726,7 @@ geo_area,sex,year,sg_gen_parlnt
 64,bothsex,2016,47
 64,bothsex,2017,47
 64,bothsex,2018,47
+64,bothsex,2019,47
 68,bothsex,2000,130
 68,bothsex,2001,130
 68,bothsex,2002,130
@@ -710,6 +746,7 @@ geo_area,sex,year,sg_gen_parlnt
 68,bothsex,2016,130
 68,bothsex,2017,130
 68,bothsex,2018,130
+68,bothsex,2019,130
 70,bothsex,2000,42
 70,bothsex,2001,42
 70,bothsex,2002,42
@@ -729,6 +766,7 @@ geo_area,sex,year,sg_gen_parlnt
 70,bothsex,2016,42
 70,bothsex,2017,42
 70,bothsex,2018,42
+70,bothsex,2019,42
 72,bothsex,2000,47
 72,bothsex,2001,47
 72,bothsex,2002,47
@@ -748,6 +786,7 @@ geo_area,sex,year,sg_gen_parlnt
 72,bothsex,2016,63
 72,bothsex,2017,63
 72,bothsex,2018,63
+72,bothsex,2019,63
 76,bothsex,2000,513
 76,bothsex,2001,513
 76,bothsex,2002,513
@@ -767,6 +806,7 @@ geo_area,sex,year,sg_gen_parlnt
 76,bothsex,2016,513
 76,bothsex,2017,513
 76,bothsex,2018,513
+76,bothsex,2019,513
 84,bothsex,2000,29
 84,bothsex,2001,29
 84,bothsex,2002,29
@@ -786,6 +826,7 @@ geo_area,sex,year,sg_gen_parlnt
 84,bothsex,2016,32
 84,bothsex,2017,32
 84,bothsex,2018,32
+84,bothsex,2019,32
 90,bothsex,2000,49
 90,bothsex,2001,49
 90,bothsex,2002,49
@@ -805,8 +846,10 @@ geo_area,sex,year,sg_gen_parlnt
 90,bothsex,2016,50
 90,bothsex,2017,50
 90,bothsex,2018,50
+90,bothsex,2019,49
 96,bothsex,2017,33
 96,bothsex,2018,33
+96,bothsex,2019,33
 100,bothsex,2000,240
 100,bothsex,2001,240
 100,bothsex,2002,240
@@ -826,6 +869,7 @@ geo_area,sex,year,sg_gen_parlnt
 100,bothsex,2016,240
 100,bothsex,2017,240
 100,bothsex,2018,240
+100,bothsex,2019,240
 104,bothsex,2011,326
 104,bothsex,2012,395
 104,bothsex,2013,431
@@ -834,6 +878,7 @@ geo_area,sex,year,sg_gen_parlnt
 104,bothsex,2016,433
 104,bothsex,2017,433
 104,bothsex,2018,433
+104,bothsex,2019,433
 108,bothsex,2000,117
 108,bothsex,2001,118
 108,bothsex,2002,169
@@ -853,6 +898,7 @@ geo_area,sex,year,sg_gen_parlnt
 108,bothsex,2016,121
 108,bothsex,2017,121
 108,bothsex,2018,121
+108,bothsex,2019,121
 112,bothsex,2000,110
 112,bothsex,2001,110
 112,bothsex,2002,97
@@ -872,6 +918,7 @@ geo_area,sex,year,sg_gen_parlnt
 112,bothsex,2016,110
 112,bothsex,2017,110
 112,bothsex,2018,110
+112,bothsex,2019,110
 116,bothsex,2000,122
 116,bothsex,2001,122
 116,bothsex,2002,122
@@ -891,6 +938,7 @@ geo_area,sex,year,sg_gen_parlnt
 116,bothsex,2016,123
 116,bothsex,2017,123
 116,bothsex,2018,123
+116,bothsex,2019,125
 120,bothsex,2000,180
 120,bothsex,2001,180
 120,bothsex,2002,180
@@ -910,6 +958,7 @@ geo_area,sex,year,sg_gen_parlnt
 120,bothsex,2016,180
 120,bothsex,2017,180
 120,bothsex,2018,180
+120,bothsex,2019,180
 124,bothsex,2000,301
 124,bothsex,2001,301
 124,bothsex,2002,301
@@ -929,6 +978,7 @@ geo_area,sex,year,sg_gen_parlnt
 124,bothsex,2016,338
 124,bothsex,2017,335
 124,bothsex,2018,337
+124,bothsex,2019,334
 132,bothsex,2000,72
 132,bothsex,2001,72
 132,bothsex,2002,72
@@ -948,6 +998,7 @@ geo_area,sex,year,sg_gen_parlnt
 132,bothsex,2016,72
 132,bothsex,2017,72
 132,bothsex,2018,72
+132,bothsex,2019,72
 135,bothsex,2000,1119
 135,bothsex,2001,971
 135,bothsex,2002,990
@@ -967,6 +1018,7 @@ geo_area,sex,year,sg_gen_parlnt
 135,bothsex,2016,969
 135,bothsex,2017,970
 135,bothsex,2018,944
+135,bothsex,2019,964
 140,bothsex,2000,109
 140,bothsex,2001,109
 140,bothsex,2002,109
@@ -980,6 +1032,7 @@ geo_area,sex,year,sg_gen_parlnt
 140,bothsex,2013,104
 140,bothsex,2017,140
 140,bothsex,2018,140
+140,bothsex,2019,140
 142,bothsex,2000,11336
 142,bothsex,2001,11284
 142,bothsex,2002,11284
@@ -999,6 +1052,7 @@ geo_area,sex,year,sg_gen_parlnt
 142,bothsex,2016,13098
 142,bothsex,2017,13151
 142,bothsex,2018,12667
+142,bothsex,2019,12642
 143,bothsex,2000,628
 143,bothsex,2001,480
 143,bothsex,2002,500
@@ -1018,6 +1072,7 @@ geo_area,sex,year,sg_gen_parlnt
 143,bothsex,2016,564
 143,bothsex,2017,564
 143,bothsex,2018,564
+143,bothsex,2019,564
 144,bothsex,2000,225
 144,bothsex,2001,225
 144,bothsex,2002,225
@@ -1037,6 +1092,7 @@ geo_area,sex,year,sg_gen_parlnt
 144,bothsex,2016,225
 144,bothsex,2017,225
 144,bothsex,2018,225
+144,bothsex,2019,225
 145,bothsex,2000,2331
 145,bothsex,2001,2331
 145,bothsex,2002,2328
@@ -1056,6 +1112,7 @@ geo_area,sex,year,sg_gen_parlnt
 145,bothsex,2016,2703
 145,bothsex,2017,2659
 145,bothsex,2018,2638
+145,bothsex,2019,2732
 148,bothsex,2000,125
 148,bothsex,2001,125
 148,bothsex,2002,125
@@ -1075,6 +1132,7 @@ geo_area,sex,year,sg_gen_parlnt
 148,bothsex,2016,188
 148,bothsex,2017,188
 148,bothsex,2018,188
+148,bothsex,2019,168
 150,bothsex,2000,9365
 150,bothsex,2001,9397
 150,bothsex,2002,9374
@@ -1094,6 +1152,7 @@ geo_area,sex,year,sg_gen_parlnt
 150,bothsex,2016,9395
 150,bothsex,2017,9315
 150,bothsex,2018,9389
+150,bothsex,2019,9386
 151,bothsex,2000,2881
 151,bothsex,2001,2883
 151,bothsex,2002,2878
@@ -1113,6 +1172,7 @@ geo_area,sex,year,sg_gen_parlnt
 151,bothsex,2016,2732
 151,bothsex,2017,2662
 151,bothsex,2018,2662
+151,bothsex,2019,2662
 152,bothsex,2000,120
 152,bothsex,2001,120
 152,bothsex,2002,120
@@ -1131,6 +1191,7 @@ geo_area,sex,year,sg_gen_parlnt
 152,bothsex,2015,120
 152,bothsex,2016,120
 152,bothsex,2017,120
+152,bothsex,2019,155
 154,bothsex,2000,2119
 154,bothsex,2001,2123
 154,bothsex,2002,2123
@@ -1150,6 +1211,7 @@ geo_area,sex,year,sg_gen_parlnt
 154,bothsex,2016,2118
 154,bothsex,2017,2110
 154,bothsex,2018,2110
+154,bothsex,2019,2110
 155,bothsex,2000,2032
 155,bothsex,2001,2032
 155,bothsex,2002,2029
@@ -1169,6 +1231,7 @@ geo_area,sex,year,sg_gen_parlnt
 155,bothsex,2016,2000
 155,bothsex,2017,1999
 155,bothsex,2018,2078
+155,bothsex,2019,2078
 156,bothsex,2000,2979
 156,bothsex,2001,2984
 156,bothsex,2002,2984
@@ -1188,6 +1251,7 @@ geo_area,sex,year,sg_gen_parlnt
 156,bothsex,2016,2959
 156,bothsex,2017,2949
 156,bothsex,2018,2924
+156,bothsex,2019,2975
 170,bothsex,2000,161
 170,bothsex,2001,161
 170,bothsex,2002,161
@@ -1207,6 +1271,7 @@ geo_area,sex,year,sg_gen_parlnt
 170,bothsex,2016,166
 170,bothsex,2017,166
 170,bothsex,2018,166
+170,bothsex,2019,171
 174,bothsex,2005,33
 174,bothsex,2006,33
 174,bothsex,2007,33
@@ -1220,6 +1285,7 @@ geo_area,sex,year,sg_gen_parlnt
 174,bothsex,2016,33
 174,bothsex,2017,33
 174,bothsex,2018,33
+174,bothsex,2019,33
 178,bothsex,2000,75
 178,bothsex,2001,75
 178,bothsex,2002,75
@@ -1239,6 +1305,7 @@ geo_area,sex,year,sg_gen_parlnt
 178,bothsex,2016,136
 178,bothsex,2017,136
 178,bothsex,2018,151
+178,bothsex,2019,151
 180,bothsex,2004,500
 180,bothsex,2005,500
 180,bothsex,2006,500
@@ -1254,6 +1321,7 @@ geo_area,sex,year,sg_gen_parlnt
 180,bothsex,2016,492
 180,bothsex,2017,492
 180,bothsex,2018,492
+180,bothsex,2019,485
 188,bothsex,2000,57
 188,bothsex,2001,57
 188,bothsex,2002,57
@@ -1273,6 +1341,7 @@ geo_area,sex,year,sg_gen_parlnt
 188,bothsex,2016,57
 188,bothsex,2017,57
 188,bothsex,2018,57
+188,bothsex,2019,57
 191,bothsex,2000,127
 191,bothsex,2001,151
 191,bothsex,2002,151
@@ -1292,6 +1361,7 @@ geo_area,sex,year,sg_gen_parlnt
 191,bothsex,2016,151
 191,bothsex,2017,151
 191,bothsex,2018,151
+191,bothsex,2019,151
 192,bothsex,2000,601
 192,bothsex,2001,601
 192,bothsex,2002,601
@@ -1311,6 +1381,7 @@ geo_area,sex,year,sg_gen_parlnt
 192,bothsex,2016,612
 192,bothsex,2017,612
 192,bothsex,2018,612
+192,bothsex,2019,605
 196,bothsex,2000,56
 196,bothsex,2001,56
 196,bothsex,2002,56
@@ -1330,6 +1401,7 @@ geo_area,sex,year,sg_gen_parlnt
 196,bothsex,2016,56
 196,bothsex,2017,56
 196,bothsex,2018,56
+196,bothsex,2019,56
 199,bothsex,2000,5895
 199,bothsex,2001,5901
 199,bothsex,2002,5927
@@ -1349,6 +1421,7 @@ geo_area,sex,year,sg_gen_parlnt
 199,bothsex,2016,8577
 199,bothsex,2017,8931
 199,bothsex,2018,8530
+199,bothsex,2019,8388
 202,bothsex,2000,5979
 202,bothsex,2001,6341
 202,bothsex,2002,6403
@@ -1368,6 +1441,7 @@ geo_area,sex,year,sg_gen_parlnt
 202,bothsex,2016,8345
 202,bothsex,2017,8682
 202,bothsex,2018,8704
+202,bothsex,2019,8760
 203,bothsex,2000,200
 203,bothsex,2001,200
 203,bothsex,2002,200
@@ -1387,6 +1461,7 @@ geo_area,sex,year,sg_gen_parlnt
 203,bothsex,2016,200
 203,bothsex,2017,200
 203,bothsex,2018,200
+203,bothsex,2019,200
 204,bothsex,2000,83
 204,bothsex,2001,83
 204,bothsex,2002,83
@@ -1406,6 +1481,7 @@ geo_area,sex,year,sg_gen_parlnt
 204,bothsex,2016,83
 204,bothsex,2017,83
 204,bothsex,2018,83
+204,bothsex,2019,83
 208,bothsex,2000,179
 208,bothsex,2001,179
 208,bothsex,2002,179
@@ -1425,6 +1501,7 @@ geo_area,sex,year,sg_gen_parlnt
 208,bothsex,2016,179
 208,bothsex,2017,179
 208,bothsex,2018,179
+208,bothsex,2019,179
 212,bothsex,2000,32
 212,bothsex,2001,32
 212,bothsex,2002,32
@@ -1444,6 +1521,7 @@ geo_area,sex,year,sg_gen_parlnt
 212,bothsex,2016,32
 212,bothsex,2017,32
 212,bothsex,2018,32
+212,bothsex,2019,32
 214,bothsex,2000,149
 214,bothsex,2001,149
 214,bothsex,2002,149
@@ -1463,6 +1541,7 @@ geo_area,sex,year,sg_gen_parlnt
 214,bothsex,2016,183
 214,bothsex,2017,190
 214,bothsex,2018,190
+214,bothsex,2019,190
 218,bothsex,2000,121
 218,bothsex,2001,123
 218,bothsex,2002,123
@@ -1482,6 +1561,7 @@ geo_area,sex,year,sg_gen_parlnt
 218,bothsex,2016,137
 218,bothsex,2017,137
 218,bothsex,2018,137
+218,bothsex,2019,137
 222,bothsex,2000,84
 222,bothsex,2001,84
 222,bothsex,2002,84
@@ -1501,6 +1581,7 @@ geo_area,sex,year,sg_gen_parlnt
 222,bothsex,2016,84
 222,bothsex,2017,84
 222,bothsex,2018,84
+222,bothsex,2019,84
 226,bothsex,2000,80
 226,bothsex,2001,80
 226,bothsex,2002,80
@@ -1520,6 +1601,7 @@ geo_area,sex,year,sg_gen_parlnt
 226,bothsex,2016,100
 226,bothsex,2017,100
 226,bothsex,2018,100
+226,bothsex,2019,100
 231,bothsex,2000,543
 231,bothsex,2001,546
 231,bothsex,2002,547
@@ -1539,6 +1621,7 @@ geo_area,sex,year,sg_gen_parlnt
 231,bothsex,2016,547
 231,bothsex,2017,547
 231,bothsex,2018,547
+231,bothsex,2019,547
 232,bothsex,2000,150
 232,bothsex,2001,150
 232,bothsex,2002,150
@@ -1558,6 +1641,7 @@ geo_area,sex,year,sg_gen_parlnt
 232,bothsex,2016,150
 232,bothsex,2017,150
 232,bothsex,2018,150
+232,bothsex,2019,150
 233,bothsex,2000,101
 233,bothsex,2001,101
 233,bothsex,2002,101
@@ -1577,6 +1661,7 @@ geo_area,sex,year,sg_gen_parlnt
 233,bothsex,2016,101
 233,bothsex,2017,101
 233,bothsex,2018,101
+233,bothsex,2019,101
 242,bothsex,2000,71
 242,bothsex,2002,70
 242,bothsex,2003,70
@@ -1587,6 +1672,7 @@ geo_area,sex,year,sg_gen_parlnt
 242,bothsex,2016,50
 242,bothsex,2017,50
 242,bothsex,2018,50
+242,bothsex,2019,51
 246,bothsex,2000,200
 246,bothsex,2001,200
 246,bothsex,2002,200
@@ -1606,6 +1692,7 @@ geo_area,sex,year,sg_gen_parlnt
 246,bothsex,2016,200
 246,bothsex,2017,200
 246,bothsex,2018,200
+246,bothsex,2019,200
 250,bothsex,2000,577
 250,bothsex,2001,577
 250,bothsex,2002,577
@@ -1625,6 +1712,7 @@ geo_area,sex,year,sg_gen_parlnt
 250,bothsex,2016,577
 250,bothsex,2017,577
 250,bothsex,2018,577
+250,bothsex,2019,577
 262,bothsex,2000,65
 262,bothsex,2001,65
 262,bothsex,2002,65
@@ -1644,6 +1732,7 @@ geo_area,sex,year,sg_gen_parlnt
 262,bothsex,2016,55
 262,bothsex,2017,65
 262,bothsex,2018,65
+262,bothsex,2019,65
 266,bothsex,2000,120
 266,bothsex,2001,120
 266,bothsex,2002,120
@@ -1663,6 +1752,7 @@ geo_area,sex,year,sg_gen_parlnt
 266,bothsex,2016,120
 266,bothsex,2017,117
 266,bothsex,2018,117
+266,bothsex,2019,134
 268,bothsex,2000,235
 268,bothsex,2001,235
 268,bothsex,2002,235
@@ -1682,6 +1772,7 @@ geo_area,sex,year,sg_gen_parlnt
 268,bothsex,2016,150
 268,bothsex,2017,150
 268,bothsex,2018,150
+268,bothsex,2019,149
 270,bothsex,2000,49
 270,bothsex,2001,49
 270,bothsex,2002,53
@@ -1701,6 +1792,7 @@ geo_area,sex,year,sg_gen_parlnt
 270,bothsex,2016,53
 270,bothsex,2017,53
 270,bothsex,2018,58
+270,bothsex,2019,58
 276,bothsex,2000,669
 276,bothsex,2001,669
 276,bothsex,2002,666
@@ -1720,6 +1812,7 @@ geo_area,sex,year,sg_gen_parlnt
 276,bothsex,2016,631
 276,bothsex,2017,630
 276,bothsex,2018,709
+276,bothsex,2019,709
 288,bothsex,2000,200
 288,bothsex,2001,200
 288,bothsex,2002,200
@@ -1739,6 +1832,7 @@ geo_area,sex,year,sg_gen_parlnt
 288,bothsex,2016,275
 288,bothsex,2017,275
 288,bothsex,2018,275
+288,bothsex,2019,275
 296,bothsex,2000,41
 296,bothsex,2001,41
 296,bothsex,2002,42
@@ -1758,6 +1852,7 @@ geo_area,sex,year,sg_gen_parlnt
 296,bothsex,2016,46
 296,bothsex,2017,46
 296,bothsex,2018,46
+296,bothsex,2019,46
 300,bothsex,2000,300
 300,bothsex,2001,300
 300,bothsex,2002,300
@@ -1777,6 +1872,7 @@ geo_area,sex,year,sg_gen_parlnt
 300,bothsex,2016,300
 300,bothsex,2017,300
 300,bothsex,2018,300
+300,bothsex,2019,300
 308,bothsex,2000,15
 308,bothsex,2001,15
 308,bothsex,2002,15
@@ -1796,6 +1892,7 @@ geo_area,sex,year,sg_gen_parlnt
 308,bothsex,2016,15
 308,bothsex,2017,15
 308,bothsex,2018,15
+308,bothsex,2019,15
 320,bothsex,2000,113
 320,bothsex,2001,113
 320,bothsex,2002,113
@@ -1815,6 +1912,7 @@ geo_area,sex,year,sg_gen_parlnt
 320,bothsex,2016,158
 320,bothsex,2017,158
 320,bothsex,2018,158
+320,bothsex,2019,158
 324,bothsex,2000,114
 324,bothsex,2001,114
 324,bothsex,2002,114
@@ -1829,6 +1927,7 @@ geo_area,sex,year,sg_gen_parlnt
 324,bothsex,2016,114
 324,bothsex,2017,114
 324,bothsex,2018,114
+324,bothsex,2019,114
 328,bothsex,2000,65
 328,bothsex,2001,65
 328,bothsex,2002,65
@@ -1848,6 +1947,7 @@ geo_area,sex,year,sg_gen_parlnt
 328,bothsex,2016,69
 328,bothsex,2017,69
 328,bothsex,2018,69
+328,bothsex,2019,69
 332,bothsex,2000,83
 332,bothsex,2001,83
 332,bothsex,2002,83
@@ -1867,6 +1967,7 @@ geo_area,sex,year,sg_gen_parlnt
 332,bothsex,2016,92
 332,bothsex,2017,117
 332,bothsex,2018,118
+332,bothsex,2019,118
 340,bothsex,2000,128
 340,bothsex,2001,128
 340,bothsex,2002,128
@@ -1886,6 +1987,7 @@ geo_area,sex,year,sg_gen_parlnt
 340,bothsex,2016,128
 340,bothsex,2017,128
 340,bothsex,2018,128
+340,bothsex,2019,128
 348,bothsex,2000,386
 348,bothsex,2001,386
 348,bothsex,2002,386
@@ -1905,6 +2007,7 @@ geo_area,sex,year,sg_gen_parlnt
 348,bothsex,2016,198
 348,bothsex,2017,199
 348,bothsex,2018,199
+348,bothsex,2019,199
 352,bothsex,2000,63
 352,bothsex,2001,63
 352,bothsex,2002,63
@@ -1924,6 +2027,7 @@ geo_area,sex,year,sg_gen_parlnt
 352,bothsex,2016,63
 352,bothsex,2017,63
 352,bothsex,2018,63
+352,bothsex,2019,63
 356,bothsex,2000,543
 356,bothsex,2001,544
 356,bothsex,2002,543
@@ -1943,6 +2047,7 @@ geo_area,sex,year,sg_gen_parlnt
 356,bothsex,2016,543
 356,bothsex,2017,542
 356,bothsex,2018,542
+356,bothsex,2019,524
 360,bothsex,2000,500
 360,bothsex,2001,500
 360,bothsex,2002,500
@@ -1962,6 +2067,7 @@ geo_area,sex,year,sg_gen_parlnt
 360,bothsex,2016,555
 360,bothsex,2017,560
 360,bothsex,2018,560
+360,bothsex,2019,560
 364,bothsex,2000,266
 364,bothsex,2001,290
 364,bothsex,2002,290
@@ -1981,6 +2087,7 @@ geo_area,sex,year,sg_gen_parlnt
 364,bothsex,2016,290
 364,bothsex,2017,289
 364,bothsex,2018,289
+364,bothsex,2019,289
 368,bothsex,2000,250
 368,bothsex,2001,250
 368,bothsex,2002,250
@@ -1998,6 +2105,7 @@ geo_area,sex,year,sg_gen_parlnt
 368,bothsex,2016,328
 368,bothsex,2017,328
 368,bothsex,2018,328
+368,bothsex,2019,329
 372,bothsex,2000,166
 372,bothsex,2001,166
 372,bothsex,2002,166
@@ -2017,6 +2125,7 @@ geo_area,sex,year,sg_gen_parlnt
 372,bothsex,2016,166
 372,bothsex,2017,158
 372,bothsex,2018,158
+372,bothsex,2019,158
 376,bothsex,2000,120
 376,bothsex,2001,120
 376,bothsex,2002,120
@@ -2036,6 +2145,7 @@ geo_area,sex,year,sg_gen_parlnt
 376,bothsex,2016,120
 376,bothsex,2017,120
 376,bothsex,2018,120
+376,bothsex,2019,120
 380,bothsex,2000,630
 380,bothsex,2001,630
 380,bothsex,2002,630
@@ -2055,6 +2165,7 @@ geo_area,sex,year,sg_gen_parlnt
 380,bothsex,2016,630
 380,bothsex,2017,630
 380,bothsex,2018,630
+380,bothsex,2019,630
 384,bothsex,2000,223
 384,bothsex,2001,225
 384,bothsex,2002,223
@@ -2074,6 +2185,7 @@ geo_area,sex,year,sg_gen_parlnt
 384,bothsex,2016,251
 384,bothsex,2017,253
 384,bothsex,2018,255
+384,bothsex,2019,255
 388,bothsex,2000,60
 388,bothsex,2001,60
 388,bothsex,2002,60
@@ -2093,6 +2205,7 @@ geo_area,sex,year,sg_gen_parlnt
 388,bothsex,2016,63
 388,bothsex,2017,63
 388,bothsex,2018,63
+388,bothsex,2019,63
 392,bothsex,2000,500
 392,bothsex,2001,480
 392,bothsex,2002,480
@@ -2112,6 +2225,7 @@ geo_area,sex,year,sg_gen_parlnt
 392,bothsex,2016,475
 392,bothsex,2017,475
 392,bothsex,2018,465
+392,bothsex,2019,463
 398,bothsex,2000,77
 398,bothsex,2001,77
 398,bothsex,2002,77
@@ -2131,6 +2245,7 @@ geo_area,sex,year,sg_gen_parlnt
 398,bothsex,2016,107
 398,bothsex,2017,107
 398,bothsex,2018,107
+398,bothsex,2019,107
 400,bothsex,2000,80
 400,bothsex,2001,80
 400,bothsex,2002,80
@@ -2150,6 +2265,7 @@ geo_area,sex,year,sg_gen_parlnt
 400,bothsex,2016,150
 400,bothsex,2017,130
 400,bothsex,2018,130
+400,bothsex,2019,130
 404,bothsex,2000,224
 404,bothsex,2001,224
 404,bothsex,2002,224
@@ -2169,6 +2285,7 @@ geo_area,sex,year,sg_gen_parlnt
 404,bothsex,2016,350
 404,bothsex,2017,350
 404,bothsex,2018,349
+404,bothsex,2019,349
 408,bothsex,2000,687
 408,bothsex,2001,687
 408,bothsex,2002,687
@@ -2187,6 +2304,7 @@ geo_area,sex,year,sg_gen_parlnt
 408,bothsex,2016,687
 408,bothsex,2017,687
 408,bothsex,2018,687
+408,bothsex,2019,687
 410,bothsex,2000,299
 410,bothsex,2001,273
 410,bothsex,2002,273
@@ -2206,6 +2324,7 @@ geo_area,sex,year,sg_gen_parlnt
 410,bothsex,2016,300
 410,bothsex,2017,300
 410,bothsex,2018,300
+410,bothsex,2019,298
 414,bothsex,2000,65
 414,bothsex,2001,65
 414,bothsex,2002,65
@@ -2225,6 +2344,7 @@ geo_area,sex,year,sg_gen_parlnt
 414,bothsex,2016,65
 414,bothsex,2017,65
 414,bothsex,2018,65
+414,bothsex,2019,65
 417,bothsex,2000,70
 417,bothsex,2001,43
 417,bothsex,2002,60
@@ -2244,6 +2364,7 @@ geo_area,sex,year,sg_gen_parlnt
 417,bothsex,2016,120
 417,bothsex,2017,120
 417,bothsex,2018,120
+417,bothsex,2019,120
 418,bothsex,2000,99
 418,bothsex,2001,99
 418,bothsex,2002,99
@@ -2263,6 +2384,7 @@ geo_area,sex,year,sg_gen_parlnt
 418,bothsex,2016,132
 418,bothsex,2017,149
 418,bothsex,2018,149
+418,bothsex,2019,149
 419,bothsex,2000,4116
 419,bothsex,2001,4076
 419,bothsex,2002,4076
@@ -2282,6 +2404,7 @@ geo_area,sex,year,sg_gen_parlnt
 419,bothsex,2016,4220
 419,bothsex,2017,4254
 419,bothsex,2018,4136
+419,bothsex,2019,4287
 422,bothsex,2000,128
 422,bothsex,2001,128
 422,bothsex,2002,128
@@ -2301,6 +2424,7 @@ geo_area,sex,year,sg_gen_parlnt
 422,bothsex,2016,128
 422,bothsex,2017,128
 422,bothsex,2018,128
+422,bothsex,2019,128
 426,bothsex,2000,79
 426,bothsex,2001,79
 426,bothsex,2002,79
@@ -2320,6 +2444,7 @@ geo_area,sex,year,sg_gen_parlnt
 426,bothsex,2016,120
 426,bothsex,2017,120
 426,bothsex,2018,122
+426,bothsex,2019,120
 428,bothsex,2000,100
 428,bothsex,2001,100
 428,bothsex,2002,100
@@ -2339,6 +2464,7 @@ geo_area,sex,year,sg_gen_parlnt
 428,bothsex,2016,100
 428,bothsex,2017,100
 428,bothsex,2018,100
+428,bothsex,2019,100
 430,bothsex,2000,64
 430,bothsex,2001,64
 430,bothsex,2002,64
@@ -2358,6 +2484,7 @@ geo_area,sex,year,sg_gen_parlnt
 430,bothsex,2016,73
 430,bothsex,2017,73
 430,bothsex,2018,71
+430,bothsex,2019,73
 432,bothsex,2000,4121
 432,bothsex,2001,3979
 432,bothsex,2002,4077
@@ -2377,6 +2504,7 @@ geo_area,sex,year,sg_gen_parlnt
 432,bothsex,2016,5265
 432,bothsex,2017,5597
 432,bothsex,2018,5123
+432,bothsex,2019,5017
 434,bothsex,2006,760
 434,bothsex,2007,468
 434,bothsex,2008,468
@@ -2390,6 +2518,7 @@ geo_area,sex,year,sg_gen_parlnt
 434,bothsex,2016,188
 434,bothsex,2017,188
 434,bothsex,2018,188
+434,bothsex,2019,188
 438,bothsex,2000,25
 438,bothsex,2001,25
 438,bothsex,2002,25
@@ -2409,6 +2538,7 @@ geo_area,sex,year,sg_gen_parlnt
 438,bothsex,2016,25
 438,bothsex,2017,25
 438,bothsex,2018,25
+438,bothsex,2019,25
 440,bothsex,2000,137
 440,bothsex,2001,141
 440,bothsex,2002,141
@@ -2428,6 +2558,7 @@ geo_area,sex,year,sg_gen_parlnt
 440,bothsex,2016,141
 440,bothsex,2017,141
 440,bothsex,2018,141
+440,bothsex,2019,141
 442,bothsex,2000,60
 442,bothsex,2001,60
 442,bothsex,2002,60
@@ -2447,6 +2578,7 @@ geo_area,sex,year,sg_gen_parlnt
 442,bothsex,2016,60
 442,bothsex,2017,60
 442,bothsex,2018,60
+442,bothsex,2019,60
 450,bothsex,2000,150
 450,bothsex,2001,150
 450,bothsex,2002,150
@@ -2465,6 +2597,7 @@ geo_area,sex,year,sg_gen_parlnt
 450,bothsex,2016,151
 450,bothsex,2017,151
 450,bothsex,2018,151
+450,bothsex,2019,151
 454,bothsex,2000,193
 454,bothsex,2001,193
 454,bothsex,2002,193
@@ -2484,6 +2617,7 @@ geo_area,sex,year,sg_gen_parlnt
 454,bothsex,2016,192
 454,bothsex,2017,192
 454,bothsex,2018,192
+454,bothsex,2019,192
 458,bothsex,2000,193
 458,bothsex,2001,193
 458,bothsex,2002,193
@@ -2503,6 +2637,7 @@ geo_area,sex,year,sg_gen_parlnt
 458,bothsex,2016,222
 458,bothsex,2017,222
 458,bothsex,2018,222
+458,bothsex,2019,222
 462,bothsex,2000,50
 462,bothsex,2001,50
 462,bothsex,2002,50
@@ -2522,6 +2657,7 @@ geo_area,sex,year,sg_gen_parlnt
 462,bothsex,2016,85
 462,bothsex,2017,85
 462,bothsex,2018,85
+462,bothsex,2019,85
 466,bothsex,2000,147
 466,bothsex,2001,147
 466,bothsex,2002,147
@@ -2541,6 +2677,7 @@ geo_area,sex,year,sg_gen_parlnt
 466,bothsex,2016,147
 466,bothsex,2017,147
 466,bothsex,2018,147
+466,bothsex,2019,147
 470,bothsex,2000,65
 470,bothsex,2001,65
 470,bothsex,2002,65
@@ -2560,6 +2697,7 @@ geo_area,sex,year,sg_gen_parlnt
 470,bothsex,2016,70
 470,bothsex,2017,72
 470,bothsex,2018,67
+470,bothsex,2019,67
 478,bothsex,2000,79
 478,bothsex,2001,79
 478,bothsex,2002,81
@@ -2578,6 +2716,7 @@ geo_area,sex,year,sg_gen_parlnt
 478,bothsex,2016,147
 478,bothsex,2017,147
 478,bothsex,2018,147
+478,bothsex,2019,153
 480,bothsex,2000,66
 480,bothsex,2001,70
 480,bothsex,2002,70
@@ -2597,6 +2736,7 @@ geo_area,sex,year,sg_gen_parlnt
 480,bothsex,2016,69
 480,bothsex,2017,69
 480,bothsex,2018,69
+480,bothsex,2019,69
 484,bothsex,2000,500
 484,bothsex,2001,500
 484,bothsex,2002,500
@@ -2616,6 +2756,7 @@ geo_area,sex,year,sg_gen_parlnt
 484,bothsex,2016,498
 484,bothsex,2017,500
 484,bothsex,2018,500
+484,bothsex,2019,500
 485,bothsex,2000,1664
 485,bothsex,2001,1664
 485,bothsex,2002,1662
@@ -2635,6 +2776,7 @@ geo_area,sex,year,sg_gen_parlnt
 485,bothsex,2016,2122
 485,bothsex,2017,2077
 485,bothsex,2018,2082
+485,bothsex,2019,2156
 492,bothsex,2000,18
 492,bothsex,2001,18
 492,bothsex,2002,18
@@ -2654,6 +2796,7 @@ geo_area,sex,year,sg_gen_parlnt
 492,bothsex,2016,24
 492,bothsex,2017,24
 492,bothsex,2018,24
+492,bothsex,2019,24
 496,bothsex,2000,76
 496,bothsex,2001,76
 496,bothsex,2002,76
@@ -2673,6 +2816,7 @@ geo_area,sex,year,sg_gen_parlnt
 496,bothsex,2016,76
 496,bothsex,2017,76
 496,bothsex,2018,76
+496,bothsex,2019,76
 498,bothsex,2000,101
 498,bothsex,2001,101
 498,bothsex,2002,101
@@ -2692,6 +2836,7 @@ geo_area,sex,year,sg_gen_parlnt
 498,bothsex,2016,101
 498,bothsex,2017,101
 498,bothsex,2018,101
+498,bothsex,2019,101
 499,bothsex,2007,81
 499,bothsex,2008,81
 499,bothsex,2009,81
@@ -2704,6 +2849,7 @@ geo_area,sex,year,sg_gen_parlnt
 499,bothsex,2016,81
 499,bothsex,2017,81
 499,bothsex,2018,81
+499,bothsex,2019,81
 504,bothsex,2000,325
 504,bothsex,2001,325
 504,bothsex,2002,325
@@ -2723,6 +2869,7 @@ geo_area,sex,year,sg_gen_parlnt
 504,bothsex,2016,395
 504,bothsex,2017,395
 504,bothsex,2018,395
+504,bothsex,2019,395
 508,bothsex,2000,250
 508,bothsex,2001,250
 508,bothsex,2002,250
@@ -2742,6 +2889,7 @@ geo_area,sex,year,sg_gen_parlnt
 508,bothsex,2016,250
 508,bothsex,2017,250
 508,bothsex,2018,250
+508,bothsex,2019,250
 512,bothsex,2005,83
 512,bothsex,2006,83
 512,bothsex,2007,83
@@ -2756,6 +2904,7 @@ geo_area,sex,year,sg_gen_parlnt
 512,bothsex,2016,85
 512,bothsex,2017,85
 512,bothsex,2018,85
+512,bothsex,2019,85
 513,bothsex,2000,10101
 513,bothsex,2001,10133
 513,bothsex,2002,10110
@@ -2775,6 +2924,7 @@ geo_area,sex,year,sg_gen_parlnt
 513,bothsex,2016,10167
 513,bothsex,2017,10085
 513,bothsex,2018,10157
+513,bothsex,2019,10153
 514,bothsex,2000,11044
 514,bothsex,2001,11057
 514,bothsex,2002,11036
@@ -2794,6 +2944,7 @@ geo_area,sex,year,sg_gen_parlnt
 514,bothsex,2016,11089
 514,bothsex,2017,11006
 514,bothsex,2018,11068
+514,bothsex,2019,11062
 516,bothsex,2000,72
 516,bothsex,2001,72
 516,bothsex,2002,72
@@ -2813,6 +2964,7 @@ geo_area,sex,year,sg_gen_parlnt
 516,bothsex,2016,104
 516,bothsex,2017,104
 516,bothsex,2018,104
+516,bothsex,2019,104
 518,bothsex,2000,4041
 518,bothsex,2001,4020
 518,bothsex,2002,4020
@@ -2832,6 +2984,7 @@ geo_area,sex,year,sg_gen_parlnt
 518,bothsex,2016,4022
 518,bothsex,2017,4012
 518,bothsex,2018,3987
+518,bothsex,2019,4036
 520,bothsex,2000,18
 520,bothsex,2001,18
 520,bothsex,2002,18
@@ -2851,6 +3004,7 @@ geo_area,sex,year,sg_gen_parlnt
 520,bothsex,2016,19
 520,bothsex,2017,19
 520,bothsex,2018,19
+520,bothsex,2019,19
 524,bothsex,2000,205
 524,bothsex,2001,205
 524,bothsex,2002,205
@@ -2865,7 +3019,8 @@ geo_area,sex,year,sg_gen_parlnt
 524,bothsex,2015,597
 524,bothsex,2016,599
 524,bothsex,2017,595
-524,bothsex,2018,165
+524,bothsex,2018,275
+524,bothsex,2019,275
 528,bothsex,2000,150
 528,bothsex,2001,150
 528,bothsex,2002,150
@@ -2885,6 +3040,7 @@ geo_area,sex,year,sg_gen_parlnt
 528,bothsex,2016,150
 528,bothsex,2017,150
 528,bothsex,2018,150
+528,bothsex,2019,150
 543,bothsex,2000,494
 543,bothsex,2001,423
 543,bothsex,2002,497
@@ -2904,6 +3060,7 @@ geo_area,sex,year,sg_gen_parlnt
 543,bothsex,2016,481
 543,bothsex,2017,482
 543,bothsex,2018,478
+543,bothsex,2019,478
 548,bothsex,2000,52
 548,bothsex,2001,52
 548,bothsex,2002,52
@@ -2923,6 +3080,7 @@ geo_area,sex,year,sg_gen_parlnt
 548,bothsex,2016,52
 548,bothsex,2017,52
 548,bothsex,2018,52
+548,bothsex,2019,52
 554,bothsex,2000,120
 554,bothsex,2001,120
 554,bothsex,2002,120
@@ -2942,6 +3100,7 @@ geo_area,sex,year,sg_gen_parlnt
 554,bothsex,2016,121
 554,bothsex,2017,120
 554,bothsex,2018,120
+554,bothsex,2019,120
 558,bothsex,2000,93
 558,bothsex,2001,93
 558,bothsex,2002,92
@@ -2961,6 +3120,7 @@ geo_area,sex,year,sg_gen_parlnt
 558,bothsex,2016,92
 558,bothsex,2017,92
 558,bothsex,2018,92
+558,bothsex,2019,92
 562,bothsex,2000,83
 562,bothsex,2001,83
 562,bothsex,2002,83
@@ -2979,6 +3139,7 @@ geo_area,sex,year,sg_gen_parlnt
 562,bothsex,2016,113
 562,bothsex,2017,171
 562,bothsex,2018,171
+562,bothsex,2019,171
 566,bothsex,2001,351
 566,bothsex,2002,351
 566,bothsex,2003,351
@@ -2997,6 +3158,7 @@ geo_area,sex,year,sg_gen_parlnt
 566,bothsex,2016,360
 566,bothsex,2017,360
 566,bothsex,2018,360
+566,bothsex,2019,359
 578,bothsex,2000,165
 578,bothsex,2001,165
 578,bothsex,2002,165
@@ -3016,6 +3178,7 @@ geo_area,sex,year,sg_gen_parlnt
 578,bothsex,2016,169
 578,bothsex,2017,169
 578,bothsex,2018,169
+578,bothsex,2019,169
 583,bothsex,2000,14
 583,bothsex,2001,14
 583,bothsex,2002,14
@@ -3035,6 +3198,7 @@ geo_area,sex,year,sg_gen_parlnt
 583,bothsex,2016,14
 583,bothsex,2017,14
 583,bothsex,2018,14
+583,bothsex,2019,14
 584,bothsex,2000,33
 584,bothsex,2001,33
 584,bothsex,2002,33
@@ -3054,6 +3218,7 @@ geo_area,sex,year,sg_gen_parlnt
 584,bothsex,2016,33
 584,bothsex,2017,33
 584,bothsex,2018,33
+584,bothsex,2019,33
 585,bothsex,2000,16
 585,bothsex,2001,16
 585,bothsex,2002,16
@@ -3073,6 +3238,7 @@ geo_area,sex,year,sg_gen_parlnt
 585,bothsex,2016,16
 585,bothsex,2017,16
 585,bothsex,2018,16
+585,bothsex,2019,16
 586,bothsex,2003,342
 586,bothsex,2004,342
 586,bothsex,2005,342
@@ -3089,6 +3255,7 @@ geo_area,sex,year,sg_gen_parlnt
 586,bothsex,2016,340
 586,bothsex,2017,340
 586,bothsex,2018,340
+586,bothsex,2019,341
 591,bothsex,2000,72
 591,bothsex,2001,71
 591,bothsex,2002,71
@@ -3108,6 +3275,7 @@ geo_area,sex,year,sg_gen_parlnt
 591,bothsex,2016,71
 591,bothsex,2017,71
 591,bothsex,2018,71
+591,bothsex,2019,71
 598,bothsex,2000,109
 598,bothsex,2001,109
 598,bothsex,2002,109
@@ -3127,6 +3295,7 @@ geo_area,sex,year,sg_gen_parlnt
 598,bothsex,2016,111
 598,bothsex,2017,111
 598,bothsex,2018,106
+598,bothsex,2019,106
 600,bothsex,2000,80
 600,bothsex,2001,80
 600,bothsex,2002,80
@@ -3146,6 +3315,7 @@ geo_area,sex,year,sg_gen_parlnt
 600,bothsex,2016,80
 600,bothsex,2017,80
 600,bothsex,2018,80
+600,bothsex,2019,80
 604,bothsex,2000,120
 604,bothsex,2001,120
 604,bothsex,2002,120
@@ -3165,6 +3335,7 @@ geo_area,sex,year,sg_gen_parlnt
 604,bothsex,2016,130
 604,bothsex,2017,130
 604,bothsex,2018,130
+604,bothsex,2019,130
 608,bothsex,2000,217
 608,bothsex,2001,222
 608,bothsex,2002,214
@@ -3184,6 +3355,7 @@ geo_area,sex,year,sg_gen_parlnt
 608,bothsex,2016,290
 608,bothsex,2017,292
 608,bothsex,2018,292
+608,bothsex,2019,292
 616,bothsex,2000,460
 616,bothsex,2001,460
 616,bothsex,2002,460
@@ -3203,6 +3375,7 @@ geo_area,sex,year,sg_gen_parlnt
 616,bothsex,2016,460
 616,bothsex,2017,460
 616,bothsex,2018,460
+616,bothsex,2019,460
 620,bothsex,2000,230
 620,bothsex,2001,230
 620,bothsex,2002,230
@@ -3222,6 +3395,7 @@ geo_area,sex,year,sg_gen_parlnt
 620,bothsex,2016,230
 620,bothsex,2017,230
 620,bothsex,2018,230
+620,bothsex,2019,230
 624,bothsex,2000,102
 624,bothsex,2001,102
 624,bothsex,2002,102
@@ -3240,6 +3414,7 @@ geo_area,sex,year,sg_gen_parlnt
 624,bothsex,2016,102
 624,bothsex,2017,102
 624,bothsex,2018,102
+624,bothsex,2019,102
 626,bothsex,2003,88
 626,bothsex,2004,88
 626,bothsex,2005,87
@@ -3256,6 +3431,7 @@ geo_area,sex,year,sg_gen_parlnt
 626,bothsex,2016,65
 626,bothsex,2017,65
 626,bothsex,2018,65
+626,bothsex,2019,65
 634,bothsex,2006,35
 634,bothsex,2007,35
 634,bothsex,2008,35
@@ -3269,6 +3445,7 @@ geo_area,sex,year,sg_gen_parlnt
 634,bothsex,2016,35
 634,bothsex,2017,35
 634,bothsex,2018,41
+634,bothsex,2019,41
 642,bothsex,2000,343
 642,bothsex,2001,345
 642,bothsex,2002,345
@@ -3288,6 +3465,7 @@ geo_area,sex,year,sg_gen_parlnt
 642,bothsex,2016,401
 642,bothsex,2017,329
 642,bothsex,2018,329
+642,bothsex,2019,329
 643,bothsex,2000,441
 643,bothsex,2001,441
 643,bothsex,2002,449
@@ -3307,6 +3485,7 @@ geo_area,sex,year,sg_gen_parlnt
 643,bothsex,2016,450
 643,bothsex,2017,450
 643,bothsex,2018,450
+643,bothsex,2019,450
 646,bothsex,2000,70
 646,bothsex,2001,70
 646,bothsex,2002,74
@@ -3326,6 +3505,7 @@ geo_area,sex,year,sg_gen_parlnt
 646,bothsex,2016,80
 646,bothsex,2017,80
 646,bothsex,2018,80
+646,bothsex,2019,80
 659,bothsex,2000,15
 659,bothsex,2001,15
 659,bothsex,2002,15
@@ -3345,6 +3525,7 @@ geo_area,sex,year,sg_gen_parlnt
 659,bothsex,2016,15
 659,bothsex,2017,15
 659,bothsex,2018,15
+659,bothsex,2019,15
 662,bothsex,2000,18
 662,bothsex,2001,18
 662,bothsex,2002,18
@@ -3364,6 +3545,7 @@ geo_area,sex,year,sg_gen_parlnt
 662,bothsex,2016,18
 662,bothsex,2017,18
 662,bothsex,2018,18
+662,bothsex,2019,18
 670,bothsex,2000,21
 670,bothsex,2001,21
 670,bothsex,2002,22
@@ -3383,6 +3565,7 @@ geo_area,sex,year,sg_gen_parlnt
 670,bothsex,2016,23
 670,bothsex,2017,23
 670,bothsex,2018,23
+670,bothsex,2019,23
 674,bothsex,2000,60
 674,bothsex,2001,60
 674,bothsex,2002,60
@@ -3402,6 +3585,7 @@ geo_area,sex,year,sg_gen_parlnt
 674,bothsex,2016,60
 674,bothsex,2017,60
 674,bothsex,2018,60
+674,bothsex,2019,60
 678,bothsex,2000,55
 678,bothsex,2001,55
 678,bothsex,2002,55
@@ -3421,6 +3605,7 @@ geo_area,sex,year,sg_gen_parlnt
 678,bothsex,2016,55
 678,bothsex,2017,55
 678,bothsex,2018,55
+678,bothsex,2019,55
 682,bothsex,2004,120
 682,bothsex,2005,120
 682,bothsex,2006,150
@@ -3436,6 +3621,7 @@ geo_area,sex,year,sg_gen_parlnt
 682,bothsex,2016,151
 682,bothsex,2017,151
 682,bothsex,2018,151
+682,bothsex,2019,151
 686,bothsex,2000,140
 686,bothsex,2001,140
 686,bothsex,2002,120
@@ -3455,6 +3641,7 @@ geo_area,sex,year,sg_gen_parlnt
 686,bothsex,2016,150
 686,bothsex,2017,150
 686,bothsex,2018,165
+686,bothsex,2019,165
 688,bothsex,2007,250
 688,bothsex,2008,250
 688,bothsex,2009,250
@@ -3467,6 +3654,7 @@ geo_area,sex,year,sg_gen_parlnt
 688,bothsex,2016,250
 688,bothsex,2017,250
 688,bothsex,2018,250
+688,bothsex,2019,247
 690,bothsex,2000,34
 690,bothsex,2001,34
 690,bothsex,2002,34
@@ -3486,6 +3674,7 @@ geo_area,sex,year,sg_gen_parlnt
 690,bothsex,2016,32
 690,bothsex,2017,33
 690,bothsex,2018,33
+690,bothsex,2019,33
 694,bothsex,2000,80
 694,bothsex,2001,80
 694,bothsex,2002,80
@@ -3505,6 +3694,7 @@ geo_area,sex,year,sg_gen_parlnt
 694,bothsex,2016,121
 694,bothsex,2017,121
 694,bothsex,2018,121
+694,bothsex,2019,146
 702,bothsex,2000,93
 702,bothsex,2001,93
 702,bothsex,2002,85
@@ -3524,6 +3714,7 @@ geo_area,sex,year,sg_gen_parlnt
 702,bothsex,2016,91
 702,bothsex,2017,101
 702,bothsex,2018,100
+702,bothsex,2019,100
 703,bothsex,2000,150
 703,bothsex,2001,150
 703,bothsex,2002,150
@@ -3543,6 +3734,7 @@ geo_area,sex,year,sg_gen_parlnt
 703,bothsex,2016,150
 703,bothsex,2017,150
 703,bothsex,2018,150
+703,bothsex,2019,150
 704,bothsex,2000,450
 704,bothsex,2001,450
 704,bothsex,2002,450
@@ -3562,6 +3754,7 @@ geo_area,sex,year,sg_gen_parlnt
 704,bothsex,2016,498
 704,bothsex,2017,494
 704,bothsex,2018,494
+704,bothsex,2019,494
 705,bothsex,2000,90
 705,bothsex,2001,90
 705,bothsex,2002,90
@@ -3581,6 +3774,7 @@ geo_area,sex,year,sg_gen_parlnt
 705,bothsex,2016,90
 705,bothsex,2017,90
 705,bothsex,2018,90
+705,bothsex,2019,90
 706,bothsex,2006,275
 706,bothsex,2007,269
 706,bothsex,2008,256
@@ -3593,6 +3787,7 @@ geo_area,sex,year,sg_gen_parlnt
 706,bothsex,2016,275
 706,bothsex,2017,264
 706,bothsex,2018,275
+706,bothsex,2019,275
 710,bothsex,2000,400
 710,bothsex,2001,399
 710,bothsex,2002,399
@@ -3612,6 +3807,7 @@ geo_area,sex,year,sg_gen_parlnt
 710,bothsex,2016,400
 710,bothsex,2017,396
 710,bothsex,2018,394
+710,bothsex,2019,393
 716,bothsex,2000,150
 716,bothsex,2001,150
 716,bothsex,2002,150
@@ -3631,6 +3827,7 @@ geo_area,sex,year,sg_gen_parlnt
 716,bothsex,2016,270
 716,bothsex,2017,270
 716,bothsex,2018,250
+716,bothsex,2019,270
 722,bothsex,2000,2228
 722,bothsex,2001,2161
 722,bothsex,2002,2228
@@ -3650,6 +3847,7 @@ geo_area,sex,year,sg_gen_parlnt
 722,bothsex,2016,2418
 722,bothsex,2017,2462
 722,bothsex,2018,2459
+722,bothsex,2019,2452
 724,bothsex,2000,348
 724,bothsex,2001,350
 724,bothsex,2002,350
@@ -3669,6 +3867,7 @@ geo_area,sex,year,sg_gen_parlnt
 724,bothsex,2016,350
 724,bothsex,2017,350
 724,bothsex,2018,350
+724,bothsex,2019,350
 728,bothsex,2012,332
 728,bothsex,2013,332
 728,bothsex,2014,332
@@ -3676,6 +3875,7 @@ geo_area,sex,year,sg_gen_parlnt
 728,bothsex,2016,332
 728,bothsex,2017,383
 728,bothsex,2018,383
+728,bothsex,2019,383
 729,bothsex,2012,354
 729,bothsex,2013,354
 729,bothsex,2014,354
@@ -3683,6 +3883,7 @@ geo_area,sex,year,sg_gen_parlnt
 729,bothsex,2016,426
 729,bothsex,2017,426
 729,bothsex,2018,426
+729,bothsex,2019,481
 736,bothsex,2000,400
 736,bothsex,2001,400
 736,bothsex,2002,360
@@ -3714,6 +3915,7 @@ geo_area,sex,year,sg_gen_parlnt
 738,bothsex,2016,8771
 738,bothsex,2017,9108
 738,bothsex,2018,9130
+738,bothsex,2019,9241
 740,bothsex,2000,51
 740,bothsex,2001,51
 740,bothsex,2002,51
@@ -3733,6 +3935,7 @@ geo_area,sex,year,sg_gen_parlnt
 740,bothsex,2016,51
 740,bothsex,2017,51
 740,bothsex,2018,51
+740,bothsex,2019,51
 746,bothsex,2000,887
 746,bothsex,2001,887
 746,bothsex,2002,887
@@ -3752,6 +3955,7 @@ geo_area,sex,year,sg_gen_parlnt
 746,bothsex,2016,1858
 746,bothsex,2017,1858
 746,bothsex,2018,1858
+746,bothsex,2019,1858
 747,bothsex,2000,3618
 747,bothsex,2001,3618
 747,bothsex,2002,3575
@@ -3771,6 +3975,7 @@ geo_area,sex,year,sg_gen_parlnt
 747,bothsex,2016,4987
 747,bothsex,2017,4943
 747,bothsex,2018,4922
+747,bothsex,2019,5071
 748,bothsex,2000,65
 748,bothsex,2001,65
 748,bothsex,2002,65
@@ -3790,6 +3995,7 @@ geo_area,sex,year,sg_gen_parlnt
 748,bothsex,2016,65
 748,bothsex,2017,65
 748,bothsex,2018,65
+748,bothsex,2019,69
 752,bothsex,2000,349
 752,bothsex,2001,349
 752,bothsex,2002,349
@@ -3809,6 +4015,7 @@ geo_area,sex,year,sg_gen_parlnt
 752,bothsex,2016,349
 752,bothsex,2017,349
 752,bothsex,2018,349
+752,bothsex,2019,349
 753,bothsex,2000,6608
 753,bothsex,2001,6679
 753,bothsex,2002,6663
@@ -3828,6 +4035,7 @@ geo_area,sex,year,sg_gen_parlnt
 753,bothsex,2016,7103
 753,bothsex,2017,7206
 753,bothsex,2018,7173
+753,bothsex,2019,7212
 756,bothsex,2000,200
 756,bothsex,2001,200
 756,bothsex,2002,200
@@ -3847,6 +4055,7 @@ geo_area,sex,year,sg_gen_parlnt
 756,bothsex,2016,200
 756,bothsex,2017,200
 756,bothsex,2018,200
+756,bothsex,2019,200
 760,bothsex,2000,250
 760,bothsex,2001,250
 760,bothsex,2002,250
@@ -3866,6 +4075,7 @@ geo_area,sex,year,sg_gen_parlnt
 760,bothsex,2016,250
 760,bothsex,2017,250
 760,bothsex,2018,250
+760,bothsex,2019,250
 762,bothsex,2000,181
 762,bothsex,2001,60
 762,bothsex,2002,63
@@ -3885,6 +4095,7 @@ geo_area,sex,year,sg_gen_parlnt
 762,bothsex,2016,63
 762,bothsex,2017,63
 762,bothsex,2018,63
+762,bothsex,2019,63
 764,bothsex,2000,393
 764,bothsex,2001,500
 764,bothsex,2002,500
@@ -3904,6 +4115,7 @@ geo_area,sex,year,sg_gen_parlnt
 764,bothsex,2016,197
 764,bothsex,2017,247
 764,bothsex,2018,250
+764,bothsex,2019,240
 768,bothsex,2000,81
 768,bothsex,2001,81
 768,bothsex,2002,81
@@ -3923,6 +4135,7 @@ geo_area,sex,year,sg_gen_parlnt
 768,bothsex,2016,91
 768,bothsex,2017,91
 768,bothsex,2018,91
+768,bothsex,2019,91
 776,bothsex,2000,30
 776,bothsex,2001,30
 776,bothsex,2002,30
@@ -3942,6 +4155,7 @@ geo_area,sex,year,sg_gen_parlnt
 776,bothsex,2016,26
 776,bothsex,2017,26
 776,bothsex,2018,27
+776,bothsex,2019,27
 780,bothsex,2000,36
 780,bothsex,2001,36
 780,bothsex,2002,36
@@ -3961,6 +4175,7 @@ geo_area,sex,year,sg_gen_parlnt
 780,bothsex,2016,42
 780,bothsex,2017,42
 780,bothsex,2018,42
+780,bothsex,2019,42
 784,bothsex,2000,40
 784,bothsex,2001,40
 784,bothsex,2002,40
@@ -3980,6 +4195,7 @@ geo_area,sex,year,sg_gen_parlnt
 784,bothsex,2016,40
 784,bothsex,2017,40
 784,bothsex,2018,40
+784,bothsex,2019,40
 788,bothsex,2000,182
 788,bothsex,2001,182
 788,bothsex,2002,182
@@ -3999,6 +4215,7 @@ geo_area,sex,year,sg_gen_parlnt
 788,bothsex,2016,217
 788,bothsex,2017,217
 788,bothsex,2018,217
+788,bothsex,2019,217
 792,bothsex,2000,550
 792,bothsex,2001,550
 792,bothsex,2002,550
@@ -4018,6 +4235,7 @@ geo_area,sex,year,sg_gen_parlnt
 792,bothsex,2016,550
 792,bothsex,2017,550
 792,bothsex,2018,549
+792,bothsex,2019,596
 795,bothsex,2000,50
 795,bothsex,2001,50
 795,bothsex,2002,50
@@ -4037,6 +4255,7 @@ geo_area,sex,year,sg_gen_parlnt
 795,bothsex,2016,124
 795,bothsex,2017,124
 795,bothsex,2018,124
+795,bothsex,2019,124
 798,bothsex,2000,12
 798,bothsex,2001,12
 798,bothsex,2002,15
@@ -4056,6 +4275,7 @@ geo_area,sex,year,sg_gen_parlnt
 798,bothsex,2016,15
 798,bothsex,2017,15
 798,bothsex,2018,15
+798,bothsex,2019,15
 800,bothsex,2000,279
 800,bothsex,2001,281
 800,bothsex,2002,304
@@ -4075,6 +4295,7 @@ geo_area,sex,year,sg_gen_parlnt
 800,bothsex,2016,386
 800,bothsex,2017,449
 800,bothsex,2018,449
+800,bothsex,2019,459
 804,bothsex,2000,450
 804,bothsex,2001,450
 804,bothsex,2002,450
@@ -4094,6 +4315,7 @@ geo_area,sex,year,sg_gen_parlnt
 804,bothsex,2016,422
 804,bothsex,2017,423
 804,bothsex,2018,423
+804,bothsex,2019,423
 807,bothsex,2000,120
 807,bothsex,2001,120
 807,bothsex,2002,120
@@ -4113,9 +4335,11 @@ geo_area,sex,year,sg_gen_parlnt
 807,bothsex,2016,123
 807,bothsex,2017,120
 807,bothsex,2018,120
+807,bothsex,2019,120
 818,bothsex,2016,596
 818,bothsex,2017,596
 818,bothsex,2018,596
+818,bothsex,2019,596
 826,bothsex,2000,659
 826,bothsex,2001,659
 826,bothsex,2002,659
@@ -4135,6 +4359,7 @@ geo_area,sex,year,sg_gen_parlnt
 826,bothsex,2016,650
 826,bothsex,2017,650
 826,bothsex,2018,650
+826,bothsex,2019,650
 834,bothsex,2000,275
 834,bothsex,2001,275
 834,bothsex,2002,274
@@ -4154,6 +4379,7 @@ geo_area,sex,year,sg_gen_parlnt
 834,bothsex,2016,372
 834,bothsex,2017,393
 834,bothsex,2018,390
+834,bothsex,2019,393
 840,bothsex,2000,435
 840,bothsex,2001,435
 840,bothsex,2002,435
@@ -4173,6 +4399,7 @@ geo_area,sex,year,sg_gen_parlnt
 840,bothsex,2016,434
 840,bothsex,2017,435
 840,bothsex,2018,431
+840,bothsex,2019,433
 854,bothsex,2000,111
 854,bothsex,2001,111
 854,bothsex,2002,111
@@ -4192,6 +4419,7 @@ geo_area,sex,year,sg_gen_parlnt
 854,bothsex,2016,127
 854,bothsex,2017,127
 854,bothsex,2018,127
+854,bothsex,2019,127
 858,bothsex,2000,99
 858,bothsex,2001,99
 858,bothsex,2002,99
@@ -4211,6 +4439,7 @@ geo_area,sex,year,sg_gen_parlnt
 858,bothsex,2016,99
 858,bothsex,2017,99
 858,bothsex,2018,99
+858,bothsex,2019,99
 860,bothsex,2000,250
 860,bothsex,2001,250
 860,bothsex,2002,250
@@ -4230,6 +4459,7 @@ geo_area,sex,year,sg_gen_parlnt
 860,bothsex,2016,150
 860,bothsex,2017,150
 860,bothsex,2018,150
+860,bothsex,2019,150
 862,bothsex,2000,206
 862,bothsex,2001,165
 862,bothsex,2002,165
@@ -4249,6 +4479,7 @@ geo_area,sex,year,sg_gen_parlnt
 862,bothsex,2016,167
 862,bothsex,2017,167
 862,bothsex,2018,167
+862,bothsex,2019,167
 882,bothsex,2000,49
 882,bothsex,2001,49
 882,bothsex,2002,49
@@ -4268,6 +4499,7 @@ geo_area,sex,year,sg_gen_parlnt
 882,bothsex,2016,49
 882,bothsex,2017,50
 882,bothsex,2018,50
+882,bothsex,2019,50
 887,bothsex,2000,301
 887,bothsex,2001,301
 887,bothsex,2002,299
@@ -4287,6 +4519,7 @@ geo_area,sex,year,sg_gen_parlnt
 887,bothsex,2016,300
 887,bothsex,2017,275
 887,bothsex,2018,275
+887,bothsex,2019,301
 891,bothsex,2000,138
 891,bothsex,2001,138
 891,bothsex,2002,138
@@ -4313,3 +4546,4 @@ geo_area,sex,year,sg_gen_parlnt
 894,bothsex,2016,158
 894,bothsex,2017,167
 894,bothsex,2018,167
+894,bothsex,2019,167
