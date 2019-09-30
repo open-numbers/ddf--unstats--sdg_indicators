@@ -5,6 +5,7 @@ import os
 import pandas as pd
 import numpy as np
 import requests as req
+import logging
 
 from pandas.api.types import is_numeric_dtype
 from ddf_utils.str import to_concept_id, format_float_digits
@@ -15,12 +16,23 @@ from update_source import api_path, API_BASE, get_all_series
 
 FORMATTER = partial(format_float_digits, digits=7)
 
+logging.basicConfig()
+logger = logging.getLogger("etl")
+
 
 def read_source(name):
     try:
-        return pd.read_csv(f'../source/{name}.csv', thousands=',').dropna(how='all')
+        df = pd.read_csv(f'../source/{name}.csv', thousands=',').dropna(how='all')
     except pd.errors.EmptyDataError:
+        logger.warning("no data")
         return None
+    except pd.errors.ParserError:
+        logger.warning("parse error")
+        return None
+
+    # there could be spaces in the columns. strip them.
+    df.columns = df.columns.map(str.strip)
+    return df
 
 
 def get_key_columns(df):
@@ -45,12 +57,12 @@ def check_source(df, key_columns):
         df = df[df.Indicator == df.Indicator.values[0]]
 
     if df.duplicated(subset=key_columns).any():
-        print("duplicated datapoints.")
-        print(df.columns)
+        logger.warning("duplicated datapoints.")
+        logger.warning(df.columns)
 
     for k in key_columns:
         if df[k].hasnans:
-            print("column {} has NaNs".format(k))
+            logger.warning("column {} has NaNs".format(k))
             if k == 'TimePeriod':
                 # if timePeriod is N/A, we will just drop it
                 df = df.dropna(subset=['TimePeriod'])
@@ -80,7 +92,7 @@ def serve_datapoints(df, concept=None):
         df['year'] = df['year'].map(lambda x: int(x))
 
     if not is_numeric_dtype(df[concept]):
-        print("\tnot numeric data")
+        logger.warning("not numeric data")
     else:
         df[concept] = df[concept].map(FORMATTER)
 
@@ -131,11 +143,11 @@ def main():
 
         name = f[:-4]
         concept = name.lower()
-        print(concept)
+        logger.info(concept)
 
         df = read_source(name)
         if df is None:
-            print("\tno data")
+            # print("\tno data")
             continue
         key_columns = get_key_columns(df)
         df = check_source(df, key_columns)
@@ -188,5 +200,6 @@ def main():
 
 
 if __name__ == '__main__':
+    logger.setLevel(logging.INFO)
     main()
-    print('Done.')
+    logger.info('Done.')
