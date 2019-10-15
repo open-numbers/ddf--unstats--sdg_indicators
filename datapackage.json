@@ -8,7 +8,7 @@
     "description": "SDG indicators",
     "author": "Gapminder",
     "license": "CC-BY-4.0",
-    "created": "2019-09-30T08:04:22.266027+00:00",
+    "created": "2019-10-15T22:07:37.433615+00:00",
     "translations": [],
     "version": "0.0.1",
     "resources": [
@@ -4313,6 +4313,56 @@
                 "primaryKey": [
                     "education_level",
                     "geo_area",
+                    "year"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--sg_cpa_migr--by--geo_area--policy_domains--year",
+            "path": "ddf--datapoints--sg_cpa_migr--by--geo_area--policy_domains--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "policy_domains"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "sg_cpa_migr"
+                    }
+                ],
+                "primaryKey": [
+                    "geo_area",
+                    "policy_domains",
+                    "year"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--sg_cpa_migrp--by--geo_area--policy_domains--year",
+            "path": "ddf--datapoints--sg_cpa_migrp--by--geo_area--policy_domains--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "policy_domains"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "sg_cpa_migrp"
+                    }
+                ],
+                "primaryKey": [
+                    "geo_area",
+                    "policy_domains",
                     "year"
                 ]
             }
@@ -9238,6 +9288,21 @@
             }
         },
         {
+            "name": "ddf--entities--policy_domains",
+            "path": "ddf--entities--policy_domains.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "policy_domains"
+                    },
+                    {
+                        "name": "name"
+                    }
+                ],
+                "primaryKey": "policy_domains"
+            }
+        },
+        {
             "name": "ddf--entities--quantile",
             "path": "ddf--entities--quantile.csv",
             "schema": {
@@ -9524,6 +9589,15 @@
                 "value": "name",
                 "resources": [
                     "ddf--entities--name_of_non_communicable_disease"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "policy_domains"
+                ],
+                "value": "name",
+                "resources": [
+                    "ddf--entities--policy_domains"
                 ]
             },
             {
@@ -11560,6 +11634,28 @@
                 "value": "se_urp_reaach",
                 "resources": [
                     "ddf--datapoints--se_urp_reaach--by--education_level--geo_area--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo_area",
+                    "policy_domains",
+                    "year"
+                ],
+                "value": "sg_cpa_migr",
+                "resources": [
+                    "ddf--datapoints--sg_cpa_migr--by--geo_area--policy_domains--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo_area",
+                    "policy_domains",
+                    "year"
+                ],
+                "value": "sg_cpa_migrp",
+                "resources": [
+                    "ddf--datapoints--sg_cpa_migrp--by--geo_area--policy_domains--year"
                 ]
             },
             {

@@ -188,6 +188,8 @@ se_sep_reaach,measure,"Low to high socio-economic parity status index for achiev
 se_tra_grdl,measure,"Proportion of teachers who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country, by sex and education level (%)",4,4.c.1,SE_TRA_GRDL,4.c
 se_urp_matach,measure,"Rural to urban parity index for achievement in mathematics, by education level (ratio)",4,4.5.1,SE_URP_MATACH,4.5
 se_urp_reaach,measure,"Rural to urban parity index for achievement in reading, by education level (ratio)",4,4.5.1,SE_URP_REAACH,4.5
+sg_cpa_migr,measure,"Countries with migration policies to facilitate orderly, safe, regular and responsible migration and mobility of people, by policy domain (1 = Requires further progress; 2 = Partially meets; 3 = Meets; 4 = Fully meets) ",10,10.7.2,SG_CPA_MIGR,10.7
+sg_cpa_migrp,measure,"Proportion of countries with migration policies to facilitate orderly, safe, regular and responsible migration and mobility of people, by policy domain (%)",10,10.7.2,SG_CPA_MIGRP,10.7
 sg_dsr_lgrgsr,measure,Score of adoption and implementation of national DRR strategies in line with the Sendai Framework,"1, 11, 13","1.5.3, 11.b.1, 13.1.2",SG_DSR_LGRGSR,"1.5, 11.b, 13.1"
 sg_dsr_siln,measure,Number of local governments that adopt and implement local DRR strategies in line with national strategies (number),"1, 13, 11","1.5.4, 13.1.3, 11.b.2",SG_DSR_SILN,"1.5, 13.1, 11.b"
 sg_dsr_sils,measure,Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies (%),"1, 13, 11","1.5.4, 13.1.3, 11.b.2",SG_DSR_SILS,"1.5, 13.1, 11.b"
@@ -345,19 +347,19 @@ tx_exp_gbsvr,measure,Developing countries’ and least developed countries’ sh
 tx_imp_gbmrch,measure,Developing countries’ and least developed countries’ share of global merchandise imports (%),17,17.11.1,TX_IMP_GBMRCH,17.11
 tx_imp_gbsvr,measure,Developing countries’ and least developed countries’ share of global services imports (%),17,17.11.1,TX_IMP_GBSVR,17.11
 vc_dsr_affct,measure,Number of people affected by disaster (number),"1, 11, 13","1.5.1, 11.5.1, 13.1.1",VC_DSR_AFFCT,"1.5, 11.5, 13.1"
-vc_dsr_agln,measure,Direct agriculture loss attributed to disasters (millions of current United States dollars),"1, 11","1.5.2, 11.5.2",VC_DSR_AGLN,"1.5, 11.5"
+vc_dsr_agln,measure,Direct agriculture loss attributed to disasters (current United States dollars),"1, 11","1.5.2, 11.5.2",VC_DSR_AGLN,"1.5, 11.5"
 vc_dsr_bsdn,measure,Number of disruptions to basic services attributed to disasters (number),11,11.5.2,VC_DSR_BSDN,11.5
 vc_dsr_cdan,measure,Number of damaged critical infrastructure attributed to disasters (number),11,11.5.2,VC_DSR_CDAN,11.5
 vc_dsr_cdyn,measure,Number of other destroyed or damaged critical infrastructure units and facilities attributed to disasters (number),11,11.5.2,VC_DSR_CDYN,11.5
 vc_dsr_chln,measure,Direct economic loss to cultural heritage damaged or destroyed attributed to disasters (millions of current United States dollars),"1, 11","1.5.2, 11.5.2",VC_DSR_CHLN,"1.5, 11.5"
-vc_dsr_ciln,measure,Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters (millions of current United States dollars),"1, 11","1.5.2, 11.5.2",VC_DSR_CILN,"1.5, 11.5"
+vc_dsr_ciln,measure,Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters (current United States dollars),"1, 11","1.5.2, 11.5.2",VC_DSR_CILN,"1.5, 11.5"
 vc_dsr_daff,measure,"Number of directly affected persons attributed to disasters per 100,000 population (number)","1, 11, 13","1.5.1, 11.5.1, 13.1.1",VC_DSR_DAFF,"1.5, 11.5, 13.1"
 vc_dsr_ddpa,measure,Direct economic loss to other damaged or destroyed productive assets attributed to disasters (current United States dollars),"1, 11","1.5.2, 11.5.2",VC_DSR_DDPA,"1.5, 11.5"
 vc_dsr_efdn,measure,Number of destroyed or damaged educational facilities attributed to disasters (number),11,11.5.2,VC_DSR_EFDN,11.5
 vc_dsr_esdn,measure,Number of disruptions to educational services attributed to disasters (number),11,11.5.2,VC_DSR_ESDN,11.5
-vc_dsr_gdpls,measure,Direct economic loss attributed to disasters (millions of current United States dollars),"1, 11","1.5.2, 11.5.2",VC_DSR_GDPLS,"1.5, 11.5"
+vc_dsr_gdpls,measure,Direct economic loss attributed to disasters (current United States dollars),"1, 11","1.5.2, 11.5.2",VC_DSR_GDPLS,"1.5, 11.5"
 vc_dsr_hfdn,measure,Number of destroyed or damaged health facilities attributed to disasters (number),11,11.5.2,VC_DSR_HFDN,11.5
-vc_dsr_holn,measure,Direct economic loss in the housing sector attributed to disasters (millions of current United States dollars),"1, 11","1.5.2, 11.5.2",VC_DSR_HOLN,"1.5, 11.5"
+vc_dsr_holn,measure,Direct economic loss in the housing sector attributed to disasters (current United States dollars),"1, 11","1.5.2, 11.5.2",VC_DSR_HOLN,"1.5, 11.5"
 vc_dsr_hsdn,measure,Number of disruptions to health services attributed to disasters (number),11,11.5.2,VC_DSR_HSDN,11.5
 vc_dsr_ijiln,measure,Number of injured or ill people attributed to disasters (number),"1, 11, 13","1.5.1, 11.5.1, 13.1.1",VC_DSR_IJILN,"1.5, 11.5, 13.1"
 vc_dsr_lsgp,measure,Direct economic loss attributed to disasters relative to GDP (%),"1, 11","1.5.2, 11.5.2",VC_DSR_LSGP,"1.5, 11.5"

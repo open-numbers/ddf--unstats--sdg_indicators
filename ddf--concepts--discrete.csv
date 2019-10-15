@@ -15,6 +15,7 @@ mode_of_transportation,entity_domain,Mode Of Transportation
 name,string,Name
 name_of_international_institution,entity_domain,Name Of International Institution
 name_of_non_communicable_disease,entity_domain,Name Of Non Communicable Disease
+policy_domains,entity_domain,Policy Domains
 quantile,entity_domain,Quantile
 sex,entity_domain,Sex
 target,string,Target
