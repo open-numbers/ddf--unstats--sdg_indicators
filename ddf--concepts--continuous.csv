@@ -104,6 +104,8 @@ er_h2o_proced,measure,Proportion of countries with clearly defined procedures in
 er_h2o_rurp,measure,"Countries with users/communities participating in planning programs in rural drinking-water supply, by level of participation (3 = High; 2 = Moderate; 1 = Low; 0 = NA)",6,6.b.1,ER_H2O_RURP,6.b
 er_h2o_stress,measure,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources (%),6,6.4.2,ER_H2O_STRESS,6.4
 er_h2o_wueyst,measure,Water Use Efficiency (United States dollars per cubic meter),6,6.4.1,ER_H2O_WUEYST,6.4
+er_ias_legis,measure,"Legislation, Regulation, Act related to the prevention of introduction and management of Invasive Alien Species (1 = YES, 0 = NO)",15,15.8.1,ER_IAS_LEGIS,15.8
+er_ias_nbsap,measure,"National Biodiversity Strategy and Action Plan (NBSAP) targets alignment to Aichi Biodiversity target 9 set out in the Strategic Plan for Biodiversity 2011-2020 (1 = YES, 0 = NO)",15,15.8.1,ER_IAS_NBSAP,15.8
 er_mrn_marin,measure,Coverage of protected areas in relation to marine areas (Exclusive Economic Zones) (%),14,14.5.1,ER_MRN_MARIN,14.5
 er_mrn_marint,measure,Protected marine area (Exclusive Economic Zones) (square kilometres),14,14.5.1,ER_MRN_MARINT,14.5
 er_mrn_mpa,measure,Average proportion of Marine Key Biodiversity Areas (KBAs) covered by protected areas (%),14,14.5.1,ER_MRN_MPA,14.5
@@ -143,7 +145,9 @@ ic_gen_mgtl,measure,Proportion of women in managerial positions (%),5,5.5.2,IC_G
 ic_gen_mgtn,measure,Proportion of women in senior and middle management positions (%),5,5.5.2,IC_GEN_MGTN,5.5
 is_rdp_frgvol,measure,"Freight volume, by mode of transport (tonne kilometres)",9,9.1.2,IS_RDP_FRGVOL,9.1
 is_rdp_pfvol,measure,"Passenger volume (passenger kilometres), by mode of transport",9,9.1.2,IS_RDP_PFVOL,9.1
-it_mob_ntwk,measure,"Proportion of population covered by a mobile network, by technology (%)",9,9.c.1,IT_MOB_NTWK,9.c
+it_mob_2gntwk,measure,Proportion of population covered by at least a 2G mobile network (%),9,9.c.1,IT_MOB_2GNTWK,9.c
+it_mob_3gntwk,measure,Proportion of population covered by at least a 3G mobile network (%),9,9.c.1,IT_MOB_3GNTWK,9.c
+it_mob_4gntwk,measure,Proportion of population covered by at least a 4G mobile network (%),9,9.c.1,IT_MOB_4GNTWK,9.c
 it_mob_own,measure,"Proportion of individuals who own a mobile telephone, by sex (%)",5,5.b.1,IT_MOB_OWN,5.b
 it_net_bbn,measure,"Number of fixed Internet broadband subscriptions, by speed (number)",17,17.6.2,IT_NET_BBN,17.6
 it_net_bbp,measure,"Fixed Internet broadband subscriptions per 100 inhabitants, by speed (per 100 inhabitants)",17,17.6.2,IT_NET_BBP,17.6
@@ -166,28 +170,20 @@ se_adt_acts,measure,"Proportion of youth and adults with information and communi
 se_adt_eductrn,measure,"Participation rate in formal and non-formal education and training, by sex (%)",4,4.3.1,SE_ADT_EDUCTRN,4.3
 se_adt_funs,measure,"Proportion of population achieving at least a fixed level of proficiency in functional skills, by sex, age and type of skill (%)",4,4.6.1,SE_ADT_FUNS,4.6
 se_dev_ontrk,measure,"Proportion of children aged 36−59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning (% of children aged 36-59 months)",4,4.2.1,SE_DEV_ONTRK,4.2
-se_gpi_funprof,measure,Gender parity index achieving at least a fixed level of proficiency in functional literacy skills (ratio),4,4.5.1,SE_GPI_FUNPROF,4.5
 se_gpi_icts,measure,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",4,4.5.1,SE_GPI_ICTS,4.5
-se_gpi_matach,measure,"Gender parity index for achievement in mathematics, by education level (ratio)",4,4.5.1,SE_GPI_MATACH,4.5
 se_gpi_part,measure,Gender parity index for participation rate in formal and non-formal education and training (ratio),4,4.5.1,SE_GPI_PART,4.5
-se_gpi_reaach,measure,"Gender parity index for achievement in reading, by education level (ratio)",4,4.5.1,SE_GPI_REAACH,4.5
 se_gpi_tratea,measure,"Gender parity index of trained teachers, by education level (ratio)",4,4.5.1,SE_GPI_TRATEA,4.5
 se_imp_fpof,measure,"Immigration status parity index for achieving at least a fixed level of proficiency in functional skills, by numeracy/literacy skills (ratio)",4,4.5.1,SE_IMP_FPOF,4.5
 se_inf_dsbl,measure,"Proportion of schools with access to adapted infrastructure and materials for students with disabilities, by education level (%)",4,4.a.1,SE_INF_DSBL,4.a
-se_lgp_achima,measure,"Language test parity index for achievement in mathematics, by education level (ratio)",4,4.5.1,SE_LGP_ACHIMA,4.5
-se_lgp_achire,measure,"Language test parity index for achievement in reading, by education level (ratio)",4,4.5.1,SE_LGP_ACHIRE,4.5
-se_mat_prof,measure,"Minimum proficiency in mathematics, by education level and sex (%)",4,4.1.1,SE_MAT_PROF,4.1
-se_nap_achima,measure,"Native parity index for achievement in mathematics, by education level (ratio)",4,4.5.1,SE_NAP_ACHIMA,4.5
-se_nap_achire,measure,"Native parity index for achievement in reading, by education level (ratio)",4,4.5.1,SE_NAP_ACHIRE,4.5
+se_lgp_achi,measure,Language test parity index for achievement (ratio),4,4.5.1,SE_LGP_ACHI,4.5
+se_nap_achi,measure,Native parity index for achievement (ratio),4,4.5.1,SE_NAP_ACHI,4.5
 se_pre_gpipartn,measure,"Gender parity index for participation rate in organized learning (one year before the official primary entry age), (ratio)",4,4.5.1,SE_PRE_GPIPARTN,4.5
 se_pre_partn,measure,"Participation rate in organized learning (one year before the official primary entry age), by sex (%)",4,4.2.2,SE_PRE_PARTN,4.2
-se_rea_prof,measure,"Minimum proficiency in reading, by education level and sex (%)",4,4.1.1,SE_REA_PROF,4.1
-se_sep_funprof,measure,Low to high socio-economic parity status index achieving at least a fixed level of proficiency in functional numeracy skills  (ratio),4,4.5.1,SE_SEP_FUNPROF,4.5
-se_sep_matach,measure,"Low to high socio-economic parity status index for achievement in mathematics, by education level (ratio)",4,4.5.1,SE_SEP_MATACH,4.5
-se_sep_reaach,measure,"Low to high socio-economic parity status index for achievement in reading, by education level (ratio)",4,4.5.1,SE_SEP_REAACH,4.5
+se_tot_gpi,measure,Gender parity index for achievement (ratio),4,4.5.1,SE_TOT_GPI,4.5
+se_tot_prfl,measure,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics (%),4,4.1.1,SE_TOT_PRFL,4.1
+se_tot_rupi,measure,Rural to urban parity index for achievement (ratio),4,4.5.1,SE_TOT_RUPI,4.5
+se_tot_sespi,measure,Low to high socio-economic parity status index for achievement (ratio),4,4.5.1,SE_TOT_SESPI,4.5
 se_tra_grdl,measure,"Proportion of teachers who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country, by sex and education level (%)",4,4.c.1,SE_TRA_GRDL,4.c
-se_urp_matach,measure,"Rural to urban parity index for achievement in mathematics, by education level (ratio)",4,4.5.1,SE_URP_MATACH,4.5
-se_urp_reaach,measure,"Rural to urban parity index for achievement in reading, by education level (ratio)",4,4.5.1,SE_URP_REAACH,4.5
 sg_cpa_migr,measure,"Countries with migration policies to facilitate orderly, safe, regular and responsible migration and mobility of people, by policy domain (1 = Requires further progress; 2 = Partially meets; 3 = Meets; 4 = Fully meets) ",10,10.7.2,SG_CPA_MIGR,10.7
 sg_cpa_migrp,measure,"Proportion of countries with migration policies to facilitate orderly, safe, regular and responsible migration and mobility of people, by policy domain (%)",10,10.7.2,SG_CPA_MIGRP,10.7
 sg_dsr_lgrgsr,measure,Score of adoption and implementation of national DRR strategies in line with the Sendai Framework,"1, 11, 13","1.5.3, 11.b.1, 13.1.2",SG_DSR_LGRGSR,"1.5, 11.b, 13.1"
@@ -300,18 +296,14 @@ si_cov_benfts,measure,"[ILO] Proportion of population covered by at least one so
 si_cov_chld,measure,"[ILO] Proportion of children/households receiving child/family cash benefit, by sex (%)",1,1.3.1,SI_COV_CHLD,1.3
 si_cov_disab,measure,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",1,1.3.1,SI_COV_DISAB,1.3
 si_cov_lmkt,measure,[World Bank] Proportion of population covered by labour market programs (%),1,1.3.1,SI_COV_LMKT,1.3
-si_cov_lmktpq,measure,[World Bank] Poorest quintile covered by labour market programs (%) ,1,1.3.1,SI_COV_LMKTPQ,1.3
 si_cov_matnl,measure,[ILO] Proportion of mothers with newborns receiving maternity cash benefit (%),1,1.3.1,SI_COV_MATNL,1.3
 si_cov_pensn,measure,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",1,1.3.1,SI_COV_PENSN,1.3
 si_cov_poor,measure,"[ILO] Proportion of poor population receiving social assistance cash benefit, by sex (%)",1,1.3.1,SI_COV_POOR,1.3
 si_cov_socast,measure,[World Bank] Proportion of population covered by social assistance programs (%),1,1.3.1,SI_COV_SOCAST,1.3
-si_cov_socastpq,measure,[World Bank] Poorest quintile covered by social assistance programs (%),1,1.3.1,SI_COV_SOCASTPQ,1.3
 si_cov_socins,measure,[World Bank] Proportion of population covered by social insurance programs (%),1,1.3.1,SI_COV_SOCINS,1.3
-si_cov_socinspq,measure,[World Bank] Poorest quintile covered by social insurance programs (%),1,1.3.1,SI_COV_SOCINSPQ,1.3
 si_cov_uemp,measure,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",1,1.3.1,SI_COV_UEMP,1.3
 si_cov_vuln,measure,"[ILO] Proportion of vulnerable population receiving social assistance cash benefit, by sex (%)",1,1.3.1,SI_COV_VULN,1.3
 si_cov_wkinjry,measure,"[ILO] Proportion of employed population covered in the event of work injury, by sex (%)",1,1.3.1,SI_COV_WKINJRY,1.3
-si_hei_btn40,measure,Growth rates of household expenditure or income per capita among the bottom 40 per cent of the population (%),10,10.1.1,SI_HEI_BTN40,10.1
 si_hei_totl,measure,Growth rates of household expenditure or income per capita (%),10,10.1.1,SI_HEI_TOTL,10.1
 si_pov_day1,measure,Proportion of population below international poverty line (%),1,1.1.1,SI_POV_DAY1,1.1
 si_pov_emp1,measure,"Employed population below international poverty line, by sex and age (%)",1,1.1.1,SI_POV_EMP1,1.1
@@ -339,8 +331,10 @@ sp_acs_bsrvsan,measure,"Proportion of population using basic sanitation services
 sp_dyn_adkl,measure,"Adolescent birth rate (per 1,000 women aged 15-19 years)",3,3.7.2,SP_DYN_ADKL,3.7
 sp_dyn_mrbf15,measure,Proportion of women aged 20-24 years who were married or in a union before age 15 (%),5,5.3.1,SP_DYN_MRBF15,5.3
 sp_dyn_mrbf18,measure,Proportion of women aged 20-24 years who were married or in a union before age 18 (%),5,5.3.1,SP_DYN_MRBF18,5.3
-tm_tax_atrfd,measure,"Average tariff applied by developed countries, by type of product (%)",17,17.12.1,TM_TAX_ATRFD,17.12
-tm_tax_wwtav,measure,"Worldwide weighted tariff-average (weighted mean), by type of product and trade regime (%)",17,17.10.1,TM_TAX_WWTAV,17.10
+tm_tax_dmfn,measure,"Average tariff applied by developed countries, most-favored nation status, by type of product (%)",17,17.12.1,TM_TAX_DMFN,17.12
+tm_tax_dprf,measure,"Average tariff applied by developed countries, preferential status, by type of product (%)",17,17.12.1,TM_TAX_DPRF,17.12
+tm_tax_wmfn,measure,"Worldwide weighted tariff-average, most-favoured-nation status, by type of product (%)",17,17.10.1,TM_TAX_WMFN,17.10
+tm_tax_wmps,measure,"Worldwide weighted tariff-average, preferential status, by type of product (%)",17,17.10.1,TM_TAX_WMPS,17.10
 tm_trf_zero,measure,Proportion of tariff lines applied to imports with zero-tariff (%),10,10.a.1,TM_TRF_ZERO,10.a
 tx_exp_gbmrch,measure,Developing countries’ and least developed countries’ share of global merchandise exports (%),17,17.11.1,TX_EXP_GBMRCH,17.11
 tx_exp_gbsvr,measure,Developing countries’ and least developed countries’ share of global services exports (%),17,17.11.1,TX_EXP_GBSVR,17.11

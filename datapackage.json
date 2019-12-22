@@ -8,7 +8,7 @@
     "description": "SDG indicators",
     "author": "Gapminder",
     "license": "CC-BY-4.0",
-    "created": "2019-10-15T22:07:37.433615+00:00",
+    "created": "2019-12-22T04:59:01.428614+00:00",
     "translations": [],
     "version": "0.0.1",
     "resources": [
@@ -2338,6 +2338,48 @@
             }
         },
         {
+            "name": "ddf--datapoints--er_ias_legis--by--geo_area--year",
+            "path": "ddf--datapoints--er_ias_legis--by--geo_area--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "er_ias_legis"
+                    }
+                ],
+                "primaryKey": [
+                    "geo_area",
+                    "year"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--er_ias_nbsap--by--geo_area--year",
+            "path": "ddf--datapoints--er_ias_nbsap--by--geo_area--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "er_ias_nbsap"
+                    }
+                ],
+                "primaryKey": [
+                    "geo_area",
+                    "year"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--er_mrn_marin--by--geo_area--year",
             "path": "ddf--datapoints--er_mrn_marin--by--geo_area--year.csv",
             "schema": {
@@ -3197,26 +3239,64 @@
             }
         },
         {
-            "name": "ddf--datapoints--it_mob_ntwk--by--geo_area--type_of_mobile_technology--year",
-            "path": "ddf--datapoints--it_mob_ntwk--by--geo_area--type_of_mobile_technology--year.csv",
+            "name": "ddf--datapoints--it_mob_2gntwk--by--geo_area--year",
+            "path": "ddf--datapoints--it_mob_2gntwk--by--geo_area--year.csv",
             "schema": {
                 "fields": [
                     {
                         "name": "geo_area"
                     },
                     {
-                        "name": "type_of_mobile_technology"
+                        "name": "year"
+                    },
+                    {
+                        "name": "it_mob_2gntwk"
+                    }
+                ],
+                "primaryKey": [
+                    "geo_area",
+                    "year"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--it_mob_3gntwk--by--geo_area--year",
+            "path": "ddf--datapoints--it_mob_3gntwk--by--geo_area--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo_area"
                     },
                     {
                         "name": "year"
                     },
                     {
-                        "name": "it_mob_ntwk"
+                        "name": "it_mob_3gntwk"
                     }
                 ],
                 "primaryKey": [
                     "geo_area",
-                    "type_of_mobile_technology",
+                    "year"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--it_mob_4gntwk--by--geo_area--year",
+            "path": "ddf--datapoints--it_mob_4gntwk--by--geo_area--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "it_mob_4gntwk"
+                    }
+                ],
+                "primaryKey": [
+                    "geo_area",
                     "year"
                 ]
             }
@@ -3756,31 +3836,6 @@
             }
         },
         {
-            "name": "ddf--datapoints--se_gpi_funprof--by--geo_area--type_of_skill--year",
-            "path": "ddf--datapoints--se_gpi_funprof--by--geo_area--type_of_skill--year.csv",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "geo_area"
-                    },
-                    {
-                        "name": "type_of_skill"
-                    },
-                    {
-                        "name": "year"
-                    },
-                    {
-                        "name": "se_gpi_funprof"
-                    }
-                ],
-                "primaryKey": [
-                    "geo_area",
-                    "type_of_skill",
-                    "year"
-                ]
-            }
-        },
-        {
             "name": "ddf--datapoints--se_gpi_icts--by--geo_area--type_of_skill--year",
             "path": "ddf--datapoints--se_gpi_icts--by--geo_area--type_of_skill--year.csv",
             "schema": {
@@ -3806,31 +3861,6 @@
             }
         },
         {
-            "name": "ddf--datapoints--se_gpi_matach--by--education_level--geo_area--year",
-            "path": "ddf--datapoints--se_gpi_matach--by--education_level--geo_area--year.csv",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "education_level"
-                    },
-                    {
-                        "name": "geo_area"
-                    },
-                    {
-                        "name": "year"
-                    },
-                    {
-                        "name": "se_gpi_matach"
-                    }
-                ],
-                "primaryKey": [
-                    "education_level",
-                    "geo_area",
-                    "year"
-                ]
-            }
-        },
-        {
             "name": "ddf--datapoints--se_gpi_part--by--geo_area--year",
             "path": "ddf--datapoints--se_gpi_part--by--geo_area--year.csv",
             "schema": {
@@ -3846,31 +3876,6 @@
                     }
                 ],
                 "primaryKey": [
-                    "geo_area",
-                    "year"
-                ]
-            }
-        },
-        {
-            "name": "ddf--datapoints--se_gpi_reaach--by--education_level--geo_area--year",
-            "path": "ddf--datapoints--se_gpi_reaach--by--education_level--geo_area--year.csv",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "education_level"
-                    },
-                    {
-                        "name": "geo_area"
-                    },
-                    {
-                        "name": "year"
-                    },
-                    {
-                        "name": "se_gpi_reaach"
-                    }
-                ],
-                "primaryKey": [
-                    "education_level",
                     "geo_area",
                     "year"
                 ]
@@ -3952,87 +3957,8 @@
             }
         },
         {
-            "name": "ddf--datapoints--se_lgp_achima--by--education_level--geo_area--year",
-            "path": "ddf--datapoints--se_lgp_achima--by--education_level--geo_area--year.csv",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "education_level"
-                    },
-                    {
-                        "name": "geo_area"
-                    },
-                    {
-                        "name": "year"
-                    },
-                    {
-                        "name": "se_lgp_achima"
-                    }
-                ],
-                "primaryKey": [
-                    "education_level",
-                    "geo_area",
-                    "year"
-                ]
-            }
-        },
-        {
-            "name": "ddf--datapoints--se_lgp_achire--by--education_level--geo_area--year",
-            "path": "ddf--datapoints--se_lgp_achire--by--education_level--geo_area--year.csv",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "education_level"
-                    },
-                    {
-                        "name": "geo_area"
-                    },
-                    {
-                        "name": "year"
-                    },
-                    {
-                        "name": "se_lgp_achire"
-                    }
-                ],
-                "primaryKey": [
-                    "education_level",
-                    "geo_area",
-                    "year"
-                ]
-            }
-        },
-        {
-            "name": "ddf--datapoints--se_mat_prof--by--education_level--geo_area--sex--year",
-            "path": "ddf--datapoints--se_mat_prof--by--education_level--geo_area--sex--year.csv",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "education_level"
-                    },
-                    {
-                        "name": "geo_area"
-                    },
-                    {
-                        "name": "sex"
-                    },
-                    {
-                        "name": "year"
-                    },
-                    {
-                        "name": "se_mat_prof"
-                    }
-                ],
-                "primaryKey": [
-                    "education_level",
-                    "geo_area",
-                    "sex",
-                    "year"
-                ]
-            }
-        },
-        {
-            "name": "ddf--datapoints--se_nap_achima--by--education_level--geo_area--type_of_skill--year",
-            "path": "ddf--datapoints--se_nap_achima--by--education_level--geo_area--type_of_skill--year.csv",
+            "name": "ddf--datapoints--se_lgp_achi--by--education_level--geo_area--type_of_skill--year",
+            "path": "ddf--datapoints--se_lgp_achi--by--education_level--geo_area--type_of_skill--year.csv",
             "schema": {
                 "fields": [
                     {
@@ -4048,7 +3974,7 @@
                         "name": "year"
                     },
                     {
-                        "name": "se_nap_achima"
+                        "name": "se_lgp_achi"
                     }
                 ],
                 "primaryKey": [
@@ -4060,8 +3986,8 @@
             }
         },
         {
-            "name": "ddf--datapoints--se_nap_achire--by--education_level--geo_area--type_of_skill--year",
-            "path": "ddf--datapoints--se_nap_achire--by--education_level--geo_area--type_of_skill--year.csv",
+            "name": "ddf--datapoints--se_nap_achi--by--education_level--geo_area--type_of_skill--year",
+            "path": "ddf--datapoints--se_nap_achi--by--education_level--geo_area--type_of_skill--year.csv",
             "schema": {
                 "fields": [
                     {
@@ -4077,7 +4003,7 @@
                         "name": "year"
                     },
                     {
-                        "name": "se_nap_achire"
+                        "name": "se_nap_achi"
                     }
                 ],
                 "primaryKey": [
@@ -4135,8 +4061,37 @@
             }
         },
         {
-            "name": "ddf--datapoints--se_rea_prof--by--education_level--geo_area--sex--year",
-            "path": "ddf--datapoints--se_rea_prof--by--education_level--geo_area--sex--year.csv",
+            "name": "ddf--datapoints--se_tot_gpi--by--education_level--geo_area--type_of_skill--year",
+            "path": "ddf--datapoints--se_tot_gpi--by--education_level--geo_area--type_of_skill--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "education_level"
+                    },
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "type_of_skill"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "se_tot_gpi"
+                    }
+                ],
+                "primaryKey": [
+                    "education_level",
+                    "geo_area",
+                    "type_of_skill",
+                    "year"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--se_tot_prfl--by--education_level--geo_area--sex--type_of_skill--year",
+            "path": "ddf--datapoints--se_tot_prfl--by--education_level--geo_area--sex--type_of_skill--year.csv",
             "schema": {
                 "fields": [
                     {
@@ -4149,25 +4104,32 @@
                         "name": "sex"
                     },
                     {
+                        "name": "type_of_skill"
+                    },
+                    {
                         "name": "year"
                     },
                     {
-                        "name": "se_rea_prof"
+                        "name": "se_tot_prfl"
                     }
                 ],
                 "primaryKey": [
                     "education_level",
                     "geo_area",
                     "sex",
+                    "type_of_skill",
                     "year"
                 ]
             }
         },
         {
-            "name": "ddf--datapoints--se_sep_funprof--by--geo_area--type_of_skill--year",
-            "path": "ddf--datapoints--se_sep_funprof--by--geo_area--type_of_skill--year.csv",
+            "name": "ddf--datapoints--se_tot_rupi--by--education_level--geo_area--type_of_skill--year",
+            "path": "ddf--datapoints--se_tot_rupi--by--education_level--geo_area--type_of_skill--year.csv",
             "schema": {
                 "fields": [
+                    {
+                        "name": "education_level"
+                    },
                     {
                         "name": "geo_area"
                     },
@@ -4178,10 +4140,11 @@
                         "name": "year"
                     },
                     {
-                        "name": "se_sep_funprof"
+                        "name": "se_tot_rupi"
                     }
                 ],
                 "primaryKey": [
+                    "education_level",
                     "geo_area",
                     "type_of_skill",
                     "year"
@@ -4189,8 +4152,8 @@
             }
         },
         {
-            "name": "ddf--datapoints--se_sep_matach--by--education_level--geo_area--year",
-            "path": "ddf--datapoints--se_sep_matach--by--education_level--geo_area--year.csv",
+            "name": "ddf--datapoints--se_tot_sespi--by--education_level--geo_area--type_of_skill--year",
+            "path": "ddf--datapoints--se_tot_sespi--by--education_level--geo_area--type_of_skill--year.csv",
             "schema": {
                 "fields": [
                     {
@@ -4200,40 +4163,19 @@
                         "name": "geo_area"
                     },
                     {
-                        "name": "year"
-                    },
-                    {
-                        "name": "se_sep_matach"
-                    }
-                ],
-                "primaryKey": [
-                    "education_level",
-                    "geo_area",
-                    "year"
-                ]
-            }
-        },
-        {
-            "name": "ddf--datapoints--se_sep_reaach--by--education_level--geo_area--year",
-            "path": "ddf--datapoints--se_sep_reaach--by--education_level--geo_area--year.csv",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "education_level"
-                    },
-                    {
-                        "name": "geo_area"
+                        "name": "type_of_skill"
                     },
                     {
                         "name": "year"
                     },
                     {
-                        "name": "se_sep_reaach"
+                        "name": "se_tot_sespi"
                     }
                 ],
                 "primaryKey": [
                     "education_level",
                     "geo_area",
+                    "type_of_skill",
                     "year"
                 ]
             }
@@ -4263,56 +4205,6 @@
                     "education_level",
                     "geo_area",
                     "sex",
-                    "year"
-                ]
-            }
-        },
-        {
-            "name": "ddf--datapoints--se_urp_matach--by--education_level--geo_area--year",
-            "path": "ddf--datapoints--se_urp_matach--by--education_level--geo_area--year.csv",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "education_level"
-                    },
-                    {
-                        "name": "geo_area"
-                    },
-                    {
-                        "name": "year"
-                    },
-                    {
-                        "name": "se_urp_matach"
-                    }
-                ],
-                "primaryKey": [
-                    "education_level",
-                    "geo_area",
-                    "year"
-                ]
-            }
-        },
-        {
-            "name": "ddf--datapoints--se_urp_reaach--by--education_level--geo_area--year",
-            "path": "ddf--datapoints--se_urp_reaach--by--education_level--geo_area--year.csv",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "education_level"
-                    },
-                    {
-                        "name": "geo_area"
-                    },
-                    {
-                        "name": "year"
-                    },
-                    {
-                        "name": "se_urp_reaach"
-                    }
-                ],
-                "primaryKey": [
-                    "education_level",
-                    "geo_area",
                     "year"
                 ]
             }
@@ -6905,12 +6797,15 @@
             }
         },
         {
-            "name": "ddf--datapoints--si_cov_lmkt--by--geo_area--year",
-            "path": "ddf--datapoints--si_cov_lmkt--by--geo_area--year.csv",
+            "name": "ddf--datapoints--si_cov_lmkt--by--geo_area--quantile--year",
+            "path": "ddf--datapoints--si_cov_lmkt--by--geo_area--quantile--year.csv",
             "schema": {
                 "fields": [
                     {
                         "name": "geo_area"
+                    },
+                    {
+                        "name": "quantile"
                     },
                     {
                         "name": "year"
@@ -6921,27 +6816,7 @@
                 ],
                 "primaryKey": [
                     "geo_area",
-                    "year"
-                ]
-            }
-        },
-        {
-            "name": "ddf--datapoints--si_cov_lmktpq--by--geo_area--year",
-            "path": "ddf--datapoints--si_cov_lmktpq--by--geo_area--year.csv",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "geo_area"
-                    },
-                    {
-                        "name": "year"
-                    },
-                    {
-                        "name": "si_cov_lmktpq"
-                    }
-                ],
-                "primaryKey": [
-                    "geo_area",
+                    "quantile",
                     "year"
                 ]
             }
@@ -7022,12 +6897,15 @@
             }
         },
         {
-            "name": "ddf--datapoints--si_cov_socast--by--geo_area--year",
-            "path": "ddf--datapoints--si_cov_socast--by--geo_area--year.csv",
+            "name": "ddf--datapoints--si_cov_socast--by--geo_area--quantile--year",
+            "path": "ddf--datapoints--si_cov_socast--by--geo_area--quantile--year.csv",
             "schema": {
                 "fields": [
                     {
                         "name": "geo_area"
+                    },
+                    {
+                        "name": "quantile"
                     },
                     {
                         "name": "year"
@@ -7038,38 +6916,21 @@
                 ],
                 "primaryKey": [
                     "geo_area",
+                    "quantile",
                     "year"
                 ]
             }
         },
         {
-            "name": "ddf--datapoints--si_cov_socastpq--by--geo_area--year",
-            "path": "ddf--datapoints--si_cov_socastpq--by--geo_area--year.csv",
+            "name": "ddf--datapoints--si_cov_socins--by--geo_area--quantile--year",
+            "path": "ddf--datapoints--si_cov_socins--by--geo_area--quantile--year.csv",
             "schema": {
                 "fields": [
                     {
                         "name": "geo_area"
                     },
                     {
-                        "name": "year"
-                    },
-                    {
-                        "name": "si_cov_socastpq"
-                    }
-                ],
-                "primaryKey": [
-                    "geo_area",
-                    "year"
-                ]
-            }
-        },
-        {
-            "name": "ddf--datapoints--si_cov_socins--by--geo_area--year",
-            "path": "ddf--datapoints--si_cov_socins--by--geo_area--year.csv",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "geo_area"
+                        "name": "quantile"
                     },
                     {
                         "name": "year"
@@ -7080,27 +6941,7 @@
                 ],
                 "primaryKey": [
                     "geo_area",
-                    "year"
-                ]
-            }
-        },
-        {
-            "name": "ddf--datapoints--si_cov_socinspq--by--geo_area--year",
-            "path": "ddf--datapoints--si_cov_socinspq--by--geo_area--year.csv",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "geo_area"
-                    },
-                    {
-                        "name": "year"
-                    },
-                    {
-                        "name": "si_cov_socinspq"
-                    }
-                ],
-                "primaryKey": [
-                    "geo_area",
+                    "quantile",
                     "year"
                 ]
             }
@@ -7181,33 +7022,15 @@
             }
         },
         {
-            "name": "ddf--datapoints--si_hei_btn40--by--geo_area--year",
-            "path": "ddf--datapoints--si_hei_btn40--by--geo_area--year.csv",
+            "name": "ddf--datapoints--si_hei_totl--by--geo_area--quantile--year",
+            "path": "ddf--datapoints--si_hei_totl--by--geo_area--quantile--year.csv",
             "schema": {
                 "fields": [
                     {
                         "name": "geo_area"
                     },
                     {
-                        "name": "year"
-                    },
-                    {
-                        "name": "si_hei_btn40"
-                    }
-                ],
-                "primaryKey": [
-                    "geo_area",
-                    "year"
-                ]
-            }
-        },
-        {
-            "name": "ddf--datapoints--si_hei_totl--by--geo_area--year",
-            "path": "ddf--datapoints--si_hei_totl--by--geo_area--year.csv",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "geo_area"
+                        "name": "quantile"
                     },
                     {
                         "name": "year"
@@ -7218,6 +7041,7 @@
                 ],
                 "primaryKey": [
                     "geo_area",
+                    "quantile",
                     "year"
                 ]
             }
@@ -7921,15 +7745,12 @@
             }
         },
         {
-            "name": "ddf--datapoints--tm_tax_atrfd--by--geo_area--tariff_regime_status--type_of_product--year",
-            "path": "ddf--datapoints--tm_tax_atrfd--by--geo_area--tariff_regime_status--type_of_product--year.csv",
+            "name": "ddf--datapoints--tm_tax_dmfn--by--geo_area--type_of_product--year",
+            "path": "ddf--datapoints--tm_tax_dmfn--by--geo_area--type_of_product--year.csv",
             "schema": {
                 "fields": [
                     {
                         "name": "geo_area"
-                    },
-                    {
-                        "name": "tariff_regime_status"
                     },
                     {
                         "name": "type_of_product"
@@ -7938,27 +7759,23 @@
                         "name": "year"
                     },
                     {
-                        "name": "tm_tax_atrfd"
+                        "name": "tm_tax_dmfn"
                     }
                 ],
                 "primaryKey": [
                     "geo_area",
-                    "tariff_regime_status",
                     "type_of_product",
                     "year"
                 ]
             }
         },
         {
-            "name": "ddf--datapoints--tm_tax_wwtav--by--geo_area--tariff_regime_status--type_of_product--year",
-            "path": "ddf--datapoints--tm_tax_wwtav--by--geo_area--tariff_regime_status--type_of_product--year.csv",
+            "name": "ddf--datapoints--tm_tax_dprf--by--geo_area--type_of_product--year",
+            "path": "ddf--datapoints--tm_tax_dprf--by--geo_area--type_of_product--year.csv",
             "schema": {
                 "fields": [
                     {
                         "name": "geo_area"
-                    },
-                    {
-                        "name": "tariff_regime_status"
                     },
                     {
                         "name": "type_of_product"
@@ -7967,12 +7784,61 @@
                         "name": "year"
                     },
                     {
-                        "name": "tm_tax_wwtav"
+                        "name": "tm_tax_dprf"
                     }
                 ],
                 "primaryKey": [
                     "geo_area",
-                    "tariff_regime_status",
+                    "type_of_product",
+                    "year"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--tm_tax_wmfn--by--geo_area--type_of_product--year",
+            "path": "ddf--datapoints--tm_tax_wmfn--by--geo_area--type_of_product--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "type_of_product"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "tm_tax_wmfn"
+                    }
+                ],
+                "primaryKey": [
+                    "geo_area",
+                    "type_of_product",
+                    "year"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--tm_tax_wmps--by--geo_area--type_of_product--year",
+            "path": "ddf--datapoints--tm_tax_wmps--by--geo_area--type_of_product--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "type_of_product"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "tm_tax_wmps"
+                    }
+                ],
+                "primaryKey": [
+                    "geo_area",
                     "type_of_product",
                     "year"
                 ]
@@ -9333,36 +9199,6 @@
             }
         },
         {
-            "name": "ddf--entities--tariff_regime_status",
-            "path": "ddf--entities--tariff_regime_status.csv",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "tariff_regime_status"
-                    },
-                    {
-                        "name": "name"
-                    }
-                ],
-                "primaryKey": "tariff_regime_status"
-            }
-        },
-        {
-            "name": "ddf--entities--type_of_mobile_technology",
-            "path": "ddf--entities--type_of_mobile_technology.csv",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "type_of_mobile_technology"
-                    },
-                    {
-                        "name": "name"
-                    }
-                ],
-                "primaryKey": "type_of_mobile_technology"
-            }
-        },
-        {
             "name": "ddf--entities--type_of_occupation",
             "path": "ddf--entities--type_of_occupation.csv",
             "schema": {
@@ -9616,24 +9452,6 @@
                 "value": "name",
                 "resources": [
                     "ddf--entities--sex"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "tariff_regime_status"
-                ],
-                "value": "name",
-                "resources": [
-                    "ddf--entities--tariff_regime_status"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "type_of_mobile_technology"
-                ],
-                "value": "name",
-                "resources": [
-                    "ddf--entities--type_of_mobile_technology"
                 ]
             },
             {
@@ -10747,6 +10565,26 @@
                     "geo_area",
                     "year"
                 ],
+                "value": "er_ias_legis",
+                "resources": [
+                    "ddf--datapoints--er_ias_legis--by--geo_area--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo_area",
+                    "year"
+                ],
+                "value": "er_ias_nbsap",
+                "resources": [
+                    "ddf--datapoints--er_ias_nbsap--by--geo_area--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo_area",
+                    "year"
+                ],
                 "value": "er_mrn_marin",
                 "resources": [
                     "ddf--datapoints--er_mrn_marin--by--geo_area--year"
@@ -11145,12 +10983,31 @@
             {
                 "primaryKey": [
                     "geo_area",
-                    "type_of_mobile_technology",
                     "year"
                 ],
-                "value": "it_mob_ntwk",
+                "value": "it_mob_2gntwk",
                 "resources": [
-                    "ddf--datapoints--it_mob_ntwk--by--geo_area--type_of_mobile_technology--year"
+                    "ddf--datapoints--it_mob_2gntwk--by--geo_area--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo_area",
+                    "year"
+                ],
+                "value": "it_mob_3gntwk",
+                "resources": [
+                    "ddf--datapoints--it_mob_3gntwk--by--geo_area--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo_area",
+                    "year"
+                ],
+                "value": "it_mob_4gntwk",
+                "resources": [
+                    "ddf--datapoints--it_mob_4gntwk--by--geo_area--year"
                 ]
             },
             {
@@ -11397,31 +11254,9 @@
                     "type_of_skill",
                     "year"
                 ],
-                "value": "se_gpi_funprof",
-                "resources": [
-                    "ddf--datapoints--se_gpi_funprof--by--geo_area--type_of_skill--year"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo_area",
-                    "type_of_skill",
-                    "year"
-                ],
                 "value": "se_gpi_icts",
                 "resources": [
                     "ddf--datapoints--se_gpi_icts--by--geo_area--type_of_skill--year"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "education_level",
-                    "geo_area",
-                    "year"
-                ],
-                "value": "se_gpi_matach",
-                "resources": [
-                    "ddf--datapoints--se_gpi_matach--by--education_level--geo_area--year"
                 ]
             },
             {
@@ -11432,17 +11267,6 @@
                 "value": "se_gpi_part",
                 "resources": [
                     "ddf--datapoints--se_gpi_part--by--geo_area--year"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "education_level",
-                    "geo_area",
-                    "year"
-                ],
-                "value": "se_gpi_reaach",
-                "resources": [
-                    "ddf--datapoints--se_gpi_reaach--by--education_level--geo_area--year"
                 ]
             },
             {
@@ -11482,34 +11306,12 @@
                 "primaryKey": [
                     "education_level",
                     "geo_area",
+                    "type_of_skill",
                     "year"
                 ],
-                "value": "se_lgp_achima",
+                "value": "se_lgp_achi",
                 "resources": [
-                    "ddf--datapoints--se_lgp_achima--by--education_level--geo_area--year"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "education_level",
-                    "geo_area",
-                    "year"
-                ],
-                "value": "se_lgp_achire",
-                "resources": [
-                    "ddf--datapoints--se_lgp_achire--by--education_level--geo_area--year"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "education_level",
-                    "geo_area",
-                    "sex",
-                    "year"
-                ],
-                "value": "se_mat_prof",
-                "resources": [
-                    "ddf--datapoints--se_mat_prof--by--education_level--geo_area--sex--year"
+                    "ddf--datapoints--se_lgp_achi--by--education_level--geo_area--type_of_skill--year"
                 ]
             },
             {
@@ -11519,21 +11321,9 @@
                     "type_of_skill",
                     "year"
                 ],
-                "value": "se_nap_achima",
+                "value": "se_nap_achi",
                 "resources": [
-                    "ddf--datapoints--se_nap_achima--by--education_level--geo_area--type_of_skill--year"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "education_level",
-                    "geo_area",
-                    "type_of_skill",
-                    "year"
-                ],
-                "value": "se_nap_achire",
-                "resources": [
-                    "ddf--datapoints--se_nap_achire--by--education_level--geo_area--type_of_skill--year"
+                    "ddf--datapoints--se_nap_achi--by--education_level--geo_area--type_of_skill--year"
                 ]
             },
             {
@@ -11561,45 +11351,49 @@
                 "primaryKey": [
                     "education_level",
                     "geo_area",
-                    "sex",
+                    "type_of_skill",
                     "year"
                 ],
-                "value": "se_rea_prof",
+                "value": "se_tot_gpi",
                 "resources": [
-                    "ddf--datapoints--se_rea_prof--by--education_level--geo_area--sex--year"
+                    "ddf--datapoints--se_tot_gpi--by--education_level--geo_area--type_of_skill--year"
                 ]
             },
             {
                 "primaryKey": [
+                    "education_level",
+                    "geo_area",
+                    "sex",
+                    "type_of_skill",
+                    "year"
+                ],
+                "value": "se_tot_prfl",
+                "resources": [
+                    "ddf--datapoints--se_tot_prfl--by--education_level--geo_area--sex--type_of_skill--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "education_level",
                     "geo_area",
                     "type_of_skill",
                     "year"
                 ],
-                "value": "se_sep_funprof",
+                "value": "se_tot_rupi",
                 "resources": [
-                    "ddf--datapoints--se_sep_funprof--by--geo_area--type_of_skill--year"
+                    "ddf--datapoints--se_tot_rupi--by--education_level--geo_area--type_of_skill--year"
                 ]
             },
             {
                 "primaryKey": [
                     "education_level",
                     "geo_area",
+                    "type_of_skill",
                     "year"
                 ],
-                "value": "se_sep_matach",
+                "value": "se_tot_sespi",
                 "resources": [
-                    "ddf--datapoints--se_sep_matach--by--education_level--geo_area--year"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "education_level",
-                    "geo_area",
-                    "year"
-                ],
-                "value": "se_sep_reaach",
-                "resources": [
-                    "ddf--datapoints--se_sep_reaach--by--education_level--geo_area--year"
+                    "ddf--datapoints--se_tot_sespi--by--education_level--geo_area--type_of_skill--year"
                 ]
             },
             {
@@ -11612,28 +11406,6 @@
                 "value": "se_tra_grdl",
                 "resources": [
                     "ddf--datapoints--se_tra_grdl--by--education_level--geo_area--sex--year"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "education_level",
-                    "geo_area",
-                    "year"
-                ],
-                "value": "se_urp_matach",
-                "resources": [
-                    "ddf--datapoints--se_urp_matach--by--education_level--geo_area--year"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "education_level",
-                    "geo_area",
-                    "year"
-                ],
-                "value": "se_urp_reaach",
-                "resources": [
-                    "ddf--datapoints--se_urp_reaach--by--education_level--geo_area--year"
                 ]
             },
             {
@@ -12813,21 +12585,12 @@
             {
                 "primaryKey": [
                     "geo_area",
+                    "quantile",
                     "year"
                 ],
                 "value": "si_cov_lmkt",
                 "resources": [
-                    "ddf--datapoints--si_cov_lmkt--by--geo_area--year"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo_area",
-                    "year"
-                ],
-                "value": "si_cov_lmktpq",
-                "resources": [
-                    "ddf--datapoints--si_cov_lmktpq--by--geo_area--year"
+                    "ddf--datapoints--si_cov_lmkt--by--geo_area--quantile--year"
                 ]
             },
             {
@@ -12866,41 +12629,23 @@
             {
                 "primaryKey": [
                     "geo_area",
+                    "quantile",
                     "year"
                 ],
                 "value": "si_cov_socast",
                 "resources": [
-                    "ddf--datapoints--si_cov_socast--by--geo_area--year"
+                    "ddf--datapoints--si_cov_socast--by--geo_area--quantile--year"
                 ]
             },
             {
                 "primaryKey": [
                     "geo_area",
-                    "year"
-                ],
-                "value": "si_cov_socastpq",
-                "resources": [
-                    "ddf--datapoints--si_cov_socastpq--by--geo_area--year"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo_area",
+                    "quantile",
                     "year"
                 ],
                 "value": "si_cov_socins",
                 "resources": [
-                    "ddf--datapoints--si_cov_socins--by--geo_area--year"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo_area",
-                    "year"
-                ],
-                "value": "si_cov_socinspq",
-                "resources": [
-                    "ddf--datapoints--si_cov_socinspq--by--geo_area--year"
+                    "ddf--datapoints--si_cov_socins--by--geo_area--quantile--year"
                 ]
             },
             {
@@ -12939,21 +12684,12 @@
             {
                 "primaryKey": [
                     "geo_area",
-                    "year"
-                ],
-                "value": "si_hei_btn40",
-                "resources": [
-                    "ddf--datapoints--si_hei_btn40--by--geo_area--year"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo_area",
+                    "quantile",
                     "year"
                 ],
                 "value": "si_hei_totl",
                 "resources": [
-                    "ddf--datapoints--si_hei_totl--by--geo_area--year"
+                    "ddf--datapoints--si_hei_totl--by--geo_area--quantile--year"
                 ]
             },
             {
@@ -13257,25 +12993,45 @@
             {
                 "primaryKey": [
                     "geo_area",
-                    "tariff_regime_status",
                     "type_of_product",
                     "year"
                 ],
-                "value": "tm_tax_atrfd",
+                "value": "tm_tax_dmfn",
                 "resources": [
-                    "ddf--datapoints--tm_tax_atrfd--by--geo_area--tariff_regime_status--type_of_product--year"
+                    "ddf--datapoints--tm_tax_dmfn--by--geo_area--type_of_product--year"
                 ]
             },
             {
                 "primaryKey": [
                     "geo_area",
-                    "tariff_regime_status",
                     "type_of_product",
                     "year"
                 ],
-                "value": "tm_tax_wwtav",
+                "value": "tm_tax_dprf",
                 "resources": [
-                    "ddf--datapoints--tm_tax_wwtav--by--geo_area--tariff_regime_status--type_of_product--year"
+                    "ddf--datapoints--tm_tax_dprf--by--geo_area--type_of_product--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo_area",
+                    "type_of_product",
+                    "year"
+                ],
+                "value": "tm_tax_wmfn",
+                "resources": [
+                    "ddf--datapoints--tm_tax_wmfn--by--geo_area--type_of_product--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo_area",
+                    "type_of_product",
+                    "year"
+                ],
+                "value": "tm_tax_wmps",
+                "resources": [
+                    "ddf--datapoints--tm_tax_wmps--by--geo_area--type_of_product--year"
                 ]
             },
             {

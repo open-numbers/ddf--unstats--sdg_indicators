@@ -6,8 +6,9 @@ email,EMAIL
 eprs,EPRS
 inst,INST
 lite,LITE
-notspec,NOTSPEC
 nume,NUME
 pcpr,PCPR
+skill_math,SKILL_MATH
+skill_read,SKILL_READ
 soft,SOFT
 traf,TRAF
