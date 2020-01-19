@@ -8,7 +8,7 @@
     "description": "SDG indicators",
     "author": "Gapminder",
     "license": "CC-BY-4.0",
-    "created": "2019-12-22T04:59:01.428614+00:00",
+    "created": "2020-01-19T05:15:47.482126+00:00",
     "translations": [],
     "version": "0.0.1",
     "resources": [
@@ -5556,8 +5556,8 @@
             }
         },
         {
-            "name": "ddf--datapoints--sh_dth_ncom--by--age--geo_area--sex--year",
-            "path": "ddf--datapoints--sh_dth_ncom--by--age--geo_area--sex--year.csv",
+            "name": "ddf--datapoints--sh_dth_ncom--by--age--geo_area--name_of_non_communicable_disease--sex--year",
+            "path": "ddf--datapoints--sh_dth_ncom--by--age--geo_area--name_of_non_communicable_disease--sex--year.csv",
             "schema": {
                 "fields": [
                     {
@@ -5565,6 +5565,9 @@
                     },
                     {
                         "name": "geo_area"
+                    },
+                    {
+                        "name": "name_of_non_communicable_disease"
                     },
                     {
                         "name": "sex"
@@ -5579,6 +5582,7 @@
                 "primaryKey": [
                     "age",
                     "geo_area",
+                    "name_of_non_communicable_disease",
                     "sex",
                     "year"
                 ]
@@ -12043,12 +12047,13 @@
                 "primaryKey": [
                     "age",
                     "geo_area",
+                    "name_of_non_communicable_disease",
                     "sex",
                     "year"
                 ],
                 "value": "sh_dth_ncom",
                 "resources": [
-                    "ddf--datapoints--sh_dth_ncom--by--age--geo_area--sex--year"
+                    "ddf--datapoints--sh_dth_ncom--by--age--geo_area--name_of_non_communicable_disease--sex--year"
                 ]
             },
             {
