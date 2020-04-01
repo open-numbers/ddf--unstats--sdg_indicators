@@ -42,7 +42,7 @@ def run_download(v):
 def main():
     all_ser = get_all_series()
 
-    with Pool(5) as p:
+    with Pool(2) as p:
         p.map(run_download, all_ser)
 
 
