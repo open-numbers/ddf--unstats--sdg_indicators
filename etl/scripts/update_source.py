@@ -35,7 +35,7 @@ def run_download(v):
     code = v['code']
     f = f'../source/{code}.csv'
     csv_api = api_path(API_BASE, "/SDGAPI", "/v1/sdg/Series/DataCSV")
-    download(csv_api, f, method='POST', post_data={'seriesCodes': code}, progress_bar=False)
+    download(csv_api, f, method='POST', post_data={'seriesCodes': code}, progress_bar=False, resume=False)
     print(f"{f} downloaded")
 
 
