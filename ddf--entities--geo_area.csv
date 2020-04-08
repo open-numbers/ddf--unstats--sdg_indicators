@@ -156,6 +156,7 @@ geo_area,name
 480,Mauritius
 484,Mexico
 485,"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)"
+487,Other non-OECD Asia
 492,Monaco
 496,Mongolia
 498,Republic of Moldova
@@ -175,6 +176,7 @@ geo_area,name
 52,Barbados
 520,Nauru
 524,Nepal
+527,Other non-OECD Oceania
 528,Netherlands
 53,Australia and New Zealand
 530,Netherlands Antilles
@@ -194,6 +196,7 @@ geo_area,name
 57,Micronesia
 570,Niue
 574,Norfolk Island
+577,Africa not elsewhere specified
 578,Norway
 580,Northern Mariana Islands
 581,United States Minor Outlying Islands
@@ -217,6 +220,7 @@ geo_area,name
 626,Timor-Leste
 630,Puerto Rico
 634,Qatar
+636,Other non-oecd Americas
 638,Réunion
 64,Bhutan
 642,Romania
@@ -306,6 +310,7 @@ geo_area,name
 889,World Trade Organization (WTO) Member States
 891,Serbia and Montenegro [former]
 894,Zambia
+896,Areas not elsewhere specified
 9,Oceania
 90,Solomon Islands
 901,Africa (ILO)
@@ -362,3 +367,11 @@ geo_area,name
 "
 99032,"FAO Major Fishing Area: Mediterranean and Black Sea
 "
+99033,World Marine Bunkers
+99034,World Aviation Bunkers
+99035,Residual/unallocated ODA: Central Asia and Southern Asia
+99036,Residual/unallocated ODA: Eastern and South-eastern Asia
+99037,Residual/unallocated ODA: Latin America and the Caribbean
+99038, Residual/unallocated ODA: Oceania excl. Aus. and N. Zealand
+99039,Residual/unallocated ODA: Sub-Saharan Africa
+99040,Residual/unallocated ODA: Western Asia and Northern Africa

@@ -1,4 +1,5 @@
 concept,concept_type,description,goal,indicator,name,target
+ag_fls_idx,measure,Food loss percentage (%),12,12.3.1,AG_FLS_IDX,12.3
 ag_fpa_cfpi,measure,Consumer Food Price Index,2,2.c.1,AG_FPA_CFPI,2.c
 ag_fpa_comm,measure,"Indicator of Food Price Anomalies (IFPA), by type of product",2,2.c.1,AG_FPA_COMM,2.c
 ag_lnd_dgrd,measure,Proportion of land that is degraded over total land area (%),15,15.3.1,AG_LND_DGRD,15.3
@@ -11,6 +12,8 @@ ag_lnd_frstn,measure,Forest area (thousands of hectares),15,15.1.1,AG_LND_FRSTN,
 ag_lnd_frstprct,measure,Proportion of forest area within legally established protected areas (%),15,15.2.1,AG_LND_FRSTPRCT,15.2
 ag_lnd_totl,measure,Land area (thousands of hectares),15,15.1.1,AG_LND_TOTL,15.1
 ag_prd_agvas,measure,Agriculture value added share of GDP (%),2,2.a.1,AG_PRD_AGVAS,2.a
+ag_prd_fiesmsi,measure,Prevalence of moderate or severe food insecurity in the adult population (%),2,2.1.2,AG_PRD_FIESMSI,2.1
+ag_prd_fiesmsin,measure,Total population in moderate or severe food insecurity (thousands of people),2,2.1.2,AG_PRD_FIESMSIN,2.1
 ag_prd_fiessi,measure,Prevalence of severe food insecurity in the adult population (%),2,2.1.2,AG_PRD_FIESSI,2.1
 ag_prd_fiessin,measure,Total population in severe food insecurity (thousands of people),2,2.1.2,AG_PRD_FIESSIN,2.1
 ag_prd_ortind,measure,Agriculture orientation index for government expenditures,2,2.a.1,AG_PRD_ORTIND,2.a
@@ -56,10 +59,21 @@ en_atm_co2,measure,Carbon dioxide emissions from fuel combustion (millions of to
 en_atm_co2gdp,measure,Carbon dioxide emissions per unit of GDP (kilogrammes of CO2 per constant 2010 United States dollars),9,9.4.1,EN_ATM_CO2GDP,9.4
 en_atm_co2mva,measure,Carbon dioxide emissions per unit of manufacturing value added (kilogrammes of CO2 per constant 2010 United States dollars),9,9.4.1,EN_ATM_CO2MVA,9.4
 en_atm_pm25,measure,"Annual mean levels of fine particulate matter in cities, urban population (micrograms per cubic meter)",11,11.6.2,EN_ATM_PM25,11.6
+en_ewt_genpcap,measure,"Electronic waste generated, per capita (Kg)",12,12.4.2,EN_EWT_GENPCAP,12.4
+en_ewt_genv,measure,Electronic waste generated (Tonnes),12,12.4.2,EN_EWT_GENV,12.4
+en_ewt_rcypcap,measure,"Electronic waste recycling, per capita (Kg)",12,12.4.2,EN_EWT_RCYPCAP,12.4
+en_ewt_rcyr,measure,"Electronic waste recycling, rate (%)",12,12.4.2,EN_EWT_RCYR,12.4
+en_ewt_rcyv,measure,Electronic waste recycling (Tonnes),12,12.4.2,EN_EWT_RCYV,12.4
 en_h2o_grambq,measure,Proportion of groundwater bodies with good ambient water quality (%),6,6.3.2,EN_H2O_GRAMBQ,6.3
 en_h2o_opambq,measure,Proportion of open water bodies with good ambient water quality (%),6,6.3.2,EN_H2O_OPAMBQ,6.3
 en_h2o_rvambq,measure,Proportion of river water bodies with good ambient water quality (%),6,6.3.2,EN_H2O_RVAMBQ,6.3
 en_h2o_wbambq,measure,Proportion of bodies of water with good ambient water quality (%),6,6.3.2,EN_H2O_WBAMBQ,6.3
+en_haz_gengdp,measure,"Hazardous waste generated, per unit of GDP (kilograms per constant 2015 United States dollars)",12,12.4.2,EN_HAZ_GENGDP,12.4
+en_haz_genv,measure,Hazardous waste generated (Tonnes),12,12.4.2,EN_HAZ_GENV,12.4
+en_haz_pcap,measure,"Hazardous waste generated, per capita (Kg)",12,12.4.2,EN_HAZ_PCAP,12.4
+en_haz_treatv,measure,"Hazardous waste treated, by type of treatment (Tonnes)",12,12.4.2,EN_HAZ_TREATV,12.4
+en_haz_trtdisr,measure,"Hazardous waste treated or disposed, rate (%)",12,12.4.2,EN_HAZ_TRTDISR,12.4
+en_haz_trtdisv,measure,Hazardous waste treated or disposed (Tonnes),12,12.4.2,EN_HAZ_TRTDISV,12.4
 en_lnd_slum,measure,Proportion of urban population living in slums (%),11,11.1.1,EN_LND_SLUM,11.1
 en_mat_domcmpc,measure,"Domestic material consumption per capita, by type of raw material (tonnes)","12, 8","12.2.2, 8.4.2",EN_MAT_DOMCMPC,"12.2, 8.4"
 en_mat_domcmpg,measure,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2010 United States dollars)","12, 8","12.2.2, 8.4.2",EN_MAT_DOMCMPG,"12.2, 8.4"
@@ -85,6 +99,8 @@ en_wbe_pmpn,measure,Water body extent (permanent and maybe permanent) (square ki
 en_wbe_pmpp,measure,Water body extent (permanent and maybe permanent) (% of total land area),6,6.6.1,EN_WBE_PMPP,6.6
 en_wbe_pmpr,measure,Water body extent (permanent) (% of total land area),6,6.6.1,EN_WBE_PMPR,6.6
 en_wwt_wwds,measure,Proportion of safely treated domestic wastewater flows (%),6,6.3.1,EN_WWT_WWDS,6.3
+er_bdy_abt2np,measure,Countries that established national targets in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020 in their National Biodiversity Strategy and Action Plans (1 = YES; 0 = NO),15,15.9.1,ER_BDY_ABT2NP,15.9
+er_bdy_seea,measure,"Countries with integrated biodiversity values into national accounting and reporting systems, defined as implementation of the System of Environmental-Economic Accounting  (1 = YES; 0 = NO)",15,15.9.1,ER_BDY_SEEA,15.9
 er_cbd_absclrhs,measure,"Countries that have legislative, administrative and policy framework or measures reported to the Access and Benefit-Sharing Clearing-House (1 = YES; 0 = NO)",15,15.6.1,ER_CBD_ABSCLRHS,15.6
 er_cbd_nagoya,measure,Countries that are parties to the Nagoya Protocol (1 = YES; 0 = NO),15,15.6.1,ER_CBD_NAGOYA,15.6
 er_cbd_orspgrfa,measure,"Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance  of the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO)",15,15.6.1,ER_CBD_ORSPGRFA,15.6
@@ -93,7 +109,7 @@ er_cbd_smta,measure,Total reported number of Standard Material Transfer Agreemen
 er_ffs_prtspc,measure,Fossil-fuel pre-tax subsidies (consumption and production) per capita (current United States dollars),12,12.c.1,ER_FFS_PRTSPC,12.c
 er_ffs_prtspr,measure,Fossil-fuel pre-tax subsidies (consumption and production) as a proportion of total GDP (%),12,12.c.1,ER_FFS_PRTSPR,12.c
 er_ffs_prtsst,measure,Fossil-fuel pre-tax subsidies (consumption and production) (billions of current United States dollars),12,12.c.1,ER_FFS_PRTSST,12.c
-er_grf_animrcnt,measure,Proportion of local breeds for which sufficient genetic resources are stored for reconstitution (%),2,2.5.1,ER_GRF_ANIMRCNT,2.5
+er_grf_animrcntn,measure,Number of local breeds for which sufficient genetic resources are stored for reconstitution,2,2.5.1,ER_GRF_ANIMRCNTN,2.5
 er_grf_plntstor,measure,Plant breeds for which sufficient genetic resources are stored (number),2,2.5.1,ER_GRF_PLNTSTOR,2.5
 er_h2o_fwtl,measure,Proportion of fish stocks within biologically sustainable levels (not overexploited) (%),14,14.4.1,ER_H2O_FWTL,14.4
 er_h2o_iwrmd,measure,Degree of integrated water resources management implementation (%),6,6.5.1,ER_H2O_IWRMD,6.5
@@ -112,6 +128,7 @@ er_mrn_mpa,measure,Average proportion of Marine Key Biodiversity Areas (KBAs) co
 er_mtn_grncov,measure,Mountain green cover area (square kilometres),15,15.4.2,ER_MTN_GRNCOV,15.4
 er_mtn_grncvi,measure,Mountain Green Cover Index,15,15.4.2,ER_MTN_GRNCVI,15.4
 er_mtn_totl,measure,Mountain area (square kilometres),15,15.4.2,ER_MTN_TOTL,15.4
+er_oaw_mnacd,measure,Average marine acidity (pH) measured at agreed suite of representative sampling stations,14,14.3.1,ER_OAW_MNACD,14.3
 er_ptd_frwrt,measure,Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas (%),15,15.1.2,ER_PTD_FRWRT,15.1
 er_ptd_motn,measure,Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas (%),15,15.4.1,ER_PTD_MOTN,15.4
 er_ptd_terrs,measure,Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas (%),15,15.1.2,ER_PTD_TERRS,15.1
@@ -140,17 +157,20 @@ gb_xpd_rsdv,measure,Research and development expenditure as a proportion of GDP 
 gc_gob_taxd,measure,Proportion of domestic budget funded by domestic taxes (% of GDP),17,17.1.2,GC_GOB_TAXD,17.1
 gf_xpd_gbpc,measure,Primary government expenditures as a proportion of original approved budget (%),16,16.6.1,GF_XPD_GBPC,16.6
 gr_g14_gdp,measure,Total government revenue (budgetary central government) as a proportion of GDP (%),17,17.1.1,GR_G14_GDP,17.1
+gr_g14_xdc,measure,"Total government revenue, in local currency",17,17.1.1,GR_G14_XDC,17.1
 ic_frm_brib,measure,Bribery incidence (% of firms experiencing at least one bribe payment request),16,16.5.2,IC_FRM_BRIB,16.5
 ic_gen_mgtl,measure,Proportion of women in managerial positions (%),5,5.5.2,IC_GEN_MGTL,5.5
 ic_gen_mgtn,measure,Proportion of women in senior and middle management positions (%),5,5.5.2,IC_GEN_MGTN,5.5
 is_rdp_frgvol,measure,"Freight volume, by mode of transport (tonne kilometres)",9,9.1.2,IS_RDP_FRGVOL,9.1
+is_rdp_lulfrg,measure,"Freight loaded and unloaded, maritime transport (metric tons)",9,9.1.2,IS_RDP_LULFRG,9.1
 is_rdp_pfvol,measure,"Passenger volume (passenger kilometres), by mode of transport",9,9.1.2,IS_RDP_PFVOL,9.1
+is_rdp_porfvol,measure,"Container port traffic, maritime transport (twenty-foot equivalent units - TEUs)",9,9.1.2,IS_RDP_PORFVOL,9.1
 it_mob_2gntwk,measure,Proportion of population covered by at least a 2G mobile network (%),9,9.c.1,IT_MOB_2GNTWK,9.c
 it_mob_3gntwk,measure,Proportion of population covered by at least a 3G mobile network (%),9,9.c.1,IT_MOB_3GNTWK,9.c
 it_mob_4gntwk,measure,Proportion of population covered by at least a 4G mobile network (%),9,9.c.1,IT_MOB_4GNTWK,9.c
 it_mob_own,measure,"Proportion of individuals who own a mobile telephone, by sex (%)",5,5.b.1,IT_MOB_OWN,5.b
-it_net_bbn,measure,"Number of fixed Internet broadband subscriptions, by speed (number)",17,17.6.2,IT_NET_BBN,17.6
-it_net_bbp,measure,"Fixed Internet broadband subscriptions per 100 inhabitants, by speed (per 100 inhabitants)",17,17.6.2,IT_NET_BBP,17.6
+it_net_bbn,measure,"Number of fixed Internet broadband subscriptions, by speed (number)",17,17.6.1,IT_NET_BBN,17.6
+it_net_bbp,measure,"Fixed Internet broadband subscriptions per 100 inhabitants, by speed (per 100 inhabitants)",17,17.6.1,IT_NET_BBP,17.6
 it_use_ii99,measure,Internet users per 100 inhabitants,17,17.8.1,IT_USE_ii99,17.8
 iu_cor_brib,measure,"Prevalence rate of bribery, by sex (%)",16,16.5.1,IU_COR_BRIB,16.5
 nv_ind_manf,measure,Manufacturing value added as a proportion of GDP (%),9,9.2.1,NV_IND_MANF,9.2
@@ -195,10 +215,11 @@ sg_gen_parl,measure,Proportion of seats held by women in national parliaments (%
 sg_gen_parln,measure,Number of seats held by women in national parliaments (number),5,5.5.1,SG_GEN_PARLN,5.5
 sg_gen_parlnt,measure,Number of seats in national parliaments (number),5,5.5.1,SG_GEN_PARLNT,5.5
 sg_gov_logv,measure,Number of local governments (number),"1, 13, 11","1.5.4, 13.1.3, 11.b.2",SG_GOV_LOGV,"1.5, 13.1, 11.b"
-sg_haz_cmrbasel,measure,Compliance with the Basel Convention on hazardous waste and other chemicals,12,12.4.1,SG_HAZ_CMRBASEL,12.4
-sg_haz_cmrmntrl,measure,Compliance with the Montreal Protocol on hazardous waste and other chemicals,12,12.4.1,SG_HAZ_CMRMNTRL,12.4
-sg_haz_cmrrotdam,measure,Compliance with the Rotterdam Convention on hazardous waste and other chemicals,12,12.4.1,SG_HAZ_CMRROTDAM,12.4
-sg_haz_cmrstholm,measure,Compliance with the Stockholm Convention on hazardous waste and other chemicals,12,12.4.1,SG_HAZ_CMRSTHOLM,12.4
+sg_haz_cmrbasel,measure,"Parties meeting their commitments and obligations in transmitting information as required by Basel Convention on hazardous waste, and other chemicals",12,12.4.1,SG_HAZ_CMRBASEL,12.4
+sg_haz_cmrmnmt,measure,"Parties meeting their commitments and obligations in transmitting information as required by Minamata Convention on hazardous waste, and other chemicals (%)",12,12.4.1,SG_HAZ_CMRMNMT,12.4
+sg_haz_cmrmntrl,measure,"Parties meeting their commitments and obligations in transmitting information as required by Montreal Protocol on hazardous waste, and other chemicals",12,12.4.1,SG_HAZ_CMRMNTRL,12.4
+sg_haz_cmrrotdam,measure,"Parties meeting their commitments and obligations in transmitting information as required by Rotterdam Convention on hazardous waste, and other chemicals",12,12.4.1,SG_HAZ_CMRROTDAM,12.4
+sg_haz_cmrstholm,measure,"Parties meeting their commitments and obligations in transmitting information as required by Stockholm Convention on hazardous waste, and other chemicals",12,12.4.1,SG_HAZ_CMRSTHOLM,12.4
 sg_inf_accss,measure,"Countries that adopt and implement constitutional, statutory and/or policy guarantees for public access to information",16,16.10.2,SG_INF_ACCSS,16.10
 sg_int_mbrdev,measure,"Proportion of members of developing countries in international organizations, by organization (%)","10, 16","10.6.1, 16.8.1",SG_INT_MBRDEV,"10.6, 16.8"
 sg_int_vrtdev,measure,"Proportion of voting rights of developing countries in international organizations, by organization (%)","10, 16","10.6.1, 16.8.1",SG_INT_VRTDEV,"10.6, 16.8"
@@ -206,6 +227,7 @@ sg_lgl_geneqemp,measure,"Legal frameworks that promote, enforce and monitor gend
 sg_lgl_geneqlfp,measure,"Legal frameworks that promote, enforce and monitor gender equality (percentage of achievement, 0 - 100) -- Area 1: overarching legal frameworks and public life",5,5.1.1,SG_LGL_GENEQLFP,5.1
 sg_lgl_geneqmar,measure,"Legal frameworks that promote, enforce and monitor gender equality (percentage of achievement, 0 - 100) -- Area 4: marriage and family",5,5.1.1,SG_LGL_GENEQMAR,5.1
 sg_lgl_geneqvaw,measure,"Legal frameworks that promote, enforce and monitor gender equality (percentage of achievement, 0 - 100) --  Area 2: violence against women",5,5.1.1,SG_LGL_GENEQVAW,5.1
+sg_lgl_lndwmn,measure,Degree to which the legal framework (including customary law) guarantees women’s equal rights to land ownership and/or control (1=No evidence to 6=Highest levels of guarantees),5,5.a.2,SG_LGL_LNDWMN,5.a
 sg_nhr_impl,measure,Proportion of countries with independent National Human Rights Institutions in compliance with the Paris Principles (%),16,16.a.1,SG_NHR_IMPL,16.a
 sg_nhr_impln,measure,"Countries with National Human Rights Institutions in compliance with the Paris Principles, A status (1 = YES; 0 = NO)",16,16.a.1,SG_NHR_IMPLN,16.a
 sg_nhr_intexst,measure,Proportion of countries that applied for accreditation as independent National Human Rights Institutions in compliance with the Paris Principles (%),16,16.a.1,SG_NHR_INTEXST,16.a
@@ -230,8 +252,9 @@ sg_reg_deth75,measure,Proportion of countries with death registration data that 
 sg_reg_deth75n,measure,Countries with death registration data that are at least 75 percent complete (1 = YES; 0 = NO),17,17.19.2,SG_REG_DETH75N,17.19
 sg_scp_cntry,measure,Countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or target into national policies (1 = YES; 0 = NO),12,12.1.1,SG_SCP_CNTRY,12.1
 sg_scp_cormec,measure,Countries with coordination mechanism for sustainable consumption and production (1 = YES; 0 = NO),12,12.1.1,SG_SCP_CORMEC,12.1
-sg_scp_macpol,measure,Countries with macro policy for sustainable consumption and production (1 = YES; 0 = NO),12,12.1.1,SG_SCP_MACPOL,12.1
+sg_scp_other,measure,Country with Other implementing activities for sustainable consumption and production (1 = YES; 0 = NO),12,12.1.1,SG_SCP_OTHER,12.1
 sg_scp_polins,measure,Countries with policy instrument for sustainable consumption and production (1 = YES; 0 = NO),12,12.1.1,SG_SCP_POLINS,12.1
+sg_scp_totl,measure,"Countries with policies, instruments and mechanism in place for sustainable consumption and production (1 = YES; 0 = NO)",12,12.1.1,SG_SCP_TOTL,12.1
 sg_stt_capty,measure,Dollar value of all resources made available to strengthen statistical capacity in developing countries (current United States dollars),17,17.19.1,SG_STT_CAPTY,17.19
 sg_stt_fpos,measure,Countries with national statistical legislation exists that complies with the Fundamental Principles of Official Statistics (1 = YES; 0 = NO),17,17.18.2,SG_STT_FPOS,17.18
 sg_stt_nsdsfddnr,measure,Countries with national statistical plans with funding from donors (1 = YES; 0 = NO),17,17.18.3,SG_STT_NSDSFDDNR,17.18
@@ -242,6 +265,7 @@ sg_stt_nsdsimpl,measure,Countries with national statistical plans that are under
 sh_aap_asmort,measure,"Age-standardized mortality rate attributed to ambient air pollution (deaths per 100,000 population)",3,3.9.1,SH_AAP_ASMORT,3.9
 sh_aap_mort,measure,"Crude death rate attributed to ambient air pollution (deaths per 100,000 population)",3,3.9.1,SH_AAP_MORT,3.9
 sh_acs_dtp3,measure,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3) (%),3,3.b.1,SH_ACS_DTP3,3.b
+sh_acs_hpv,measure,"Proportion of the target population with access to affordable medicines and vaccines on a sustainable basis, human papillomavirus (HPV) (%)",3,3.b.1,SH_ACS_HPV,3.b
 sh_acs_mcv2,measure,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2) (%),3,3.b.1,SH_ACS_MCV2,3.b
 sh_acs_pcv3,measure,Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3) (%),3,3.b.1,SH_ACS_PCV3,3.b
 sh_acs_unhc,measure,Universal health coverage (UHC) service coverage index,3,3.8.1,SH_ACS_UNHC,3.8
@@ -265,7 +289,26 @@ sh_hap_hbsag,measure,Prevalence of hepatitis B surface antigen (HBsAg) (%),3,3.3
 sh_hap_mort,measure,"Crude death rate attributed to household air pollution (deaths per 100,000 population)",3,3.9.1,SH_HAP_MORT,3.9
 sh_hiv_incd,measure,"Number of new HIV infections per 1,000 uninfected population, by sex and age (per 1,000 uninfected population)",3,3.3.1,SH_HIV_INCD,3.3
 sh_ihr_caps,measure,"International Health Regulations (IHR) capacity, by type of IHR capacity (%)",3,3.d.1,SH_IHR_CAPS,3.d
+sh_lgr_acsrhe,measure,"Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education (%)",5,5.6.2,SH_LGR_ACSRHE,5.6
+sh_lgr_acsrhec1,measure,"(S.1.C.1) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 1: Maternity Care (%)",5,5.6.2,SH_LGR_ACSRHEC1,5.6
+sh_lgr_acsrhec10,measure,"(S.4.C.10) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 10: HIV Counselling and Test Services",5,5.6.2,SH_LGR_ACSRHEC10,5.6
+sh_lgr_acsrhec11,measure,"(S.4.C.11) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 11: HIV Treatment and Care Services (%)",5,5.6.2,SH_LGR_ACSRHEC11,5.6
+sh_lgr_acsrhec12,measure,"(S.4.C.12) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 12: HIV Confidentiality (%)",5,5.6.2,SH_LGR_ACSRHEC12,5.6
+sh_lgr_acsrhec13,measure,"(S.4.C.13) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 13: HPV Vaccine (%)",5,5.6.2,SH_LGR_ACSRHEC13,5.6
+sh_lgr_acsrhec2,measure,"(S.1.C.2) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 2: Life Saving Commodities (%)",5,5.6.2,SH_LGR_ACSRHEC2,5.6
+sh_lgr_acsrhec3,measure,"(S.1.C.3) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 3: Abortion",5,5.6.2,SH_LGR_ACSRHEC3,5.6
+sh_lgr_acsrhec4,measure,"(S.1.C.4) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 4: Post-Abortion Care (%)",5,5.6.2,SH_LGR_ACSRHEC4,5.6
+sh_lgr_acsrhec5,measure,"(S.2.C.5) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 5: Contraceptive Services (%)",5,5.6.2,SH_LGR_ACSRHEC5,5.6
+sh_lgr_acsrhec6,measure,"(S.2.C.6) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 6: Contraceptive Consent (%)",5,5.6.2,SH_LGR_ACSRHEC6,5.6
+sh_lgr_acsrhec7,measure,"(S.2.C.7) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 7: Emergency Contraception (%)",5,5.6.2,SH_LGR_ACSRHEC7,5.6
+sh_lgr_acsrhec8,measure,"(S.3.C.8) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 8: Sexuality Education Curriculum Laws (%)",5,5.6.2,SH_LGR_ACSRHEC8,5.6
+sh_lgr_acsrhec9,measure,"(S.3.C.9) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 9: Sexuality Education Curriculum Topics (%)",5,5.6.2,SH_LGR_ACSRHEC9,5.6
+sh_lgr_acsrhes1,measure,"(S.1) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Section 1: Maternity Care (%)",5,5.6.2,SH_LGR_ACSRHES1,5.6
+sh_lgr_acsrhes2,measure,"(S.2) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Section 2: Contraceptive and Family Planning (%)",5,5.6.2,SH_LGR_ACSRHES2,5.6
+sh_lgr_acsrhes3,measure,"(S.3) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Section 3: Sexuality Education (%)",5,5.6.2,SH_LGR_ACSRHES3,5.6
+sh_lgr_acsrhes4,measure,"(S.4) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Section 4: HIV and HPV (%)",5,5.6.2,SH_LGR_ACSRHES4,5.6
 sh_med_heawor,measure,"Health worker density, by type of occupation (per 10,000 population)",3,3.c.1,SH_MED_HEAWOR,3.c
+sh_med_hwrkdis,measure,"Health worker distribution, by sex and type of occupation (%)",3,3.c.1,SH_MED_HWRKDIS,3.c
 sh_prv_smok,measure,"Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%)",3,3.a.1,SH_PRV_SMOK,3.a
 sh_san_defect,measure,"Proportion of population practicing open defecation, by urban/rural (%)",6,6.2.1,SH_SAN_DEFECT,6.2
 sh_san_hndwsh,measure,"Proportion of population with basic handwashing facilities on premises, by urban/rural (%)",6,6.2.1,SH_SAN_HNDWSH,6.2
@@ -277,16 +320,16 @@ sh_sta_fgms,measure,"Proportion of girls and women aged 15-49 years who have und
 sh_sta_malr,measure,"Malaria incidence per 1,000 population at risk (per 1,000 population)",3,3.3.3,SH_STA_MALR,3.3
 sh_sta_mmr,measure,Maternal mortality ratio,3,3.1.1,SH_STA_MMR,3.1
 sh_sta_ovrwgt,measure,Proportion of children moderately or severely overweight (%),2,2.2.2,SH_STA_OVRWGT,2.2
-sh_sta_ovrwgtn,measure,Children moderately or severely overweight (millions),2,2.2.2,SH_STA_OVRWGTN,2.2
+sh_sta_ovrwgtn,measure,Children moderately or severely overweight (thousands),2,2.2.2,SH_STA_OVRWGTN,2.2
 sh_sta_poisn,measure,"Mortality rate attributed to unintentional poisonings, by sex (deaths per 100,000 population)",3,3.9.3,SH_STA_POISN,3.9
 sh_sta_scide,measure,"Suicide mortality rate, by sex (deaths per 100,000 population)",3,3.4.2,SH_STA_SCIDE,3.4
 sh_sta_sciden,measure,"Number of deaths attributed to suicide, by sex (number)",3,3.4.2,SH_STA_SCIDEN,3.4
 sh_sta_stunt,measure,Proportion of children moderately or severely stunted (%),2,2.2.1,SH_STA_STUNT,2.2
-sh_sta_stuntn,measure,Children moderately or severely stunted (millions),2,2.2.1,SH_STA_STUNTN,2.2
+sh_sta_stuntn,measure,Children moderately or severely stunted (thousands),2,2.2.1,SH_STA_STUNTN,2.2
 sh_sta_traf,measure,"Death rate due to road traffic injuries (per 100,000 population)",3,3.6.1,SH_STA_TRAF,3.6
 sh_sta_wash,measure,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (deaths per 100,000 population)",3,3.9.2,SH_STA_WASH,3.9
 sh_sta_waste,measure,Proportion of children moderately or severely wasted (%),2,2.2.2,SH_STA_WASTE,2.2
-sh_sta_wasten,measure,Children moderately or severely wasted (millions),2,2.2.2,SH_STA_WASTEN,2.2
+sh_sta_wasten,measure,Children moderately or severely wasted (thousands),2,2.2.2,SH_STA_WASTEN,2.2
 sh_tbs_incid,measure,"Tuberculosis incidence (per 100,000 population)",3,3.3.2,SH_TBS_INCID,3.3
 sh_trp_intvn,measure,Number of people requiring interventions against neglected tropical diseases (number),3,3.3.5,SH_TRP_INTVN,3.3
 sh_xpd_earn10,measure,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income (%),3,3.8.2,SH_XPD_EARN10,3.8
@@ -309,15 +352,17 @@ si_pov_day1,measure,Proportion of population below international poverty line (%
 si_pov_emp1,measure,"Employed population below international poverty line, by sex and age (%)",1,1.1.1,SI_POV_EMP1,1.1
 si_pov_nahc,measure,Proportion of population living below the national poverty line (%),1,1.2.1,SI_POV_NAHC,1.2
 si_rmt_cost,measure,Remittance costs as a proportion of the amount remitted (%),10,10.c.1,SI_RMT_COST,10.c
+sl_cpa_yemp,measure,"Existence of a developed and operationalized national strategy for youth employment, as a distinct strategy or as part of a national employment strategy",8,8.b.1,SL_CPA_YEMP,8.b
 sl_dom_tspd,measure,"Proportion of time spent on unpaid domestic chores and care work, by sex, age and location (%)",5,5.4.1,SL_DOM_TSPD,5.4
 sl_dom_tspdcw,measure,"Proportion of time spent on unpaid care work, by sex, age and location (%)",5,5.4.1,SL_DOM_TSPDCW,5.4
 sl_dom_tspddc,measure,"Proportion of time spent on unpaid domestic chores, by sex, age and location (%)",5,5.4.1,SL_DOM_TSPDDC,5.4
 sl_emp_aearn,measure,Average hourly earnings of managers (ISCO-08) (local currency),8,8.5.1,SL_EMP_AEARN,8.5
 sl_emp_ftlinjur,measure,"Fatal occupational injuries among employees, by sex and migrant status (per 100,000 employees)",8,8.8.1,SL_EMP_FTLINJUR,8.8
-sl_emp_gtotl,measure,"Labour share of GDP, comprising wages and social protection transfers (%)",10,10.4.1,SL_EMP_GTOTL,10.4
+sl_emp_gtotl,measure,Labour share of GDP (%),10,10.4.1,SL_EMP_GTOTL,10.4
 sl_emp_injur,measure,"Non-fatal occupational injuries among employees, by sex and migrant status (per 100,000 employees)",8,8.8.1,SL_EMP_INJUR,8.8
 sl_emp_pcap,measure,Annual growth rate of real GDP per employed person (%),8,8.2.1,SL_EMP_PCAP,8.2
-sl_isv_ifrm,measure,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%)",8,8.3.1,SL_ISV_IFRM,8.3
+sl_isv_ifrm,measure,"Proportion of informal employment, by sector and sex (ILO harmonized estimates) (%)",8,8.3.1,SL_ISV_IFRM,8.3
+sl_lbr_ntlcpl,measure,Level of national compliance with labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation,8,8.8.2,SL_LBR_NTLCPL,8.8
 sl_tlf_chldea,measure,"Proportion of children engaged in economic activity, by sex and age  (%)",8,8.7.1,SL_TLF_CHLDEA,8.7
 sl_tlf_chldec,measure,"Proportion of children engaged in economic activity and household chores, by sex and age (%)",8,8.7.1,SL_TLF_CHLDEC,8.7
 sl_tlf_manf,measure,Manufacturing employment as a proportion of total employment (%),9,9.2.2,SL_TLF_MANF,9.2
@@ -331,6 +376,12 @@ sp_acs_bsrvsan,measure,"Proportion of population using basic sanitation services
 sp_dyn_adkl,measure,"Adolescent birth rate (per 1,000 women aged 15-19 years)",3,3.7.2,SP_DYN_ADKL,3.7
 sp_dyn_mrbf15,measure,Proportion of women aged 20-24 years who were married or in a union before age 15 (%),5,5.3.1,SP_DYN_MRBF15,5.3
 sp_dyn_mrbf18,measure,Proportion of women aged 20-24 years who were married or in a union before age 18 (%),5,5.3.1,SP_DYN_MRBF18,5.3
+sp_gnp_wnowns,measure,"Share of women among owners or rights-bearers of agricultural land, by type of tenure (%)",5,5.a.1,SP_GNP_WNOWNS,5.a
+sp_lgl_lndagsec,measure,"Proportion of people with ownership or secure rights over agricultural land (out of total agricultural population), by sex (%)",5,5.a.1,SP_LGL_LNDAGSEC,5.a
+st_eev_accseea,measure,Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (SEEA tables),12,12.b.1,ST_EEV_ACCSEEA,12.b
+st_eev_acctsa,measure,Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (Tourism Satellite Account tables),12,12.b.1,ST_EEV_ACCTSA,12.b
+st_eev_stdacct,measure,Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (number of tables),12,12.b.1,ST_EEV_STDACCT,12.b
+st_gdp_zs,measure,Tourism direct GDP as a proportion of total GDP (%),8,8.9.1,ST_GDP_ZS,8.9
 tm_tax_dmfn,measure,"Average tariff applied by developed countries, most-favored nation status, by type of product (%)",17,17.12.1,TM_TAX_DMFN,17.12
 tm_tax_dprf,measure,"Average tariff applied by developed countries, preferential status, by type of product (%)",17,17.12.1,TM_TAX_DPRF,17.12
 tm_tax_wmfn,measure,"Worldwide weighted tariff-average, most-favoured-nation status, by type of product (%)",17,17.10.1,TM_TAX_WMFN,17.10

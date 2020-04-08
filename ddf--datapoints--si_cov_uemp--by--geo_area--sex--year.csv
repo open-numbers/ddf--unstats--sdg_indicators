@@ -13,7 +13,6 @@ geo_area,sex,year,si_cov_uemp
 12,bothsex,2000,7.3
 12,bothsex,2003,8.8
 13,bothsex,2016,25.4
-14,bothsex,2016,0
 15,bothsex,2016,13.8
 17,bothsex,2016,1
 18,bothsex,2016,12.8
@@ -38,6 +37,7 @@ geo_area,sex,year,si_cov_uemp
 32,bothsex,2010,5.7
 32,bothsex,2011,4.9
 32,bothsex,2016,7.2
+32,bothsex,2019,32.2
 34,bothsex,2016,16.9
 35,bothsex,2016,43.8
 36,bothsex,2000,73.4
@@ -68,6 +68,7 @@ geo_area,sex,year,si_cov_uemp
 44,bothsex,2012,25.7
 48,bothsex,2009,7.9
 48,bothsex,2010,9.8
+48,bothsex,2019,31.9
 51,bothsex,2000,12
 51,bothsex,2005,5.7
 51,bothsex,2007,20.1
@@ -106,6 +107,7 @@ geo_area,sex,year,si_cov_uemp
 76,bothsex,2009,7.2
 76,bothsex,2010,7.8
 76,bothsex,2016,7.8
+76,bothsex,2019,49.7
 100,bothsex,2003,21.1
 100,bothsex,2005,23.4
 100,bothsex,2007,27.1
@@ -142,6 +144,9 @@ geo_area,sex,year,si_cov_uemp
 124,female,2014,25.8
 124,male,2013,23.4
 124,male,2014,23.3
+132,bothsex,2017,0.9
+132,female,2017,0.9
+132,male,2017,0.9
 142,bothsex,2016,21
 143,bothsex,2016,14.4
 145,bothsex,2016,11.3
@@ -156,6 +161,7 @@ geo_area,sex,year,si_cov_uemp
 152,bothsex,2013,33.5
 152,bothsex,2014,34.9
 152,bothsex,2016,45.6
+152,bothsex,2019,51
 152,female,2013,21.7
 152,female,2014,21.5
 152,female,2016,51.9
@@ -178,6 +184,7 @@ geo_area,sex,year,si_cov_uemp
 158,bothsex,2010,14.6
 158,bothsex,2011,13
 170,bothsex,2016,4.6
+188,bothsex,2019,71.5
 191,bothsex,2000,17.7
 191,bothsex,2005,23.6
 191,bothsex,2007,22.5
@@ -217,6 +224,7 @@ geo_area,sex,year,si_cov_uemp
 208,bothsex,2011,68.3
 208,bothsex,2013,50.2
 208,bothsex,2014,47.7
+208,bothsex,2019,56
 208,female,2013,51.7
 208,female,2014,50.2
 208,male,2013,24.1
@@ -224,7 +232,6 @@ geo_area,sex,year,si_cov_uemp
 214,bothsex,2016,4.2
 218,bothsex,2000,6.7
 218,bothsex,2005,4.2
-231,bothsex,2016,0
 233,bothsex,2000,17.3
 233,bothsex,2005,28.9
 233,bothsex,2007,25.9
@@ -260,7 +267,6 @@ geo_area,sex,year,si_cov_uemp
 276,bothsex,2010,87.6
 276,bothsex,2011,86.3
 276,bothsex,2016,100
-288,bothsex,2016,0
 300,bothsex,2000,52.9
 300,bothsex,2002,44.3
 300,bothsex,2007,53.9
@@ -280,6 +286,7 @@ geo_area,sex,year,si_cov_uemp
 348,bothsex,2011,35.7
 348,bothsex,2013,10.9
 348,bothsex,2014,12.4
+348,bothsex,2019,26.7
 348,female,2013,10.5
 348,female,2014,12.2
 348,male,2013,11.2
@@ -335,7 +342,9 @@ geo_area,sex,year,si_cov_uemp
 398,bothsex,2016,5.8
 398,female,2016,4.5
 398,male,2016,6.8
-404,bothsex,2016,0
+400,bothsex,2019,2.6
+400,female,2019,2
+400,male,2019,2.9
 410,bothsex,2004,25.1
 410,bothsex,2005,27.5
 410,bothsex,2007,34.9
@@ -343,6 +352,8 @@ geo_area,sex,year,si_cov_uemp
 410,bothsex,2010,36
 410,bothsex,2011,35.8
 410,bothsex,2014,40
+410,bothsex,2019,37.1
+414,bothsex,2019,70.9
 417,bothsex,2000,8.2
 417,bothsex,2005,10.4
 417,bothsex,2007,3.3
@@ -351,7 +362,6 @@ geo_area,sex,year,si_cov_uemp
 417,bothsex,2011,1.2
 417,bothsex,2016,1.7
 419,bothsex,2016,12.2
-426,bothsex,2016,0
 428,bothsex,2001,26.2
 428,bothsex,2005,37.1
 428,bothsex,2007,47
@@ -360,6 +370,7 @@ geo_area,sex,year,si_cov_uemp
 428,bothsex,2011,20.8
 428,bothsex,2013,27
 428,bothsex,2014,33.3
+428,bothsex,2019,41
 428,female,2013,33.8
 428,female,2014,42.5
 428,male,2013,21
@@ -439,7 +450,6 @@ geo_area,sex,year,si_cov_uemp
 499,bothsex,2010,41.6
 499,bothsex,2011,40.9
 499,bothsex,2014,35.6
-508,bothsex,2016,0
 513,bothsex,2016,44.3
 528,bothsex,2002,66.7
 528,bothsex,2005,69.3
@@ -468,7 +478,7 @@ geo_area,sex,year,si_cov_uemp
 554,bothsex,2010,41.8
 554,bothsex,2011,37.5
 554,bothsex,2014,44.9
-566,bothsex,2016,0
+566,bothsex,2019,7
 578,bothsex,2006,58.1
 578,bothsex,2007,50.9
 578,bothsex,2009,74.6
@@ -499,6 +509,7 @@ geo_area,sex,year,si_cov_uemp
 620,female,2014,44.5
 620,male,2013,48
 620,male,2014,48.8
+634,bothsex,2018,0.7
 642,bothsex,2001,45.2
 642,bothsex,2005,38
 642,bothsex,2007,33.2
@@ -507,6 +518,7 @@ geo_area,sex,year,si_cov_uemp
 642,bothsex,2011,26.8
 642,bothsex,2013,26.3
 642,bothsex,2014,22.7
+642,bothsex,2019,15.8
 642,female,2013,37.8
 642,female,2014,31.7
 642,male,2013,19
@@ -521,6 +533,7 @@ geo_area,sex,year,si_cov_uemp
 643,bothsex,2017,82.7
 643,female,2016,78.7
 643,male,2016,59.2
+682,bothsex,2019,57.5
 688,bothsex,2000,11.1
 688,bothsex,2005,10.4
 688,bothsex,2007,7.7
@@ -613,7 +626,9 @@ geo_area,sex,year,si_cov_uemp
 764,bothsex,2010,22.4
 764,bothsex,2011,37.1
 764,bothsex,2015,43.2
+764,bothsex,2019,61
 768,bothsex,2017,0.7
+784,bothsex,2019,2.2
 788,bothsex,2008,3
 792,bothsex,2004,8.7
 792,bothsex,2005,5.4
@@ -623,11 +638,11 @@ geo_area,sex,year,si_cov_uemp
 792,bothsex,2011,6.5
 792,bothsex,2013,1.4
 792,bothsex,2014,1.4
+792,bothsex,2019,2
 792,female,2013,1
 792,female,2014,1.1
 792,male,2013,1.6
 792,male,2014,1.6
-800,bothsex,2016,0
 804,bothsex,2000,23.6
 804,bothsex,2005,40.3
 804,bothsex,2007,34.4
@@ -657,6 +672,7 @@ geo_area,sex,year,si_cov_uemp
 833,bothsex,2010,56.4
 833,bothsex,2011,56.6
 833,bothsex,2015,80
+834,bothsex,2019,8.6
 840,bothsex,2000,37.1
 840,bothsex,2005,35
 840,bothsex,2007,35.9
@@ -671,5 +687,6 @@ geo_area,sex,year,si_cov_uemp
 858,bothsex,2010,22.4
 858,bothsex,2011,25.4
 858,bothsex,2016,30.1
+858,bothsex,2019,28.2
 860,bothsex,2017,0.8
 862,bothsex,2016,5.1
