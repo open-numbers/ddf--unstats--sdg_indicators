@@ -16,6 +16,7 @@ mode_of_transportation,entity_domain,Mode Of Transportation
 name,string,Name
 name_of_international_institution,entity_domain,Name Of International Institution
 name_of_non_communicable_disease,entity_domain,Name Of Non Communicable Disease
+nature,entity_domain,Nature
 policy_domains,entity_domain,Policy Domains
 policy_instruments,entity_domain,Policy Instruments
 quantile,entity_domain,Quantile
@@ -27,4 +28,5 @@ type_of_product,entity_domain,Type Of Product
 type_of_skill,entity_domain,Type Of Skill
 type_of_speed,entity_domain,Type Of Speed
 type_of_waste_treatment,entity_domain,Type Of Waste Treatment
+units,entity_domain,Units
 year,time,Year
