@@ -1,4 +1,6 @@
 migratory_status,name
 t,_T
-nonmig,NONMIG
 migper,MIGPER
+nonmig,NONMIG
+eumig,EUMIG
+noneumig,NONEUMIG

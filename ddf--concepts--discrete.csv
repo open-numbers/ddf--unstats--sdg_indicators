@@ -1,25 +1,28 @@
 concept,concept_type,name
-bounds,entity_domain,Bounds
+nature,entity_domain,Nature
+units,entity_domain,Units
 age,entity_domain,Age
 sex,entity_domain,Sex
 type_of_skill,entity_domain,Type Of Skill
 mode_of_transportation,entity_domain,Mode Of Transportation
-education_level,entity_domain,Education Level
-ihr_capacity,entity_domain,Ihr Capacity
-hazard_type,entity_domain,Hazard Type
 location,entity_domain,Location
+education_level,entity_domain,Education Level
+quantile,entity_domain,Quantile
 type_of_product,entity_domain,Type Of Product
+ihr_capacity,entity_domain,Ihr Capacity
+level_status,entity_domain,Level Status
 cities,entity_domain,Cities
 name_of_international_institution,entity_domain,Name Of International Institution
-level_status,entity_domain,Level Status
-freq,entity_domain,Freq
 type_of_occupation,entity_domain,Type Of Occupation
-tariff_regime_status,entity_domain,Tariff Regime Status
 type_of_speed,entity_domain,Type Of Speed
-quantile,entity_domain,Quantile
+policy_domains,entity_domain,Policy Domains
+disability_status,entity_domain,Disability Status
+activity,entity_domain,Activity
 name_of_non_communicable_disease,entity_domain,Name Of Non Communicable Disease
-type_of_mobile_technology,entity_domain,Type Of Mobile Technology
+type_of_waste_treatment,entity_domain,Type Of Waste Treatment
+policy_instruments,entity_domain,Policy Instruments
 migratory_status,entity_domain,Migratory Status
+sampling_stations,entity_domain,Sampling Stations
 geo_area,entity_domain,Geo Area
 year,time,Year
 name,string,Name

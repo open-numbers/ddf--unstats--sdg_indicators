@@ -1,7 +1,8 @@
 education_level,name
-lowsec,LOWSEC
-grad23,GRAD23
 primar,PRIMAR
+lowsec,LOWSEC
+second,SECOND
 prepri,PREPRI
 uppsec,UPPSEC
-second,SECOND
+grad23,GRAD23
+t,_T
