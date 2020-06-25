@@ -1,29 +1,32 @@
 concept,concept_type,name
-bounds,entity_domain,Bounds
+activity,entity_domain,Activity
 age,entity_domain,Age
-sex,entity_domain,Sex
-type_of_skill,entity_domain,Type Of Skill
-mode_of_transportation,entity_domain,Mode Of Transportation
-education_level,entity_domain,Education Level
-ihr_capacity,entity_domain,Ihr Capacity
-hazard_type,entity_domain,Hazard Type
-location,entity_domain,Location
-type_of_product,entity_domain,Type Of Product
 cities,entity_domain,Cities
-name_of_international_institution,entity_domain,Name Of International Institution
-level_status,entity_domain,Level Status
-freq,entity_domain,Freq
-type_of_occupation,entity_domain,Type Of Occupation
-tariff_regime_status,entity_domain,Tariff Regime Status
-type_of_speed,entity_domain,Type Of Speed
-quantile,entity_domain,Quantile
-name_of_non_communicable_disease,entity_domain,Name Of Non Communicable Disease
-type_of_mobile_technology,entity_domain,Type Of Mobile Technology
-migratory_status,entity_domain,Migratory Status
-geo_area,entity_domain,Geo Area
-year,time,Year
-name,string,Name
 description,string,Description
+disability_status,entity_domain,Disability Status
+education_level,entity_domain,Education Level
+geo_area,entity_domain,Geo Area
 goal,string,Goal
+ihr_capacity,entity_domain,Ihr Capacity
 indicator,string,Indicator
+level_status,entity_domain,Level Status
+location,entity_domain,Location
+migratory_status,entity_domain,Migratory Status
+mode_of_transportation,entity_domain,Mode Of Transportation
+name,string,Name
+name_of_international_institution,entity_domain,Name Of International Institution
+name_of_non_communicable_disease,entity_domain,Name Of Non Communicable Disease
+nature,entity_domain,Nature
+policy_domains,entity_domain,Policy Domains
+policy_instruments,entity_domain,Policy Instruments
+quantile,entity_domain,Quantile
+sampling_stations,entity_domain,Sampling Stations
+sex,entity_domain,Sex
 target,string,Target
+type_of_occupation,entity_domain,Type Of Occupation
+type_of_product,entity_domain,Type Of Product
+type_of_skill,entity_domain,Type Of Skill
+type_of_speed,entity_domain,Type Of Speed
+type_of_waste_treatment,entity_domain,Type Of Waste Treatment
+units,entity_domain,Units
+year,time,Year

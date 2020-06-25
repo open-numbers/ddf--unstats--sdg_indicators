@@ -5,18 +5,34 @@ import os
 import pandas as pd
 import numpy as np
 import requests as req
+import logging
 
 from pandas.api.types import is_numeric_dtype
 from ddf_utils.str import to_concept_id, format_float_digits
+from ddf_utils.chef.helpers import sort_df
 from functools import partial
 from update_source import api_path, API_BASE, get_all_series
 
 
 FORMATTER = partial(format_float_digits, digits=7)
 
+logging.basicConfig()
+logger = logging.getLogger("etl")
+
 
 def read_source(name):
-    return pd.read_csv(f'../source/{name}.csv', thousands=',').dropna(how='all')
+    try:
+        df = pd.read_csv(f'../source/{name}.csv', thousands=',').dropna(how='all')
+    except pd.errors.EmptyDataError:
+        logger.warning("no data")
+        return None
+    except pd.errors.ParserError:
+        logger.warning("parse error")
+        return None
+
+    # there could be spaces in the columns. strip them.
+    df.columns = df.columns.map(str.strip)
+    return df
 
 
 def get_key_columns(df):
@@ -41,12 +57,12 @@ def check_source(df, key_columns):
         df = df[df.Indicator == df.Indicator.values[0]]
 
     if df.duplicated(subset=key_columns).any():
-        print("duplicated datapoints.")
-        print(df.columns)
+        logger.warning("duplicated datapoints.")
+        logger.warning(df.columns)
 
     for k in key_columns:
         if df[k].hasnans:
-            print("column {} has NaNs".format(k))
+            logger.warning("column {} has NaNs".format(k))
             if k == 'TimePeriod':
                 # if timePeriod is N/A, we will just drop it
                 df = df.dropna(subset=['TimePeriod'])
@@ -62,11 +78,11 @@ def serve_datapoints(df, concept=None):
     in front of measure column.
     """
     if not concept:
-        by_lst = df.columns[:-1]
+        by_lst = sorted(df.columns[:-1])
         by = '--'.join(by_lst)
         concept = df.columns[-1]
     else:
-        by_lst = list(filter(lambda x: x != concept, df.columns))
+        by_lst = sorted(list(filter(lambda x: x != concept, df.columns)))
         by = '--'.join(by_lst)
 
     if df['geo_area'].dtype != np.int:
@@ -76,16 +92,21 @@ def serve_datapoints(df, concept=None):
         df['year'] = df['year'].map(lambda x: int(x))
 
     if not is_numeric_dtype(df[concept]):
-        print("\tnot numeric data")
+        logger.warning("not numeric data")
     else:
         df[concept] = df[concept].map(FORMATTER)
 
-    df.dropna(subset=[concept]).to_csv(f'../../ddf--datapoints--{concept}--by--{by}.csv', index=False)
+    # sort dataframe and remove NaNs
+    df = df.dropna(subset=[concept])
+    df = sort_df(df, by_lst)
+
+    df.to_csv(f'../../ddf--datapoints--{concept}--by--{by}.csv', index=False)
 
 
 def serve_entities(entities):
     for e, d in entities.items():
-        d.drop_duplicates().to_csv(f'../../ddf--entities--{e}.csv', index=False)
+        d_ = sort_df(d.drop_duplicates(), e)
+        d_.to_csv(f'../../ddf--entities--{e}.csv', index=False)
 
 
 def create_measure_concepts():
@@ -122,9 +143,12 @@ def main():
 
         name = f[:-4]
         concept = name.lower()
-        print(concept)
+        logger.info(concept)
 
         df = read_source(name)
+        if df is None:
+            # print("\tno data")
+            continue
         key_columns = get_key_columns(df)
         df = check_source(df, key_columns)
 
@@ -146,7 +170,6 @@ def main():
                     entities[c] = create_entity(c, df_[c].unique())
                 # convert key columns into concept IDs
                 df_[c] = df_[c].map(to_concept_id)
-
         serve_datapoints(df_, concept)
 
     # entities
@@ -154,10 +177,12 @@ def main():
 
     # geo entity, from the api
     gdf = create_geo_entity()
+    gdf = sort_df(gdf, 'geo_area')
     gdf.to_csv('../../ddf--entities--geo_area.csv', index=False)
 
     # concepts
     cdf = create_measure_concepts()
+    cdf = sort_df(cdf, 'concept')
     cdf.to_csv('../../ddf--concepts--continuous.csv', index=False)
 
     cdf2 = pd.DataFrame({'concept': list(entities.keys())})
@@ -170,9 +195,11 @@ def main():
         'name': ['Geo Area', 'Year', 'Name', 'Description', 'Goal', 'Indicator', 'Target']
     })
     cdf_ = cdf2.append(cdf3, ignore_index=True)
+    cdf_ = sort_df(cdf_, 'concept')
     cdf_.to_csv('../../ddf--concepts--discrete.csv', index=False)
 
 
 if __name__ == '__main__':
+    logger.setLevel(logging.INFO)
     main()
-    print('Done.')
+    logger.info('Done.')
