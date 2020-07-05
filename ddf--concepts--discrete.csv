@@ -17,6 +17,7 @@ name,string,Name
 name_of_international_institution,entity_domain,Name Of International Institution
 name_of_non_communicable_disease,entity_domain,Name Of Non Communicable Disease
 nature,entity_domain,Nature
+observation_status,entity_domain,Observation Status
 policy_domains,entity_domain,Policy Domains
 policy_instruments,entity_domain,Policy Instruments
 quantile,entity_domain,Quantile

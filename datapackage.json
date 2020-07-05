@@ -8,7 +8,7 @@
     "description": "SDG indicators",
     "author": "Gapminder",
     "license": "CC-BY-4.0",
-    "created": "2020-05-17T07:44:22.786514+00:00",
+    "created": "2020-07-05T05:34:46.943026+00:00",
     "translations": [],
     "version": "0.0.1",
     "resources": [
@@ -413,8 +413,8 @@
             }
         },
         {
-            "name": "ddf--datapoints--ag_prd_agvas--by--geo_area--nature--units--year",
-            "path": "ddf--datapoints--ag_prd_agvas--by--geo_area--nature--units--year.csv",
+            "name": "ddf--datapoints--ag_prd_agvas--by--geo_area--nature--observation_status--units--year",
+            "path": "ddf--datapoints--ag_prd_agvas--by--geo_area--nature--observation_status--units--year.csv",
             "schema": {
                 "fields": [
                     {
@@ -422,6 +422,9 @@
                     },
                     {
                         "name": "nature"
+                    },
+                    {
+                        "name": "observation_status"
                     },
                     {
                         "name": "units"
@@ -436,14 +439,15 @@
                 "primaryKey": [
                     "geo_area",
                     "nature",
+                    "observation_status",
                     "units",
                     "year"
                 ]
             }
         },
         {
-            "name": "ddf--datapoints--ag_prd_fiesmsi--by--age--geo_area--nature--sex--units--year",
-            "path": "ddf--datapoints--ag_prd_fiesmsi--by--age--geo_area--nature--sex--units--year.csv",
+            "name": "ddf--datapoints--ag_prd_fiesmsi--by--age--geo_area--nature--observation_status--sex--units--year",
+            "path": "ddf--datapoints--ag_prd_fiesmsi--by--age--geo_area--nature--observation_status--sex--units--year.csv",
             "schema": {
                 "fields": [
                     {
@@ -454,6 +458,9 @@
                     },
                     {
                         "name": "nature"
+                    },
+                    {
+                        "name": "observation_status"
                     },
                     {
                         "name": "sex"
@@ -472,6 +479,7 @@
                     "age",
                     "geo_area",
                     "nature",
+                    "observation_status",
                     "sex",
                     "units",
                     "year"
@@ -479,8 +487,8 @@
             }
         },
         {
-            "name": "ddf--datapoints--ag_prd_fiesmsin--by--age--geo_area--nature--sex--units--year",
-            "path": "ddf--datapoints--ag_prd_fiesmsin--by--age--geo_area--nature--sex--units--year.csv",
+            "name": "ddf--datapoints--ag_prd_fiesmsin--by--age--geo_area--nature--observation_status--sex--units--year",
+            "path": "ddf--datapoints--ag_prd_fiesmsin--by--age--geo_area--nature--observation_status--sex--units--year.csv",
             "schema": {
                 "fields": [
                     {
@@ -491,6 +499,9 @@
                     },
                     {
                         "name": "nature"
+                    },
+                    {
+                        "name": "observation_status"
                     },
                     {
                         "name": "sex"
@@ -509,6 +520,7 @@
                     "age",
                     "geo_area",
                     "nature",
+                    "observation_status",
                     "sex",
                     "units",
                     "year"
@@ -516,8 +528,8 @@
             }
         },
         {
-            "name": "ddf--datapoints--ag_prd_fiessi--by--age--geo_area--nature--sex--units--year",
-            "path": "ddf--datapoints--ag_prd_fiessi--by--age--geo_area--nature--sex--units--year.csv",
+            "name": "ddf--datapoints--ag_prd_fiessi--by--age--geo_area--nature--observation_status--sex--units--year",
+            "path": "ddf--datapoints--ag_prd_fiessi--by--age--geo_area--nature--observation_status--sex--units--year.csv",
             "schema": {
                 "fields": [
                     {
@@ -528,6 +540,9 @@
                     },
                     {
                         "name": "nature"
+                    },
+                    {
+                        "name": "observation_status"
                     },
                     {
                         "name": "sex"
@@ -546,6 +561,7 @@
                     "age",
                     "geo_area",
                     "nature",
+                    "observation_status",
                     "sex",
                     "units",
                     "year"
@@ -553,8 +569,8 @@
             }
         },
         {
-            "name": "ddf--datapoints--ag_prd_fiessin--by--age--geo_area--nature--sex--units--year",
-            "path": "ddf--datapoints--ag_prd_fiessin--by--age--geo_area--nature--sex--units--year.csv",
+            "name": "ddf--datapoints--ag_prd_fiessin--by--age--geo_area--nature--observation_status--sex--units--year",
+            "path": "ddf--datapoints--ag_prd_fiessin--by--age--geo_area--nature--observation_status--sex--units--year.csv",
             "schema": {
                 "fields": [
                     {
@@ -565,6 +581,9 @@
                     },
                     {
                         "name": "nature"
+                    },
+                    {
+                        "name": "observation_status"
                     },
                     {
                         "name": "sex"
@@ -583,6 +602,7 @@
                     "age",
                     "geo_area",
                     "nature",
+                    "observation_status",
                     "sex",
                     "units",
                     "year"
@@ -590,8 +610,8 @@
             }
         },
         {
-            "name": "ddf--datapoints--ag_prd_ortind--by--geo_area--nature--units--year",
-            "path": "ddf--datapoints--ag_prd_ortind--by--geo_area--nature--units--year.csv",
+            "name": "ddf--datapoints--ag_prd_ortind--by--geo_area--nature--observation_status--units--year",
+            "path": "ddf--datapoints--ag_prd_ortind--by--geo_area--nature--observation_status--units--year.csv",
             "schema": {
                 "fields": [
                     {
@@ -599,6 +619,9 @@
                     },
                     {
                         "name": "nature"
+                    },
+                    {
+                        "name": "observation_status"
                     },
                     {
                         "name": "units"
@@ -613,6 +636,7 @@
                 "primaryKey": [
                     "geo_area",
                     "nature",
+                    "observation_status",
                     "units",
                     "year"
                 ]
@@ -648,8 +672,8 @@
             }
         },
         {
-            "name": "ddf--datapoints--ag_xpd_agsgb--by--geo_area--nature--units--year",
-            "path": "ddf--datapoints--ag_xpd_agsgb--by--geo_area--nature--units--year.csv",
+            "name": "ddf--datapoints--ag_xpd_agsgb--by--geo_area--nature--observation_status--units--year",
+            "path": "ddf--datapoints--ag_xpd_agsgb--by--geo_area--nature--observation_status--units--year.csv",
             "schema": {
                 "fields": [
                     {
@@ -657,6 +681,9 @@
                     },
                     {
                         "name": "nature"
+                    },
+                    {
+                        "name": "observation_status"
                     },
                     {
                         "name": "units"
@@ -671,6 +698,7 @@
                 "primaryKey": [
                     "geo_area",
                     "nature",
+                    "observation_status",
                     "units",
                     "year"
                 ]
@@ -3616,8 +3644,8 @@
             }
         },
         {
-            "name": "ddf--datapoints--er_h2o_stress--by--geo_area--nature--units--year",
-            "path": "ddf--datapoints--er_h2o_stress--by--geo_area--nature--units--year.csv",
+            "name": "ddf--datapoints--er_h2o_stress--by--geo_area--nature--observation_status--units--year",
+            "path": "ddf--datapoints--er_h2o_stress--by--geo_area--nature--observation_status--units--year.csv",
             "schema": {
                 "fields": [
                     {
@@ -3625,6 +3653,9 @@
                     },
                     {
                         "name": "nature"
+                    },
+                    {
+                        "name": "observation_status"
                     },
                     {
                         "name": "units"
@@ -3639,6 +3670,7 @@
                 "primaryKey": [
                     "geo_area",
                     "nature",
+                    "observation_status",
                     "units",
                     "year"
                 ]
@@ -4291,8 +4323,8 @@
             }
         },
         {
-            "name": "ddf--datapoints--fb_atm_totl--by--age--geo_area--nature--units--year",
-            "path": "ddf--datapoints--fb_atm_totl--by--age--geo_area--nature--units--year.csv",
+            "name": "ddf--datapoints--fb_atm_totl--by--age--geo_area--nature--observation_status--units--year",
+            "path": "ddf--datapoints--fb_atm_totl--by--age--geo_area--nature--observation_status--units--year.csv",
             "schema": {
                 "fields": [
                     {
@@ -4303,6 +4335,9 @@
                     },
                     {
                         "name": "nature"
+                    },
+                    {
+                        "name": "observation_status"
                     },
                     {
                         "name": "units"
@@ -4318,6 +4353,7 @@
                     "age",
                     "geo_area",
                     "nature",
+                    "observation_status",
                     "units",
                     "year"
                 ]
@@ -4365,8 +4401,8 @@
             }
         },
         {
-            "name": "ddf--datapoints--fb_cbk_brch--by--age--geo_area--nature--units--year",
-            "path": "ddf--datapoints--fb_cbk_brch--by--age--geo_area--nature--units--year.csv",
+            "name": "ddf--datapoints--fb_cbk_brch--by--age--geo_area--nature--observation_status--units--year",
+            "path": "ddf--datapoints--fb_cbk_brch--by--age--geo_area--nature--observation_status--units--year.csv",
             "schema": {
                 "fields": [
                     {
@@ -4377,6 +4413,9 @@
                     },
                     {
                         "name": "nature"
+                    },
+                    {
+                        "name": "observation_status"
                     },
                     {
                         "name": "units"
@@ -4392,6 +4431,7 @@
                     "age",
                     "geo_area",
                     "nature",
+                    "observation_status",
                     "units",
                     "year"
                 ]
@@ -4427,8 +4467,8 @@
             }
         },
         {
-            "name": "ddf--datapoints--fi_fsi_fsanl--by--geo_area--nature--units--year",
-            "path": "ddf--datapoints--fi_fsi_fsanl--by--geo_area--nature--units--year.csv",
+            "name": "ddf--datapoints--fi_fsi_fsanl--by--geo_area--nature--observation_status--units--year",
+            "path": "ddf--datapoints--fi_fsi_fsanl--by--geo_area--nature--observation_status--units--year.csv",
             "schema": {
                 "fields": [
                     {
@@ -4436,6 +4476,9 @@
                     },
                     {
                         "name": "nature"
+                    },
+                    {
+                        "name": "observation_status"
                     },
                     {
                         "name": "units"
@@ -4450,14 +4493,15 @@
                 "primaryKey": [
                     "geo_area",
                     "nature",
+                    "observation_status",
                     "units",
                     "year"
                 ]
             }
         },
         {
-            "name": "ddf--datapoints--fi_fsi_fsera--by--geo_area--nature--units--year",
-            "path": "ddf--datapoints--fi_fsi_fsera--by--geo_area--nature--units--year.csv",
+            "name": "ddf--datapoints--fi_fsi_fsera--by--geo_area--nature--observation_status--units--year",
+            "path": "ddf--datapoints--fi_fsi_fsera--by--geo_area--nature--observation_status--units--year.csv",
             "schema": {
                 "fields": [
                     {
@@ -4465,6 +4509,9 @@
                     },
                     {
                         "name": "nature"
+                    },
+                    {
+                        "name": "observation_status"
                     },
                     {
                         "name": "units"
@@ -4479,14 +4526,15 @@
                 "primaryKey": [
                     "geo_area",
                     "nature",
+                    "observation_status",
                     "units",
                     "year"
                 ]
             }
         },
         {
-            "name": "ddf--datapoints--fi_fsi_fska--by--geo_area--nature--units--year",
-            "path": "ddf--datapoints--fi_fsi_fska--by--geo_area--nature--units--year.csv",
+            "name": "ddf--datapoints--fi_fsi_fska--by--geo_area--nature--observation_status--units--year",
+            "path": "ddf--datapoints--fi_fsi_fska--by--geo_area--nature--observation_status--units--year.csv",
             "schema": {
                 "fields": [
                     {
@@ -4494,6 +4542,9 @@
                     },
                     {
                         "name": "nature"
+                    },
+                    {
+                        "name": "observation_status"
                     },
                     {
                         "name": "units"
@@ -4508,14 +4559,15 @@
                 "primaryKey": [
                     "geo_area",
                     "nature",
+                    "observation_status",
                     "units",
                     "year"
                 ]
             }
         },
         {
-            "name": "ddf--datapoints--fi_fsi_fsknl--by--geo_area--nature--units--year",
-            "path": "ddf--datapoints--fi_fsi_fsknl--by--geo_area--nature--units--year.csv",
+            "name": "ddf--datapoints--fi_fsi_fsknl--by--geo_area--nature--observation_status--units--year",
+            "path": "ddf--datapoints--fi_fsi_fsknl--by--geo_area--nature--observation_status--units--year.csv",
             "schema": {
                 "fields": [
                     {
@@ -4523,6 +4575,9 @@
                     },
                     {
                         "name": "nature"
+                    },
+                    {
+                        "name": "observation_status"
                     },
                     {
                         "name": "units"
@@ -4537,14 +4592,15 @@
                 "primaryKey": [
                     "geo_area",
                     "nature",
+                    "observation_status",
                     "units",
                     "year"
                 ]
             }
         },
         {
-            "name": "ddf--datapoints--fi_fsi_fskrtc--by--geo_area--nature--units--year",
-            "path": "ddf--datapoints--fi_fsi_fskrtc--by--geo_area--nature--units--year.csv",
+            "name": "ddf--datapoints--fi_fsi_fskrtc--by--geo_area--nature--observation_status--units--year",
+            "path": "ddf--datapoints--fi_fsi_fskrtc--by--geo_area--nature--observation_status--units--year.csv",
             "schema": {
                 "fields": [
                     {
@@ -4552,6 +4608,9 @@
                     },
                     {
                         "name": "nature"
+                    },
+                    {
+                        "name": "observation_status"
                     },
                     {
                         "name": "units"
@@ -4566,14 +4625,15 @@
                 "primaryKey": [
                     "geo_area",
                     "nature",
+                    "observation_status",
                     "units",
                     "year"
                 ]
             }
         },
         {
-            "name": "ddf--datapoints--fi_fsi_fsls--by--geo_area--nature--units--year",
-            "path": "ddf--datapoints--fi_fsi_fsls--by--geo_area--nature--units--year.csv",
+            "name": "ddf--datapoints--fi_fsi_fsls--by--geo_area--nature--observation_status--units--year",
+            "path": "ddf--datapoints--fi_fsi_fsls--by--geo_area--nature--observation_status--units--year.csv",
             "schema": {
                 "fields": [
                     {
@@ -4581,6 +4641,9 @@
                     },
                     {
                         "name": "nature"
+                    },
+                    {
+                        "name": "observation_status"
                     },
                     {
                         "name": "units"
@@ -4595,14 +4658,15 @@
                 "primaryKey": [
                     "geo_area",
                     "nature",
+                    "observation_status",
                     "units",
                     "year"
                 ]
             }
         },
         {
-            "name": "ddf--datapoints--fi_fsi_fssno--by--geo_area--nature--units--year",
-            "path": "ddf--datapoints--fi_fsi_fssno--by--geo_area--nature--units--year.csv",
+            "name": "ddf--datapoints--fi_fsi_fssno--by--geo_area--nature--observation_status--units--year",
+            "path": "ddf--datapoints--fi_fsi_fssno--by--geo_area--nature--observation_status--units--year.csv",
             "schema": {
                 "fields": [
                     {
@@ -4610,6 +4674,9 @@
                     },
                     {
                         "name": "nature"
+                    },
+                    {
+                        "name": "observation_status"
                     },
                     {
                         "name": "units"
@@ -4624,6 +4691,7 @@
                 "primaryKey": [
                     "geo_area",
                     "nature",
+                    "observation_status",
                     "units",
                     "year"
                 ]
@@ -4688,8 +4756,8 @@
             }
         },
         {
-            "name": "ddf--datapoints--gc_gob_taxd--by--geo_area--nature--units--year",
-            "path": "ddf--datapoints--gc_gob_taxd--by--geo_area--nature--units--year.csv",
+            "name": "ddf--datapoints--gc_gob_taxd--by--geo_area--nature--observation_status--units--year",
+            "path": "ddf--datapoints--gc_gob_taxd--by--geo_area--nature--observation_status--units--year.csv",
             "schema": {
                 "fields": [
                     {
@@ -4697,6 +4765,9 @@
                     },
                     {
                         "name": "nature"
+                    },
+                    {
+                        "name": "observation_status"
                     },
                     {
                         "name": "units"
@@ -4711,6 +4782,7 @@
                 "primaryKey": [
                     "geo_area",
                     "nature",
+                    "observation_status",
                     "units",
                     "year"
                 ]
@@ -4746,8 +4818,8 @@
             }
         },
         {
-            "name": "ddf--datapoints--gr_g14_gdp--by--geo_area--nature--units--year",
-            "path": "ddf--datapoints--gr_g14_gdp--by--geo_area--nature--units--year.csv",
+            "name": "ddf--datapoints--gr_g14_gdp--by--geo_area--nature--observation_status--units--year",
+            "path": "ddf--datapoints--gr_g14_gdp--by--geo_area--nature--observation_status--units--year.csv",
             "schema": {
                 "fields": [
                     {
@@ -4755,6 +4827,9 @@
                     },
                     {
                         "name": "nature"
+                    },
+                    {
+                        "name": "observation_status"
                     },
                     {
                         "name": "units"
@@ -4769,14 +4844,15 @@
                 "primaryKey": [
                     "geo_area",
                     "nature",
+                    "observation_status",
                     "units",
                     "year"
                 ]
             }
         },
         {
-            "name": "ddf--datapoints--gr_g14_xdc--by--geo_area--nature--units--year",
-            "path": "ddf--datapoints--gr_g14_xdc--by--geo_area--nature--units--year.csv",
+            "name": "ddf--datapoints--gr_g14_xdc--by--geo_area--nature--observation_status--units--year",
+            "path": "ddf--datapoints--gr_g14_xdc--by--geo_area--nature--observation_status--units--year.csv",
             "schema": {
                 "fields": [
                     {
@@ -4784,6 +4860,9 @@
                     },
                     {
                         "name": "nature"
+                    },
+                    {
+                        "name": "observation_status"
                     },
                     {
                         "name": "units"
@@ -4798,6 +4877,7 @@
                 "primaryKey": [
                     "geo_area",
                     "nature",
+                    "observation_status",
                     "units",
                     "year"
                 ]
@@ -11280,12 +11360,15 @@
             }
         },
         {
-            "name": "ddf--datapoints--sl_lbr_ntlcpl--by--geo_area--nature--units--year",
-            "path": "ddf--datapoints--sl_lbr_ntlcpl--by--geo_area--nature--units--year.csv",
+            "name": "ddf--datapoints--sl_lbr_ntlcpl--by--geo_area--migratory_status--nature--units--year",
+            "path": "ddf--datapoints--sl_lbr_ntlcpl--by--geo_area--migratory_status--nature--units--year.csv",
             "schema": {
                 "fields": [
                     {
                         "name": "geo_area"
+                    },
+                    {
+                        "name": "migratory_status"
                     },
                     {
                         "name": "nature"
@@ -11302,6 +11385,7 @@
                 ],
                 "primaryKey": [
                     "geo_area",
+                    "migratory_status",
                     "nature",
                     "units",
                     "year"
@@ -11651,8 +11735,8 @@
             }
         },
         {
-            "name": "ddf--datapoints--sp_dyn_adkl--by--age--geo_area--nature--sex--units--year",
-            "path": "ddf--datapoints--sp_dyn_adkl--by--age--geo_area--nature--sex--units--year.csv",
+            "name": "ddf--datapoints--sp_dyn_adkl--by--age--geo_area--migratory_status--nature--sex--units--year",
+            "path": "ddf--datapoints--sp_dyn_adkl--by--age--geo_area--migratory_status--nature--sex--units--year.csv",
             "schema": {
                 "fields": [
                     {
@@ -11660,6 +11744,9 @@
                     },
                     {
                         "name": "geo_area"
+                    },
+                    {
+                        "name": "migratory_status"
                     },
                     {
                         "name": "nature"
@@ -11680,6 +11767,7 @@
                 "primaryKey": [
                     "age",
                     "geo_area",
+                    "migratory_status",
                     "nature",
                     "sex",
                     "units",
@@ -13807,6 +13895,21 @@
             }
         },
         {
+            "name": "ddf--entities--observation_status",
+            "path": "ddf--entities--observation_status.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "observation_status"
+                    },
+                    {
+                        "name": "name"
+                    }
+                ],
+                "primaryKey": "observation_status"
+            }
+        },
+        {
             "name": "ddf--entities--policy_domains",
             "path": "ddf--entities--policy_domains.csv",
             "schema": {
@@ -14160,6 +14263,15 @@
             },
             {
                 "primaryKey": [
+                    "observation_status"
+                ],
+                "value": "name",
+                "resources": [
+                    "ddf--entities--observation_status"
+                ]
+            },
+            {
+                "primaryKey": [
                     "policy_domains"
                 ],
                 "value": "name",
@@ -14408,12 +14520,13 @@
                 "primaryKey": [
                     "geo_area",
                     "nature",
+                    "observation_status",
                     "units",
                     "year"
                 ],
                 "value": "ag_prd_agvas",
                 "resources": [
-                    "ddf--datapoints--ag_prd_agvas--by--geo_area--nature--units--year"
+                    "ddf--datapoints--ag_prd_agvas--by--geo_area--nature--observation_status--units--year"
                 ]
             },
             {
@@ -14421,13 +14534,14 @@
                     "age",
                     "geo_area",
                     "nature",
+                    "observation_status",
                     "sex",
                     "units",
                     "year"
                 ],
                 "value": "ag_prd_fiesmsi",
                 "resources": [
-                    "ddf--datapoints--ag_prd_fiesmsi--by--age--geo_area--nature--sex--units--year"
+                    "ddf--datapoints--ag_prd_fiesmsi--by--age--geo_area--nature--observation_status--sex--units--year"
                 ]
             },
             {
@@ -14435,13 +14549,14 @@
                     "age",
                     "geo_area",
                     "nature",
+                    "observation_status",
                     "sex",
                     "units",
                     "year"
                 ],
                 "value": "ag_prd_fiesmsin",
                 "resources": [
-                    "ddf--datapoints--ag_prd_fiesmsin--by--age--geo_area--nature--sex--units--year"
+                    "ddf--datapoints--ag_prd_fiesmsin--by--age--geo_area--nature--observation_status--sex--units--year"
                 ]
             },
             {
@@ -14449,13 +14564,14 @@
                     "age",
                     "geo_area",
                     "nature",
+                    "observation_status",
                     "sex",
                     "units",
                     "year"
                 ],
                 "value": "ag_prd_fiessi",
                 "resources": [
-                    "ddf--datapoints--ag_prd_fiessi--by--age--geo_area--nature--sex--units--year"
+                    "ddf--datapoints--ag_prd_fiessi--by--age--geo_area--nature--observation_status--sex--units--year"
                 ]
             },
             {
@@ -14463,25 +14579,27 @@
                     "age",
                     "geo_area",
                     "nature",
+                    "observation_status",
                     "sex",
                     "units",
                     "year"
                 ],
                 "value": "ag_prd_fiessin",
                 "resources": [
-                    "ddf--datapoints--ag_prd_fiessin--by--age--geo_area--nature--sex--units--year"
+                    "ddf--datapoints--ag_prd_fiessin--by--age--geo_area--nature--observation_status--sex--units--year"
                 ]
             },
             {
                 "primaryKey": [
                     "geo_area",
                     "nature",
+                    "observation_status",
                     "units",
                     "year"
                 ],
                 "value": "ag_prd_ortind",
                 "resources": [
-                    "ddf--datapoints--ag_prd_ortind--by--geo_area--nature--units--year"
+                    "ddf--datapoints--ag_prd_ortind--by--geo_area--nature--observation_status--units--year"
                 ]
             },
             {
@@ -14500,12 +14618,13 @@
                 "primaryKey": [
                     "geo_area",
                     "nature",
+                    "observation_status",
                     "units",
                     "year"
                 ],
                 "value": "ag_xpd_agsgb",
                 "resources": [
-                    "ddf--datapoints--ag_xpd_agsgb--by--geo_area--nature--units--year"
+                    "ddf--datapoints--ag_xpd_agsgb--by--geo_area--nature--observation_status--units--year"
                 ]
             },
             {
@@ -15717,12 +15836,13 @@
                 "primaryKey": [
                     "geo_area",
                     "nature",
+                    "observation_status",
                     "units",
                     "year"
                 ],
                 "value": "er_h2o_stress",
                 "resources": [
-                    "ddf--datapoints--er_h2o_stress--by--geo_area--nature--units--year"
+                    "ddf--datapoints--er_h2o_stress--by--geo_area--nature--observation_status--units--year"
                 ]
             },
             {
@@ -15996,12 +16116,13 @@
                     "age",
                     "geo_area",
                     "nature",
+                    "observation_status",
                     "units",
                     "year"
                 ],
                 "value": "fb_atm_totl",
                 "resources": [
-                    "ddf--datapoints--fb_atm_totl--by--age--geo_area--nature--units--year"
+                    "ddf--datapoints--fb_atm_totl--by--age--geo_area--nature--observation_status--units--year"
                 ]
             },
             {
@@ -16024,12 +16145,13 @@
                     "age",
                     "geo_area",
                     "nature",
+                    "observation_status",
                     "units",
                     "year"
                 ],
                 "value": "fb_cbk_brch",
                 "resources": [
-                    "ddf--datapoints--fb_cbk_brch--by--age--geo_area--nature--units--year"
+                    "ddf--datapoints--fb_cbk_brch--by--age--geo_area--nature--observation_status--units--year"
                 ]
             },
             {
@@ -16048,84 +16170,91 @@
                 "primaryKey": [
                     "geo_area",
                     "nature",
+                    "observation_status",
                     "units",
                     "year"
                 ],
                 "value": "fi_fsi_fsanl",
                 "resources": [
-                    "ddf--datapoints--fi_fsi_fsanl--by--geo_area--nature--units--year"
+                    "ddf--datapoints--fi_fsi_fsanl--by--geo_area--nature--observation_status--units--year"
                 ]
             },
             {
                 "primaryKey": [
                     "geo_area",
                     "nature",
+                    "observation_status",
                     "units",
                     "year"
                 ],
                 "value": "fi_fsi_fsera",
                 "resources": [
-                    "ddf--datapoints--fi_fsi_fsera--by--geo_area--nature--units--year"
+                    "ddf--datapoints--fi_fsi_fsera--by--geo_area--nature--observation_status--units--year"
                 ]
             },
             {
                 "primaryKey": [
                     "geo_area",
                     "nature",
+                    "observation_status",
                     "units",
                     "year"
                 ],
                 "value": "fi_fsi_fska",
                 "resources": [
-                    "ddf--datapoints--fi_fsi_fska--by--geo_area--nature--units--year"
+                    "ddf--datapoints--fi_fsi_fska--by--geo_area--nature--observation_status--units--year"
                 ]
             },
             {
                 "primaryKey": [
                     "geo_area",
                     "nature",
+                    "observation_status",
                     "units",
                     "year"
                 ],
                 "value": "fi_fsi_fsknl",
                 "resources": [
-                    "ddf--datapoints--fi_fsi_fsknl--by--geo_area--nature--units--year"
+                    "ddf--datapoints--fi_fsi_fsknl--by--geo_area--nature--observation_status--units--year"
                 ]
             },
             {
                 "primaryKey": [
                     "geo_area",
                     "nature",
+                    "observation_status",
                     "units",
                     "year"
                 ],
                 "value": "fi_fsi_fskrtc",
                 "resources": [
-                    "ddf--datapoints--fi_fsi_fskrtc--by--geo_area--nature--units--year"
+                    "ddf--datapoints--fi_fsi_fskrtc--by--geo_area--nature--observation_status--units--year"
                 ]
             },
             {
                 "primaryKey": [
                     "geo_area",
                     "nature",
+                    "observation_status",
                     "units",
                     "year"
                 ],
                 "value": "fi_fsi_fsls",
                 "resources": [
-                    "ddf--datapoints--fi_fsi_fsls--by--geo_area--nature--units--year"
+                    "ddf--datapoints--fi_fsi_fsls--by--geo_area--nature--observation_status--units--year"
                 ]
             },
             {
                 "primaryKey": [
                     "geo_area",
                     "nature",
+                    "observation_status",
                     "units",
                     "year"
                 ],
                 "value": "fi_fsi_fssno",
                 "resources": [
-                    "ddf--datapoints--fi_fsi_fssno--by--geo_area--nature--units--year"
+                    "ddf--datapoints--fi_fsi_fssno--by--geo_area--nature--observation_status--units--year"
                 ]
             },
             {
@@ -16156,12 +16285,13 @@
                 "primaryKey": [
                     "geo_area",
                     "nature",
+                    "observation_status",
                     "units",
                     "year"
                 ],
                 "value": "gc_gob_taxd",
                 "resources": [
-                    "ddf--datapoints--gc_gob_taxd--by--geo_area--nature--units--year"
+                    "ddf--datapoints--gc_gob_taxd--by--geo_area--nature--observation_status--units--year"
                 ]
             },
             {
@@ -16180,24 +16310,26 @@
                 "primaryKey": [
                     "geo_area",
                     "nature",
+                    "observation_status",
                     "units",
                     "year"
                 ],
                 "value": "gr_g14_gdp",
                 "resources": [
-                    "ddf--datapoints--gr_g14_gdp--by--geo_area--nature--units--year"
+                    "ddf--datapoints--gr_g14_gdp--by--geo_area--nature--observation_status--units--year"
                 ]
             },
             {
                 "primaryKey": [
                     "geo_area",
                     "nature",
+                    "observation_status",
                     "units",
                     "year"
                 ],
                 "value": "gr_g14_xdc",
                 "resources": [
-                    "ddf--datapoints--gr_g14_xdc--by--geo_area--nature--units--year"
+                    "ddf--datapoints--gr_g14_xdc--by--geo_area--nature--observation_status--units--year"
                 ]
             },
             {
@@ -18791,13 +18923,14 @@
             {
                 "primaryKey": [
                     "geo_area",
+                    "migratory_status",
                     "nature",
                     "units",
                     "year"
                 ],
                 "value": "sl_lbr_ntlcpl",
                 "resources": [
-                    "ddf--datapoints--sl_lbr_ntlcpl--by--geo_area--nature--units--year"
+                    "ddf--datapoints--sl_lbr_ntlcpl--by--geo_area--migratory_status--nature--units--year"
                 ]
             },
             {
@@ -18937,6 +19070,7 @@
                 "primaryKey": [
                     "age",
                     "geo_area",
+                    "migratory_status",
                     "nature",
                     "sex",
                     "units",
@@ -18944,7 +19078,7 @@
                 ],
                 "value": "sp_dyn_adkl",
                 "resources": [
-                    "ddf--datapoints--sp_dyn_adkl--by--age--geo_area--nature--sex--units--year"
+                    "ddf--datapoints--sp_dyn_adkl--by--age--geo_area--migratory_status--nature--sex--units--year"
                 ]
             },
             {

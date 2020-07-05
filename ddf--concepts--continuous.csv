@@ -4,10 +4,10 @@ ag_fpa_cfpi,measure,Consumer Food Price Index,2,2.c.1,AG_FPA_CFPI,2.c
 ag_fpa_comm,measure,"Indicator of Food Price Anomalies (IFPA), by type of product",2,2.c.1,AG_FPA_COMM,2.c
 ag_lnd_dgrd,measure,Proportion of land that is degraded over total land area (%),15,15.3.1,AG_LND_DGRD,15.3
 ag_lnd_frst,measure,Forest area as a proportion of total land area (%),15,15.1.1,AG_LND_FRST,15.1
-ag_lnd_frstbiopha,measure,Above-ground biomass in forest per hectare (tonnes per hectare),15,15.2.1,AG_LND_FRSTBIOPHA,15.2
-ag_lnd_frstcert,measure,Forest area certified under an independently verified certification scheme (thousands of hectares),15,15.2.1,AG_LND_FRSTCERT,15.2
-ag_lnd_frstchg,measure,Forest area net change rate (%),15,15.2.1,AG_LND_FRSTCHG,15.2
-ag_lnd_frstmgt,measure,Proportion of forest area with a long-term management plan (%),15,15.2.1,AG_LND_FRSTMGT,15.2
+ag_lnd_frstbiopha,measure,Above-ground biomass stock in forest (tonnes per hectare),15,15.2.1,AG_LND_FRSTBIOPHA,15.2
+ag_lnd_frstcert,measure,Forest area under an independently verified forest management certification scheme (thousands of hectares),15,15.2.1,AG_LND_FRSTCERT,15.2
+ag_lnd_frstchg,measure,Forest area annual net change rate (%),15,15.2.1,AG_LND_FRSTCHG,15.2
+ag_lnd_frstmgt,measure,Proportion of forest area under a long-term management plan (%),15,15.2.1,AG_LND_FRSTMGT,15.2
 ag_lnd_frstn,measure,Forest area (thousands of hectares),15,15.1.1,AG_LND_FRSTN,15.1
 ag_lnd_frstprct,measure,Proportion of forest area within legally established protected areas (%),15,15.2.1,AG_LND_FRSTPRCT,15.2
 ag_lnd_totl,measure,Land area (thousands of hectares),15,15.1.1,AG_LND_TOTL,15.1
@@ -51,7 +51,7 @@ eg_egy_clean,measure,Proportion of population with primary reliance on clean fue
 eg_egy_prim,measure,Energy intensity level of primary energy (megajoules per constant 2011 purchasing power parity GDP),7,7.3.1,EG_EGY_PRIM,7.3
 eg_elc_accs,measure,"Proportion of population with access to electricity, by urban/rural (%)",7,7.1.1,EG_ELC_ACCS,7.1
 eg_fec_rnew,measure,Renewable energy share in the total final energy consumption (%),7,7.2.1,EG_FEC_RNEW,7.2
-eg_iff_randn,measure,"International financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems (millions of constant 2016 United States dollars)",7,7.a.1,EG_IFF_RANDN,7.a
+eg_iff_randn,measure,"International financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems (millions of constant 2017 United States dollars)",7,7.a.1,EG_IFF_RANDN,7.a
 eg_tba_h2co,measure,Proportion of transboundary basins (river and lake basins and aquifers) with an operational arrangement for water cooperation (%),6,6.5.2,EG_TBA_H2CO,6.5
 eg_tba_h2coaq,measure,Proportion of transboundary aquifers with an operational arrangement for water cooperation (%),6,6.5.2,EG_TBA_H2COAQ,6.5
 eg_tba_h2corl,measure,Proportion of transboundary river and lake basins with an operational arrangement for water cooperation (%),6,6.5.2,EG_TBA_H2CORL,6.5
@@ -61,9 +61,9 @@ en_atm_co2mva,measure,Carbon dioxide emissions per unit of manufacturing value a
 en_atm_pm25,measure,"Annual mean levels of fine particulate matter in cities, urban population (micrograms per cubic meter)",11,11.6.2,EN_ATM_PM25,11.6
 en_ewt_genpcap,measure,"Electronic waste generated, per capita (Kg)",12,12.4.2,EN_EWT_GENPCAP,12.4
 en_ewt_genv,measure,Electronic waste generated (Tonnes),12,12.4.2,EN_EWT_GENV,12.4
-en_ewt_rcypcap,measure,"Electronic waste recycling, per capita (Kg)",12,12.4.2,EN_EWT_RCYPCAP,12.4
-en_ewt_rcyr,measure,"Electronic waste recycling, rate (%)",12,12.4.2,EN_EWT_RCYR,12.4
-en_ewt_rcyv,measure,Electronic waste recycling (Tonnes),12,12.4.2,EN_EWT_RCYV,12.4
+en_ewt_rcypcap,measure,"Electronic waste recycling, per capita (Kg)","12, 12","12.4.2, 12.5.1",EN_EWT_RCYPCAP,"12.4, 12.5"
+en_ewt_rcyr,measure,"Electronic waste recycling, rate (%)","12, 12","12.4.2, 12.5.1",EN_EWT_RCYR,"12.4, 12.5"
+en_ewt_rcyv,measure,Electronic waste recycling (Tonnes),"12, 12","12.4.2, 12.5.1",EN_EWT_RCYV,"12.4, 12.5"
 en_h2o_grambq,measure,Proportion of groundwater bodies with good ambient water quality (%),6,6.3.2,EN_H2O_GRAMBQ,6.3
 en_h2o_opambq,measure,Proportion of open water bodies with good ambient water quality (%),6,6.3.2,EN_H2O_OPAMBQ,6.3
 en_h2o_rvambq,measure,Proportion of river water bodies with good ambient water quality (%),6,6.3.2,EN_H2O_RVAMBQ,6.3
@@ -174,7 +174,7 @@ it_net_bbp,measure,"Fixed Internet broadband subscriptions per 100 inhabitants,
 it_use_ii99,measure,Internet users per 100 inhabitants,17,17.8.1,IT_USE_ii99,17.8
 iu_cor_brib,measure,"Prevalence rate of bribery, by sex (%)",16,16.5.1,IU_COR_BRIB,16.5
 nv_ind_manf,measure,Manufacturing value added as a proportion of GDP (%),9,9.2.1,NV_IND_MANF,9.2
-nv_ind_manfpc,measure,Manufacturing value added per capita (constant 2010 United States dollars),9,9.2.1,NV_IND_MANFPC,9.2
+nv_ind_manfpc,measure,Manufacturing value added per capita (constant 2015 United States dollars),9,9.2.1,NV_IND_MANFPC,9.2
 nv_ind_ssis,measure,Proportion of small-scale industries in total industry value added (%),9,9.3.1,NV_IND_SSIS,9.3
 nv_ind_tech,measure,Proportion of medium and high-tech industry value added in total value added (%),9,9.b.1,NV_IND_TECH,9.b
 ny_gdp_pcap,measure,Annual growth rate of real GDP per capita (%),8,8.1.1,NY_GDP_PCAP,8.1
@@ -356,7 +356,7 @@ sl_cpa_yemp,measure,"Existence of a developed and operationalized national strat
 sl_dom_tspd,measure,"Proportion of time spent on unpaid domestic chores and care work, by sex, age and location (%)",5,5.4.1,SL_DOM_TSPD,5.4
 sl_dom_tspdcw,measure,"Proportion of time spent on unpaid care work, by sex, age and location (%)",5,5.4.1,SL_DOM_TSPDCW,5.4
 sl_dom_tspddc,measure,"Proportion of time spent on unpaid domestic chores, by sex, age and location (%)",5,5.4.1,SL_DOM_TSPDDC,5.4
-sl_emp_aearn,measure,Average hourly earnings of managers (ISCO-08) (local currency),8,8.5.1,SL_EMP_AEARN,8.5
+sl_emp_aearn,measure,Average hourly earnings of employees by sex and occupation (local currency),8,8.5.1,SL_EMP_AEARN,8.5
 sl_emp_ftlinjur,measure,"Fatal occupational injuries among employees, by sex and migrant status (per 100,000 employees)",8,8.8.1,SL_EMP_FTLINJUR,8.8
 sl_emp_gtotl,measure,Labour share of GDP (%),10,10.4.1,SL_EMP_GTOTL,10.4
 sl_emp_injur,measure,"Non-fatal occupational injuries among employees, by sex and migrant status (per 100,000 employees)",8,8.8.1,SL_EMP_INJUR,8.8

@@ -1,4 +1,5 @@
 geo_area,nature,units,year,sg_inf_accss
+1,e,number,2020,127
 4,e,number,2020,2014
 8,e,number,2020,1999
 24,e,number,2020,2002
@@ -10,7 +11,9 @@ geo_area,nature,units,year,sg_inf_accss
 44,e,number,2020,2017
 50,e,number,2020,2008
 51,e,number,2020,2003
+53,e,number,2020,2
 56,e,number,2020,1994
+62,e,number,2020,12
 68,e,number,2020,2005
 70,e,number,2020,2000
 76,e,number,2020,2011
@@ -24,6 +27,8 @@ geo_area,nature,units,year,sg_inf_accss
 184,e,number,2020,2009
 191,e,number,2020,2003
 196,e,number,2020,2017
+199,e,number,2020,20
+202,e,number,2020,21
 203,e,number,2020,1999
 204,e,number,2020,2015
 208,e,number,2020,1970
@@ -58,9 +63,11 @@ geo_area,nature,units,year,sg_inf_accss
 404,e,number,2020,2016
 410,e,number,2020,1996
 417,e,number,2020,2007
+419,e,number,2020,23
 422,e,number,2020,2017
 428,e,number,2020,1998
 430,e,number,2020,2010
+432,e,number,2020,21
 438,e,number,2020,1999
 440,e,number,2020,1996
 442,e,number,2020,2018
@@ -74,8 +81,10 @@ geo_area,nature,units,year,sg_inf_accss
 499,e,number,2020,2005
 504,e,number,2020,2018
 508,e,number,2020,2014
+513,e,number,2020,44
 524,e,number,2020,2007
 528,e,number,2020,1978
+543,e,number,2020,4
 548,e,number,2020,2016
 554,e,number,2020,1982
 558,e,number,2020,2007
@@ -105,10 +114,13 @@ geo_area,nature,units,year,sg_inf_accss
 705,e,number,2020,2003
 710,e,number,2020,2000
 716,e,number,2020,2002
+722,e,number,2020,16
 724,e,number,2020,2013
 728,e,number,2020,2013
 729,e,number,2020,2015
+747,e,number,2020,12
 752,e,number,2020,1766
+753,e,number,2020,9
 756,e,number,2020,2004
 762,e,number,2020,2002
 764,e,number,2020,1997

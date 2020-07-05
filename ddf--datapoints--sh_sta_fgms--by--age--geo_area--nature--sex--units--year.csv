@@ -7,10 +7,10 @@ age,geo_area,nature,sex,units,year,sh_sta_fgms
 15_19,202,e,female,percent,2009,32.3
 15_19,202,e,female,percent,2014,29.5
 15_19,202,e,female,percent,2019,24.9
-15_19,432,e,female,percent,2004,50.1
-15_19,432,e,female,percent,2009,46.9
+15_19,432,e,female,percent,2004,54.4
+15_19,432,e,female,percent,2009,49.6
 15_19,432,e,female,percent,2014,44
-15_19,432,e,female,percent,2019,38.3
+15_19,432,e,female,percent,2019,36.4
 15_49,120,c,female,percent,2004,1.4
 15_49,140,c,female,percent,2010,24.2
 15_49,148,c,female,percent,2015,38.4
