@@ -3,6 +3,7 @@ geo_area,nature,units,year,dc_trf_totdl
 31,c,cu_usd,2015,7.11961
 31,c,cu_usd,2016,4.14031
 31,c,cu_usd,2017,5.35372
+31,c,cu_usd,2018,5.3382
 36,c,cu_usd,2000,1511.95
 36,c,cu_usd,2001,784.31
 36,c,cu_usd,2002,306.45
@@ -21,6 +22,7 @@ geo_area,nature,units,year,dc_trf_totdl
 36,c,cu_usd,2015,13098.96989
 36,c,cu_usd,2016,14074.25964
 36,c,cu_usd,2017,-357.76232
+36,c,cu_usd,2018,-200.76245
 40,c,cu_usd,2000,905.81
 40,c,cu_usd,2001,588.46
 40,c,cu_usd,2002,1696.75
@@ -39,6 +41,7 @@ geo_area,nature,units,year,dc_trf_totdl
 40,c,cu_usd,2015,3987.77917
 40,c,cu_usd,2016,2444.98921
 40,c,cu_usd,2017,1454.51327
+40,c,cu_usd,2018,1758.56368
 56,c,cu_usd,2000,1868.78
 56,c,cu_usd,2001,-202.17
 56,c,cu_usd,2002,902.63
@@ -55,8 +58,9 @@ geo_area,nature,units,year,dc_trf_totdl
 56,c,cu_usd,2013,8560.8
 56,c,cu_usd,2014,7133.12
 56,c,cu_usd,2015,2454.23874
-56,c,cu_usd,2016,-12308.09191
+56,c,cu_usd,2016,-12611.4304
 56,c,cu_usd,2017,6827.51464
+56,c,cu_usd,2018,2933.30134
 100,c,cu_usd,2010,0.23
 100,c,cu_usd,2011,6.83
 100,c,cu_usd,2012,0.16
@@ -65,6 +69,7 @@ geo_area,nature,units,year,dc_trf_totdl
 100,c,cu_usd,2015,1.4
 100,c,cu_usd,2016,12.21
 100,c,cu_usd,2017,9.88
+100,c,cu_usd,2018,9.75
 124,c,cu_usd,2000,5786.24
 124,c,cu_usd,2001,1089.34
 124,c,cu_usd,2002,1264.5
@@ -83,12 +88,14 @@ geo_area,nature,units,year,dc_trf_totdl
 124,c,cu_usd,2015,-75.25071
 124,c,cu_usd,2016,6124.95163
 124,c,cu_usd,2017,221.07935
+124,c,cu_usd,2018,4869.81523
 191,c,cu_usd,2012,14.52
 191,c,cu_usd,2013,24.26
 191,c,cu_usd,2014,30.11
 191,c,cu_usd,2015,16.2
 191,c,cu_usd,2016,3.47
 191,c,cu_usd,2017,14.09406
+191,c,cu_usd,2018,16.66554
 196,c,cu_usd,2005,4.36
 196,c,cu_usd,2006,14.19
 196,c,cu_usd,2007,21
@@ -100,6 +107,7 @@ geo_area,nature,units,year,dc_trf_totdl
 196,c,cu_usd,2013,3.28
 196,c,cu_usd,2014,0.1874
 196,c,cu_usd,2015,0.5677
+196,c,cu_usd,2018,3.31885
 203,c,cu_usd,2000,6.36
 203,c,cu_usd,2001,14.94
 203,c,cu_usd,2002,31.31
@@ -118,6 +126,7 @@ geo_area,nature,units,year,dc_trf_totdl
 203,c,cu_usd,2015,134.51615
 203,c,cu_usd,2016,34.28311
 203,c,cu_usd,2017,-99.95818
+203,c,cu_usd,2018,100.16378
 208,c,cu_usd,2000,1503.04
 208,c,cu_usd,2001,2028.15
 208,c,cu_usd,2002,971.59
@@ -136,6 +145,7 @@ geo_area,nature,units,year,dc_trf_totdl
 208,c,cu_usd,2015,2122.24152
 208,c,cu_usd,2016,2631.0044
 208,c,cu_usd,2017,5178.81552
+208,c,cu_usd,2018,4747.88444
 233,c,cu_usd,2000,0.22
 233,c,cu_usd,2001,0.23
 233,c,cu_usd,2002,0.2
@@ -154,6 +164,7 @@ geo_area,nature,units,year,dc_trf_totdl
 233,c,cu_usd,2015,15.04271
 233,c,cu_usd,2016,18.59808
 233,c,cu_usd,2017,20.31225
+233,c,cu_usd,2018,21.67618
 246,c,cu_usd,2000,928.62
 246,c,cu_usd,2001,1161.01
 246,c,cu_usd,2002,-400.95
@@ -172,6 +183,7 @@ geo_area,nature,units,year,dc_trf_totdl
 246,c,cu_usd,2015,-686.08285
 246,c,cu_usd,2016,1328.61413
 246,c,cu_usd,2017,3218.13229
+246,c,cu_usd,2018,1789.10666
 250,c,cu_usd,2000,4281.39
 250,c,cu_usd,2001,14724.87
 250,c,cu_usd,2002,2858.28
@@ -190,6 +202,7 @@ geo_area,nature,units,year,dc_trf_totdl
 250,c,cu_usd,2015,-2650.0639
 250,c,cu_usd,2016,16813.82419
 250,c,cu_usd,2017,18437.95816
+250,c,cu_usd,2018,7158.34209
 276,c,cu_usd,2000,10810.37
 276,c,cu_usd,2001,4267.88
 276,c,cu_usd,2002,5085.63
@@ -206,8 +219,9 @@ geo_area,nature,units,year,dc_trf_totdl
 276,c,cu_usd,2013,46677.78038
 276,c,cu_usd,2014,46273.82362
 276,c,cu_usd,2015,41331.75899
-276,c,cu_usd,2016,40838.91913
-276,c,cu_usd,2017,41168.536
+276,c,cu_usd,2016,40837.69071
+276,c,cu_usd,2017,45385.796
+276,c,cu_usd,2018,20729.37317
 300,c,cu_usd,2000,101.43
 300,c,cu_usd,2001,82.51
 300,c,cu_usd,2002,147.33
@@ -226,6 +240,7 @@ geo_area,nature,units,year,dc_trf_totdl
 300,c,cu_usd,2015,-251.41275
 300,c,cu_usd,2016,-2201.98038
 300,c,cu_usd,2017,134.86549
+300,c,cu_usd,2018,8.4202
 348,c,cu_usd,2003,13.88
 348,c,cu_usd,2004,35.49
 348,c,cu_usd,2005,39.58
@@ -241,6 +256,7 @@ geo_area,nature,units,year,dc_trf_totdl
 348,c,cu_usd,2015,47.34204
 348,c,cu_usd,2016,54.78315
 348,c,cu_usd,2017,-293.28057
+348,c,cu_usd,2018,944.61965
 352,c,cu_usd,2000,3.97
 352,c,cu_usd,2001,4.95
 352,c,cu_usd,2002,4.81
@@ -259,6 +275,7 @@ geo_area,nature,units,year,dc_trf_totdl
 352,c,cu_usd,2015,31.25
 352,c,cu_usd,2016,57.7609
 352,c,cu_usd,2017,68.96574
+352,c,cu_usd,2018,64.00613
 372,c,cu_usd,2000,153.94
 372,c,cu_usd,2001,531.4
 372,c,cu_usd,2002,1252.76
@@ -277,6 +294,7 @@ geo_area,nature,units,year,dc_trf_totdl
 372,c,cu_usd,2015,427.49
 372,c,cu_usd,2016,427.00614
 372,c,cu_usd,2017,492.63372
+372,c,cu_usd,2018,530.32202
 376,c,cu_usd,2000,157.92
 376,c,cu_usd,2001,85.51
 376,c,cu_usd,2002,124.41
@@ -294,6 +312,8 @@ geo_area,nature,units,year,dc_trf_totdl
 376,c,cu_usd,2014,175.67
 376,c,cu_usd,2015,212.97251
 376,c,cu_usd,2016,255.70268
+376,c,cu_usd,2017,388.13258
+376,c,cu_usd,2018,315.3827
 380,c,cu_usd,2000,9810.28
 380,c,cu_usd,2001,-1405.73
 380,c,cu_usd,2002,73.42
@@ -311,7 +331,8 @@ geo_area,nature,units,year,dc_trf_totdl
 380,c,cu_usd,2014,5948.24
 380,c,cu_usd,2015,13240.80517
 380,c,cu_usd,2016,16559.18729
-380,c,cu_usd,2017,11845.89741
+380,c,cu_usd,2017,11978.03003
+380,c,cu_usd,2018,4396.15451
 392,c,cu_usd,2000,7597.28
 392,c,cu_usd,2001,12319.93
 392,c,cu_usd,2002,7226.22
@@ -330,11 +351,13 @@ geo_area,nature,units,year,dc_trf_totdl
 392,c,cu_usd,2015,34179.86
 392,c,cu_usd,2016,36585.14
 392,c,cu_usd,2017,34755.01422
+392,c,cu_usd,2018,48939.22795
 398,c,cu_usd,2013,5.34866
 398,c,cu_usd,2014,27.08298
 398,c,cu_usd,2015,34.02513
 398,c,cu_usd,2016,19.83568
 398,c,cu_usd,2017,23.52425
+398,c,cu_usd,2018,29.58521
 410,c,cu_usd,2000,-67.68
 410,c,cu_usd,2001,-162.78
 410,c,cu_usd,2002,1487.23
@@ -350,9 +373,10 @@ geo_area,nature,units,year,dc_trf_totdl
 410,c,cu_usd,2012,11970.51
 410,c,cu_usd,2013,14261.45493
 410,c,cu_usd,2014,10800.6278
-410,c,cu_usd,2015,11469.54665
+410,c,cu_usd,2015,11469.54663
 410,c,cu_usd,2016,11107.7789
 410,c,cu_usd,2017,9599.08593
+410,c,cu_usd,2018,13077.17774
 414,c,cu_usd,2000,164.33
 414,c,cu_usd,2001,73.43
 414,c,cu_usd,2002,20.38
@@ -371,6 +395,7 @@ geo_area,nature,units,year,dc_trf_totdl
 414,c,cu_usd,2015,304.26748
 414,c,cu_usd,2016,1048.15164
 414,c,cu_usd,2017,532.0563
+414,c,cu_usd,2018,273.37442
 428,c,cu_usd,2002,0.06
 428,c,cu_usd,2003,0.08
 428,c,cu_usd,2004,0.21
@@ -387,6 +412,7 @@ geo_area,nature,units,year,dc_trf_totdl
 428,c,cu_usd,2015,2.20862
 428,c,cu_usd,2016,3.39034
 428,c,cu_usd,2017,4.52607
+428,c,cu_usd,2018,4.91543
 438,c,cu_usd,2007,16.67
 438,c,cu_usd,2008,20.86
 438,c,cu_usd,2009,21.1
@@ -398,6 +424,7 @@ geo_area,nature,units,year,dc_trf_totdl
 438,c,cu_usd,2015,19.0511
 438,c,cu_usd,2016,18.86
 438,c,cu_usd,2017,16.5
+438,c,cu_usd,2018,18.71
 440,c,cu_usd,2001,0.42
 440,c,cu_usd,2002,0.5
 440,c,cu_usd,2003,0.67
@@ -415,6 +442,7 @@ geo_area,nature,units,year,dc_trf_totdl
 440,c,cu_usd,2015,9.80786
 440,c,cu_usd,2016,13.87655
 440,c,cu_usd,2017,15.26376
+440,c,cu_usd,2018,12.06041
 442,c,cu_usd,2000,98.55
 442,c,cu_usd,2001,107.21
 442,c,cu_usd,2002,115.72
@@ -433,6 +461,7 @@ geo_area,nature,units,year,dc_trf_totdl
 442,c,cu_usd,2015,262.67805
 442,c,cu_usd,2016,274.83225
 442,c,cu_usd,2017,304.01779
+442,c,cu_usd,2018,343.47211
 470,c,cu_usd,2009,7.56
 470,c,cu_usd,2010,8.4
 470,c,cu_usd,2011,13.3
@@ -442,6 +471,7 @@ geo_area,nature,units,year,dc_trf_totdl
 470,c,cu_usd,2015,8.01577
 470,c,cu_usd,2016,10.61922
 470,c,cu_usd,2017,15.1026
+470,c,cu_usd,2018,20.51656
 528,c,cu_usd,2000,6395.72
 528,c,cu_usd,2001,-3487
 528,c,cu_usd,2002,-3578.03
@@ -460,6 +490,7 @@ geo_area,nature,units,year,dc_trf_totdl
 528,c,cu_usd,2015,63852.49281
 528,c,cu_usd,2016,35536.21333
 528,c,cu_usd,2017,33480.42684
+528,c,cu_usd,2018,10531.90876
 554,c,cu_usd,2000,84.95
 554,c,cu_usd,2001,84.74
 554,c,cu_usd,2002,111.13
@@ -478,6 +509,7 @@ geo_area,nature,units,year,dc_trf_totdl
 554,c,cu_usd,2015,414.68
 554,c,cu_usd,2016,431.35
 554,c,cu_usd,2017,446.04
+554,c,cu_usd,2018,462.65001
 578,c,cu_usd,2000,928.43
 578,c,cu_usd,2001,869.34
 578,c,cu_usd,2002,1276.72
@@ -496,6 +528,7 @@ geo_area,nature,units,year,dc_trf_totdl
 578,c,cu_usd,2015,3593.69056
 578,c,cu_usd,2016,3358.16645
 578,c,cu_usd,2017,3003.16185
+578,c,cu_usd,2018,3233.65117
 616,c,cu_usd,2000,13.04
 616,c,cu_usd,2001,30.72
 616,c,cu_usd,2002,8.89
@@ -514,6 +547,7 @@ geo_area,nature,units,year,dc_trf_totdl
 616,c,cu_usd,2015,158.49497
 616,c,cu_usd,2016,544.03673
 616,c,cu_usd,2017,656.8732
+616,c,cu_usd,2018,454.9683
 620,c,cu_usd,2000,4529.76
 620,c,cu_usd,2001,1685.02
 620,c,cu_usd,2002,34.91
@@ -532,6 +566,7 @@ geo_area,nature,units,year,dc_trf_totdl
 620,c,cu_usd,2015,344.59683
 620,c,cu_usd,2016,617.93984
 620,c,cu_usd,2017,1872.53176
+620,c,cu_usd,2018,664.68673
 626,c,cu_usd,2014,3.3
 626,c,cu_usd,2015,4
 642,c,cu_usd,2008,26.68
@@ -544,6 +579,7 @@ geo_area,nature,units,year,dc_trf_totdl
 642,c,cu_usd,2015,33.18173
 642,c,cu_usd,2016,109.46812
 642,c,cu_usd,2017,38.93462
+642,c,cu_usd,2018,59.24019
 643,c,cu_usd,2010,302.14
 643,c,cu_usd,2011,240.4
 643,c,cu_usd,2012,214.71
@@ -552,6 +588,7 @@ geo_area,nature,units,year,dc_trf_totdl
 643,c,cu_usd,2015,902.37011
 643,c,cu_usd,2016,767.11876
 643,c,cu_usd,2017,733.76502
+643,c,cu_usd,2018,628.15767
 682,c,cu_usd,2000,129.11
 682,c,cu_usd,2001,110.42
 682,c,cu_usd,2002,2410.05
@@ -567,9 +604,10 @@ geo_area,nature,units,year,dc_trf_totdl
 682,c,cu_usd,2012,957.13
 682,c,cu_usd,2013,5387.95
 682,c,cu_usd,2014,13271.97
-682,c,cu_usd,2015,7212.79474
-682,c,cu_usd,2016,616.0073
-682,c,cu_usd,2017,587.87985
+682,c,cu_usd,2015,734.37487
+682,c,cu_usd,2016,1205.8549
+682,c,cu_usd,2017,1611.33986
+682,c,cu_usd,2018,4750.18776
 703,c,cu_usd,2000,1.71
 703,c,cu_usd,2001,3.39
 703,c,cu_usd,2002,3.72
@@ -588,6 +626,7 @@ geo_area,nature,units,year,dc_trf_totdl
 703,c,cu_usd,2015,17.2
 703,c,cu_usd,2016,25.69
 703,c,cu_usd,2017,35.4076
+703,c,cu_usd,2018,32.34336
 705,c,cu_usd,2005,14.23
 705,c,cu_usd,2006,17.56
 705,c,cu_usd,2007,21.42
@@ -601,6 +640,7 @@ geo_area,nature,units,year,dc_trf_totdl
 705,c,cu_usd,2015,118.17665
 705,c,cu_usd,2016,174.93141
 705,c,cu_usd,2017,-27.95731
+705,c,cu_usd,2018,182.15372
 724,c,cu_usd,2000,22995.92
 724,c,cu_usd,2001,10935.83
 724,c,cu_usd,2002,7456.7
@@ -618,7 +658,8 @@ geo_area,nature,units,year,dc_trf_totdl
 724,c,cu_usd,2014,12255.84275
 724,c,cu_usd,2015,20998.69226
 724,c,cu_usd,2016,2336.60944
-724,c,cu_usd,2017,6829.24841
+724,c,cu_usd,2017,6935.19351
+724,c,cu_usd,2018,12543.36222
 752,c,cu_usd,2000,3368.43
 752,c,cu_usd,2001,2600.27
 752,c,cu_usd,2002,1471.33
@@ -637,6 +678,7 @@ geo_area,nature,units,year,dc_trf_totdl
 752,c,cu_usd,2015,8103.34789
 752,c,cu_usd,2016,7003.7322
 752,c,cu_usd,2017,5305.40403
+752,c,cu_usd,2018,4476.43442
 756,c,cu_usd,2000,1980
 756,c,cu_usd,2001,1092.93
 756,c,cu_usd,2002,1225.86
@@ -654,7 +696,8 @@ geo_area,nature,units,year,dc_trf_totdl
 756,c,cu_usd,2014,11602.03
 756,c,cu_usd,2015,5809.84568
 756,c,cu_usd,2016,5038.04299
-756,c,cu_usd,2017,16193.06373
+756,c,cu_usd,2017,16201.61051
+756,c,cu_usd,2018,18166.32837
 764,c,cu_usd,2006,64.68
 764,c,cu_usd,2007,60.63
 764,c,cu_usd,2008,166.38
@@ -685,6 +728,7 @@ geo_area,nature,units,year,dc_trf_totdl
 784,c,cu_usd,2015,8189.00471
 784,c,cu_usd,2016,5005.41614
 784,c,cu_usd,2017,3834.551
+784,c,cu_usd,2018,4040.41413
 792,c,cu_usd,2000,25.77
 792,c,cu_usd,2001,18.92
 792,c,cu_usd,2002,26.68
@@ -703,6 +747,7 @@ geo_area,nature,units,year,dc_trf_totdl
 792,c,cu_usd,2015,4555.68
 792,c,cu_usd,2016,7037.959
 792,c,cu_usd,2017,8449.2744
+792,c,cu_usd,2018,10193.70759
 826,c,cu_usd,2000,7902.26
 826,c,cu_usd,2001,7330.53
 826,c,cu_usd,2002,5866.98
@@ -716,11 +761,12 @@ geo_area,nature,units,year,dc_trf_totdl
 826,c,cu_usd,2010,20244.2
 826,c,cu_usd,2011,40861.4
 826,c,cu_usd,2012,57209.83
-826,c,cu_usd,2013,22495.59043
+826,c,cu_usd,2013,22368.42772
 826,c,cu_usd,2014,23733.64562
 826,c,cu_usd,2015,11718.02042
 826,c,cu_usd,2016,11517.08311
 826,c,cu_usd,2017,10966.36884
+826,c,cu_usd,2018,11826.87425
 840,c,cu_usd,2000,18997.8
 840,c,cu_usd,2001,32632.6
 840,c,cu_usd,2002,16559.68
@@ -737,5 +783,6 @@ geo_area,nature,units,year,dc_trf_totdl
 840,c,cu_usd,2013,112027.78
 840,c,cu_usd,2014,204613.66
 840,c,cu_usd,2015,-2713.25862
-840,c,cu_usd,2016,33525.76518
+840,c,cu_usd,2016,33525.76516
 840,c,cu_usd,2017,122528.83118
+840,c,cu_usd,2018,9147.10051

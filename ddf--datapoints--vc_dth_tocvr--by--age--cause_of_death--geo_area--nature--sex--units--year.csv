@@ -1,0 +1,12 @@
+age,cause_of_death,geo_area,nature,sex,units,year,vc_dth_tocvr
+18,t,1,g,bothsex,percent,2017,71
+allage,explosives,1,g,bothsex,percent,2017,24.2
+allage,heavyweapons,1,g,bothsex,percent,2017,34.8
+allage,other,1,g,bothsex,percent,2017,5.5
+allage,smallarms,1,g,bothsex,percent,2017,13
+allage,t,1,g,female,percent,2017,12.4
+allage,t,1,g,male,percent,2017,78.8
+allage,t,1,g,u,percent,2017,8.8
+allage,u,1,g,bothsex,percent,2017,22.5
+lt18y,t,1,g,bothsex,percent,2017,12
+u,t,1,g,bothsex,percent,2017,17

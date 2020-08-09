@@ -29,7 +29,7 @@ geo_area,name
 154,Northern Europe
 155,Western Europe
 156,China
-158,Other non-specified areas
+158,Other non-specified areas in Eastern Asia
 16,American Samoa
 162,Christmas Island
 166,Cocos (Keeling) Islands
@@ -338,42 +338,34 @@ geo_area,name
 922,Custom groupings of data providers
 96,Brunei Darussalam
 97,European Union
-99018,"FAO Major Fishing Area: Pacific, Eastern Central
-"
-99019,"FAO Major Fishing Area: Pacific, Northeast
-"
-99020,"FAO Major Fishing Area: Pacific, Northwest
-"
-99021,"FAO Major Fishing Area: Pacific, Western Central
-"
-99022,"FAO Major Fishing Area: Pacific, Southwest
-"
-99023,"FAO Major Fishing Area: Atlantic, Northwest
-"
-99024,"FAO Major Fishing Area: Atlantic, Northeast
-"
-99025,"FAO Major Fishing Area: Indian Ocean, Eastern
-"
-99026,"FAO Major Fishing Area: Atlantic, Southeast
-"
-99027,"FAO Major Fishing Area: Indian Ocean, Western
-"
-99028,"FAO Major Fishing Area: Atlantic, Western Central
-"
-99029,"FAO Major Fishing Area: Atlantic, Eastern Central
-"
-99030,"FAO Major Fishing Area: Atlantic, Southwest
-"
-99031,"FAO Major Fishing Area: Pacific, Southeast
-"
-99032,"FAO Major Fishing Area: Mediterranean and Black Sea
-"
+99018,"FAO Major Fishing Area: Pacific, Eastern Central"
+99019,"FAO Major Fishing Area: Pacific, Northeast"
+99020,"FAO Major Fishing Area: Pacific, Northwest"
+99021,"FAO Major Fishing Area: Pacific, Western Central"
+99022,"FAO Major Fishing Area: Pacific, Southwest"
+99023,"FAO Major Fishing Area: Atlantic, Northwest"
+99024,"FAO Major Fishing Area: Atlantic, Northeast"
+99025,"FAO Major Fishing Area: Indian Ocean, Eastern"
+99026,"FAO Major Fishing Area: Atlantic, Southeast"
+99027,"FAO Major Fishing Area: Indian Ocean, Western"
+99028,"FAO Major Fishing Area: Atlantic, Western Central"
+99029,"FAO Major Fishing Area: Atlantic, Eastern Central"
+99030,"FAO Major Fishing Area: Atlantic, Southwest"
+99031,"FAO Major Fishing Area: Pacific, Southeast"
+99032,FAO Major Fishing Area: Mediterranean and Black Sea
 99033,World Marine Bunkers
 99034,World Aviation Bunkers
 99035,Residual/unallocated ODA: Central Asia and Southern Asia
 99036,Residual/unallocated ODA: Eastern and South-eastern Asia
 99037,Residual/unallocated ODA: Latin America and the Caribbean
-99038, Residual/unallocated ODA: Oceania excl. Aus. and N. Zealand
+99038,Residual/unallocated ODA: Oceania excl. Aus. and N. Zealand
 99039,Residual/unallocated ODA: Sub-Saharan Africa
 99040,Residual/unallocated ODA: Western Asia and Northern Africa
 99041,Belgium and Luxembourg
+99042,WHO Africa
+99043,WHO Americas
+99044,WHO South-East Asia
+99045,WHO Europe
+99046,WHO Eastern Mediterranean
+99047,WHO Western Pacific
+99048,WHO Global

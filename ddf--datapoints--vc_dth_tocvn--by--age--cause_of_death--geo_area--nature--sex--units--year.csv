@@ -1,0 +1,13 @@
+age,cause_of_death,geo_area,nature,sex,units,year,vc_dth_tocvn
+18,t,1,g,bothsex,number,2017,75801
+allage,explosives,1,g,bothsex,number,2017,25860
+allage,heavyweapons,1,g,bothsex,number,2017,37165
+allage,other,1,g,bothsex,number,2017,5912
+allage,smallarms,1,g,bothsex,number,2017,13891
+allage,t,1,g,bothsex,number,2017,106806
+allage,t,1,g,female,number,2017,13268
+allage,t,1,g,male,number,2017,84115
+allage,t,1,g,u,number,2017,9423
+allage,u,1,g,bothsex,number,2017,23978
+lt18y,t,1,g,bothsex,number,2017,12797
+u,t,1,g,bothsex,number,2017,18208

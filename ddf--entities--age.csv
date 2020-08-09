@@ -50,6 +50,7 @@ age,name
 45_54,45-54
 45_59,45-59
 45_64,45-64
+46,46+
 5,5+
 50,50+
 55_64,55-64
@@ -64,14 +65,19 @@ age,name
 7_17,7-17
 85,85+
 allage,ALLAGE
+lt10y,<10Y
 lt15y,<15Y
+lt16y,<16Y
 lt18y,<18Y
 lt1m,<1M
 lt1y,<1Y
 lt5y,<5Y
 lt6y,<6Y
 lt8y,<8Y
+lt_45y,<=45Y
 m36t47,M36T47
 m36t59,M36T59
 m6t59,M6T59
 notspec,NOTSPEC
+u,_U
+x,_X

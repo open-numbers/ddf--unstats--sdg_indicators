@@ -17,7 +17,6 @@ geo_area,nature,units,year,dc_oda_totg
 36,c,percent,2015,0.29111
 36,c,percent,2016,0.26583
 36,c,percent,2017,0.232
-36,c,percent,2018,0.23327
 40,c,percent,2000,0.23444
 40,c,percent,2001,0.34156
 40,c,percent,2002,0.25512
@@ -36,7 +35,6 @@ geo_area,nature,units,year,dc_oda_totg
 40,c,percent,2015,0.35375
 40,c,percent,2016,0.42371
 40,c,percent,2017,0.30004
-40,c,percent,2018,0.25682
 56,c,percent,2000,0.35774
 56,c,percent,2001,0.36833
 56,c,percent,2002,0.43246
@@ -54,8 +52,7 @@ geo_area,nature,units,year,dc_oda_totg
 56,c,percent,2014,0.46302
 56,c,percent,2015,0.41608
 56,c,percent,2016,0.49859
-56,c,percent,2017,0.45
-56,c,percent,2018,0.44305
+56,c,percent,2017,0.44532
 124,c,percent,2000,0.25473
 124,c,percent,2001,0.21729
 124,c,percent,2002,0.27906
@@ -74,7 +71,6 @@ geo_area,nature,units,year,dc_oda_totg
 124,c,percent,2015,0.27958
 124,c,percent,2016,0.26055
 124,c,percent,2017,0.26409
-124,c,percent,2018,0.27347
 203,c,percent,2000,0.03265
 203,c,percent,2001,0.04803
 203,c,percent,2002,0.06535
@@ -93,7 +89,6 @@ geo_area,nature,units,year,dc_oda_totg
 203,c,percent,2015,0.11767
 203,c,percent,2016,0.14236
 203,c,percent,2017,0.15019
-203,c,percent,2018,0.13944
 208,c,percent,2000,1.06082
 208,c,percent,2001,1.03014
 208,c,percent,2002,0.96414
@@ -112,7 +107,6 @@ geo_area,nature,units,year,dc_oda_totg
 208,c,percent,2015,0.84737
 208,c,percent,2016,0.75203
 208,c,percent,2017,0.73745
-208,c,percent,2018,0.71491
 246,c,percent,2000,0.31083
 246,c,percent,2001,0.32362
 246,c,percent,2002,0.35188
@@ -131,7 +125,6 @@ geo_area,nature,units,year,dc_oda_totg
 246,c,percent,2015,0.55049
 246,c,percent,2016,0.43996
 246,c,percent,2017,0.4245
-246,c,percent,2018,0.35756
 250,c,percent,2000,0.30483
 250,c,percent,2001,0.30943
 250,c,percent,2002,0.3749
@@ -149,8 +142,7 @@ geo_area,nature,units,year,dc_oda_totg
 250,c,percent,2014,0.36811
 250,c,percent,2015,0.36765
 250,c,percent,2016,0.38426
-250,c,percent,2017,0.43
-250,c,percent,2018,0.44046
+250,c,percent,2017,0.428
 276,c,percent,2000,0.27009
 276,c,percent,2001,0.27101
 276,c,percent,2002,0.26791
@@ -169,7 +161,6 @@ geo_area,nature,units,year,dc_oda_totg
 276,c,percent,2015,0.52318
 276,c,percent,2016,0.6993
 276,c,percent,2017,0.66741
-276,c,percent,2018,0.63422
 300,c,percent,2000,0.20194
 300,c,percent,2001,0.17197
 300,c,percent,2002,0.20706
@@ -188,7 +179,6 @@ geo_area,nature,units,year,dc_oda_totg
 300,c,percent,2015,0.12192
 300,c,percent,2016,0.18915
 300,c,percent,2017,0.15625
-300,c,percent,2018,0.12847
 348,c,percent,2003,0.02684
 348,c,percent,2004,0.07374
 348,c,percent,2005,0.10741
@@ -204,7 +194,6 @@ geo_area,nature,units,year,dc_oda_totg
 348,c,percent,2015,0.13397
 348,c,percent,2016,0.16605
 348,c,percent,2017,0.11081
-348,c,percent,2018,0.13979
 352,c,percent,2000,0.10405
 352,c,percent,2001,0.13211
 352,c,percent,2002,0.15184
@@ -223,7 +212,6 @@ geo_area,nature,units,year,dc_oda_totg
 352,c,percent,2015,0.23952
 352,c,percent,2016,0.28439
 352,c,percent,2017,0.28377
-352,c,percent,2018,0.31027
 372,c,percent,2000,0.29495
 372,c,percent,2001,0.3307
 372,c,percent,2002,0.40232
@@ -242,7 +230,6 @@ geo_area,nature,units,year,dc_oda_totg
 372,c,percent,2015,0.31761
 372,c,percent,2016,0.31869
 372,c,percent,2017,0.3174
-372,c,percent,2018,0.31231
 380,c,percent,2000,0.12811
 380,c,percent,2001,0.15016
 380,c,percent,2002,0.19857
@@ -261,7 +248,6 @@ geo_area,nature,units,year,dc_oda_totg
 380,c,percent,2015,0.22096
 380,c,percent,2016,0.27468
 380,c,percent,2017,0.30102
-380,c,percent,2018,0.23476
 392,c,percent,2000,0.28097
 392,c,percent,2001,0.23196
 392,c,percent,2002,0.22836
@@ -280,7 +266,6 @@ geo_area,nature,units,year,dc_oda_totg
 392,c,percent,2015,0.20211
 392,c,percent,2016,0.20367
 392,c,percent,2017,0.22771
-392,c,percent,2018,0.19561
 410,c,percent,2000,0.04162
 410,c,percent,2001,0.05501
 410,c,percent,2002,0.05092
@@ -299,7 +284,6 @@ geo_area,nature,units,year,dc_oda_totg
 410,c,percent,2015,0.13818
 410,c,percent,2016,0.15903
 410,c,percent,2017,0.14383
-410,c,percent,2018,0.14931
 442,c,percent,2000,0.69605
 442,c,percent,2001,0.77376
 442,c,percent,2002,0.78263
@@ -318,7 +302,6 @@ geo_area,nature,units,year,dc_oda_totg
 442,c,percent,2015,0.9523
 442,c,percent,2016,1.00077
 442,c,percent,2017,0.99574
-442,c,percent,2018,0.98315
 528,c,percent,2000,0.83673
 528,c,percent,2001,0.82176
 528,c,percent,2002,0.81054
@@ -337,7 +320,6 @@ geo_area,nature,units,year,dc_oda_totg
 528,c,percent,2015,0.74868
 528,c,percent,2016,0.64874
 528,c,percent,2017,0.60369
-528,c,percent,2018,0.61
 554,c,percent,2000,0.25151
 554,c,percent,2001,0.25429
 554,c,percent,2002,0.22241
@@ -355,8 +337,7 @@ geo_area,nature,units,year,dc_oda_totg
 554,c,percent,2014,0.26946
 554,c,percent,2015,0.26514
 554,c,percent,2016,0.25307
-554,c,percent,2017,0.23
-554,c,percent,2018,0.28282
+554,c,percent,2017,0.23096
 578,c,percent,2000,0.76411
 578,c,percent,2001,0.79742
 578,c,percent,2002,0.8884
@@ -375,7 +356,6 @@ geo_area,nature,units,year,dc_oda_totg
 578,c,percent,2015,1.04574
 578,c,percent,2016,1.12161
 578,c,percent,2017,0.99272
-578,c,percent,2018,0.94069
 616,c,percent,2000,0.01826
 616,c,percent,2001,0.02047
 616,c,percent,2003,0.01315
@@ -393,7 +373,6 @@ geo_area,nature,units,year,dc_oda_totg
 616,c,percent,2015,0.09584
 616,c,percent,2016,0.14709
 616,c,percent,2017,0.13469
-616,c,percent,2018,0.134
 620,c,percent,2000,0.26073
 620,c,percent,2001,0.25098
 620,c,percent,2002,0.27166
@@ -412,7 +391,6 @@ geo_area,nature,units,year,dc_oda_totg
 620,c,percent,2015,0.15819
 620,c,percent,2016,0.1713
 620,c,percent,2017,0.17912
-620,c,percent,2018,0.14673
 703,c,percent,2000,0.03089
 703,c,percent,2001,0.04081
 703,c,percent,2002,0.02404
@@ -430,7 +408,6 @@ geo_area,nature,units,year,dc_oda_totg
 703,c,percent,2015,0.10126
 703,c,percent,2016,0.12104
 703,c,percent,2017,0.13196
-703,c,percent,2018,0.12718
 705,c,percent,2005,0.10639
 705,c,percent,2006,0.11941
 705,c,percent,2007,0.12043
@@ -444,7 +421,6 @@ geo_area,nature,units,year,dc_oda_totg
 705,c,percent,2015,0.14923
 705,c,percent,2016,0.18706
 705,c,percent,2017,0.15892
-705,c,percent,2018,0.15566
 724,c,percent,2000,0.21643
 724,c,percent,2001,0.3028
 724,c,percent,2002,0.26272
@@ -463,7 +439,6 @@ geo_area,nature,units,year,dc_oda_totg
 724,c,percent,2015,0.11676
 724,c,percent,2016,0.34268
 724,c,percent,2017,0.19495
-724,c,percent,2018,0.18084
 752,c,percent,2000,0.80126
 752,c,percent,2001,0.76625
 752,c,percent,2002,0.83638
@@ -482,7 +457,6 @@ geo_area,nature,units,year,dc_oda_totg
 752,c,percent,2015,1.40455
 752,c,percent,2016,0.94068
 752,c,percent,2017,1.01888
-752,c,percent,2018,1.04308
 756,c,percent,2000,0.3242
 756,c,percent,2001,0.33109
 756,c,percent,2002,0.31726
@@ -496,12 +470,11 @@ geo_area,nature,units,year,dc_oda_totg
 756,c,percent,2010,0.39303
 756,c,percent,2011,0.45844
 756,c,percent,2012,0.46756
-756,c,percent,2013,0.45857
-756,c,percent,2014,0.50488
-756,c,percent,2015,0.51433
-756,c,percent,2016,0.5306
-756,c,percent,2017,0.4569
-756,c,percent,2018,0.43596
+756,c,percent,2013,0.45514
+756,c,percent,2014,0.49387
+756,c,percent,2015,0.50784
+756,c,percent,2016,0.53224
+756,c,percent,2017,0.47043
 826,c,percent,2000,0.31749
 826,c,percent,2001,0.31902
 826,c,percent,2002,0.30902
@@ -520,7 +493,6 @@ geo_area,nature,units,year,dc_oda_totg
 826,c,percent,2015,0.70476
 826,c,percent,2016,0.70011
 826,c,percent,2017,0.69888
-826,c,percent,2018,0.6975
 840,c,percent,2000,0.10027
 840,c,percent,2001,0.11251
 840,c,percent,2002,0.12669
@@ -539,4 +511,3 @@ geo_area,nature,units,year,dc_oda_totg
 840,c,percent,2015,0.16753
 840,c,percent,2016,0.1861
 840,c,percent,2017,0.1768
-840,c,percent,2018,0.16459

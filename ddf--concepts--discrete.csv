@@ -1,12 +1,14 @@
 concept,concept_type,name
 activity,entity_domain,Activity
 age,entity_domain,Age
+cause_of_death,entity_domain,Cause Of Death
 cities,entity_domain,Cities
 description,string,Description
 disability_status,entity_domain,Disability Status
 education_level,entity_domain,Education Level
 geo_area,entity_domain,Geo Area
 goal,string,Goal
+grounds_of_discrimination,entity_domain,Grounds Of Discrimination
 ihr_capacity,entity_domain,Ihr Capacity
 indicator,string,Indicator
 level_status,entity_domain,Level Status
@@ -18,11 +20,13 @@ name_of_international_institution,entity_domain,Name Of International Institutio
 name_of_non_communicable_disease,entity_domain,Name Of Non Communicable Disease
 nature,entity_domain,Nature
 observation_status,entity_domain,Observation Status
+parliamentary_committees,entity_domain,Parliamentary Committees
 policy_domains,entity_domain,Policy Domains
 policy_instruments,entity_domain,Policy Instruments
 quantile,entity_domain,Quantile
 sampling_stations,entity_domain,Sampling Stations
 sex,entity_domain,Sex
+substance_use_disorders,entity_domain,Substance Use Disorders
 target,string,Target
 type_of_occupation,entity_domain,Type Of Occupation
 type_of_product,entity_domain,Type Of Product
