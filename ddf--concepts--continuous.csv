@@ -2,6 +2,7 @@ concept,concept_type,description,goal,indicator,name,target
 ag_fls_idx,measure,Food loss percentage (%),12,12.3.1,AG_FLS_IDX,12.3
 ag_fpa_cfpi,measure,Consumer Food Price Index,2,2.c.1,AG_FPA_CFPI,2.c
 ag_fpa_comm,measure,"Indicator of Food Price Anomalies (IFPA), by type of product",2,2.c.1,AG_FPA_COMM,2.c
+ag_fpa_hmfp,measure,"Proportion of countries recording abnormally high or moderately high food prices, according to the Indicator of Food Price Anomalies (%)",2,2.c.1,AG_FPA_HMFP,2.c
 ag_lnd_dgrd,measure,Proportion of land that is degraded over total land area (%),15,15.3.1,AG_LND_DGRD,15.3
 ag_lnd_frst,measure,Forest area as a proportion of total land area (%),15,15.1.1,AG_LND_FRST,15.1
 ag_lnd_frstbiopha,measure,Above-ground biomass stock in forest (tonnes per hectare),15,15.2.1,AG_LND_FRSTBIOPHA,15.2
@@ -27,6 +28,9 @@ dc_oda_ldcg,measure,"Net official development assistance (ODA) to LDCs as a perc
 dc_oda_ldcs,measure,"Net official development assistance (ODA) to LDCs from OECD-DAC countries, by donor countries (millions of constant 2018 United States dollars)",17,17.2.1,DC_ODA_LDCS,17.2
 dc_oda_lldc,measure,"Net official development assistance (ODA) to landlocked developing countries from OECD-DAC countries, by donor countries (millions of constant 2018 United States dollars)",17,17.2.1,DC_ODA_LLDC,17.2
 dc_oda_lldcg,measure,"Net official development assistance (ODA) to landlocked developing countries as a percentage of OECD-DAC donors' GNI, by donor countries (%)",17,17.2.1,DC_ODA_LLDCG,17.2
+dc_oda_povdlg,measure,"Official development assistance grants for poverty reduction, by donor countries (percentage of GNI)",1,1.a.1,DC_ODA_POVDLG,1.a
+dc_oda_povg,measure,Official development assistance grants for poverty reduction (percentage of GNI),1,1.a.1,DC_ODA_POVG,1.a
+dc_oda_povlg,measure,"Official development assistance grants for poverty reduction, by recipient countries (percentage of GNI)",1,1.a.1,DC_ODA_POVLG,1.a
 dc_oda_sids,measure,"Net official development assistance (ODA) to small island states (SIDS) from OECD-DAC countries, by donor countries (millions of constant 2018 United States dollars)",17,17.2.1,DC_ODA_SIDS,17.2
 dc_oda_sidsg,measure,"Net official development assistance (ODA) to small island states (SIDS) as a percentage of OECD-DAC donors' GNI, by donor countries (%)",17,17.2.1,DC_ODA_SIDSG,17.2
 dc_oda_totg,measure,"Net official development assistance (ODA) as a percentage of OECD-DAC donors' GNI, by donor countries (%)",17,17.2.1,DC_ODA_TOTG,17.2
@@ -49,6 +53,7 @@ dc_trf_totl,measure,"Total assistance for development, by recipient countries (m
 dt_tds_dect,measure,Debt service as a proportion of exports of goods and services (%),17,17.4.1,DT_TDS_DECT,17.4
 eg_egy_clean,measure,Proportion of population with primary reliance on clean fuels and technology (%),7,7.1.2,EG_EGY_CLEAN,7.1
 eg_egy_prim,measure,Energy intensity level of primary energy (megajoules per constant 2011 purchasing power parity GDP),7,7.3.1,EG_EGY_PRIM,7.3
+eg_egy_rnew,measure,Installed renewable electricity-generating capacity (watts per capita),"7, 12","7.b.1, 12.a.1",EG_EGY_RNEW,"7.b, 12.a"
 eg_elc_accs,measure,"Proportion of population with access to electricity, by urban/rural (%)",7,7.1.1,EG_ELC_ACCS,7.1
 eg_fec_rnew,measure,Renewable energy share in the total final energy consumption (%),7,7.2.1,EG_FEC_RNEW,7.2
 eg_iff_randn,measure,"International financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems (millions of constant 2017 United States dollars)",7,7.a.1,EG_IFF_RANDN,7.a
@@ -75,6 +80,7 @@ en_haz_treatv,measure,"Hazardous waste treated, by type of treatment (Tonnes)",1
 en_haz_trtdisr,measure,"Hazardous waste treated or disposed, rate (%)",12,12.4.2,EN_HAZ_TRTDISR,12.4
 en_haz_trtdisv,measure,Hazardous waste treated or disposed (Tonnes),12,12.4.2,EN_HAZ_TRTDISV,12.4
 en_lnd_slum,measure,Proportion of urban population living in slums (%),11,11.1.1,EN_LND_SLUM,11.1
+en_mar_chldev,measure,"Chlorophyll-a deviations, remote sensing (%)",14,14.1.1,EN_MAR_CHLDEV,14.1
 en_mat_domcmpc,measure,"Domestic material consumption per capita, by type of raw material (tonnes)","12, 8","12.2.2, 8.4.2",EN_MAT_DOMCMPC,"12.2, 8.4"
 en_mat_domcmpg,measure,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2010 United States dollars)","12, 8","12.2.2, 8.4.2",EN_MAT_DOMCMPG,"12.2, 8.4"
 en_mat_domcmpt,measure,"Domestic material consumption, by type of raw material (tonnes)","12, 8","12.2.2, 8.4.2",EN_MAT_DOMCMPT,"12.2, 8.4"
@@ -82,6 +88,7 @@ en_mat_ftprpc,measure,"Material footprint per capita, by type of raw material (t
 en_mat_ftprpg,measure,"Material footprint per unit of GDP, by type of raw material (kilograms per constant 2010 United States dollar)","12, 8","12.2.1, 8.4.1",EN_MAT_FTPRPG,"12.2, 8.4"
 en_mat_ftprtn,measure,"Material footprint, by type of raw material (tonnes)","12, 8","12.2.1, 8.4.1",EN_MAT_FTPRTN,"12.2, 8.4"
 en_ref_wascol,measure,"Municipal Solid Waste collection coverage, by cities (%)",11,11.6.1,EN_REF_WASCOL,11.6
+en_scp_fshgdp,measure,Sustainable fisheries as a proportion of GDP,14,14.7.1,EN_SCP_FSHGDP,14.7
 en_wbe_ndetot,measure,Nationally derived total extent (square kilometres),6,6.6.1,EN_WBE_NDETOT,6.6
 en_wbe_ndopw,measure,Nationally derived extent of open water bodies (square kilometres),6,6.6.1,EN_WBE_NDOPW,6.6
 en_wbe_ndqlgrw,measure,Nationally derived quality of groundwater (%),6,6.6.1,EN_WBE_NDQLGRW,6.6
@@ -286,6 +293,8 @@ sh_acs_mcv2,measure,Proportion of the target population with access to measles-c
 sh_acs_pcv3,measure,Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3) (%),3,3.b.1,SH_ACS_PCV3,3.b
 sh_acs_unhc,measure,Universal health coverage (UHC) service coverage index,3,3.8.1,SH_ACS_UNHC,3.8
 sh_alc_conspt,measure,Alcohol consumption per capita (aged 15 years and older) within a calendar year (litres of pure alcohol),3,3.5.2,SH_ALC_CONSPT,3.5
+sh_bld_ecoli,measure,"Percentage of bloodstream infection due to Escherichia coli resistant to 3rd-generation cephalosporin (e.g., ESBL- E. coli) among patients seeking care and whose blood sample is taken and tested (%)",3,3.d.2,SH_BLD_ECOLI,3.d
+sh_bld_mrsa,measure,Percentage of bloodstream infection due to methicillin-resistant Staphylococcus aureus (MRSA) among patients seeking care and whose blood sample is taken and tested (%),3,3.d.2,SH_BLD_MRSA,3.d
 sh_dth_ncom,measure,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability)",3,3.4.1,SH_DTH_NCOM,3.4
 sh_dth_rncom,measure,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",3,3.4.1,SH_DTH_RNCOM,3.4
 sh_dyn_imrt,measure,"Infant mortality rate (deaths per 1,000 live births)",3,3.2.1,SH_DYN_IMRT,3.2
@@ -304,6 +313,7 @@ sh_hap_asmort,measure,"Age-standardized mortality rate attributed to household a
 sh_hap_hbsag,measure,Prevalence of hepatitis B surface antigen (HBsAg) (%),3,3.3.4,SH_HAP_HBSAG,3.3
 sh_hap_mort,measure,"Crude death rate attributed to household air pollution (deaths per 100,000 population)",3,3.9.1,SH_HAP_MORT,3.9
 sh_hiv_incd,measure,"Number of new HIV infections per 1,000 uninfected population, by sex and age (per 1,000 uninfected population)",3,3.3.1,SH_HIV_INCD,3.3
+sh_hlf_emed,measure,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis (%),3,3.b.3,SH_HLF_EMED,3.b
 sh_ihr_caps,measure,"International Health Regulations (IHR) capacity, by type of IHR capacity (%)",3,3.d.1,SH_IHR_CAPS,3.d
 sh_lgr_acsrhe,measure,"Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education (%)",5,5.6.2,SH_LGR_ACSRHE,5.6
 sh_lgr_acsrhec1,measure,"(S.1.C.1) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 1: Maternity Care (%)",5,5.6.2,SH_LGR_ACSRHEC1,5.6
@@ -388,6 +398,8 @@ sl_tlf_manf,measure,Manufacturing employment as a proportion of total employment
 sl_tlf_neet,measure,"Proportion of youth not in education, employment or training, by sex and age (%)",8,8.6.1,SL_TLF_NEET,8.6
 sl_tlf_uem,measure,"Unemployment rate, by sex and age (%)",8,8.5.2,SL_TLF_UEM,8.5
 sl_tlf_uemdis,measure,"Unemployment rate, by sex and disability (%)",8,8.5.2,SL_TLF_UEMDIS,8.5
+sm_dth_migr,measure,Total deaths and disappearances recorded during migration (number),10,10.7.3,SM_DTH_MIGR,10.7
+sm_pop_refg_or,measure,"Proportion of the population who are refugees, by country of origin (%)",10,10.7.4,SM_POP_REFG_OR,10.7
 sn_itk_defc,measure,Prevalence of undernourishment (%),2,2.1.1,SN_ITK_DEFC,2.1
 sn_itk_defcn,measure,Number of undernourish people (millions),2,2.1.1,SN_ITK_DEFCN,2.1
 sp_acs_bsrvh2o,measure,"Proportion of population using basic drinking water services, by location (%)",1,1.4.1,SP_ACS_BSRVH2O,1.4
