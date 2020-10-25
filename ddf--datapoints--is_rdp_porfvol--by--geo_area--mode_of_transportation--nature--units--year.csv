@@ -861,7 +861,7 @@ geo_area,mode_of_transportation,nature,units,year,is_rdp_porfvol
 591,sea,notspec,teu,2016,6477000
 591,sea,notspec,teu,2017,6899000
 591,sea,notspec,teu,2018,6872400
-598,sea,notspec,teu,2010,5588702
+598,sea,notspec,teu,2010,282907
 598,sea,notspec,teu,2011,310757
 598,sea,notspec,teu,2012,279362
 598,sea,notspec,teu,2013,279389
@@ -870,7 +870,7 @@ geo_area,mode_of_transportation,nature,units,year,is_rdp_porfvol
 598,sea,notspec,teu,2016,279189
 598,sea,notspec,teu,2017,335300
 598,sea,notspec,teu,2018,341300
-604,sea,notspec,teu,2010,283371
+604,sea,notspec,teu,2010,1522741
 604,sea,notspec,teu,2011,1793418
 604,sea,notspec,teu,2012,2001700
 604,sea,notspec,teu,2013,2037609
@@ -879,7 +879,7 @@ geo_area,mode_of_transportation,nature,units,year,is_rdp_porfvol
 604,sea,notspec,teu,2016,2320000
 604,sea,notspec,teu,2017,2537801
 604,sea,notspec,teu,2018,2668000
-608,sea,notspec,teu,2010,1209267
+608,sea,notspec,teu,2010,5588702
 608,sea,notspec,teu,2011,5314702
 608,sea,notspec,teu,2012,5641594
 608,sea,notspec,teu,2013,5825634

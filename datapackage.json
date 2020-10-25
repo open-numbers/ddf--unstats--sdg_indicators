@@ -8,7 +8,7 @@
     "description": "SDG indicators",
     "author": "Gapminder",
     "license": "CC-BY-4.0",
-    "created": "2020-10-04T03:44:00.460176+00:00",
+    "created": "2020-10-25T06:42:43.260062+00:00",
     "translations": [],
     "version": "0.0.1",
     "resources": [
@@ -2764,6 +2764,64 @@
                     },
                     {
                         "name": "en_scp_fshgdp"
+                    }
+                ],
+                "primaryKey": [
+                    "geo_area",
+                    "nature",
+                    "units",
+                    "year"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--en_wbe_hmwtl--by--geo_area--nature--units--year",
+            "path": "ddf--datapoints--en_wbe_hmwtl--by--geo_area--nature--units--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "nature"
+                    },
+                    {
+                        "name": "units"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "en_wbe_hmwtl"
+                    }
+                ],
+                "primaryKey": [
+                    "geo_area",
+                    "nature",
+                    "units",
+                    "year"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--en_wbe_inwtl--by--geo_area--nature--units--year",
+            "path": "ddf--datapoints--en_wbe_inwtl--by--geo_area--nature--units--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "nature"
+                    },
+                    {
+                        "name": "units"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "en_wbe_inwtl"
                     }
                 ],
                 "primaryKey": [
@@ -5754,6 +5812,35 @@
                     },
                     {
                         "name": "pd_agr_ssfp"
+                    }
+                ],
+                "primaryKey": [
+                    "geo_area",
+                    "nature",
+                    "units",
+                    "year"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--sd_cpa_uprdp--by--geo_area--nature--units--year",
+            "path": "ddf--datapoints--sd_cpa_uprdp--by--geo_area--nature--units--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "nature"
+                    },
+                    {
+                        "name": "units"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "sd_cpa_uprdp"
                     }
                 ],
                 "primaryKey": [
@@ -12971,6 +13058,35 @@
             }
         },
         {
+            "name": "ddf--datapoints--sp_rod_r2km--by--geo_area--nature--units--year",
+            "path": "ddf--datapoints--sp_rod_r2km--by--geo_area--nature--units--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "nature"
+                    },
+                    {
+                        "name": "units"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "sp_rod_r2km"
+                    }
+                ],
+                "primaryKey": [
+                    "geo_area",
+                    "nature",
+                    "units",
+                    "year"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--st_eev_accseea--by--geo_area--nature--units--year",
             "path": "ddf--datapoints--st_eev_accseea--by--geo_area--nature--units--year.csv",
             "schema": {
@@ -13357,6 +13473,35 @@
                     },
                     {
                         "name": "tx_imp_gbsvr"
+                    }
+                ],
+                "primaryKey": [
+                    "geo_area",
+                    "nature",
+                    "units",
+                    "year"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--vc_arm_sztrace--by--geo_area--nature--units--year",
+            "path": "ddf--datapoints--vc_arm_sztrace--by--geo_area--nature--units--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "nature"
+                    },
+                    {
+                        "name": "units"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "vc_arm_sztrace"
                     }
                 ],
                 "primaryKey": [
@@ -16836,6 +16981,30 @@
                     "units",
                     "year"
                 ],
+                "value": "en_wbe_hmwtl",
+                "resources": [
+                    "ddf--datapoints--en_wbe_hmwtl--by--geo_area--nature--units--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo_area",
+                    "nature",
+                    "units",
+                    "year"
+                ],
+                "value": "en_wbe_inwtl",
+                "resources": [
+                    "ddf--datapoints--en_wbe_inwtl--by--geo_area--nature--units--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo_area",
+                    "nature",
+                    "units",
+                    "year"
+                ],
                 "value": "en_wbe_ndetot",
                 "resources": [
                     "ddf--datapoints--en_wbe_ndetot--by--geo_area--nature--units--year"
@@ -18040,6 +18209,18 @@
                 "value": "pd_agr_ssfp",
                 "resources": [
                     "ddf--datapoints--pd_agr_ssfp--by--geo_area--nature--units--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo_area",
+                    "nature",
+                    "units",
+                    "year"
+                ],
+                "value": "sd_cpa_uprdp",
+                "resources": [
+                    "ddf--datapoints--sd_cpa_uprdp--by--geo_area--nature--units--year"
                 ]
             },
             {
@@ -20905,6 +21086,18 @@
                     "units",
                     "year"
                 ],
+                "value": "sp_rod_r2km",
+                "resources": [
+                    "ddf--datapoints--sp_rod_r2km--by--geo_area--nature--units--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo_area",
+                    "nature",
+                    "units",
+                    "year"
+                ],
                 "value": "st_eev_accseea",
                 "resources": [
                     "ddf--datapoints--st_eev_accseea--by--geo_area--nature--units--year"
@@ -21057,6 +21250,18 @@
                 "value": "tx_imp_gbsvr",
                 "resources": [
                     "ddf--datapoints--tx_imp_gbsvr--by--geo_area--nature--units--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo_area",
+                    "nature",
+                    "units",
+                    "year"
+                ],
+                "value": "vc_arm_sztrace",
+                "resources": [
+                    "ddf--datapoints--vc_arm_sztrace--by--geo_area--nature--units--year"
                 ]
             },
             {

@@ -89,6 +89,8 @@ en_mat_ftprpg,measure,"Material footprint per unit of GDP, by type of raw materi
 en_mat_ftprtn,measure,"Material footprint, by type of raw material (tonnes)","12, 8","12.2.1, 8.4.1",EN_MAT_FTPRTN,"12.2, 8.4"
 en_ref_wascol,measure,"Municipal Solid Waste collection coverage, by cities (%)",11,11.6.1,EN_REF_WASCOL,11.6
 en_scp_fshgdp,measure,Sustainable fisheries as a proportion of GDP,14,14.7.1,EN_SCP_FSHGDP,14.7
+en_wbe_hmwtl,measure,Extent of human made wetlands (square kilometres),6,6.6.1,EN_WBE_HMWTL,6.6
+en_wbe_inwtl,measure,Extent of inland wetlands (square kilometres),6,6.6.1,EN_WBE_INWTL,6.6
 en_wbe_ndetot,measure,Nationally derived total extent (square kilometres),6,6.6.1,EN_WBE_NDETOT,6.6
 en_wbe_ndopw,measure,Nationally derived extent of open water bodies (square kilometres),6,6.6.1,EN_WBE_NDOPW,6.6
 en_wbe_ndqlgrw,measure,Nationally derived quality of groundwater (%),6,6.6.1,EN_WBE_NDQLGRW,6.6
@@ -187,6 +189,7 @@ nv_ind_ssis,measure,Proportion of small-scale industries in total industry value
 nv_ind_tech,measure,Proportion of medium and high-tech industry value added in total value added (%),9,9.b.1,NV_IND_TECH,9.b
 ny_gdp_pcap,measure,Annual growth rate of real GDP per capita (%),8,8.1.1,NY_GDP_PCAP,8.1
 pd_agr_ssfp,measure,"Productivity of small-scale food producers (agricultural output per labour day, PPP) (constant 2011 international $)",2,2.3.1,PD_AGR_SSFP,2.3
+sd_cpa_uprdp,measure,Countries that have national urban policies or regional development plans that respond to population dynamics; ensure balanced territorial development; and increase local fiscal space (1 = YES; 0 = NO),11,11.a.1,SD_CPA_UPRDP,11.a
 sd_mdp_andi,measure,Average proportion of deprivations for people multidimensionally poor (%),1,1.2.2,SD_MDP_ANDI,1.2
 sd_mdp_csmp,measure,Proportion of children living in child-specific multidimensional poverty (%),1,1.2.2,SD_MDP_CSMP,1.2
 sd_mdp_muhc,measure,Proportion of population living in multidimensional poverty (%),1,1.2.2,SD_MDP_MUHC,1.2
@@ -409,6 +412,7 @@ sp_dyn_mrbf15,measure,Proportion of women aged 20-24 years who were married or i
 sp_dyn_mrbf18,measure,Proportion of women aged 20-24 years who were married or in a union before age 18 (%),5,5.3.1,SP_DYN_MRBF18,5.3
 sp_gnp_wnowns,measure,"Share of women among owners or rights-bearers of agricultural land, by type of tenure (%)",5,5.a.1,SP_GNP_WNOWNS,5.a
 sp_lgl_lndagsec,measure,"Proportion of people with ownership or secure rights over agricultural land (out of total agricultural population), by sex (%)",5,5.a.1,SP_LGL_LNDAGSEC,5.a
+sp_rod_r2km,measure,Proportion of the rural population who live within 2 km of an all-season road,9,9.1.1,SP_ROD_R2KM,9.1
 st_eev_accseea,measure,Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (SEEA tables),12,12.b.1,ST_EEV_ACCSEEA,12.b
 st_eev_acctsa,measure,Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (Tourism Satellite Account tables),12,12.b.1,ST_EEV_ACCTSA,12.b
 st_eev_stdacct,measure,Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (number of tables),12,12.b.1,ST_EEV_STDACCT,12.b
@@ -422,6 +426,7 @@ tx_exp_gbmrch,measure,Developing countries’ and least developed countries’ s
 tx_exp_gbsvr,measure,Developing countries’ and least developed countries’ share of global services exports (%),17,17.11.1,TX_EXP_GBSVR,17.11
 tx_imp_gbmrch,measure,Developing countries’ and least developed countries’ share of global merchandise imports (%),17,17.11.1,TX_IMP_GBMRCH,17.11
 tx_imp_gbsvr,measure,Developing countries’ and least developed countries’ share of global services imports (%),17,17.11.1,TX_IMP_GBSVR,17.11
+vc_arm_sztrace,measure,"Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments",16,16.4.2,VC_ARM_SZTRACE,16.4
 vc_dsr_affct,measure,Number of people affected by disaster (number),"1, 11, 13","1.5.1, 11.5.1, 13.1.1",VC_DSR_AFFCT,"1.5, 11.5, 13.1"
 vc_dsr_agln,measure,Direct agriculture loss attributed to disasters (current United States dollars),"1, 11","1.5.2, 11.5.2",VC_DSR_AGLN,"1.5, 11.5"
 vc_dsr_bsdn,measure,Number of disruptions to basic services attributed to disasters (number),11,11.5.2,VC_DSR_BSDN,11.5
