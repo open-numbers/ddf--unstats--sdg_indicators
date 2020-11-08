@@ -8,7 +8,7 @@
     "description": "SDG indicators",
     "author": "Gapminder",
     "license": "CC-BY-4.0",
-    "created": "2020-10-25T06:42:43.260062+00:00",
+    "created": "2020-11-08T02:14:23.541459+00:00",
     "translations": [],
     "version": "0.0.1",
     "resources": [
@@ -13058,6 +13058,105 @@
             }
         },
         {
+            "name": "ddf--datapoints--sp_lgl_lnddoc--by--geo_area--nature--sex--units--year",
+            "path": "ddf--datapoints--sp_lgl_lnddoc--by--geo_area--nature--sex--units--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "nature"
+                    },
+                    {
+                        "name": "sex"
+                    },
+                    {
+                        "name": "units"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "sp_lgl_lnddoc"
+                    }
+                ],
+                "primaryKey": [
+                    "geo_area",
+                    "nature",
+                    "sex",
+                    "units",
+                    "year"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--sp_lgl_lndsec--by--geo_area--nature--sex--units--year",
+            "path": "ddf--datapoints--sp_lgl_lndsec--by--geo_area--nature--sex--units--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "nature"
+                    },
+                    {
+                        "name": "sex"
+                    },
+                    {
+                        "name": "units"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "sp_lgl_lndsec"
+                    }
+                ],
+                "primaryKey": [
+                    "geo_area",
+                    "nature",
+                    "sex",
+                    "units",
+                    "year"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--sp_lgl_lndstr--by--geo_area--nature--sex--units--year",
+            "path": "ddf--datapoints--sp_lgl_lndstr--by--geo_area--nature--sex--units--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "nature"
+                    },
+                    {
+                        "name": "sex"
+                    },
+                    {
+                        "name": "units"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "sp_lgl_lndstr"
+                    }
+                ],
+                "primaryKey": [
+                    "geo_area",
+                    "nature",
+                    "sex",
+                    "units",
+                    "year"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--sp_rod_r2km--by--geo_area--nature--units--year",
             "path": "ddf--datapoints--sp_rod_r2km--by--geo_area--nature--units--year.csv",
             "schema": {
@@ -21077,6 +21176,45 @@
                 "value": "sp_lgl_lndagsec",
                 "resources": [
                     "ddf--datapoints--sp_lgl_lndagsec--by--geo_area--nature--sex--units--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo_area",
+                    "nature",
+                    "sex",
+                    "units",
+                    "year"
+                ],
+                "value": "sp_lgl_lnddoc",
+                "resources": [
+                    "ddf--datapoints--sp_lgl_lnddoc--by--geo_area--nature--sex--units--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo_area",
+                    "nature",
+                    "sex",
+                    "units",
+                    "year"
+                ],
+                "value": "sp_lgl_lndsec",
+                "resources": [
+                    "ddf--datapoints--sp_lgl_lndsec--by--geo_area--nature--sex--units--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo_area",
+                    "nature",
+                    "sex",
+                    "units",
+                    "year"
+                ],
+                "value": "sp_lgl_lndstr",
+                "resources": [
+                    "ddf--datapoints--sp_lgl_lndstr--by--geo_area--nature--sex--units--year"
                 ]
             },
             {

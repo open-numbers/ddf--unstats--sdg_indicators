@@ -412,6 +412,9 @@ sp_dyn_mrbf15,measure,Proportion of women aged 20-24 years who were married or i
 sp_dyn_mrbf18,measure,Proportion of women aged 20-24 years who were married or in a union before age 18 (%),5,5.3.1,SP_DYN_MRBF18,5.3
 sp_gnp_wnowns,measure,"Share of women among owners or rights-bearers of agricultural land, by type of tenure (%)",5,5.a.1,SP_GNP_WNOWNS,5.a
 sp_lgl_lndagsec,measure,"Proportion of people with ownership or secure rights over agricultural land (out of total agricultural population), by sex (%)",5,5.a.1,SP_LGL_LNDAGSEC,5.a
+sp_lgl_lnddoc,measure,"Proportion of people with legally recognized documentation of their rights to land out of total adult population, by sex (%)",1,1.4.2,SP_LGL_LNDDOC,1.4
+sp_lgl_lndsec,measure,"Proportion of people who perceive their rights to land as secure out of total adult population, by sex (%)",1,1.4.2,SP_LGL_LNDSEC,1.4
+sp_lgl_lndstr,measure,"Proportion of people with secure tenure rights to land out of total adult population, by sex (%)",1,1.4.2,SP_LGL_LNDSTR,1.4
 sp_rod_r2km,measure,Proportion of the rural population who live within 2 km of an all-season road,9,9.1.1,SP_ROD_R2KM,9.1
 st_eev_accseea,measure,Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (SEEA tables),12,12.b.1,ST_EEV_ACCSEEA,12.b
 st_eev_acctsa,measure,Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (Tourism Satellite Account tables),12,12.b.1,ST_EEV_ACCTSA,12.b
