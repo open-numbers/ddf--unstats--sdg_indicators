@@ -13,10 +13,10 @@ ag_lnd_frstn,measure,Forest area (thousands of hectares),15,15.1.1,AG_LND_FRSTN,
 ag_lnd_frstprct,measure,Proportion of forest area within legally established protected areas (%),15,15.2.1,AG_LND_FRSTPRCT,15.2
 ag_lnd_totl,measure,Land area (thousands of hectares),15,15.1.1,AG_LND_TOTL,15.1
 ag_prd_agvas,measure,Agriculture value added share of GDP (%),2,2.a.1,AG_PRD_AGVAS,2.a
-ag_prd_fiesmsi,measure,Prevalence of moderate or severe food insecurity in the adult population (%),2,2.1.2,AG_PRD_FIESMSI,2.1
-ag_prd_fiesmsin,measure,Total population in moderate or severe food insecurity (thousands of people),2,2.1.2,AG_PRD_FIESMSIN,2.1
-ag_prd_fiessi,measure,Prevalence of severe food insecurity in the adult population (%),2,2.1.2,AG_PRD_FIESSI,2.1
-ag_prd_fiessin,measure,Total population in severe food insecurity (thousands of people),2,2.1.2,AG_PRD_FIESSIN,2.1
+ag_prd_fiesms,measure,Prevalence of moderate or severe food insecurity in the adult population (%),2,2.1.2,AG_PRD_FIESMS,2.1
+ag_prd_fiesmsn,measure,Total population in moderate or severe food insecurity (thousands of people),2,2.1.2,AG_PRD_FIESMSN,2.1
+ag_prd_fiess,measure,Prevalence of severe food insecurity in the adult population (%),2,2.1.2,AG_PRD_FIESS,2.1
+ag_prd_fiessn,measure,Total population in severe food insecurity (thousands of people),2,2.1.2,AG_PRD_FIESSN,2.1
 ag_prd_ortind,measure,Agriculture orientation index for government expenditures,2,2.a.1,AG_PRD_ORTIND,2.a
 ag_prd_xsubdy,measure,Agricultural export subsidies (millions of current United States dollars),2,2.b.1,AG_PRD_XSUBDY,2.b
 ag_xpd_agsgb,measure,Agriculture share of Government Expenditure (%),2,2.a.1,AG_XPD_AGSGB,2.a
@@ -51,10 +51,10 @@ dc_trf_tfdv,measure,"Total resource flows for development, by recipient and dono
 dc_trf_totdl,measure,"Total assistance for development, by donor countries (millions of current United States dollars)",10,10.b.1,DC_TRF_TOTDL,10.b
 dc_trf_totl,measure,"Total assistance for development, by recipient countries (millions of current United States dollars)",10,10.b.1,DC_TRF_TOTL,10.b
 dt_tds_dect,measure,Debt service as a proportion of exports of goods and services (%),17,17.4.1,DT_TDS_DECT,17.4
+eg_acs_elec,measure,"Proportion of population with access to electricity, by urban/rural (%)",7,7.1.1,EG_ACS_ELEC,7.1
 eg_egy_clean,measure,Proportion of population with primary reliance on clean fuels and technology (%),7,7.1.2,EG_EGY_CLEAN,7.1
 eg_egy_prim,measure,Energy intensity level of primary energy (megajoules per constant 2011 purchasing power parity GDP),7,7.3.1,EG_EGY_PRIM,7.3
 eg_egy_rnew,measure,Installed renewable electricity-generating capacity (watts per capita),"7, 12","7.b.1, 12.a.1",EG_EGY_RNEW,"7.b, 12.a"
-eg_elc_accs,measure,"Proportion of population with access to electricity, by urban/rural (%)",7,7.1.1,EG_ELC_ACCS,7.1
 eg_fec_rnew,measure,Renewable energy share in the total final energy consumption (%),7,7.2.1,EG_FEC_RNEW,7.2
 eg_iff_randn,measure,"International financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems (millions of constant 2017 United States dollars)",7,7.a.1,EG_IFF_RANDN,7.a
 eg_tba_h2co,measure,Proportion of transboundary basins (river and lake basins and aquifers) with an operational arrangement for water cooperation (%),6,6.5.2,EG_TBA_H2CO,6.5
@@ -63,6 +63,8 @@ eg_tba_h2corl,measure,Proportion of transboundary river and lake basins with an 
 en_atm_co2,measure,Carbon dioxide emissions from fuel combustion (millions of tonnes),9,9.4.1,EN_ATM_CO2,9.4
 en_atm_co2gdp,measure,Carbon dioxide emissions per unit of GDP (kilogrammes of CO2 per constant 2010 United States dollars),9,9.4.1,EN_ATM_CO2GDP,9.4
 en_atm_co2mva,measure,Carbon dioxide emissions per unit of manufacturing value added (kilogrammes of CO2 per constant 2010 United States dollars),9,9.4.1,EN_ATM_CO2MVA,9.4
+en_atm_ghgt_aip,measure,Total greenhouse gas emissions without LULUCF for Annex I Parties (Mt CO₂ equivalent),13,13.2.2,EN_ATM_GHGT_AIP,13.2
+en_atm_ghgt_naip,measure,Total greenhouse gas emissions without LULUCF for non-Annex I Parties (Mt CO₂ equivalent),13,13.2.2,EN_ATM_GHGT_NAIP,13.2
 en_atm_pm25,measure,"Annual mean levels of fine particulate matter in cities, urban population (micrograms per cubic meter)",11,11.6.2,EN_ATM_PM25,11.6
 en_ewt_genpcap,measure,"Electronic waste generated, per capita (Kg)",12,12.4.2,EN_EWT_GENPCAP,12.4
 en_ewt_genv,measure,Electronic waste generated (Tonnes),12,12.4.2,EN_EWT_GENV,12.4
@@ -138,14 +140,14 @@ er_mtn_grncov,measure,Mountain green cover area (square kilometres),15,15.4.2,ER
 er_mtn_grncvi,measure,Mountain Green Cover Index,15,15.4.2,ER_MTN_GRNCVI,15.4
 er_mtn_totl,measure,Mountain area (square kilometres),15,15.4.2,ER_MTN_TOTL,15.4
 er_oaw_mnacd,measure,Average marine acidity (pH) measured at agreed suite of representative sampling stations,14,14.3.1,ER_OAW_MNACD,14.3
-er_ptd_frwrt,measure,Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas (%),15,15.1.2,ER_PTD_FRWRT,15.1
-er_ptd_motn,measure,Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas (%),15,15.4.1,ER_PTD_MOTN,15.4
-er_ptd_terrs,measure,Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas (%),15,15.1.2,ER_PTD_TERRS,15.1
+er_ptd_frhwtr,measure,Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas (%),15,15.1.2,ER_PTD_FRHWTR,15.1
+er_ptd_mtn,measure,Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas (%),15,15.4.1,ER_PTD_MTN,15.4
+er_ptd_terr,measure,Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas (%),15,15.1.2,ER_PTD_TERR,15.1
 er_rde_osex,measure,National ocean science expenditure as a share of total research and development funding (%),14,14.a.1,ER_RDE_OSEX,14.a
 er_reg_ssfrar,measure,Degree of application of a legal/regulatory/policy/institutional framework which recognizes and protects access rights for small-scale fisheries (level of implementation: 1 lowest to 5 highest),14,14.b.1,ER_REG_SSFRAR,14.b
 er_reg_unfcim,measure,"Progress by countries in the degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing (level of implementation: 1 lowest to 5 highest)",14,14.6.1,ER_REG_UNFCIM,14.6
 er_rsk_lbreds,measure,Proportion of local breeds classified as being at risk as a share of local breeds with known level of extinction risk (%),2,2.5.2,ER_RSK_LBREDS,2.5
-er_rsk_lsti,measure,Red List Index,15,15.5.1,ER_RSK_LSTI,15.5
+er_rsk_lst,measure,Red List Index,15,15.5.1,ER_RSK_LST,15.5
 er_wat_part,measure,"Countries with users/communities participating in planning programs in water resources planning and management, by level of participation (3 = High; 2 = Moderate; 1 = Low; 0 = NA)",6,6.b.1,ER_WAT_PART,6.b
 er_wat_partic,measure,Proportion of countries with high level of users/communities participating in planning programs in water resources planning and management (%),6,6.b.1,ER_WAT_PARTIC,6.b
 er_wat_prdu,measure,"Countries with procedures in law or policy for participation by service users/communities in planning program in water resources planning and management, by level of definition in procedures (10 = Clearly defined; 5 = Not clearly defined ; 0 = NA)",6,6.b.1,ER_WAT_PRDU,6.b
@@ -164,6 +166,8 @@ fi_fsi_fssno,measure,Net open position in foreign exchange to capital (%),10,10.
 gb_pop_scierd,measure,"Researchers (in full-time equivalent) per million inhabitants (per 1,000,000 population)",9,9.5.2,GB_POP_SCIERD,9.5
 gb_xpd_rsdv,measure,Research and development expenditure as a proportion of GDP (%),9,9.5.1,GB_XPD_RSDV,9.5
 gc_gob_taxd,measure,Proportion of domestic budget funded by domestic taxes (% of GDP),17,17.1.2,GC_GOB_TAXD,17.1
+gf_com_pppi,measure,"Amount of United States dollars committed to public-private partnerships for infrastructure, million USD nominal",17,17.17.1,GF_COM_PPPI,17.17
+gf_com_pppi_kd,measure,"Amount of United States dollars committed to public-private partnerships for infrastructure, million USD real",17,17.17.1,GF_COM_PPPI_KD,17.17
 gf_frn_fdi,measure,Foreign direct investment (FDI) inflows (millions of US dollars),17,17.3.1,GF_FRN_FDI,17.3
 gf_xpd_gbpc,measure,Primary government expenditures as a proportion of original approved budget (%),16,16.6.1,GF_XPD_GBPC,16.6
 gr_g14_gdp,measure,Total government revenue (budgetary central government) as a proportion of GDP (%),17,17.1.1,GR_G14_GDP,17.1
@@ -179,8 +183,8 @@ it_mob_2gntwk,measure,Proportion of population covered by at least a 2G mobile n
 it_mob_3gntwk,measure,Proportion of population covered by at least a 3G mobile network (%),9,9.c.1,IT_MOB_3GNTWK,9.c
 it_mob_4gntwk,measure,Proportion of population covered by at least a 4G mobile network (%),9,9.c.1,IT_MOB_4GNTWK,9.c
 it_mob_own,measure,"Proportion of individuals who own a mobile telephone, by sex (%)",5,5.b.1,IT_MOB_OWN,5.b
-it_net_bbn,measure,"Number of fixed Internet broadband subscriptions, by speed (number)",17,17.6.1,IT_NET_BBN,17.6
-it_net_bbp,measure,"Fixed Internet broadband subscriptions per 100 inhabitants, by speed (per 100 inhabitants)",17,17.6.1,IT_NET_BBP,17.6
+it_net_bbnd,measure,"Fixed Internet broadband subscriptions per 100 inhabitants, by speed (per 100 inhabitants)",17,17.6.1,IT_NET_BBND,17.6
+it_net_bbndn,measure,"Number of fixed Internet broadband subscriptions, by speed (number)",17,17.6.1,IT_NET_BBNDN,17.6
 it_use_ii99,measure,Internet users per 100 inhabitants,17,17.8.1,IT_USE_ii99,17.8
 iu_cor_brib,measure,"Prevalence rate of bribery, by sex (%)",16,16.5.1,IU_COR_BRIB,16.5
 nv_ind_manf,measure,Manufacturing value added as a proportion of GDP (%),9,9.2.1,NV_IND_MANF,9.2
@@ -195,12 +199,12 @@ sd_mdp_csmp,measure,Proportion of children living in child-specific multidimensi
 sd_mdp_muhc,measure,Proportion of population living in multidimensional poverty (%),1,1.2.2,SD_MDP_MUHC,1.2
 sd_mdp_muhhc,measure,Proportion of households living in multidimensional poverty (%),1,1.2.2,SD_MDP_MUHHC,1.2
 sd_xpd_esed,measure,"Proportion of total government spending on essential services, education (%)",1,1.a.2,SD_XPD_ESED,1.a
-se_acc_comp,measure,"Schools with access to computers for pedagogical purposes, by education level (%)",4,4.a.1,SE_ACC_COMP,4.a
-se_acc_dwat,measure,"Schools with access to basic drinking water, by education level (%)",4,4.a.1,SE_ACC_DWAT,4.a
-se_acc_elec,measure,"Schools with access to electricity, by education level (%)",4,4.a.1,SE_ACC_ELEC,4.a
-se_acc_hnwa,measure,"Schools with basic handwashing facilities, by education level (%)",4,4.a.1,SE_ACC_HNWA,4.a
-se_acc_intn,measure,"Schools with access to the internet for pedagogical purposes, by education level (%)",4,4.a.1,SE_ACC_INTN,4.a
-se_acc_sani,measure,"Schools with access to access to single-sex basic sanitation, by education level (%)",4,4.a.1,SE_ACC_SANI,4.a
+se_acc_hndwsh,measure,"Schools with basic handwashing facilities, by education level (%)",4,4.a.1,SE_ACC_HNDWSH,4.a
+se_acs_cmptr,measure,"Schools with access to computers for pedagogical purposes, by education level (%)",4,4.a.1,SE_ACS_CMPTR,4.a
+se_acs_elect,measure,"Schools with access to electricity, by education level (%)",4,4.a.1,SE_ACS_ELECT,4.a
+se_acs_h2o,measure,"Schools with access to basic drinking water, by education level (%)",4,4.a.1,SE_ACS_H2O,4.a
+se_acs_intnt,measure,"Schools with access to the internet for pedagogical purposes, by education level (%)",4,4.a.1,SE_ACS_INTNT,4.a
+se_acs_sanit,measure,"Schools with access to access to single-sex basic sanitation, by education level (%)",4,4.a.1,SE_ACS_SANIT,4.a
 se_adt_acts,measure,"Proportion of youth and adults with information and communications technology (ICT) skills, by sex and type of skill (%)",4,4.4.1,SE_ADT_ACTS,4.4
 se_adt_eductrn,measure,"Participation rate in formal and non-formal education and training, by sex (%)",4,4.3.1,SE_ADT_EDUCTRN,4.3
 se_adt_funs,measure,"Proportion of population achieving at least a fixed level of proficiency in functional skills, by sex, age and type of skill (%)",4,4.6.1,SE_ADT_FUNS,4.6
@@ -210,12 +214,12 @@ se_awp_cpra,measure,"Adjusted wealth parity index for completion rate, by sex, l
 se_dev_ontrk,measure,"Proportion of children aged 36−59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning (% of children aged 36-59 months)",4,4.2.1,SE_DEV_ONTRK,4.2
 se_gpi_icts,measure,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",4,4.5.1,SE_GPI_ICTS,4.5
 se_gpi_part,measure,Gender parity index for participation rate in formal and non-formal education and training (ratio),4,4.5.1,SE_GPI_PART,4.5
-se_gpi_tratea,measure,"Gender parity index of trained teachers, by education level (ratio)",4,4.5.1,SE_GPI_TRATEA,4.5
+se_gpi_ptnpre,measure,"Gender parity index for participation rate in organized learning (one year before the official primary entry age), (ratio)",4,4.5.1,SE_GPI_PTNPRE,4.5
+se_gpi_tcaq,measure,"Gender parity index of trained teachers, by education level (ratio)",4,4.5.1,SE_GPI_TCAQ,4.5
 se_imp_fpof,measure,"Immigration status parity index for achieving at least a fixed level of proficiency in functional skills, by numeracy/literacy skills (ratio)",4,4.5.1,SE_IMP_FPOF,4.5
 se_inf_dsbl,measure,"Proportion of schools with access to adapted infrastructure and materials for students with disabilities, by education level (%)",4,4.a.1,SE_INF_DSBL,4.a
 se_lgp_achi,measure,Language test parity index for achievement (ratio),4,4.5.1,SE_LGP_ACHI,4.5
 se_nap_achi,measure,Native parity index for achievement (ratio),4,4.5.1,SE_NAP_ACHI,4.5
-se_pre_gpipartn,measure,"Gender parity index for participation rate in organized learning (one year before the official primary entry age), (ratio)",4,4.5.1,SE_PRE_GPIPARTN,4.5
 se_pre_partn,measure,"Participation rate in organized learning (one year before the official primary entry age), by sex (%)",4,4.2.2,SE_PRE_PARTN,4.2
 se_tot_cplr,measure,"Completion rate, by sex, location, wealth quintile and education level (%)",4,4.1.2,SE_TOT_CPLR,4.1
 se_tot_gpi,measure,Gender parity index for achievement (ratio),4,4.5.1,SE_TOT_GPI,4.5
@@ -298,8 +302,8 @@ sh_acs_unhc,measure,Universal health coverage (UHC) service coverage index,3,3.8
 sh_alc_conspt,measure,Alcohol consumption per capita (aged 15 years and older) within a calendar year (litres of pure alcohol),3,3.5.2,SH_ALC_CONSPT,3.5
 sh_bld_ecoli,measure,"Percentage of bloodstream infection due to Escherichia coli resistant to 3rd-generation cephalosporin (e.g., ESBL- E. coli) among patients seeking care and whose blood sample is taken and tested (%)",3,3.d.2,SH_BLD_ECOLI,3.d
 sh_bld_mrsa,measure,Percentage of bloodstream infection due to methicillin-resistant Staphylococcus aureus (MRSA) among patients seeking care and whose blood sample is taken and tested (%),3,3.d.2,SH_BLD_MRSA,3.d
+sh_dth_ncd,measure,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",3,3.4.1,SH_DTH_NCD,3.4
 sh_dth_ncom,measure,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability)",3,3.4.1,SH_DTH_NCOM,3.4
-sh_dth_rncom,measure,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",3,3.4.1,SH_DTH_RNCOM,3.4
 sh_dyn_imrt,measure,"Infant mortality rate (deaths per 1,000 live births)",3,3.2.1,SH_DYN_IMRT,3.2
 sh_dyn_imrtn,measure,Infant deaths (number),3,3.2.1,SH_DYN_IMRTN,3.2
 sh_dyn_mort,measure,"Under-five mortality rate, by sex (deaths per 1,000 live births)",3,3.2.1,SH_DYN_MORT,3.2
@@ -336,7 +340,7 @@ sh_lgr_acsrhes1,measure,"(S.1) Extent to which countries have laws and regulatio
 sh_lgr_acsrhes2,measure,"(S.2) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Section 2: Contraceptive and Family Planning (%)",5,5.6.2,SH_LGR_ACSRHES2,5.6
 sh_lgr_acsrhes3,measure,"(S.3) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Section 3: Sexuality Education (%)",5,5.6.2,SH_LGR_ACSRHES3,5.6
 sh_lgr_acsrhes4,measure,"(S.4) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Section 4: HIV and HPV (%)",5,5.6.2,SH_LGR_ACSRHES4,5.6
-sh_med_heawor,measure,"Health worker density, by type of occupation (per 10,000 population)",3,3.c.1,SH_MED_HEAWOR,3.c
+sh_med_den,measure,"Health worker density, by type of occupation (per 10,000 population)",3,3.c.1,SH_MED_DEN,3.c
 sh_med_hwrkdis,measure,"Health worker distribution, by sex and type of occupation (%)",3,3.c.1,SH_MED_HWRKDIS,3.c
 sh_prv_smok,measure,"Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%)",3,3.a.1,SH_PRV_SMOK,3.a
 sh_san_defect,measure,"Proportion of population practicing open defecation, by urban/rural (%)",6,6.2.1,SH_SAN_DEFECT,6.2
@@ -347,21 +351,19 @@ sh_sta_asairp,measure,"Age-standardized mortality rate attributed to household a
 sh_sta_brtc,measure,Proportion of births attended by skilled health personnel (%),3,3.1.2,SH_STA_BRTC,3.1
 sh_sta_fgms,measure,"Proportion of girls and women aged 15-49 years who have undergone female genital mutilation/cutting, by age (%)",5,5.3.2,SH_STA_FGMS,5.3
 sh_sta_malr,measure,"Malaria incidence per 1,000 population at risk (per 1,000 population)",3,3.3.3,SH_STA_MALR,3.3
-sh_sta_mmr,measure,Maternal mortality ratio,3,3.1.1,SH_STA_MMR,3.1
-sh_sta_ovrwgt,measure,Proportion of children moderately or severely overweight (%),2,2.2.2,SH_STA_OVRWGT,2.2
-sh_sta_ovrwgtn,measure,Children moderately or severely overweight (thousands),2,2.2.2,SH_STA_OVRWGTN,2.2
+sh_sta_mort,measure,Maternal mortality ratio,3,3.1.1,SH_STA_MORT,3.1
 sh_sta_poisn,measure,"Mortality rate attributed to unintentional poisonings, by sex (deaths per 100,000 population)",3,3.9.3,SH_STA_POISN,3.9
 sh_sta_scide,measure,"Suicide mortality rate, by sex (deaths per 100,000 population)",3,3.4.2,SH_STA_SCIDE,3.4
 sh_sta_sciden,measure,"Number of deaths attributed to suicide, by sex (number)",3,3.4.2,SH_STA_SCIDEN,3.4
-sh_sta_stunt,measure,Proportion of children moderately or severely stunted (%),2,2.2.1,SH_STA_STUNT,2.2
-sh_sta_stuntn,measure,Children moderately or severely stunted (thousands),2,2.2.1,SH_STA_STUNTN,2.2
+sh_sta_stnt,measure,Proportion of children moderately or severely stunted (%),2,2.2.1,SH_STA_STNT,2.2
+sh_sta_stntn,measure,Children moderately or severely stunted (thousands),2,2.2.1,SH_STA_STNTN,2.2
 sh_sta_traf,measure,"Death rate due to road traffic injuries (per 100,000 population)",3,3.6.1,SH_STA_TRAF,3.6
 sh_sta_wash,measure,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (deaths per 100,000 population)",3,3.9.2,SH_STA_WASH,3.9
-sh_sta_waste,measure,Proportion of children moderately or severely wasted (%),2,2.2.2,SH_STA_WASTE,2.2
-sh_sta_wasten,measure,Children moderately or severely wasted (thousands),2,2.2.2,SH_STA_WASTEN,2.2
+sh_sta_wast,measure,Proportion of children moderately or severely wasted (%),2,2.2.2,SH_STA_WAST,2.2
+sh_sta_wastn,measure,Children moderately or severely wasted (thousands),2,2.2.2,SH_STA_WASTN,2.2
 sh_sud_alcol,measure,"Alcohol use disorders, 12-month prevalence (%)",3,3.5.1,SH_SUD_ALCOL,3.5
 sh_sud_treat,measure,"Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders (%)",3,3.5.1,SH_SUD_TREAT,3.5
-sh_tbs_incid,measure,"Tuberculosis incidence (per 100,000 population)",3,3.3.2,SH_TBS_INCID,3.3
+sh_tbs_incd,measure,"Tuberculosis incidence (per 100,000 population)",3,3.3.2,SH_TBS_INCD,3.3
 sh_trp_intvn,measure,Number of people requiring interventions against neglected tropical diseases (number),3,3.3.5,SH_TRP_INTVN,3.3
 sh_xpd_earn10,measure,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income (%),3,3.8.2,SH_XPD_EARN10,3.8
 sh_xpd_earn25,measure,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income (%),3,3.8.2,SH_XPD_EARN25,3.8
@@ -388,7 +390,7 @@ sl_cpa_yemp,measure,"Existence of a developed and operationalized national strat
 sl_dom_tspd,measure,"Proportion of time spent on unpaid domestic chores and care work, by sex, age and location (%)",5,5.4.1,SL_DOM_TSPD,5.4
 sl_dom_tspdcw,measure,"Proportion of time spent on unpaid care work, by sex, age and location (%)",5,5.4.1,SL_DOM_TSPDCW,5.4
 sl_dom_tspddc,measure,"Proportion of time spent on unpaid domestic chores, by sex, age and location (%)",5,5.4.1,SL_DOM_TSPDDC,5.4
-sl_emp_aearn,measure,Average hourly earnings of employees by sex and occupation (local currency),8,8.5.1,SL_EMP_AEARN,8.5
+sl_emp_earn,measure,Average hourly earnings of employees by sex and occupation (local currency),8,8.5.1,SL_EMP_EARN,8.5
 sl_emp_ftlinjur,measure,"Fatal occupational injuries among employees, by sex and migrant status (per 100,000 employees)",8,8.8.1,SL_EMP_FTLINJUR,8.8
 sl_emp_gtotl,measure,Labour share of GDP (%),10,10.4.1,SL_EMP_GTOTL,10.4
 sl_emp_injur,measure,"Non-fatal occupational injuries among employees, by sex and migrant status (per 100,000 employees)",8,8.8.1,SL_EMP_INJUR,8.8
@@ -405,6 +407,8 @@ sm_dth_migr,measure,Total deaths and disappearances recorded during migration (n
 sm_pop_refg_or,measure,"Proportion of the population who are refugees, by country of origin (%)",10,10.7.4,SM_POP_REFG_OR,10.7
 sn_itk_defc,measure,Prevalence of undernourishment (%),2,2.1.1,SN_ITK_DEFC,2.1
 sn_itk_defcn,measure,Number of undernourish people (millions),2,2.1.1,SN_ITK_DEFCN,2.1
+sn_sta_ovwgt,measure,Proportion of children moderately or severely overweight (%),2,2.2.2,SN_STA_OVWGT,2.2
+sn_sta_ovwgtn,measure,Children moderately or severely overweight (thousands),2,2.2.2,SN_STA_OVWGTN,2.2
 sp_acs_bsrvh2o,measure,"Proportion of population using basic drinking water services, by location (%)",1,1.4.1,SP_ACS_BSRVH2O,1.4
 sp_acs_bsrvsan,measure,"Proportion of population using basic sanitation services, by location (%)",1,1.4.1,SP_ACS_BSRVSAN,1.4
 sp_dyn_adkl,measure,"Adolescent birth rate (per 1,000 women aged 15-19 years)",3,3.7.2,SP_DYN_ADKL,3.7
@@ -431,7 +435,7 @@ tx_imp_gbmrch,measure,Developing countries’ and least developed countries’ s
 tx_imp_gbsvr,measure,Developing countries’ and least developed countries’ share of global services imports (%),17,17.11.1,TX_IMP_GBSVR,17.11
 vc_arm_sztrace,measure,"Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments",16,16.4.2,VC_ARM_SZTRACE,16.4
 vc_dsr_affct,measure,Number of people affected by disaster (number),"1, 11, 13","1.5.1, 11.5.1, 13.1.1",VC_DSR_AFFCT,"1.5, 11.5, 13.1"
-vc_dsr_agln,measure,Direct agriculture loss attributed to disasters (current United States dollars),"1, 11","1.5.2, 11.5.2",VC_DSR_AGLN,"1.5, 11.5"
+vc_dsr_aglh,measure,Direct agriculture loss attributed to disasters (current United States dollars),"1, 11","1.5.2, 11.5.2",VC_DSR_AGLH,"1.5, 11.5"
 vc_dsr_bsdn,measure,Number of disruptions to basic services attributed to disasters (number),11,11.5.2,VC_DSR_BSDN,11.5
 vc_dsr_cdan,measure,Number of damaged critical infrastructure attributed to disasters (number),11,11.5.2,VC_DSR_CDAN,11.5
 vc_dsr_cdyn,measure,Number of other destroyed or damaged critical infrastructure units and facilities attributed to disasters (number),11,11.5.2,VC_DSR_CDYN,11.5
@@ -443,13 +447,13 @@ vc_dsr_efdn,measure,Number of destroyed or damaged educational facilities attrib
 vc_dsr_esdn,measure,Number of disruptions to educational services attributed to disasters (number),11,11.5.2,VC_DSR_ESDN,11.5
 vc_dsr_gdpls,measure,Direct economic loss attributed to disasters (current United States dollars),"1, 11","1.5.2, 11.5.2",VC_DSR_GDPLS,"1.5, 11.5"
 vc_dsr_hfdn,measure,Number of destroyed or damaged health facilities attributed to disasters (number),11,11.5.2,VC_DSR_HFDN,11.5
-vc_dsr_holn,measure,Direct economic loss in the housing sector attributed to disasters (current United States dollars),"1, 11","1.5.2, 11.5.2",VC_DSR_HOLN,"1.5, 11.5"
+vc_dsr_holh,measure,Direct economic loss in the housing sector attributed to disasters (current United States dollars),"1, 11","1.5.2, 11.5.2",VC_DSR_HOLH,"1.5, 11.5"
 vc_dsr_hsdn,measure,Number of disruptions to health services attributed to disasters (number),11,11.5.2,VC_DSR_HSDN,11.5
 vc_dsr_ijiln,measure,Number of injured or ill people attributed to disasters (number),"1, 11, 13","1.5.1, 11.5.1, 13.1.1",VC_DSR_IJILN,"1.5, 11.5, 13.1"
 vc_dsr_lsgp,measure,Direct economic loss attributed to disasters relative to GDP (%),"1, 11","1.5.2, 11.5.2",VC_DSR_LSGP,"1.5, 11.5"
 vc_dsr_miss,measure,Number of missing persons due to disaster (number),"1, 11, 13","1.5.1, 11.5.1, 13.1.1",VC_DSR_MISS,"1.5, 11.5, 13.1"
+vc_dsr_mmhn,measure,Number of deaths and missing persons attributed to disasters (number),"1, 11, 13","1.5.1, 11.5.1, 13.1.1",VC_DSR_MMHN,"1.5, 11.5, 13.1"
 vc_dsr_mort,measure,Number of deaths due to disaster (number),"1, 11, 13","1.5.1, 11.5.1, 13.1.1",VC_DSR_MORT,"1.5, 11.5, 13.1"
-vc_dsr_mtmn,measure,Number of deaths and missing persons attributed to disasters (number),"1, 11, 13","1.5.1, 11.5.1, 13.1.1",VC_DSR_MTMN,"1.5, 11.5, 13.1"
 vc_dsr_mtmp,measure,"Number of deaths and missing persons attributed to disasters per 100,000 population (number)","1, 11, 13","1.5.1, 11.5.1, 13.1.1",VC_DSR_MTMP,"1.5, 11.5, 13.1"
 vc_dsr_obdn,measure,Number of disruptions to other basic services attributed to disasters (number),11,11.5.2,VC_DSR_OBDN,11.5
 vc_dsr_pdan,measure,Number of people whose damaged dwellings were attributed to disasters (number),"1, 11, 13","1.5.1, 11.5.1, 13.1.1",VC_DSR_PDAN,"1.5, 11.5, 13.1"
@@ -468,7 +472,7 @@ vc_ihr_psrcn,measure,"Number of victims of intentional homicide, by sex (number)
 vc_prr_phyv,measure,"Police reporting rate for physical assault, by sex (%)",16,16.3.1,VC_PRR_PHYV,16.3
 vc_prr_robb,measure,"Police reporting rate for robbery, by sex (%)",16,16.3.1,VC_PRR_ROBB,16.3
 vc_prr_sexv,measure,"Police reporting rate for sexual assault, by sex (%)",16,16.3.1,VC_PRR_SEXV,16.3
-vc_prs_unsec,measure,Unsentenced detainees as a proportion of overall prison population (%),16,16.3.2,VC_PRS_UNSEC,16.3
+vc_prs_unsnt,measure,Unsentenced detainees as a proportion of overall prison population (%),16,16.3.2,VC_PRS_UNSNT,16.3
 vc_sns_waln,measure,Proportion of population that feel safe walking alone around the area they live (%),16,16.1.4,VC_SNS_WALN,16.1
 vc_vaw_marr,measure,"Proportion of ever-partnered women and girls subjected to physical and/or sexual violence by a current or former intimate partner in the previous 12 months, by age (%)",5,5.2.1,VC_VAW_MARR,5.2
 vc_vaw_mtuhra,measure,"Number of cases of killings of human rights defenders, journalists and trade unionists",16,16.10.1,VC_VAW_MTUHRA,16.10

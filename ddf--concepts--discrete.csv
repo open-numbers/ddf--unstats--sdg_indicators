@@ -6,15 +6,18 @@ cities,entity_domain,Cities
 description,string,Description
 disability_status,entity_domain,Disability Status
 education_level,entity_domain,Education Level
+freq,entity_domain,Freq
 geo_area,entity_domain,Geo Area
 goal,string,Goal
 grounds_of_discrimination,entity_domain,Grounds Of Discrimination
+hazard_type,entity_domain,Hazard Type
 ihr_capacity,entity_domain,Ihr Capacity
 indicator,string,Indicator
 level_status,entity_domain,Level Status
 location,entity_domain,Location
 migratory_status,entity_domain,Migratory Status
 mode_of_transportation,entity_domain,Mode Of Transportation
+mountain_elevation,entity_domain,Mountain Elevation
 name,string,Name
 name_of_international_institution,entity_domain,Name Of International Institution
 name_of_non_communicable_disease,entity_domain,Name Of Non Communicable Disease
