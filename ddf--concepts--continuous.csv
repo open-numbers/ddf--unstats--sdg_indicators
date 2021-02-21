@@ -62,7 +62,7 @@ eg_tba_h2coaq,measure,Proportion of transboundary aquifers with an operational a
 eg_tba_h2corl,measure,Proportion of transboundary river and lake basins with an operational arrangement for water cooperation (%),6,6.5.2,EG_TBA_H2CORL,6.5
 en_atm_co2,measure,Carbon dioxide emissions from fuel combustion (millions of tonnes),9,9.4.1,EN_ATM_CO2,9.4
 en_atm_co2gdp,measure,Carbon dioxide emissions per unit of GDP (kilogrammes of CO2 per constant 2010 United States dollars),9,9.4.1,EN_ATM_CO2GDP,9.4
-en_atm_co2mva,measure,Carbon dioxide emissions per unit of manufacturing value added (kilogrammes of CO2 per constant 2010 United States dollars),9,9.4.1,EN_ATM_CO2MVA,9.4
+en_atm_co2mva,measure,Carbon dioxide emissions per unit of manufacturing value added (kilogrammes of CO2 per constant 2015 United States dollars),9,9.4.1,EN_ATM_CO2MVA,9.4
 en_atm_ghgt_aip,measure,Total greenhouse gas emissions without LULUCF for Annex I Parties (Mt CO₂ equivalent),13,13.2.2,EN_ATM_GHGT_AIP,13.2
 en_atm_ghgt_naip,measure,Total greenhouse gas emissions without LULUCF for non-Annex I Parties (Mt CO₂ equivalent),13,13.2.2,EN_ATM_GHGT_NAIP,13.2
 en_atm_pm25,measure,"Annual mean levels of fine particulate matter in cities, urban population (micrograms per cubic meter)",11,11.6.2,EN_ATM_PM25,11.6
@@ -136,9 +136,7 @@ er_ias_nbsap,measure,"National Biodiversity Strategy and Action Plan (NBSAP) tar
 er_mrn_marin,measure,Coverage of protected areas in relation to marine areas (Exclusive Economic Zones) (%),14,14.5.1,ER_MRN_MARIN,14.5
 er_mrn_marint,measure,Protected marine area (Exclusive Economic Zones) (square kilometres),14,14.5.1,ER_MRN_MARINT,14.5
 er_mrn_mpa,measure,Average proportion of Marine Key Biodiversity Areas (KBAs) covered by protected areas (%),14,14.5.1,ER_MRN_MPA,14.5
-er_mtn_grncov,measure,Mountain green cover area (square kilometres),15,15.4.2,ER_MTN_GRNCOV,15.4
 er_mtn_grncvi,measure,Mountain Green Cover Index,15,15.4.2,ER_MTN_GRNCVI,15.4
-er_mtn_totl,measure,Mountain area (square kilometres),15,15.4.2,ER_MTN_TOTL,15.4
 er_oaw_mnacd,measure,Average marine acidity (pH) measured at agreed suite of representative sampling stations,14,14.3.1,ER_OAW_MNACD,14.3
 er_ptd_frhwtr,measure,Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas (%),15,15.1.2,ER_PTD_FRHWTR,15.1
 er_ptd_mtn,measure,Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas (%),15,15.4.1,ER_PTD_MTN,15.4
@@ -380,6 +378,7 @@ si_cov_socins,measure,[World Bank] Proportion of population covered by social in
 si_cov_uemp,measure,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",1,1.3.1,SI_COV_UEMP,1.3
 si_cov_vuln,measure,"[ILO] Proportion of vulnerable population receiving social assistance cash benefit, by sex (%)",1,1.3.1,SI_COV_VULN,1.3
 si_cov_wkinjry,measure,"[ILO] Proportion of employed population covered in the event of work injury, by sex (%)",1,1.3.1,SI_COV_WKINJRY,1.3
+si_dst_fisp,measure,"Redistributive impact of fiscal policy, Gini index (%)",10,10.4.2,SI_DST_FISP,10.4
 si_hei_totl,measure,Growth rates of household expenditure or income per capita (%),10,10.1.1,SI_HEI_TOTL,10.1
 si_pov_50mi,measure,Proportion of people living below 50 percent of median income (%),10,10.2.1,SI_POV_50MI,10.2
 si_pov_day1,measure,Proportion of population below international poverty line (%),1,1.1.1,SI_POV_DAY1,1.1

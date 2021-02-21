@@ -6,6 +6,7 @@ cities,entity_domain,Cities
 description,string,Description
 disability_status,entity_domain,Disability Status
 education_level,entity_domain,Education Level
+fiscal_intervention_stage,entity_domain,Fiscal Intervention Stage
 freq,entity_domain,Freq
 geo_area,entity_domain,Geo Area
 goal,string,Goal

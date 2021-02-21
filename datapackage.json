@@ -8,7 +8,7 @@
     "description": "SDG indicators",
     "author": "Gapminder",
     "license": "CC-BY-4.0",
-    "created": "2020-12-27T06:54:47.264289+00:00",
+    "created": "2021-02-21T08:06:14.416761+00:00",
     "translations": [],
     "version": "0.0.1",
     "resources": [
@@ -4198,35 +4198,6 @@
             }
         },
         {
-            "name": "ddf--datapoints--er_mtn_grncov--by--geo_area--nature--units--year",
-            "path": "ddf--datapoints--er_mtn_grncov--by--geo_area--nature--units--year.csv",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "geo_area"
-                    },
-                    {
-                        "name": "nature"
-                    },
-                    {
-                        "name": "units"
-                    },
-                    {
-                        "name": "year"
-                    },
-                    {
-                        "name": "er_mtn_grncov"
-                    }
-                ],
-                "primaryKey": [
-                    "geo_area",
-                    "nature",
-                    "units",
-                    "year"
-                ]
-            }
-        },
-        {
             "name": "ddf--datapoints--er_mtn_grncvi--by--geo_area--mountain_elevation--nature--observation_status--units--year",
             "path": "ddf--datapoints--er_mtn_grncvi--by--geo_area--mountain_elevation--nature--observation_status--units--year.csv",
             "schema": {
@@ -4258,35 +4229,6 @@
                     "mountain_elevation",
                     "nature",
                     "observation_status",
-                    "units",
-                    "year"
-                ]
-            }
-        },
-        {
-            "name": "ddf--datapoints--er_mtn_totl--by--geo_area--nature--units--year",
-            "path": "ddf--datapoints--er_mtn_totl--by--geo_area--nature--units--year.csv",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "geo_area"
-                    },
-                    {
-                        "name": "nature"
-                    },
-                    {
-                        "name": "units"
-                    },
-                    {
-                        "name": "year"
-                    },
-                    {
-                        "name": "er_mtn_totl"
-                    }
-                ],
-                "primaryKey": [
-                    "geo_area",
-                    "nature",
                     "units",
                     "year"
                 ]
@@ -12134,6 +12076,39 @@
             }
         },
         {
+            "name": "ddf--datapoints--si_dst_fisp--by--fiscal_intervention_stage--geo_area--nature--units--year",
+            "path": "ddf--datapoints--si_dst_fisp--by--fiscal_intervention_stage--geo_area--nature--units--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "fiscal_intervention_stage"
+                    },
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "nature"
+                    },
+                    {
+                        "name": "units"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "si_dst_fisp"
+                    }
+                ],
+                "primaryKey": [
+                    "fiscal_intervention_stage",
+                    "geo_area",
+                    "nature",
+                    "units",
+                    "year"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--si_hei_totl--by--geo_area--nature--quantile--units--year",
             "path": "ddf--datapoints--si_hei_totl--by--geo_area--nature--quantile--units--year.csv",
             "schema": {
@@ -15595,6 +15570,21 @@
             }
         },
         {
+            "name": "ddf--entities--fiscal_intervention_stage",
+            "path": "ddf--entities--fiscal_intervention_stage.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "fiscal_intervention_stage"
+                    },
+                    {
+                        "name": "name"
+                    }
+                ],
+                "primaryKey": "fiscal_intervention_stage"
+            }
+        },
+        {
             "name": "ddf--entities--freq",
             "path": "ddf--entities--freq.csv",
             "schema": {
@@ -16112,6 +16102,15 @@
                 "value": "name",
                 "resources": [
                     "ddf--entities--education_level"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "fiscal_intervention_stage"
+                ],
+                "value": "name",
+                "resources": [
+                    "ddf--entities--fiscal_intervention_stage"
                 ]
             },
             {
@@ -18047,18 +18046,6 @@
             {
                 "primaryKey": [
                     "geo_area",
-                    "nature",
-                    "units",
-                    "year"
-                ],
-                "value": "er_mtn_grncov",
-                "resources": [
-                    "ddf--datapoints--er_mtn_grncov--by--geo_area--nature--units--year"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo_area",
                     "mountain_elevation",
                     "nature",
                     "observation_status",
@@ -18068,18 +18055,6 @@
                 "value": "er_mtn_grncvi",
                 "resources": [
                     "ddf--datapoints--er_mtn_grncvi--by--geo_area--mountain_elevation--nature--observation_status--units--year"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo_area",
-                    "nature",
-                    "units",
-                    "year"
-                ],
-                "value": "er_mtn_totl",
-                "resources": [
-                    "ddf--datapoints--er_mtn_totl--by--geo_area--nature--units--year"
                 ]
             },
             {
@@ -21185,6 +21160,19 @@
                 "value": "si_cov_wkinjry",
                 "resources": [
                     "ddf--datapoints--si_cov_wkinjry--by--geo_area--nature--sex--units--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "fiscal_intervention_stage",
+                    "geo_area",
+                    "nature",
+                    "units",
+                    "year"
+                ],
+                "value": "si_dst_fisp",
+                "resources": [
+                    "ddf--datapoints--si_dst_fisp--by--fiscal_intervention_stage--geo_area--nature--units--year"
                 ]
             },
             {
