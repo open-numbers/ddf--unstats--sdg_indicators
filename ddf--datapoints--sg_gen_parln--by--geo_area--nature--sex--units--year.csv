@@ -20,6 +20,8 @@ geo_area,nature,sex,units,year,sg_gen_parln
 1,c,female,number,2018,9066
 1,c,female,number,2019,9459
 1,c,female,number,2020,9682
+1,c,female,number,2021,9908
+2,c,female,number,2021,2599
 4,c,female,number,2006,68
 4,c,female,number,2007,68
 4,c,female,number,2008,67
@@ -34,6 +36,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 4,c,female,number,2017,69
 4,c,female,number,2018,69
 4,c,female,number,2020,67
+4,c,female,number,2021,67
 5,c,female,number,2000,241
 5,c,female,number,2001,228
 5,c,female,number,2002,255
@@ -55,6 +58,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 5,c,female,number,2018,446
 5,c,female,number,2019,511
 5,c,female,number,2020,519
+5,c,female,number,2021,515
 8,c,female,number,2000,8
 8,c,female,number,2001,8
 8,c,female,number,2002,8
@@ -76,6 +80,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 8,c,female,number,2018,39
 8,c,female,number,2019,41
 8,c,female,number,2020,36
+8,c,female,number,2021,36
 9,c,female,number,2000,86
 9,c,female,number,2001,81
 9,c,female,number,2002,87
@@ -97,6 +102,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 9,c,female,number,2018,116
 9,c,female,number,2019,122
 9,c,female,number,2020,125
+9,c,female,number,2021,136
 11,c,female,number,2000,133
 11,c,female,number,2001,145
 11,c,female,number,2002,154
@@ -118,6 +124,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 11,c,female,number,2018,350
 11,c,female,number,2019,354
 11,c,female,number,2020,353
+11,c,female,number,2021,383
 12,c,female,number,2000,12
 12,c,female,number,2001,13
 12,c,female,number,2002,13
@@ -139,6 +146,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 12,c,female,number,2018,119
 12,c,female,number,2019,119
 12,c,female,number,2020,119
+12,c,female,number,2021,120
 13,c,female,number,2000,154
 13,c,female,number,2001,139
 13,c,female,number,2002,149
@@ -160,6 +168,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 13,c,female,number,2018,365
 13,c,female,number,2019,407
 13,c,female,number,2020,414
+13,c,female,number,2021,417
 14,c,female,number,2000,324
 14,c,female,number,2001,365
 14,c,female,number,2002,411
@@ -181,6 +190,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 14,c,female,number,2018,1186
 14,c,female,number,2019,1205
 14,c,female,number,2020,1187
+14,c,female,number,2021,1194
 15,c,female,number,2000,70
 15,c,female,number,2001,71
 15,c,female,number,2002,71
@@ -202,6 +212,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 15,c,female,number,2018,517
 15,c,female,number,2019,530
 15,c,female,number,2020,374
+15,c,female,number,2021,450
 17,c,female,number,2000,83
 17,c,female,number,2001,84
 17,c,female,number,2002,73
@@ -223,6 +234,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 17,c,female,number,2018,270
 17,c,female,number,2019,278
 17,c,female,number,2020,290
+17,c,female,number,2021,302
 18,c,female,number,2000,149
 18,c,female,number,2001,150
 18,c,female,number,2002,150
@@ -244,6 +256,8 @@ geo_area,nature,sex,units,year,sg_gen_parln
 18,c,female,number,2018,252
 18,c,female,number,2019,255
 18,c,female,number,2020,267
+18,c,female,number,2021,270
+19,c,female,number,2021,1587
 20,c,female,number,2000,2
 20,c,female,number,2001,2
 20,c,female,number,2002,4
@@ -265,6 +279,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 20,c,female,number,2018,9
 20,c,female,number,2019,9
 20,c,female,number,2020,13
+20,c,female,number,2021,13
 21,c,female,number,2000,120
 21,c,female,number,2001,123
 21,c,female,number,2002,123
@@ -286,6 +301,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 21,c,female,number,2018,175
 21,c,female,number,2019,192
 21,c,female,number,2020,199
+21,c,female,number,2021,218
 24,c,female,number,2000,34
 24,c,female,number,2001,34
 24,c,female,number,2002,34
@@ -307,6 +323,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 24,c,female,number,2018,67
 24,c,female,number,2019,66
 24,c,female,number,2020,66
+24,c,female,number,2021,65
 28,c,female,number,2000,1
 28,c,female,number,2001,1
 28,c,female,number,2002,1
@@ -328,6 +345,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 28,c,female,number,2018,2
 28,c,female,number,2019,2
 28,c,female,number,2020,2
+28,c,female,number,2021,2
 29,c,female,number,2000,230
 29,c,female,number,2001,232
 29,c,female,number,2002,236
@@ -349,6 +367,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 29,c,female,number,2018,410
 29,c,female,number,2019,436
 29,c,female,number,2020,439
+29,c,female,number,2021,437
 30,c,female,number,2000,828
 30,c,female,number,2001,847
 30,c,female,number,2002,847
@@ -370,6 +389,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 30,c,female,number,2018,932
 30,c,female,number,2019,965
 30,c,female,number,2020,973
+30,c,female,number,2021,979
 31,c,female,number,2000,13
 31,c,female,number,2001,13
 31,c,female,number,2002,13
@@ -391,6 +411,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 31,c,female,number,2018,21
 31,c,female,number,2019,20
 31,c,female,number,2020,20
+31,c,female,number,2021,22
 32,c,female,number,2000,72
 32,c,female,number,2001,68
 32,c,female,number,2002,79
@@ -412,6 +433,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 32,c,female,number,2018,100
 32,c,female,number,2019,99
 32,c,female,number,2020,105
+32,c,female,number,2021,109
 34,c,female,number,2000,121
 34,c,female,number,2001,104
 34,c,female,number,2002,103
@@ -433,6 +455,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 34,c,female,number,2018,319
 34,c,female,number,2019,337
 34,c,female,number,2020,417
+34,c,female,number,2021,832
 35,c,female,number,2000,255
 35,c,female,number,2001,284
 35,c,female,number,2002,301
@@ -454,6 +477,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 35,c,female,number,2018,521
 35,c,female,number,2019,532
 35,c,female,number,2020,613
+35,c,female,number,2021,1274
 36,c,female,number,2000,33
 36,c,female,number,2001,34
 36,c,female,number,2002,38
@@ -475,6 +499,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 36,c,female,number,2018,43
 36,c,female,number,2019,45
 36,c,female,number,2020,46
+36,c,female,number,2021,47
 39,c,female,number,2000,257
 39,c,female,number,2001,312
 39,c,female,number,2002,325
@@ -496,6 +521,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 39,c,female,number,2018,759
 39,c,female,number,2019,800
 39,c,female,number,2020,838
+39,c,female,number,2021,861
 40,c,female,number,2000,49
 40,c,female,number,2001,49
 40,c,female,number,2002,49
@@ -517,6 +543,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 40,c,female,number,2018,63
 40,c,female,number,2019,68
 40,c,female,number,2020,72
+40,c,female,number,2021,73
 44,c,female,number,2000,6
 44,c,female,number,2001,6
 44,c,female,number,2002,6
@@ -538,6 +565,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 44,c,female,number,2018,5
 44,c,female,number,2019,5
 44,c,female,number,2020,5
+44,c,female,number,2021,5
 48,c,female,number,2003,0
 48,c,female,number,2004,0
 48,c,female,number,2005,0
@@ -556,6 +584,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 48,c,female,number,2018,3
 48,c,female,number,2019,6
 48,c,female,number,2020,6
+48,c,female,number,2021,6
 50,c,female,number,2000,30
 50,c,female,number,2001,6
 50,c,female,number,2002,6
@@ -575,6 +604,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 50,c,female,number,2018,71
 50,c,female,number,2019,72
 50,c,female,number,2020,73
+50,c,female,number,2021,73
 51,c,female,number,2000,4
 51,c,female,number,2001,4
 51,c,female,number,2002,4
@@ -596,6 +626,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 51,c,female,number,2018,19
 51,c,female,number,2019,32
 51,c,female,number,2020,31
+51,c,female,number,2021,30
 52,c,female,number,2000,3
 52,c,female,number,2001,3
 52,c,female,number,2002,3
@@ -617,6 +648,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 52,c,female,number,2018,5
 52,c,female,number,2019,6
 52,c,female,number,2020,6
+52,c,female,number,2021,6
 53,c,female,number,2000,68
 53,c,female,number,2001,71
 53,c,female,number,2002,75
@@ -638,6 +670,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 53,c,female,number,2018,89
 53,c,female,number,2019,93
 53,c,female,number,2020,95
+53,c,female,number,2021,105
 54,c,female,number,2000,11
 54,c,female,number,2001,3
 54,c,female,number,2002,6
@@ -659,6 +692,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 54,c,female,number,2018,9
 54,c,female,number,2019,11
 54,c,female,number,2020,13
+54,c,female,number,2021,15
 56,c,female,number,2000,35
 56,c,female,number,2001,35
 56,c,female,number,2002,35
@@ -680,6 +714,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 56,c,female,number,2018,57
 56,c,female,number,2019,57
 56,c,female,number,2020,61
+56,c,female,number,2021,63
 57,c,female,number,2000,3
 57,c,female,number,2001,3
 57,c,female,number,2002,3
@@ -701,6 +736,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 57,c,female,number,2018,10
 57,c,female,number,2019,10
 57,c,female,number,2020,9
+57,c,female,number,2021,8
 61,c,female,number,2000,4
 61,c,female,number,2001,4
 61,c,female,number,2002,3
@@ -722,6 +758,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 61,c,female,number,2018,8
 61,c,female,number,2019,8
 61,c,female,number,2020,8
+61,c,female,number,2021,8
 62,c,female,number,2000,165
 62,c,female,number,2001,153
 62,c,female,number,2002,156
@@ -743,6 +780,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 62,c,female,number,2018,439
 62,c,female,number,2019,456
 62,c,female,number,2020,560
+62,c,female,number,2021,559
 64,c,female,number,2000,3
 64,c,female,number,2001,14
 64,c,female,number,2002,14
@@ -764,6 +802,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 64,c,female,number,2018,4
 64,c,female,number,2019,7
 64,c,female,number,2020,7
+64,c,female,number,2021,7
 68,c,female,number,2000,15
 68,c,female,number,2001,15
 68,c,female,number,2002,15
@@ -785,6 +824,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 68,c,female,number,2018,69
 68,c,female,number,2019,69
 68,c,female,number,2020,69
+68,c,female,number,2021,60
 70,c,female,number,2000,3
 70,c,female,number,2001,3
 70,c,female,number,2002,7
@@ -806,6 +846,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 70,c,female,number,2018,9
 70,c,female,number,2019,9
 70,c,female,number,2020,9
+70,c,female,number,2021,11
 72,c,female,number,2000,8
 72,c,female,number,2001,8
 72,c,female,number,2002,8
@@ -827,6 +868,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 72,c,female,number,2018,6
 72,c,female,number,2019,6
 72,c,female,number,2020,7
+72,c,female,number,2021,7
 76,c,female,number,2000,29
 76,c,female,number,2001,29
 76,c,female,number,2002,35
@@ -848,6 +890,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 76,c,female,number,2018,55
 76,c,female,number,2019,77
 76,c,female,number,2020,75
+76,c,female,number,2021,78
 84,c,female,number,2000,2
 84,c,female,number,2001,2
 84,c,female,number,2002,2
@@ -869,6 +912,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 84,c,female,number,2018,3
 84,c,female,number,2019,3
 84,c,female,number,2020,3
+84,c,female,number,2021,4
 90,c,female,number,2000,1
 90,c,female,number,2001,1
 90,c,female,number,2002,0
@@ -890,10 +934,12 @@ geo_area,nature,sex,units,year,sg_gen_parln
 90,c,female,number,2018,1
 90,c,female,number,2019,1
 90,c,female,number,2020,3
+90,c,female,number,2021,4
 96,c,female,number,2017,3
 96,c,female,number,2018,3
 96,c,female,number,2019,3
 96,c,female,number,2020,3
+96,c,female,number,2021,3
 100,c,female,number,2000,26
 100,c,female,number,2001,26
 100,c,female,number,2002,63
@@ -915,6 +961,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 100,c,female,number,2018,57
 100,c,female,number,2019,62
 100,c,female,number,2020,64
+100,c,female,number,2021,65
 104,c,female,number,2011,14
 104,c,female,number,2012,14
 104,c,female,number,2013,26
@@ -925,6 +972,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 104,c,female,number,2018,44
 104,c,female,number,2019,49
 104,c,female,number,2020,48
+104,c,female,number,2021,65
 108,c,female,number,2000,7
 108,c,female,number,2001,17
 108,c,female,number,2002,33
@@ -946,6 +994,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 108,c,female,number,2018,44
 108,c,female,number,2019,44
 108,c,female,number,2020,44
+108,c,female,number,2021,47
 112,c,female,number,2000,10
 112,c,female,number,2001,10
 112,c,female,number,2002,10
@@ -967,6 +1016,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 112,c,female,number,2018,38
 112,c,female,number,2019,38
 112,c,female,number,2020,44
+112,c,female,number,2021,44
 116,c,female,number,2000,10
 116,c,female,number,2001,9
 116,c,female,number,2002,9
@@ -988,6 +1038,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 116,c,female,number,2018,25
 116,c,female,number,2019,25
 116,c,female,number,2020,25
+116,c,female,number,2021,27
 120,c,female,number,2000,10
 120,c,female,number,2001,10
 120,c,female,number,2002,10
@@ -1009,6 +1060,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 120,c,female,number,2018,56
 120,c,female,number,2019,56
 120,c,female,number,2020,56
+120,c,female,number,2021,61
 124,c,female,number,2000,62
 124,c,female,number,2001,62
 124,c,female,number,2002,62
@@ -1030,6 +1082,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 124,c,female,number,2018,91
 124,c,female,number,2019,90
 124,c,female,number,2020,98
+124,c,female,number,2021,100
 132,c,female,number,2000,8
 132,c,female,number,2001,8
 132,c,female,number,2002,8
@@ -1051,6 +1104,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 132,c,female,number,2018,17
 132,c,female,number,2019,17
 132,c,female,number,2020,18
+132,c,female,number,2021,19
 135,c,female,number,2000,78
 135,c,female,number,2001,83
 135,c,female,number,2002,87
@@ -1071,6 +1125,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 135,c,female,number,2017,178
 135,c,female,number,2018,184
 135,c,female,number,2019,193
+135,c,female,number,2021,226
 140,c,female,number,2000,8
 140,c,female,number,2001,8
 140,c,female,number,2002,8
@@ -1086,6 +1141,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 140,c,female,number,2018,12
 140,c,female,number,2019,12
 140,c,female,number,2020,12
+140,c,female,number,2021,12
 142,c,female,number,2000,1369
 142,c,female,number,2001,1410
 142,c,female,number,2002,1434
@@ -1107,6 +1163,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 142,c,female,number,2018,2268
 142,c,female,number,2019,2372
 142,c,female,number,2020,2570
+142,c,female,number,2021,2606
 143,c,female,number,2000,44
 143,c,female,number,2001,49
 143,c,female,number,2002,53
@@ -1128,6 +1185,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 143,c,female,number,2018,120
 143,c,female,number,2019,119
 143,c,female,number,2020,143
+143,c,female,number,2021,143
 144,c,female,number,2000,11
 144,c,female,number,2001,10
 144,c,female,number,2002,10
@@ -1149,6 +1207,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 144,c,female,number,2018,13
 144,c,female,number,2019,12
 144,c,female,number,2020,12
+144,c,female,number,2021,12
 145,c,female,number,2000,121
 145,c,female,number,2001,126
 145,c,female,number,2002,130
@@ -1170,6 +1229,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 145,c,female,number,2018,376
 145,c,female,number,2019,419
 145,c,female,number,2020,424
+145,c,female,number,2021,431
 148,c,female,number,2000,3
 148,c,female,number,2001,3
 148,c,female,number,2002,3
@@ -1191,6 +1251,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 148,c,female,number,2018,24
 148,c,female,number,2019,25
 148,c,female,number,2020,25
+148,c,female,number,2021,24
 150,c,female,number,2000,1577
 150,c,female,number,2001,1636
 150,c,female,number,2002,1727
@@ -1212,6 +1273,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 150,c,female,number,2018,2711
 150,c,female,number,2019,2797
 150,c,female,number,2020,2945
+150,c,female,number,2021,2980
 151,c,female,number,2000,280
 151,c,female,number,2001,293
 151,c,female,number,2002,368
@@ -1233,6 +1295,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 151,c,female,number,2018,532
 151,c,female,number,2019,545
 151,c,female,number,2020,596
+151,c,female,number,2021,589
 152,c,female,number,2000,13
 152,c,female,number,2001,13
 152,c,female,number,2002,15
@@ -1253,6 +1316,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 152,c,female,number,2017,19
 152,c,female,number,2019,35
 152,c,female,number,2020,35
+152,c,female,number,2021,35
 154,c,female,number,2000,572
 154,c,female,number,2001,562
 154,c,female,number,2002,559
@@ -1274,6 +1338,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 154,c,female,number,2018,713
 154,c,female,number,2019,741
 154,c,female,number,2020,767
+154,c,female,number,2021,779
 155,c,female,number,2000,468
 155,c,female,number,2001,469
 155,c,female,number,2002,475
@@ -1295,6 +1360,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 155,c,female,number,2018,707
 155,c,female,number,2019,711
 155,c,female,number,2020,744
+155,c,female,number,2021,751
 156,c,female,number,2000,650
 156,c,female,number,2001,650
 156,c,female,number,2002,650
@@ -1316,6 +1382,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 156,c,female,number,2018,709
 156,c,female,number,2019,742
 156,c,female,number,2020,742
+156,c,female,number,2021,742
 170,c,female,number,2000,19
 170,c,female,number,2001,19
 170,c,female,number,2002,19
@@ -1337,6 +1404,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 170,c,female,number,2018,31
 170,c,female,number,2019,32
 170,c,female,number,2020,31
+170,c,female,number,2021,32
 174,c,female,number,2005,1
 174,c,female,number,2006,1
 174,c,female,number,2007,1
@@ -1352,6 +1420,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 174,c,female,number,2018,2
 174,c,female,number,2019,2
 174,c,female,number,2020,2
+174,c,female,number,2021,4
 178,c,female,number,2000,9
 178,c,female,number,2001,9
 178,c,female,number,2002,9
@@ -1373,6 +1442,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 178,c,female,number,2018,17
 178,c,female,number,2019,17
 178,c,female,number,2020,17
+178,c,female,number,2021,17
 180,c,female,number,2004,60
 180,c,female,number,2005,60
 180,c,female,number,2006,60
@@ -1390,6 +1460,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 180,c,female,number,2018,44
 180,c,female,number,2019,50
 180,c,female,number,2020,64
+180,c,female,number,2021,64
 188,c,female,number,2000,11
 188,c,female,number,2001,11
 188,c,female,number,2002,11
@@ -1411,6 +1482,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 188,c,female,number,2018,20
 188,c,female,number,2019,26
 188,c,female,number,2020,26
+188,c,female,number,2021,26
 191,c,female,number,2000,0
 191,c,female,number,2001,31
 191,c,female,number,2002,31
@@ -1432,6 +1504,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 191,c,female,number,2018,28
 191,c,female,number,2019,31
 191,c,female,number,2020,29
+191,c,female,number,2021,47
 192,c,female,number,2000,166
 192,c,female,number,2001,166
 192,c,female,number,2002,166
@@ -1453,6 +1526,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 192,c,female,number,2018,299
 192,c,female,number,2019,322
 192,c,female,number,2020,322
+192,c,female,number,2021,313
 196,c,female,number,2000,3
 196,c,female,number,2001,4
 196,c,female,number,2002,6
@@ -1474,6 +1548,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 196,c,female,number,2018,10
 196,c,female,number,2019,10
 196,c,female,number,2020,11
+196,c,female,number,2021,12
 199,c,female,number,2000,546
 199,c,female,number,2001,581
 199,c,female,number,2002,634
@@ -1495,6 +1570,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 199,c,female,number,2018,1886
 199,c,female,number,2019,1922
 199,c,female,number,2020,1851
+199,c,female,number,2021,1895
 202,c,female,number,2000,689
 202,c,female,number,2001,744
 202,c,female,number,2002,788
@@ -1516,6 +1592,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 202,c,female,number,2018,2058
 202,c,female,number,2019,2092
 202,c,female,number,2020,2097
+202,c,female,number,2021,2149
 203,c,female,number,2000,30
 203,c,female,number,2001,30
 203,c,female,number,2002,30
@@ -1537,6 +1614,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 203,c,female,number,2018,44
 203,c,female,number,2019,45
 203,c,female,number,2020,45
+203,c,female,number,2021,46
 204,c,female,number,2000,5
 204,c,female,number,2001,5
 204,c,female,number,2002,5
@@ -1558,6 +1636,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 204,c,female,number,2018,6
 204,c,female,number,2019,6
 204,c,female,number,2020,6
+204,c,female,number,2021,7
 208,c,female,number,2000,67
 208,c,female,number,2001,67
 208,c,female,number,2002,68
@@ -1579,6 +1658,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 208,c,female,number,2018,67
 208,c,female,number,2019,67
 208,c,female,number,2020,71
+208,c,female,number,2021,71
 212,c,female,number,2000,6
 212,c,female,number,2001,6
 212,c,female,number,2002,6
@@ -1600,6 +1680,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 212,c,female,number,2018,8
 212,c,female,number,2019,8
 212,c,female,number,2020,8
+212,c,female,number,2021,11
 214,c,female,number,2000,24
 214,c,female,number,2001,24
 214,c,female,number,2002,24
@@ -1621,6 +1702,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 214,c,female,number,2018,51
 214,c,female,number,2019,51
 214,c,female,number,2020,53
+214,c,female,number,2021,53
 218,c,female,number,2000,21
 218,c,female,number,2001,18
 218,c,female,number,2002,18
@@ -1642,6 +1724,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 218,c,female,number,2018,52
 218,c,female,number,2019,52
 218,c,female,number,2020,54
+218,c,female,number,2021,54
 222,c,female,number,2000,14
 222,c,female,number,2001,8
 222,c,female,number,2002,8
@@ -1663,6 +1746,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 222,c,female,number,2018,27
 222,c,female,number,2019,26
 222,c,female,number,2020,28
+222,c,female,number,2021,28
 226,c,female,number,2000,4
 226,c,female,number,2001,4
 226,c,female,number,2002,4
@@ -1684,6 +1768,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 226,c,female,number,2018,20
 226,c,female,number,2019,20
 226,c,female,number,2020,21
+226,c,female,number,2021,23
 231,c,female,number,2000,11
 231,c,female,number,2001,42
 231,c,female,number,2002,42
@@ -1705,6 +1790,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 231,c,female,number,2018,212
 231,c,female,number,2019,212
 231,c,female,number,2020,212
+231,c,female,number,2021,212
 232,c,female,number,2000,22
 232,c,female,number,2001,22
 232,c,female,number,2002,22
@@ -1746,6 +1832,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 233,c,female,number,2018,27
 233,c,female,number,2019,29
 233,c,female,number,2020,29
+233,c,female,number,2021,28
 242,c,female,number,2000,8
 242,c,female,number,2002,4
 242,c,female,number,2003,4
@@ -1758,6 +1845,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 242,c,female,number,2018,8
 242,c,female,number,2019,10
 242,c,female,number,2020,10
+242,c,female,number,2021,11
 246,c,female,number,2000,74
 246,c,female,number,2001,73
 246,c,female,number,2002,73
@@ -1779,6 +1867,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 246,c,female,number,2018,84
 246,c,female,number,2019,83
 246,c,female,number,2020,92
+246,c,female,number,2021,92
 250,c,female,number,2000,63
 250,c,female,number,2001,63
 250,c,female,number,2002,63
@@ -1800,6 +1889,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 250,c,female,number,2018,225
 250,c,female,number,2019,229
 250,c,female,number,2020,228
+250,c,female,number,2021,228
 262,c,female,number,2000,0
 262,c,female,number,2001,0
 262,c,female,number,2002,0
@@ -1821,6 +1911,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 262,c,female,number,2018,7
 262,c,female,number,2019,17
 262,c,female,number,2020,17
+262,c,female,number,2021,17
 266,c,female,number,2000,10
 266,c,female,number,2001,11
 266,c,female,number,2003,11
@@ -1841,6 +1932,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 266,c,female,number,2018,20
 266,c,female,number,2019,24
 266,c,female,number,2020,21
+266,c,female,number,2021,23
 268,c,female,number,2000,17
 268,c,female,number,2001,17
 268,c,female,number,2002,17
@@ -1862,6 +1954,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 268,c,female,number,2018,24
 268,c,female,number,2019,22
 268,c,female,number,2020,21
+268,c,female,number,2021,31
 270,c,female,number,2000,1
 270,c,female,number,2001,1
 270,c,female,number,2002,7
@@ -1883,6 +1976,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 270,c,female,number,2018,6
 270,c,female,number,2019,6
 270,c,female,number,2020,5
+270,c,female,number,2021,5
 276,c,female,number,2000,207
 276,c,female,number,2001,207
 276,c,female,number,2002,211
@@ -1904,6 +1998,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 276,c,female,number,2018,218
 276,c,female,number,2019,219
 276,c,female,number,2020,221
+276,c,female,number,2021,223
 288,c,female,number,2000,18
 288,c,female,number,2001,18
 288,c,female,number,2002,18
@@ -1925,6 +2020,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 288,c,female,number,2018,35
 288,c,female,number,2019,36
 288,c,female,number,2020,36
+288,c,female,number,2021,40
 296,c,female,number,2000,2
 296,c,female,number,2001,2
 296,c,female,number,2002,2
@@ -1946,6 +2042,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 296,c,female,number,2018,3
 296,c,female,number,2019,3
 296,c,female,number,2020,3
+296,c,female,number,2021,3
 300,c,female,number,2000,19
 300,c,female,number,2001,26
 300,c,female,number,2002,26
@@ -1967,6 +2064,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 300,c,female,number,2018,55
 300,c,female,number,2019,56
 300,c,female,number,2020,62
+300,c,female,number,2021,65
 308,c,female,number,2000,4
 308,c,female,number,2001,4
 308,c,female,number,2002,4
@@ -1988,6 +2086,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 308,c,female,number,2018,5
 308,c,female,number,2019,7
 308,c,female,number,2020,7
+308,c,female,number,2021,7
 320,c,female,number,2000,8
 320,c,female,number,2001,10
 320,c,female,number,2002,10
@@ -2009,6 +2108,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 320,c,female,number,2018,20
 320,c,female,number,2019,30
 320,c,female,number,2020,30
+320,c,female,number,2021,31
 324,c,female,number,2000,10
 324,c,female,number,2001,10
 324,c,female,number,2002,10
@@ -2025,6 +2125,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 324,c,female,number,2018,25
 324,c,female,number,2019,26
 324,c,female,number,2020,26
+324,c,female,number,2021,19
 328,c,female,number,2000,12
 328,c,female,number,2001,12
 328,c,female,number,2002,13
@@ -2046,6 +2147,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 328,c,female,number,2018,22
 328,c,female,number,2019,22
 328,c,female,number,2020,24
+328,c,female,number,2021,25
 332,c,female,number,2000,3
 332,c,female,number,2001,3
 332,c,female,number,2002,3
@@ -2088,6 +2190,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 340,c,female,number,2018,27
 340,c,female,number,2019,27
 340,c,female,number,2020,27
+340,c,female,number,2021,27
 348,c,female,number,2000,32
 348,c,female,number,2001,32
 348,c,female,number,2002,32
@@ -2109,6 +2212,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 348,c,female,number,2018,20
 348,c,female,number,2019,25
 348,c,female,number,2020,24
+348,c,female,number,2021,25
 352,c,female,number,2000,22
 352,c,female,number,2001,22
 352,c,female,number,2002,22
@@ -2130,6 +2234,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 352,c,female,number,2018,24
 352,c,female,number,2019,24
 352,c,female,number,2020,24
+352,c,female,number,2021,25
 356,c,female,number,2000,49
 356,c,female,number,2001,49
 356,c,female,number,2002,48
@@ -2151,6 +2256,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 356,c,female,number,2018,64
 356,c,female,number,2019,66
 356,c,female,number,2020,78
+356,c,female,number,2021,78
 360,c,female,number,2000,40
 360,c,female,number,2001,40
 360,c,female,number,2002,40
@@ -2172,6 +2278,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 360,c,female,number,2018,111
 360,c,female,number,2019,102
 360,c,female,number,2020,117
+360,c,female,number,2021,121
 364,c,female,number,2000,13
 364,c,female,number,2001,10
 364,c,female,number,2002,10
@@ -2193,6 +2300,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 364,c,female,number,2018,17
 364,c,female,number,2019,17
 364,c,female,number,2020,17
+364,c,female,number,2021,16
 368,c,female,number,2000,16
 368,c,female,number,2001,19
 368,c,female,number,2002,19
@@ -2212,6 +2320,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 368,c,female,number,2018,83
 368,c,female,number,2019,83
 368,c,female,number,2020,87
+368,c,female,number,2021,87
 372,c,female,number,2000,20
 372,c,female,number,2001,20
 372,c,female,number,2002,20
@@ -2233,6 +2342,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 372,c,female,number,2018,35
 372,c,female,number,2019,35
 372,c,female,number,2020,33
+372,c,female,number,2021,36
 376,c,female,number,2000,14
 376,c,female,number,2001,15
 376,c,female,number,2002,16
@@ -2254,6 +2364,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 376,c,female,number,2018,33
 376,c,female,number,2019,35
 376,c,female,number,2020,28
+376,c,female,number,2021,32
 380,c,female,number,2000,70
 380,c,female,number,2001,70
 380,c,female,number,2002,62
@@ -2275,6 +2386,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 380,c,female,number,2018,195
 380,c,female,number,2019,225
 380,c,female,number,2020,225
+380,c,female,number,2021,225
 384,c,female,number,2000,19
 384,c,female,number,2001,19
 384,c,female,number,2002,19
@@ -2296,6 +2408,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 384,c,female,number,2018,27
 384,c,female,number,2019,28
 384,c,female,number,2020,30
+384,c,female,number,2021,29
 388,c,female,number,2000,8
 388,c,female,number,2001,8
 388,c,female,number,2002,8
@@ -2317,6 +2430,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 388,c,female,number,2018,11
 388,c,female,number,2019,11
 388,c,female,number,2020,11
+388,c,female,number,2021,18
 392,c,female,number,2000,23
 392,c,female,number,2001,35
 392,c,female,number,2002,35
@@ -2338,6 +2452,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 392,c,female,number,2018,47
 392,c,female,number,2019,47
 392,c,female,number,2020,46
+392,c,female,number,2021,46
 398,c,female,number,2000,8
 398,c,female,number,2001,8
 398,c,female,number,2002,8
@@ -2359,6 +2474,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 398,c,female,number,2018,29
 398,c,female,number,2019,29
 398,c,female,number,2020,29
+398,c,female,number,2021,29
 400,c,female,number,2000,0
 400,c,female,number,2001,0
 400,c,female,number,2002,1
@@ -2380,6 +2496,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 400,c,female,number,2018,20
 400,c,female,number,2019,20
 400,c,female,number,2020,20
+400,c,female,number,2021,15
 404,c,female,number,2000,8
 404,c,female,number,2001,8
 404,c,female,number,2002,8
@@ -2401,6 +2518,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 404,c,female,number,2018,76
 404,c,female,number,2019,76
 404,c,female,number,2020,76
+404,c,female,number,2021,75
 408,c,female,number,2000,138
 408,c,female,number,2001,138
 408,c,female,number,2002,138
@@ -2421,6 +2539,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 408,c,female,number,2018,112
 408,c,female,number,2019,112
 408,c,female,number,2020,121
+408,c,female,number,2021,121
 410,c,female,number,2000,11
 410,c,female,number,2001,16
 410,c,female,number,2002,16
@@ -2442,6 +2561,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 410,c,female,number,2018,51
 410,c,female,number,2019,51
 410,c,female,number,2020,51
+410,c,female,number,2021,57
 414,c,female,number,2000,0
 414,c,female,number,2001,0
 414,c,female,number,2002,0
@@ -2463,6 +2583,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 414,c,female,number,2018,2
 414,c,female,number,2019,3
 414,c,female,number,2020,4
+414,c,female,number,2021,1
 417,c,female,number,2000,1
 417,c,female,number,2001,1
 417,c,female,number,2002,6
@@ -2484,6 +2605,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 417,c,female,number,2018,23
 417,c,female,number,2019,23
 417,c,female,number,2020,23
+417,c,female,number,2021,20
 418,c,female,number,2000,21
 418,c,female,number,2001,21
 418,c,female,number,2002,21
@@ -2505,6 +2627,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 418,c,female,number,2018,41
 418,c,female,number,2019,41
 418,c,female,number,2020,41
+418,c,female,number,2021,41
 419,c,female,number,2000,625
 419,c,female,number,2001,599
 419,c,female,number,2002,640
@@ -2526,6 +2649,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 419,c,female,number,2018,1221
 419,c,female,number,2019,1354
 419,c,female,number,2020,1372
+419,c,female,number,2021,2738
 422,c,female,number,2000,3
 422,c,female,number,2001,3
 422,c,female,number,2002,3
@@ -2547,6 +2671,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 422,c,female,number,2018,4
 422,c,female,number,2019,6
 422,c,female,number,2020,6
+422,c,female,number,2021,6
 426,c,female,number,2000,3
 426,c,female,number,2001,3
 426,c,female,number,2002,3
@@ -2568,6 +2693,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 426,c,female,number,2018,27
 426,c,female,number,2019,28
 426,c,female,number,2020,28
+426,c,female,number,2021,28
 428,c,female,number,2000,17
 428,c,female,number,2001,17
 428,c,female,number,2002,17
@@ -2589,6 +2715,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 428,c,female,number,2018,16
 428,c,female,number,2019,31
 428,c,female,number,2020,30
+428,c,female,number,2021,29
 430,c,female,number,2000,5
 430,c,female,number,2001,5
 430,c,female,number,2002,5
@@ -2610,6 +2737,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 430,c,female,number,2018,7
 430,c,female,number,2019,9
 430,c,female,number,2020,9
+430,c,female,number,2021,8
 432,c,female,number,2000,323
 432,c,female,number,2001,381
 432,c,female,number,2002,436
@@ -2631,6 +2759,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 432,c,female,number,2018,1283
 432,c,female,number,2019,1329
 432,c,female,number,2020,1438
+432,c,female,number,2021,1454
 434,c,female,number,2006,36
 434,c,female,number,2007,36
 434,c,female,number,2008,36
@@ -2646,6 +2775,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 434,c,female,number,2018,30
 434,c,female,number,2019,30
 434,c,female,number,2020,30
+434,c,female,number,2021,30
 438,c,female,number,2000,1
 438,c,female,number,2001,1
 438,c,female,number,2002,3
@@ -2667,6 +2797,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 438,c,female,number,2018,3
 438,c,female,number,2019,3
 438,c,female,number,2020,3
+438,c,female,number,2021,3
 440,c,female,number,2000,24
 440,c,female,number,2001,15
 440,c,female,number,2002,15
@@ -2688,6 +2819,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 440,c,female,number,2018,30
 440,c,female,number,2019,30
 440,c,female,number,2020,34
+440,c,female,number,2021,39
 442,c,female,number,2000,10
 442,c,female,number,2001,10
 442,c,female,number,2002,10
@@ -2709,6 +2841,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 442,c,female,number,2018,17
 442,c,female,number,2019,15
 442,c,female,number,2020,18
+442,c,female,number,2021,19
 450,c,female,number,2000,12
 450,c,female,number,2001,12
 450,c,female,number,2002,12
@@ -2729,6 +2862,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 450,c,female,number,2018,29
 450,c,female,number,2019,29
 450,c,female,number,2020,24
+450,c,female,number,2021,27
 454,c,female,number,2000,16
 454,c,female,number,2001,18
 454,c,female,number,2002,18
@@ -2750,6 +2884,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 454,c,female,number,2018,32
 454,c,female,number,2019,32
 454,c,female,number,2020,44
+454,c,female,number,2021,44
 458,c,female,number,2000,14
 458,c,female,number,2001,20
 458,c,female,number,2002,20
@@ -2771,6 +2906,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 458,c,female,number,2018,23
 458,c,female,number,2019,32
 458,c,female,number,2020,32
+458,c,female,number,2021,33
 462,c,female,number,2000,3
 462,c,female,number,2001,3
 462,c,female,number,2002,3
@@ -2792,6 +2928,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 462,c,female,number,2018,5
 462,c,female,number,2019,4
 462,c,female,number,2020,4
+462,c,female,number,2021,4
 466,c,female,number,2000,18
 466,c,female,number,2001,18
 466,c,female,number,2002,18
@@ -2813,6 +2950,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 466,c,female,number,2018,13
 466,c,female,number,2019,13
 466,c,female,number,2020,14
+466,c,female,number,2021,33
 470,c,female,number,2000,6
 470,c,female,number,2001,6
 470,c,female,number,2002,6
@@ -2834,6 +2972,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 470,c,female,number,2018,8
 470,c,female,number,2019,8
 470,c,female,number,2020,9
+470,c,female,number,2021,9
 478,c,female,number,2000,3
 478,c,female,number,2001,3
 478,c,female,number,2002,3
@@ -2854,6 +2993,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 478,c,female,number,2018,37
 478,c,female,number,2019,31
 478,c,female,number,2020,31
+478,c,female,number,2021,31
 480,c,female,number,2000,5
 480,c,female,number,2001,4
 480,c,female,number,2002,4
@@ -2875,6 +3015,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 480,c,female,number,2018,8
 480,c,female,number,2019,8
 480,c,female,number,2020,14
+480,c,female,number,2021,14
 484,c,female,number,2000,91
 484,c,female,number,2001,80
 484,c,female,number,2002,80
@@ -2896,6 +3037,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 484,c,female,number,2018,213
 484,c,female,number,2019,241
 484,c,female,number,2020,241
+484,c,female,number,2021,241
 485,c,female,number,2000,70
 485,c,female,number,2001,73
 485,c,female,number,2002,74
@@ -2916,6 +3058,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 485,c,female,number,2017,266
 485,c,female,number,2018,269
 485,c,female,number,2019,300
+485,c,female,number,2021,304
 492,c,female,number,2000,4
 492,c,female,number,2001,4
 492,c,female,number,2002,4
@@ -2937,6 +3080,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 492,c,female,number,2018,5
 492,c,female,number,2019,8
 492,c,female,number,2020,8
+492,c,female,number,2021,8
 496,c,female,number,2000,6
 496,c,female,number,2001,8
 496,c,female,number,2002,8
@@ -2958,6 +3102,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 496,c,female,number,2018,13
 496,c,female,number,2019,13
 496,c,female,number,2020,13
+496,c,female,number,2021,13
 498,c,female,number,2000,9
 498,c,female,number,2001,8
 498,c,female,number,2002,13
@@ -2979,6 +3124,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 498,c,female,number,2018,23
 498,c,female,number,2019,23
 498,c,female,number,2020,25
+498,c,female,number,2021,25
 499,c,female,number,2007,7
 499,c,female,number,2008,9
 499,c,female,number,2009,9
@@ -2993,6 +3139,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 499,c,female,number,2018,19
 499,c,female,number,2019,19
 499,c,female,number,2020,24
+499,c,female,number,2021,20
 504,c,female,number,2000,2
 504,c,female,number,2001,2
 504,c,female,number,2002,2
@@ -3014,6 +3161,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 504,c,female,number,2018,81
 504,c,female,number,2019,81
 504,c,female,number,2020,81
+504,c,female,number,2021,81
 508,c,female,number,2000,75
 508,c,female,number,2001,75
 508,c,female,number,2002,75
@@ -3035,6 +3183,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 508,c,female,number,2018,99
 508,c,female,number,2019,99
 508,c,female,number,2020,103
+508,c,female,number,2021,106
 512,c,female,number,2005,2
 512,c,female,number,2006,2
 512,c,female,number,2007,2
@@ -3051,6 +3200,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 512,c,female,number,2018,1
 512,c,female,number,2019,1
 512,c,female,number,2020,2
+512,c,female,number,2021,2
 513,c,female,number,2000,1697
 513,c,female,number,2001,1759
 513,c,female,number,2002,1850
@@ -3072,6 +3222,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 513,c,female,number,2018,2886
 513,c,female,number,2019,2989
 513,c,female,number,2020,3144
+513,c,female,number,2021,3198
 514,c,female,number,2000,1805
 514,c,female,number,2001,1884
 514,c,female,number,2002,1982
@@ -3093,7 +3244,9 @@ geo_area,nature,sex,units,year,sg_gen_parln
 514,c,female,number,2018,3065
 514,c,female,number,2019,3174
 514,c,female,number,2020,3324
+514,c,female,number,2021,3393
 515,c,female,number,2020,6358
+515,c,female,number,2021,6515
 516,c,female,number,2000,16
 516,c,female,number,2001,18
 516,c,female,number,2002,18
@@ -3115,6 +3268,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 516,c,female,number,2018,48
 516,c,female,number,2019,48
 516,c,female,number,2020,41
+516,c,female,number,2021,46
 518,c,female,number,2000,805
 518,c,female,number,2001,812
 518,c,female,number,2002,812
@@ -3135,6 +3289,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 518,c,female,number,2017,875
 518,c,female,number,2018,885
 518,c,female,number,2019,918
+518,c,female,number,2021,933
 520,c,female,number,2000,0
 520,c,female,number,2001,0
 520,c,female,number,2002,0
@@ -3156,6 +3311,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 520,c,female,number,2018,2
 520,c,female,number,2019,2
 520,c,female,number,2020,2
+520,c,female,number,2021,2
 524,c,female,number,2000,12
 524,c,female,number,2001,12
 524,c,female,number,2002,12
@@ -3173,6 +3329,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 524,c,female,number,2018,90
 524,c,female,number,2019,90
 524,c,female,number,2020,90
+524,c,female,number,2021,90
 528,c,female,number,2000,54
 528,c,female,number,2001,54
 528,c,female,number,2002,54
@@ -3194,6 +3351,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 528,c,female,number,2018,54
 528,c,female,number,2019,47
 528,c,female,number,2020,50
+528,c,female,number,2021,50
 543,c,female,number,2000,18
 543,c,female,number,2001,10
 543,c,female,number,2002,12
@@ -3215,6 +3373,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 543,c,female,number,2018,27
 543,c,female,number,2019,29
 543,c,female,number,2020,30
+543,c,female,number,2021,62
 548,c,female,number,2000,0
 548,c,female,number,2001,0
 548,c,female,number,2002,0
@@ -3236,6 +3395,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 548,c,female,number,2018,0
 548,c,female,number,2019,0
 548,c,female,number,2020,0
+548,c,female,number,2021,0
 554,c,female,number,2000,35
 554,c,female,number,2001,37
 554,c,female,number,2002,37
@@ -3257,6 +3417,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 554,c,female,number,2018,46
 554,c,female,number,2019,48
 554,c,female,number,2020,49
+554,c,female,number,2021,58
 558,c,female,number,2000,9
 558,c,female,number,2001,9
 558,c,female,number,2002,19
@@ -3278,6 +3439,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 558,c,female,number,2018,42
 558,c,female,number,2019,41
 558,c,female,number,2020,43
+558,c,female,number,2021,44
 562,c,female,number,2000,1
 562,c,female,number,2001,1
 562,c,female,number,2002,1
@@ -3298,6 +3460,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 562,c,female,number,2018,29
 562,c,female,number,2019,29
 562,c,female,number,2020,29
+562,c,female,number,2021,43
 566,c,female,number,2001,12
 566,c,female,number,2002,12
 566,c,female,number,2003,12
@@ -3318,6 +3481,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 566,c,female,number,2018,20
 566,c,female,number,2019,20
 566,c,female,number,2020,12
+566,c,female,number,2021,21
 578,c,female,number,2000,60
 578,c,female,number,2001,60
 578,c,female,number,2002,59
@@ -3339,6 +3503,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 578,c,female,number,2018,70
 578,c,female,number,2019,69
 578,c,female,number,2020,70
+578,c,female,number,2021,75
 583,c,female,number,2000,0
 583,c,female,number,2001,0
 583,c,female,number,2002,0
@@ -3360,6 +3525,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 583,c,female,number,2018,0
 583,c,female,number,2019,0
 583,c,female,number,2020,0
+583,c,female,number,2021,0
 584,c,female,number,2000,1
 584,c,female,number,2001,1
 584,c,female,number,2002,1
@@ -3381,6 +3547,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 584,c,female,number,2018,3
 584,c,female,number,2019,3
 584,c,female,number,2020,2
+584,c,female,number,2021,2
 585,c,female,number,2000,0
 585,c,female,number,2001,0
 585,c,female,number,2002,0
@@ -3402,6 +3569,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 585,c,female,number,2018,2
 585,c,female,number,2019,2
 585,c,female,number,2020,2
+585,c,female,number,2021,1
 586,c,female,number,2003,74
 586,c,female,number,2004,74
 586,c,female,number,2005,73
@@ -3420,6 +3588,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 586,c,female,number,2018,70
 586,c,female,number,2019,69
 586,c,female,number,2020,69
+586,c,female,number,2021,69
 591,c,female,number,2000,7
 591,c,female,number,2001,7
 591,c,female,number,2002,7
@@ -3441,6 +3610,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 591,c,female,number,2018,13
 591,c,female,number,2019,13
 591,c,female,number,2020,16
+591,c,female,number,2021,16
 598,c,female,number,2000,2
 598,c,female,number,2001,2
 598,c,female,number,2002,2
@@ -3462,6 +3632,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 598,c,female,number,2018,0
 598,c,female,number,2019,0
 598,c,female,number,2020,0
+598,c,female,number,2021,0
 600,c,female,number,2000,2
 600,c,female,number,2001,2
 600,c,female,number,2002,2
@@ -3483,6 +3654,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 600,c,female,number,2018,11
 600,c,female,number,2019,12
 600,c,female,number,2020,13
+600,c,female,number,2021,12
 604,c,female,number,2000,13
 604,c,female,number,2001,24
 604,c,female,number,2002,22
@@ -3504,6 +3676,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 604,c,female,number,2018,36
 604,c,female,number,2019,39
 604,c,female,number,2020,39
+604,c,female,number,2021,34
 608,c,female,number,2000,27
 608,c,female,number,2001,25
 608,c,female,number,2002,38
@@ -3525,6 +3698,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 608,c,female,number,2018,86
 608,c,female,number,2019,86
 608,c,female,number,2020,85
+608,c,female,number,2021,85
 616,c,female,number,2000,60
 616,c,female,number,2001,60
 616,c,female,number,2002,93
@@ -3546,6 +3720,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 616,c,female,number,2018,129
 616,c,female,number,2019,134
 616,c,female,number,2020,132
+616,c,female,number,2021,130
 620,c,female,number,2000,43
 620,c,female,number,2001,40
 620,c,female,number,2002,43
@@ -3567,6 +3742,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 620,c,female,number,2018,80
 620,c,female,number,2019,82
 620,c,female,number,2020,92
+620,c,female,number,2021,92
 624,c,female,number,2000,8
 624,c,female,number,2001,8
 624,c,female,number,2002,8
@@ -3587,6 +3763,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 624,c,female,number,2018,14
 624,c,female,number,2019,14
 624,c,female,number,2020,14
+624,c,female,number,2021,14
 626,c,female,number,2003,23
 626,c,female,number,2004,23
 626,c,female,number,2005,22
@@ -3605,6 +3782,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 626,c,female,number,2018,21
 626,c,female,number,2019,26
 626,c,female,number,2020,25
+626,c,female,number,2021,25
 634,c,female,number,2006,0
 634,c,female,number,2007,0
 634,c,female,number,2008,0
@@ -3620,6 +3798,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 634,c,female,number,2018,4
 634,c,female,number,2019,4
 634,c,female,number,2020,4
+634,c,female,number,2021,4
 642,c,female,number,2000,25
 642,c,female,number,2001,37
 642,c,female,number,2002,37
@@ -3641,6 +3820,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 642,c,female,number,2018,68
 642,c,female,number,2019,68
 642,c,female,number,2020,72
+642,c,female,number,2021,61
 643,c,female,number,2000,34
 643,c,female,number,2001,34
 643,c,female,number,2002,34
@@ -3662,6 +3842,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 643,c,female,number,2018,71
 643,c,female,number,2019,71
 643,c,female,number,2020,71
+643,c,female,number,2021,71
 646,c,female,number,2000,12
 646,c,female,number,2001,18
 646,c,female,number,2002,19
@@ -3683,6 +3864,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 646,c,female,number,2018,49
 646,c,female,number,2019,49
 646,c,female,number,2020,49
+646,c,female,number,2021,49
 659,c,female,number,2000,2
 659,c,female,number,2001,2
 659,c,female,number,2002,2
@@ -3704,6 +3886,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 659,c,female,number,2018,2
 659,c,female,number,2019,2
 659,c,female,number,2020,3
+659,c,female,number,2021,4
 662,c,female,number,2000,2
 662,c,female,number,2001,2
 662,c,female,number,2002,2
@@ -3725,6 +3908,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 662,c,female,number,2018,3
 662,c,female,number,2019,3
 662,c,female,number,2020,3
+662,c,female,number,2021,3
 670,c,female,number,2000,1
 670,c,female,number,2001,1
 670,c,female,number,2002,5
@@ -3746,6 +3930,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 670,c,female,number,2018,3
 670,c,female,number,2019,3
 670,c,female,number,2020,3
+670,c,female,number,2021,4
 674,c,female,number,2000,8
 674,c,female,number,2001,8
 674,c,female,number,2002,10
@@ -3767,6 +3952,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 674,c,female,number,2018,16
 674,c,female,number,2019,15
 674,c,female,number,2020,19
+674,c,female,number,2021,20
 678,c,female,number,2000,5
 678,c,female,number,2001,5
 678,c,female,number,2002,5
@@ -3788,6 +3974,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 678,c,female,number,2018,10
 678,c,female,number,2019,8
 678,c,female,number,2020,8
+678,c,female,number,2021,13
 682,c,female,number,2004,0
 682,c,female,number,2005,0
 682,c,female,number,2006,0
@@ -3805,6 +3992,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 682,c,female,number,2018,30
 682,c,female,number,2019,30
 682,c,female,number,2020,30
+682,c,female,number,2021,30
 686,c,female,number,2000,17
 686,c,female,number,2001,17
 686,c,female,number,2002,20
@@ -3826,6 +4014,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 686,c,female,number,2018,69
 686,c,female,number,2019,69
 686,c,female,number,2020,71
+686,c,female,number,2021,71
 688,c,female,number,2007,51
 688,c,female,number,2008,51
 688,c,female,number,2009,54
@@ -3840,6 +4029,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 688,c,female,number,2018,86
 688,c,female,number,2019,93
 688,c,female,number,2020,93
+688,c,female,number,2021,98
 690,c,female,number,2000,8
 690,c,female,number,2001,8
 690,c,female,number,2002,8
@@ -3861,6 +4051,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 690,c,female,number,2018,7
 690,c,female,number,2019,7
 690,c,female,number,2020,7
+690,c,female,number,2021,8
 694,c,female,number,2000,7
 694,c,female,number,2001,7
 694,c,female,number,2002,7
@@ -3882,6 +4073,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 694,c,female,number,2018,15
 694,c,female,number,2019,18
 694,c,female,number,2020,18
+694,c,female,number,2021,18
 702,c,female,number,2000,4
 702,c,female,number,2001,6
 702,c,female,number,2002,10
@@ -3903,6 +4095,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 702,c,female,number,2018,23
 702,c,female,number,2019,23
 702,c,female,number,2020,24
+702,c,female,number,2021,28
 703,c,female,number,2000,19
 703,c,female,number,2001,21
 703,c,female,number,2002,21
@@ -3924,6 +4117,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 703,c,female,number,2018,30
 703,c,female,number,2019,30
 703,c,female,number,2020,31
+703,c,female,number,2021,34
 704,c,female,number,2000,117
 704,c,female,number,2001,117
 704,c,female,number,2002,117
@@ -3945,6 +4139,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 704,c,female,number,2018,132
 704,c,female,number,2019,132
 704,c,female,number,2020,132
+704,c,female,number,2021,132
 705,c,female,number,2000,7
 705,c,female,number,2001,11
 705,c,female,number,2002,11
@@ -3966,6 +4161,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 705,c,female,number,2018,33
 705,c,female,number,2019,22
 705,c,female,number,2020,25
+705,c,female,number,2021,24
 706,c,female,number,2006,22
 706,c,female,number,2007,21
 706,c,female,number,2008,21
@@ -3980,6 +4176,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 706,c,female,number,2018,67
 706,c,female,number,2019,67
 706,c,female,number,2020,67
+706,c,female,number,2021,67
 710,c,female,number,2000,120
 710,c,female,number,2001,119
 710,c,female,number,2002,119
@@ -4001,6 +4198,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 710,c,female,number,2018,167
 710,c,female,number,2019,168
 710,c,female,number,2020,184
+710,c,female,number,2021,182
 716,c,female,number,2000,21
 716,c,female,number,2001,14
 716,c,female,number,2002,15
@@ -4022,6 +4220,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 716,c,female,number,2018,83
 716,c,female,number,2019,86
 716,c,female,number,2020,86
+716,c,female,number,2021,86
 722,c,female,number,2000,311
 722,c,female,number,2001,298
 722,c,female,number,2002,318
@@ -4043,6 +4242,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 722,c,female,number,2018,582
 722,c,female,number,2019,614
 722,c,female,number,2020,628
+722,c,female,number,2021,641
 724,c,female,number,2000,75
 724,c,female,number,2001,99
 724,c,female,number,2002,99
@@ -4064,6 +4264,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 724,c,female,number,2018,137
 724,c,female,number,2019,144
 724,c,female,number,2020,154
+724,c,female,number,2021,154
 728,c,female,number,2012,88
 728,c,female,number,2013,88
 728,c,female,number,2014,88
@@ -4073,6 +4274,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 728,c,female,number,2018,109
 728,c,female,number,2019,109
 728,c,female,number,2020,109
+728,c,female,number,2021,109
 729,c,female,number,2012,87
 729,c,female,number,2013,87
 729,c,female,number,2014,86
@@ -4113,6 +4315,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 738,c,female,number,2017,2190
 738,c,female,number,2018,2188
 738,c,female,number,2019,2225
+738,c,female,number,2021,2149
 740,c,female,number,2000,8
 740,c,female,number,2001,0
 740,c,female,number,2002,9
@@ -4134,6 +4337,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 740,c,female,number,2018,13
 740,c,female,number,2019,15
 740,c,female,number,2020,16
+740,c,female,number,2021,15
 746,c,female,number,2000,35
 746,c,female,number,2001,36
 746,c,female,number,2002,36
@@ -4154,6 +4358,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 746,c,female,number,2017,414
 746,c,female,number,2018,387
 746,c,female,number,2019,397
+746,c,female,number,2021,450
 747,c,female,number,2000,191
 747,c,female,number,2001,197
 747,c,female,number,2002,201
@@ -4175,6 +4380,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 747,c,female,number,2018,893
 747,c,female,number,2019,949
 747,c,female,number,2020,798
+747,c,female,number,2021,881
 748,c,female,number,2000,2
 748,c,female,number,2001,2
 748,c,female,number,2002,2
@@ -4196,6 +4402,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 748,c,female,number,2018,4
 748,c,female,number,2019,5
 748,c,female,number,2020,7
+748,c,female,number,2021,7
 752,c,female,number,2000,149
 752,c,female,number,2001,149
 752,c,female,number,2002,149
@@ -4217,6 +4424,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 752,c,female,number,2018,152
 752,c,female,number,2019,165
 752,c,female,number,2020,164
+752,c,female,number,2021,164
 753,c,female,number,2000,1083
 753,c,female,number,2001,1131
 753,c,female,number,2002,1148
@@ -4238,6 +4446,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 753,c,female,number,2018,1453
 753,c,female,number,2019,1497
 753,c,female,number,2020,1586
+753,c,female,number,2021,1616
 756,c,female,number,2000,45
 756,c,female,number,2001,46
 756,c,female,number,2002,46
@@ -4259,6 +4468,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 756,c,female,number,2018,65
 756,c,female,number,2019,65
 756,c,female,number,2020,83
+756,c,female,number,2021,84
 760,c,female,number,2000,26
 760,c,female,number,2001,26
 760,c,female,number,2002,26
@@ -4280,6 +4490,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 760,c,female,number,2018,33
 760,c,female,number,2019,33
 760,c,female,number,2020,31
+760,c,female,number,2021,28
 762,c,female,number,2000,5
 762,c,female,number,2001,9
 762,c,female,number,2002,8
@@ -4301,6 +4512,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 762,c,female,number,2018,12
 762,c,female,number,2019,12
 762,c,female,number,2020,12
+762,c,female,number,2021,15
 764,c,female,number,2000,22
 764,c,female,number,2001,46
 764,c,female,number,2002,46
@@ -4322,6 +4534,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 764,c,female,number,2018,12
 764,c,female,number,2019,13
 764,c,female,number,2020,81
+764,c,female,number,2021,77
 768,c,female,number,2000,4
 768,c,female,number,2001,4
 768,c,female,number,2002,4
@@ -4343,6 +4556,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 768,c,female,number,2018,16
 768,c,female,number,2019,15
 768,c,female,number,2020,17
+768,c,female,number,2021,17
 776,c,female,number,2000,0
 776,c,female,number,2001,0
 776,c,female,number,2002,0
@@ -4364,6 +4578,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 776,c,female,number,2018,2
 776,c,female,number,2019,2
 776,c,female,number,2020,2
+776,c,female,number,2021,2
 780,c,female,number,2000,4
 780,c,female,number,2001,6
 780,c,female,number,2002,6
@@ -4385,6 +4600,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 780,c,female,number,2018,13
 780,c,female,number,2019,13
 780,c,female,number,2020,13
+780,c,female,number,2021,11
 784,c,female,number,2000,0
 784,c,female,number,2001,0
 784,c,female,number,2002,0
@@ -4406,6 +4622,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 784,c,female,number,2018,9
 784,c,female,number,2019,9
 784,c,female,number,2020,20
+784,c,female,number,2021,20
 788,c,female,number,2000,21
 788,c,female,number,2001,21
 788,c,female,number,2002,21
@@ -4427,6 +4644,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 788,c,female,number,2018,68
 788,c,female,number,2019,78
 788,c,female,number,2020,54
+788,c,female,number,2021,57
 792,c,female,number,2000,23
 792,c,female,number,2001,23
 792,c,female,number,2002,23
@@ -4448,6 +4666,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 792,c,female,number,2018,80
 792,c,female,number,2019,104
 792,c,female,number,2020,102
+792,c,female,number,2021,104
 795,c,female,number,2000,13
 795,c,female,number,2001,13
 795,c,female,number,2002,13
@@ -4468,6 +4687,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 795,c,female,number,2018,32
 795,c,female,number,2019,31
 795,c,female,number,2020,31
+795,c,female,number,2021,31
 798,c,female,number,2000,0
 798,c,female,number,2001,0
 798,c,female,number,2002,0
@@ -4489,6 +4709,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 798,c,female,number,2018,1
 798,c,female,number,2019,1
 798,c,female,number,2020,1
+798,c,female,number,2021,1
 800,c,female,number,2000,50
 800,c,female,number,2001,50
 800,c,female,number,2002,75
@@ -4510,6 +4731,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 800,c,female,number,2018,154
 800,c,female,number,2019,160
 800,c,female,number,2020,160
+800,c,female,number,2021,160
 804,c,female,number,2000,35
 804,c,female,number,2001,35
 804,c,female,number,2002,35
@@ -4531,6 +4753,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 804,c,female,number,2018,52
 804,c,female,number,2019,49
 804,c,female,number,2020,88
+804,c,female,number,2021,88
 807,c,female,number,2000,9
 807,c,female,number,2001,8
 807,c,female,number,2002,8
@@ -4552,11 +4775,13 @@ geo_area,nature,sex,units,year,sg_gen_parln
 807,c,female,number,2018,45
 807,c,female,number,2019,46
 807,c,female,number,2020,48
+807,c,female,number,2021,47
 818,c,female,number,2016,89
 818,c,female,number,2017,89
 818,c,female,number,2018,89
 818,c,female,number,2019,89
 818,c,female,number,2020,90
+818,c,female,number,2021,162
 826,c,female,number,2000,121
 826,c,female,number,2001,121
 826,c,female,number,2002,118
@@ -4578,6 +4803,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 826,c,female,number,2018,208
 826,c,female,number,2019,208
 826,c,female,number,2020,220
+826,c,female,number,2021,220
 834,c,female,number,2000,61
 834,c,female,number,2001,61
 834,c,female,number,2002,61
@@ -4599,6 +4825,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 834,c,female,number,2018,145
 834,c,female,number,2019,145
 834,c,female,number,2020,145
+834,c,female,number,2021,141
 840,c,female,number,2000,58
 840,c,female,number,2001,61
 840,c,female,number,2002,61
@@ -4620,6 +4847,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 840,c,female,number,2018,84
 840,c,female,number,2019,102
 840,c,female,number,2020,101
+840,c,female,number,2021,118
 854,c,female,number,2000,9
 854,c,female,number,2001,9
 854,c,female,number,2002,9
@@ -4641,6 +4869,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 854,c,female,number,2018,14
 854,c,female,number,2019,17
 854,c,female,number,2020,17
+854,c,female,number,2021,8
 858,c,female,number,2000,12
 858,c,female,number,2001,12
 858,c,female,number,2002,12
@@ -4662,6 +4891,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 858,c,female,number,2018,20
 858,c,female,number,2019,22
 858,c,female,number,2020,21
+858,c,female,number,2021,24
 860,c,female,number,2000,17
 860,c,female,number,2001,18
 860,c,female,number,2002,18
@@ -4683,6 +4913,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 860,c,female,number,2018,24
 860,c,female,number,2019,24
 860,c,female,number,2020,48
+860,c,female,number,2021,48
 862,c,female,number,2000,25
 862,c,female,number,2001,16
 862,c,female,number,2002,16
@@ -4704,6 +4935,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 862,c,female,number,2018,37
 862,c,female,number,2019,37
 862,c,female,number,2020,37
+862,c,female,number,2021,37
 882,c,female,number,2000,4
 882,c,female,number,2001,4
 882,c,female,number,2002,3
@@ -4725,6 +4957,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 882,c,female,number,2018,5
 882,c,female,number,2019,5
 882,c,female,number,2020,5
+882,c,female,number,2021,5
 887,c,female,number,2000,2
 887,c,female,number,2001,2
 887,c,female,number,2002,2
@@ -4746,6 +4979,7 @@ geo_area,nature,sex,units,year,sg_gen_parln
 887,c,female,number,2018,0
 887,c,female,number,2019,1
 887,c,female,number,2020,1
+887,c,female,number,2021,1
 891,c,female,number,2000,7
 891,c,female,number,2002,10
 891,c,female,number,2003,10
@@ -4773,3 +5007,4 @@ geo_area,nature,sex,units,year,sg_gen_parln
 894,c,female,number,2018,30
 894,c,female,number,2019,30
 894,c,female,number,2020,28
+894,c,female,number,2021,28

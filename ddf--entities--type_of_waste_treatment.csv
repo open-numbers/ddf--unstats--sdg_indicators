@@ -1,4 +1,6 @@
 type_of_waste_treatment,name
+compost,COMPOST
 incinrt,INCINRT
 landfil,LANDFIL
+otherwm,OTHERWM
 recycl,RECYCL

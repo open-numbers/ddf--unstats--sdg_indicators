@@ -3,17 +3,21 @@ activity,entity_domain,Activity
 age,entity_domain,Age
 cause_of_death,entity_domain,Cause Of Death
 cities,entity_domain,Cities
+counterpart,entity_domain,Counterpart
 description,string,Description
 disability_status,entity_domain,Disability Status
 education_level,entity_domain,Education Level
 fiscal_intervention_stage,entity_domain,Fiscal Intervention Stage
+food_waste_sector,entity_domain,Food Waste Sector
 freq,entity_domain,Freq
+frequency_of_chlorophyll_a_concentration,entity_domain,Frequency Of Chlorophyll A Concentration
 geo_area,entity_domain,Geo Area
 goal,string,Goal
 grounds_of_discrimination,entity_domain,Grounds Of Discrimination
 hazard_type,entity_domain,Hazard Type
 ihr_capacity,entity_domain,Ihr Capacity
 indicator,string,Indicator
+level_of_requirement,entity_domain,Level Of Requirement
 level_status,entity_domain,Level Status
 location,entity_domain,Location
 migratory_status,entity_domain,Migratory Status
@@ -28,6 +32,7 @@ parliamentary_committees,entity_domain,Parliamentary Committees
 policy_domains,entity_domain,Policy Domains
 policy_instruments,entity_domain,Policy Instruments
 quantile,entity_domain,Quantile
+report_ordinal,entity_domain,Report Ordinal
 sampling_stations,entity_domain,Sampling Stations
 sex,entity_domain,Sex
 substance_use_disorders,entity_domain,Substance Use Disorders
@@ -36,6 +41,7 @@ type_of_occupation,entity_domain,Type Of Occupation
 type_of_product,entity_domain,Type Of Product
 type_of_skill,entity_domain,Type Of Skill
 type_of_speed,entity_domain,Type Of Speed
+type_of_support,entity_domain,Type Of Support
 type_of_waste_treatment,entity_domain,Type Of Waste Treatment
 units,entity_domain,Units
 year,time,Year

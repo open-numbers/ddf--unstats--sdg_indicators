@@ -1,6 +1,6 @@
 geo_area,nature,units,year,sg_haz_cmrmntrl
 1,c,percent,2015,100
-1,c,percent,2020,100
+1,c,percent,2020,99.8
 2,c,percent,2015,100
 2,c,percent,2020,100
 4,c,percent,2015,100
@@ -50,7 +50,7 @@ geo_area,nature,units,year,sg_haz_cmrmntrl
 36,c,percent,2015,100
 36,c,percent,2020,100
 39,c,percent,2015,100
-39,c,percent,2020,100
+39,c,percent,2020,98.67
 40,c,percent,2015,100
 40,c,percent,2020,100
 44,c,percent,2015,100
@@ -110,17 +110,17 @@ geo_area,nature,units,year,sg_haz_cmrmntrl
 140,c,percent,2015,100
 140,c,percent,2020,100
 142,c,percent,2015,100
-142,c,percent,2020,100
+142,c,percent,2020,99.58
 143,c,percent,2015,100
 143,c,percent,2020,100
 144,c,percent,2015,100
 144,c,percent,2020,100
 145,c,percent,2015,100
-145,c,percent,2020,100
+145,c,percent,2020,98.89
 148,c,percent,2015,100
 148,c,percent,2020,100
 150,c,percent,2015,100
-150,c,percent,2020,100
+150,c,percent,2020,99.55
 151,c,percent,2015,100
 151,c,percent,2020,100
 152,c,percent,2015,100
@@ -150,7 +150,7 @@ geo_area,nature,units,year,sg_haz_cmrmntrl
 196,c,percent,2015,100
 196,c,percent,2020,100
 199,c,percent,2015,100
-199,c,percent,2020,100
+199,c,percent,2020,99.58
 202,c,percent,2015,100
 202,c,percent,2020,100
 203,c,percent,2015,100
@@ -305,7 +305,7 @@ geo_area,nature,units,year,sg_haz_cmrmntrl
 512,c,percent,2015,100
 512,c,percent,2020,100
 513,c,percent,2015,100
-513,c,percent,2020,100
+513,c,percent,2020,99.57
 516,c,percent,2015,100
 516,c,percent,2020,100
 520,c,percent,2015,100
@@ -371,7 +371,7 @@ geo_area,nature,units,year,sg_haz_cmrmntrl
 670,c,percent,2015,100
 670,c,percent,2020,100
 674,c,percent,2015,100
-674,c,percent,2020,100
+674,c,percent,2020,80
 678,c,percent,2015,100
 678,c,percent,2020,100
 682,c,percent,2015,100
@@ -409,7 +409,7 @@ geo_area,nature,units,year,sg_haz_cmrmntrl
 740,c,percent,2015,100
 740,c,percent,2020,100
 747,c,percent,2015,100
-747,c,percent,2020,100
+747,c,percent,2020,99.17
 748,c,percent,2015,100
 748,c,percent,2020,100
 752,c,percent,2015,100
@@ -465,6 +465,6 @@ geo_area,nature,units,year,sg_haz_cmrmntrl
 882,c,percent,2015,100
 882,c,percent,2020,100
 887,c,percent,2015,100
-887,c,percent,2020,100
+887,c,percent,2020,80
 894,c,percent,2015,100
 894,c,percent,2020,100

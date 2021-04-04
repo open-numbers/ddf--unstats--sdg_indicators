@@ -25,6 +25,7 @@ geo_area,nature,units,year,en_scp_fshgdp
 4,n,percent,2015,N
 4,n,percent,2016,N
 4,n,percent,2017,N
+4,n,percent,2018,N
 5,ca,percent,2011,0.15977
 5,ca,percent,2013,0.15864
 5,ca,percent,2015,0.09876
@@ -75,6 +76,7 @@ geo_area,nature,units,year,en_scp_fshgdp
 20,n,percent,2015,N
 20,n,percent,2016,N
 20,n,percent,2017,N
+20,n,percent,2018,N
 21,ca,percent,2011,0.02277
 21,ca,percent,2013,0.02283
 21,ca,percent,2015,0.02123
@@ -107,6 +109,7 @@ geo_area,nature,units,year,en_scp_fshgdp
 31,n,percent,2015,N
 31,n,percent,2016,N
 31,n,percent,2017,N
+31,n,percent,2018,N
 32,ca,percent,2011,0.0728
 32,ca,percent,2013,0.11362
 32,ca,percent,2015,0.06759
@@ -141,6 +144,7 @@ geo_area,nature,units,year,en_scp_fshgdp
 40,n,percent,2015,N
 40,n,percent,2016,N
 40,n,percent,2017,N
+40,n,percent,2018,N
 44,ca,percent,2011,0.84384
 44,ca,percent,2013,0.53238
 44,ca,percent,2015,0.57008
@@ -170,6 +174,7 @@ geo_area,nature,units,year,en_scp_fshgdp
 51,n,percent,2015,N
 51,n,percent,2016,N
 51,n,percent,2017,N
+51,n,percent,2018,N
 52,ca,percent,2011,0.0534
 52,ca,percent,2013,0.0987
 52,ca,percent,2015,0.06488
@@ -220,6 +225,7 @@ geo_area,nature,units,year,en_scp_fshgdp
 64,n,percent,2015,N
 64,n,percent,2016,N
 64,n,percent,2017,N
+64,n,percent,2018,N
 68,n,percent,2000,N
 68,n,percent,2001,N
 68,n,percent,2002,N
@@ -238,6 +244,7 @@ geo_area,nature,units,year,en_scp_fshgdp
 68,n,percent,2015,N
 68,n,percent,2016,N
 68,n,percent,2017,N
+68,n,percent,2018,N
 70,ca,percent,2011,0.00002
 70,ca,percent,2013,0.00002
 70,ca,percent,2015,0.00001
@@ -260,6 +267,7 @@ geo_area,nature,units,year,en_scp_fshgdp
 72,n,percent,2015,N
 72,n,percent,2016,N
 72,n,percent,2017,N
+72,n,percent,2018,N
 84,ca,percent,2011,0.92748
 84,ca,percent,2013,1.38852
 84,ca,percent,2015,1.19579
@@ -294,6 +302,7 @@ geo_area,nature,units,year,en_scp_fshgdp
 108,n,percent,2015,N
 108,n,percent,2016,N
 108,n,percent,2017,N
+108,n,percent,2018,N
 112,n,percent,2000,N
 112,n,percent,2001,N
 112,n,percent,2002,N
@@ -312,6 +321,7 @@ geo_area,nature,units,year,en_scp_fshgdp
 112,n,percent,2015,N
 112,n,percent,2016,N
 112,n,percent,2017,N
+112,n,percent,2018,N
 116,ca,percent,2011,1.12772
 116,ca,percent,2013,0.82782
 116,ca,percent,2015,0.78262
@@ -349,6 +359,7 @@ geo_area,nature,units,year,en_scp_fshgdp
 140,n,percent,2015,N
 140,n,percent,2016,N
 140,n,percent,2017,N
+140,n,percent,2018,N
 142,ca,percent,2011,0.42815
 142,ca,percent,2013,0.38203
 142,ca,percent,2015,0.3816
@@ -379,6 +390,7 @@ geo_area,nature,units,year,en_scp_fshgdp
 148,n,percent,2015,N
 148,n,percent,2016,N
 148,n,percent,2017,N
+148,n,percent,2018,N
 150,ca,percent,2011,0.04094
 150,ca,percent,2013,0.03651
 150,ca,percent,2015,0.03499
@@ -387,6 +399,7 @@ geo_area,nature,units,year,en_scp_fshgdp
 151,ca,percent,2013,0.0065
 151,ca,percent,2015,0.00955
 151,ca,percent,2017,0.01172
+152,c,percent,2018,0.10696
 152,ca,percent,2013,0.18317
 152,ca,percent,2015,0.09717
 152,ca,percent,2017,0.19129
@@ -450,6 +463,7 @@ geo_area,nature,units,year,en_scp_fshgdp
 203,n,percent,2015,N
 203,n,percent,2016,N
 203,n,percent,2017,N
+203,n,percent,2018,N
 204,ca,percent,2011,0.12336
 204,ca,percent,2013,0.25479
 208,ca,percent,2011,0.08353
@@ -490,6 +504,8 @@ geo_area,nature,units,year,en_scp_fshgdp
 231,n,percent,2015,N
 231,n,percent,2016,N
 231,n,percent,2017,N
+231,n,percent,2018,N
+233,c,percent,2018,0.10527
 233,ca,percent,2011,0.15842
 233,ca,percent,2013,0.12283
 233,ca,percent,2015,0.13217
@@ -577,6 +593,7 @@ geo_area,nature,units,year,en_scp_fshgdp
 336,n,percent,2015,N
 336,n,percent,2016,N
 336,n,percent,2017,N
+336,n,percent,2018,N
 340,ca,percent,2011,0.03733
 340,ca,percent,2013,0.03045
 340,ca,percent,2015,0.02509
@@ -599,6 +616,7 @@ geo_area,nature,units,year,en_scp_fshgdp
 348,n,percent,2015,N
 348,n,percent,2016,N
 348,n,percent,2017,N
+348,n,percent,2018,N
 352,ca,percent,2011,4.72636
 352,ca,percent,2013,3.7404
 352,ca,percent,2015,3.15782
@@ -607,6 +625,7 @@ geo_area,nature,units,year,en_scp_fshgdp
 356,ca,percent,2013,0.23868
 356,ca,percent,2015,0.22913
 356,ca,percent,2017,0.19854
+360,c,percent,2018,0.51008
 360,ca,percent,2011,0.7161
 360,ca,percent,2013,0.51729
 360,ca,percent,2015,0.56313
@@ -619,6 +638,7 @@ geo_area,nature,units,year,en_scp_fshgdp
 368,ca,percent,2013,0.00529
 368,ca,percent,2015,0.00458
 368,ca,percent,2017,0.00785
+372,c,percent,2018,0.02879
 372,ca,percent,2011,0.05663
 372,ca,percent,2013,0.05322
 372,ca,percent,2015,0.03531
@@ -649,6 +669,7 @@ geo_area,nature,units,year,en_scp_fshgdp
 398,n,percent,2015,N
 398,n,percent,2016,N
 398,n,percent,2017,N
+398,n,percent,2018,N
 404,ca,percent,2011,0.01638
 404,ca,percent,2013,0.02334
 404,ca,percent,2015,0.02056
@@ -675,6 +696,7 @@ geo_area,nature,units,year,en_scp_fshgdp
 417,n,percent,2015,N
 417,n,percent,2016,N
 417,n,percent,2017,N
+417,n,percent,2018,N
 418,n,percent,2000,N
 418,n,percent,2001,N
 418,n,percent,2002,N
@@ -693,6 +715,7 @@ geo_area,nature,units,year,en_scp_fshgdp
 418,n,percent,2015,N
 418,n,percent,2016,N
 418,n,percent,2017,N
+418,n,percent,2018,N
 419,ca,percent,2011,0.11738
 419,ca,percent,2013,0.12112
 419,ca,percent,2015,0.09443
@@ -715,6 +738,7 @@ geo_area,nature,units,year,en_scp_fshgdp
 426,n,percent,2015,N
 426,n,percent,2016,N
 426,n,percent,2017,N
+426,n,percent,2018,N
 428,ca,percent,2011,0.09382
 428,ca,percent,2013,0.0937
 428,ca,percent,2015,0.08652
@@ -737,6 +761,7 @@ geo_area,nature,units,year,en_scp_fshgdp
 438,n,percent,2015,N
 438,n,percent,2016,N
 438,n,percent,2017,N
+438,n,percent,2018,N
 440,ca,percent,2011,0.03314
 440,ca,percent,2013,0.03949
 440,ca,percent,2015,0.03202
@@ -759,6 +784,7 @@ geo_area,nature,units,year,en_scp_fshgdp
 442,n,percent,2015,N
 442,n,percent,2016,N
 442,n,percent,2017,N
+442,n,percent,2018,N
 450,ca,percent,2011,3.70535
 450,ca,percent,2013,3.61555
 450,ca,percent,2015,3.481
@@ -781,6 +807,7 @@ geo_area,nature,units,year,en_scp_fshgdp
 454,n,percent,2015,N
 454,n,percent,2016,N
 454,n,percent,2017,N
+454,n,percent,2018,N
 458,ca,percent,2011,0.67389
 458,ca,percent,2013,0.66306
 458,ca,percent,2015,0.61148
@@ -807,6 +834,7 @@ geo_area,nature,units,year,en_scp_fshgdp
 466,n,percent,2015,N
 466,n,percent,2016,N
 466,n,percent,2017,N
+466,n,percent,2018,N
 470,ca,percent,2011,0.05898
 470,ca,percent,2013,0.02858
 470,ca,percent,2015,0.03415
@@ -833,6 +861,7 @@ geo_area,nature,units,year,en_scp_fshgdp
 496,n,percent,2015,N
 496,n,percent,2016,N
 496,n,percent,2017,N
+496,n,percent,2018,N
 498,n,percent,2000,N
 498,n,percent,2001,N
 498,n,percent,2002,N
@@ -851,6 +880,7 @@ geo_area,nature,units,year,en_scp_fshgdp
 498,n,percent,2015,N
 498,n,percent,2016,N
 498,n,percent,2017,N
+498,n,percent,2018,N
 499,ca,percent,2011,0.00303
 499,ca,percent,2013,0.00008
 500,ca,percent,2011,0.18044
@@ -903,6 +933,7 @@ geo_area,nature,units,year,en_scp_fshgdp
 524,n,percent,2015,N
 524,n,percent,2016,N
 524,n,percent,2017,N
+524,n,percent,2018,N
 528,ca,percent,2011,0.0276
 528,ca,percent,2013,0.02268
 528,ca,percent,2015,0.02549
@@ -941,6 +972,7 @@ geo_area,nature,units,year,en_scp_fshgdp
 562,n,percent,2015,N
 562,n,percent,2016,N
 562,n,percent,2017,N
+562,n,percent,2018,N
 566,ca,percent,2011,0.09204
 566,ca,percent,2013,0.09247
 566,ca,percent,2015,0.10367
@@ -987,6 +1019,7 @@ geo_area,nature,units,year,en_scp_fshgdp
 600,n,percent,2015,N
 600,n,percent,2016,N
 600,n,percent,2017,N
+600,n,percent,2018,N
 604,ca,percent,2011,0.50117
 604,ca,percent,2013,0.3583
 604,ca,percent,2015,0.2246
@@ -1057,6 +1090,7 @@ geo_area,nature,units,year,en_scp_fshgdp
 674,n,percent,2015,N
 674,n,percent,2016,N
 674,n,percent,2017,N
+674,n,percent,2018,N
 678,ca,percent,2011,2.81997
 678,ca,percent,2013,3.19765
 678,ca,percent,2015,3.96627
@@ -1081,6 +1115,7 @@ geo_area,nature,units,year,en_scp_fshgdp
 688,n,percent,2015,N
 688,n,percent,2016,N
 688,n,percent,2017,N
+688,n,percent,2018,N
 690,ca,percent,2011,0.68271
 690,ca,percent,2013,0.88311
 690,ca,percent,2015,0.55271
@@ -1107,6 +1142,7 @@ geo_area,nature,units,year,en_scp_fshgdp
 703,n,percent,2015,N
 703,n,percent,2016,N
 703,n,percent,2017,N
+703,n,percent,2018,N
 704,ca,percent,2011,1.26892
 704,ca,percent,2013,1.17316
 704,ca,percent,2015,1.26253
@@ -1137,6 +1173,7 @@ geo_area,nature,units,year,en_scp_fshgdp
 716,n,percent,2015,N
 716,n,percent,2016,N
 716,n,percent,2017,N
+716,n,percent,2018,N
 722,ca,percent,2011,0.49449
 722,ca,percent,2013,0.49529
 722,ca,percent,2015,0.50202
@@ -1163,6 +1200,7 @@ geo_area,nature,units,year,en_scp_fshgdp
 728,n,percent,2015,N
 728,n,percent,2016,N
 728,n,percent,2017,N
+728,n,percent,2018,N
 740,ca,percent,2011,1.6099
 740,ca,percent,2013,1.61385
 740,ca,percent,2015,2.00103
@@ -1189,6 +1227,8 @@ geo_area,nature,units,year,en_scp_fshgdp
 748,n,percent,2015,N
 748,n,percent,2016,N
 748,n,percent,2017,N
+748,n,percent,2018,N
+752,c,percent,2018,0.01695
 752,ca,percent,2011,0.02298
 752,ca,percent,2013,0.01781
 752,ca,percent,2015,0.01776
@@ -1215,6 +1255,7 @@ geo_area,nature,units,year,en_scp_fshgdp
 756,n,percent,2015,N
 756,n,percent,2016,N
 756,n,percent,2017,N
+756,n,percent,2018,N
 762,n,percent,2000,N
 762,n,percent,2001,N
 762,n,percent,2002,N
@@ -1233,6 +1274,7 @@ geo_area,nature,units,year,en_scp_fshgdp
 762,n,percent,2015,N
 762,n,percent,2016,N
 762,n,percent,2017,N
+762,n,percent,2018,N
 764,ca,percent,2011,0.45055
 764,ca,percent,2013,0.36258
 764,ca,percent,2015,0.32679
@@ -1265,6 +1307,7 @@ geo_area,nature,units,year,en_scp_fshgdp
 795,n,percent,2015,N
 795,n,percent,2016,N
 795,n,percent,2017,N
+795,n,percent,2018,N
 796,ca,percent,2011,0.32935
 796,ca,percent,2013,0.25418
 796,ca,percent,2015,0.28201
@@ -1287,6 +1330,7 @@ geo_area,nature,units,year,en_scp_fshgdp
 800,n,percent,2015,N
 800,n,percent,2016,N
 800,n,percent,2017,N
+800,n,percent,2018,N
 807,n,percent,2000,N
 807,n,percent,2001,N
 807,n,percent,2002,N
@@ -1305,6 +1349,7 @@ geo_area,nature,units,year,en_scp_fshgdp
 807,n,percent,2015,N
 807,n,percent,2016,N
 807,n,percent,2017,N
+807,n,percent,2018,N
 826,ca,percent,2011,0.01852
 826,ca,percent,2013,0.01627
 826,ca,percent,2015,0.01661
@@ -1327,6 +1372,7 @@ geo_area,nature,units,year,en_scp_fshgdp
 830,n,percent,2015,N
 830,n,percent,2016,N
 830,n,percent,2017,N
+830,n,percent,2018,N
 840,ca,percent,2011,0.01756
 840,ca,percent,2013,0.01803
 840,ca,percent,2015,0.01573
@@ -1349,6 +1395,7 @@ geo_area,nature,units,year,en_scp_fshgdp
 854,n,percent,2015,N
 854,n,percent,2016,N
 854,n,percent,2017,N
+854,n,percent,2018,N
 858,ca,percent,2011,0.0588
 858,ca,percent,2013,0.03688
 858,ca,percent,2015,0.01937
@@ -1371,6 +1418,7 @@ geo_area,nature,units,year,en_scp_fshgdp
 860,n,percent,2015,N
 860,n,percent,2016,N
 860,n,percent,2017,N
+860,n,percent,2018,N
 882,ca,percent,2011,1.56701
 882,ca,percent,2013,1.6441
 882,ca,percent,2015,2.32554
@@ -1397,3 +1445,4 @@ geo_area,nature,units,year,en_scp_fshgdp
 894,n,percent,2015,N
 894,n,percent,2016,N
 894,n,percent,2017,N
+894,n,percent,2018,N

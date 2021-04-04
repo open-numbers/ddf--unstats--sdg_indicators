@@ -1,4 +1,13 @@
 activity,name
+industries,INDUSTRIES
 isic4_a,ISIC4_A
+isic4_b,ISIC4_B
+isic4_c,ISIC4_C
+isic4_c10t32x19,ISIC4_C10T32X19
+isic4_d,ISIC4_D
+isic4_f,ISIC4_F
 nonagr,NONAGR
+priv_hh,PRIV_HH
+serv_hh,SERV_HH
+services,SERVICES
 total,TOTAL

@@ -18,6 +18,7 @@ geo_area,nature,units,year,eg_egy_rnew
 1,g,w_per_capita,2016,170.936
 1,g,w_per_capita,2017,188.01
 1,g,w_per_capita,2018,204.536
+1,g,w_per_capita,2019,218.814
 2,g,w_per_capita,2000,27.188
 2,g,w_per_capita,2001,26.704
 2,g,w_per_capita,2002,26.326
@@ -37,6 +38,7 @@ geo_area,nature,units,year,eg_egy_rnew
 2,g,w_per_capita,2016,31.299
 2,g,w_per_capita,2017,34.357
 2,g,w_per_capita,2018,36.434
+2,g,w_per_capita,2019,37.053
 4,e,w_per_capita,2000,9.216
 4,e,w_per_capita,2001,8.863
 4,e,w_per_capita,2002,8.473
@@ -56,6 +58,7 @@ geo_area,nature,units,year,eg_egy_rnew
 4,e,w_per_capita,2016,9.872
 4,e,w_per_capita,2017,9.792
 4,e,w_per_capita,2018,9.548
+4,e,w_per_capita,2019,9.593
 5,g,w_per_capita,2000,323.472
 5,g,w_per_capita,2001,324.509
 5,g,w_per_capita,2002,325.818
@@ -75,6 +78,7 @@ geo_area,nature,units,year,eg_egy_rnew
 5,g,w_per_capita,2016,464.54
 5,g,w_per_capita,2017,481.778
 5,g,w_per_capita,2018,502.066
+5,g,w_per_capita,2019,517.291
 9,g,w_per_capita,2000,54.99
 9,g,w_per_capita,2001,54.356
 9,g,w_per_capita,2002,53.677
@@ -94,6 +98,7 @@ geo_area,nature,units,year,eg_egy_rnew
 9,g,w_per_capita,2016,71.614
 9,g,w_per_capita,2017,74.731
 9,g,w_per_capita,2018,74.701
+9,g,w_per_capita,2019,75.97
 11,g,w_per_capita,2000,17.923
 11,g,w_per_capita,2001,17.459
 11,g,w_per_capita,2002,17.831
@@ -113,6 +118,7 @@ geo_area,nature,units,year,eg_egy_rnew
 11,g,w_per_capita,2016,15.351
 11,g,w_per_capita,2017,16.212
 11,g,w_per_capita,2018,16.137
+11,g,w_per_capita,2019,15.876
 12,e,w_per_capita,2000,8.91
 12,e,w_per_capita,2001,8.794
 12,e,w_per_capita,2002,8.683
@@ -132,6 +138,7 @@ geo_area,nature,units,year,eg_egy_rnew
 12,e,w_per_capita,2016,11.884
 12,e,w_per_capita,2017,16.024
 12,e,w_per_capita,2018,16.245
+12,e,w_per_capita,2019,15.934
 13,g,w_per_capita,2000,109.675
 13,g,w_per_capita,2001,109.69
 13,g,w_per_capita,2002,110.08
@@ -151,6 +158,7 @@ geo_area,nature,units,year,eg_egy_rnew
 13,g,w_per_capita,2016,173.866
 13,g,w_per_capita,2017,178.845
 13,g,w_per_capita,2018,194.974
+13,g,w_per_capita,2019,214.038
 14,g,w_per_capita,2000,29.299
 14,g,w_per_capita,2001,28.814
 14,g,w_per_capita,2002,28.085
@@ -170,6 +178,7 @@ geo_area,nature,units,year,eg_egy_rnew
 14,g,w_per_capita,2016,31.51
 14,g,w_per_capita,2017,35.154
 14,g,w_per_capita,2018,36.266
+14,g,w_per_capita,2019,36.65
 15,g,w_per_capita,2000,28.703
 15,g,w_per_capita,2001,28.224
 15,g,w_per_capita,2002,27.757
@@ -189,6 +198,7 @@ geo_area,nature,units,year,eg_egy_rnew
 15,g,w_per_capita,2016,38.554
 15,g,w_per_capita,2017,41.153
 15,g,w_per_capita,2018,47.606
+15,g,w_per_capita,2019,51.613
 16,e,w_per_capita,2000,0
 16,e,w_per_capita,2001,0
 16,e,w_per_capita,2002,0
@@ -208,6 +218,7 @@ geo_area,nature,units,year,eg_egy_rnew
 16,e,w_per_capita,2016,68.641
 16,e,w_per_capita,2017,75.085
 16,e,w_per_capita,2018,91.343
+16,e,w_per_capita,2019,91.59
 17,g,w_per_capita,2000,38.659
 17,g,w_per_capita,2001,37.755
 17,g,w_per_capita,2002,36.639
@@ -227,6 +238,7 @@ geo_area,nature,units,year,eg_egy_rnew
 17,g,w_per_capita,2016,35.986
 17,g,w_per_capita,2017,39.231
 17,g,w_per_capita,2018,41.207
+17,g,w_per_capita,2019,40.037
 18,g,w_per_capita,2000,32.435
 18,g,w_per_capita,2001,32.69
 18,g,w_per_capita,2002,32.362
@@ -246,6 +258,7 @@ geo_area,nature,units,year,eg_egy_rnew
 18,g,w_per_capita,2016,82.617
 18,g,w_per_capita,2017,96.503
 18,g,w_per_capita,2018,102.705
+18,g,w_per_capita,2019,103.574
 19,g,w_per_capita,2000,245.949
 19,g,w_per_capita,2001,246.697
 19,g,w_per_capita,2002,247.694
@@ -265,6 +278,7 @@ geo_area,nature,units,year,eg_egy_rnew
 19,g,w_per_capita,2016,357.96
 19,g,w_per_capita,2017,370.849
 19,g,w_per_capita,2018,389.02
+19,g,w_per_capita,2019,404.774
 21,n,w_per_capita,2000,N
 21,n,w_per_capita,2001,N
 21,n,w_per_capita,2002,N
@@ -284,6 +298,7 @@ geo_area,nature,units,year,eg_egy_rnew
 21,n,w_per_capita,2016,N
 21,n,w_per_capita,2017,N
 21,n,w_per_capita,2018,N
+21,n,w_per_capita,2019,N
 24,e,w_per_capita,2000,14.369
 24,e,w_per_capita,2001,13.904
 24,e,w_per_capita,2002,13.457
@@ -303,6 +318,7 @@ geo_area,nature,units,year,eg_egy_rnew
 24,e,w_per_capita,2016,60.633
 24,e,w_per_capita,2017,81.472
 24,e,w_per_capita,2018,89.687
+24,e,w_per_capita,2019,86.825
 28,e,w_per_capita,2000,0
 28,e,w_per_capita,2001,0
 28,e,w_per_capita,2002,0
@@ -322,6 +338,7 @@ geo_area,nature,units,year,eg_egy_rnew
 28,e,w_per_capita,2016,37.029
 28,e,w_per_capita,2017,40.87
 28,e,w_per_capita,2018,86.205
+28,e,w_per_capita,2019,85.466
 29,g,w_per_capita,2000,20.86
 29,g,w_per_capita,2001,21.167
 29,g,w_per_capita,2002,21.172
@@ -341,6 +358,7 @@ geo_area,nature,units,year,eg_egy_rnew
 29,g,w_per_capita,2016,57.715
 29,g,w_per_capita,2017,61.255
 29,g,w_per_capita,2018,68.202
+29,g,w_per_capita,2019,76.888
 30,g,w_per_capita,2000,60.754
 30,g,w_per_capita,2001,63.066
 30,g,w_per_capita,2002,65.561
@@ -360,6 +378,7 @@ geo_area,nature,units,year,eg_egy_rnew
 30,g,w_per_capita,2016,368.596
 30,g,w_per_capita,2017,420.719
 30,g,w_per_capita,2018,469.257
+30,g,w_per_capita,2019,511.726
 31,e,w_per_capita,2000,113.508
 31,e,w_per_capita,2001,113.818
 31,e,w_per_capita,2002,112.842
@@ -379,6 +398,7 @@ geo_area,nature,units,year,eg_egy_rnew
 31,e,w_per_capita,2016,121.574
 31,e,w_per_capita,2017,121.23
 31,e,w_per_capita,2018,128.323
+31,e,w_per_capita,2019,127.298
 32,e,w_per_capita,2000,235.622
 32,e,w_per_capita,2001,234.094
 32,e,w_per_capita,2002,236.352
@@ -398,6 +418,7 @@ geo_area,nature,units,year,eg_egy_rnew
 32,e,w_per_capita,2016,245.229
 32,e,w_per_capita,2017,244.819
 32,e,w_per_capita,2018,259.466
+32,e,w_per_capita,2019,283.362
 34,g,w_per_capita,2000,23.61
 34,g,w_per_capita,2001,24.502
 34,g,w_per_capita,2002,24.912
@@ -417,6 +438,7 @@ geo_area,nature,units,year,eg_egy_rnew
 34,g,w_per_capita,2016,62.717
 34,g,w_per_capita,2017,70.787
 34,g,w_per_capita,2018,78.669
+34,g,w_per_capita,2019,83.792
 35,g,w_per_capita,2000,38.317
 35,g,w_per_capita,2001,37.381
 35,g,w_per_capita,2002,38.06
@@ -436,6 +458,7 @@ geo_area,nature,units,year,eg_egy_rnew
 35,g,w_per_capita,2016,92.693
 35,g,w_per_capita,2017,94.329
 35,g,w_per_capita,2018,97.886
+35,g,w_per_capita,2019,109.304
 39,n,w_per_capita,2000,N
 39,n,w_per_capita,2001,N
 39,n,w_per_capita,2002,N
@@ -455,6 +478,7 @@ geo_area,nature,units,year,eg_egy_rnew
 39,n,w_per_capita,2016,N
 39,n,w_per_capita,2017,N
 39,n,w_per_capita,2018,N
+39,n,w_per_capita,2019,N
 44,e,w_per_capita,2000,0
 44,e,w_per_capita,2001,0
 44,e,w_per_capita,2002,0
@@ -474,6 +498,7 @@ geo_area,nature,units,year,eg_egy_rnew
 44,e,w_per_capita,2016,3.763
 44,e,w_per_capita,2017,3.508
 44,e,w_per_capita,2018,3.472
+44,e,w_per_capita,2019,5.813
 48,e,w_per_capita,2000,0
 48,e,w_per_capita,2001,0
 48,e,w_per_capita,2002,0
@@ -493,6 +518,7 @@ geo_area,nature,units,year,eg_egy_rnew
 48,e,w_per_capita,2016,4.691
 48,e,w_per_capita,2017,4.477
 48,e,w_per_capita,2018,4.479
+48,e,w_per_capita,2019,4.283
 50,e,w_per_capita,2000,1.802
 50,e,w_per_capita,2001,1.768
 50,e,w_per_capita,2002,1.736
@@ -512,6 +538,7 @@ geo_area,nature,units,year,eg_egy_rnew
 50,e,w_per_capita,2016,2.523
 50,e,w_per_capita,2017,2.649
 50,e,w_per_capita,2018,2.719
+50,e,w_per_capita,2019,3.199
 51,e,w_per_capita,2000,333.659
 51,e,w_per_capita,2001,331.893
 51,e,w_per_capita,2002,384.149
@@ -531,6 +558,7 @@ geo_area,nature,units,year,eg_egy_rnew
 51,e,w_per_capita,2016,448.045
 51,e,w_per_capita,2017,452.367
 51,e,w_per_capita,2018,459.608
+51,e,w_per_capita,2019,469.727
 52,e,w_per_capita,2000,0
 52,e,w_per_capita,2001,0.367
 52,e,w_per_capita,2002,0.366
@@ -550,6 +578,7 @@ geo_area,nature,units,year,eg_egy_rnew
 52,e,w_per_capita,2016,66.551
 52,e,w_per_capita,2017,66.45
 52,e,w_per_capita,2018,83.798
+52,e,w_per_capita,2019,86.37
 53,n,w_per_capita,2000,N
 53,n,w_per_capita,2001,N
 53,n,w_per_capita,2002,N
@@ -569,6 +598,7 @@ geo_area,nature,units,year,eg_egy_rnew
 53,n,w_per_capita,2016,N
 53,n,w_per_capita,2017,N
 53,n,w_per_capita,2018,N
+53,n,w_per_capita,2019,N
 54,g,w_per_capita,2000,53.799
 54,g,w_per_capita,2001,53.152
 54,g,w_per_capita,2002,52.451
@@ -588,6 +618,7 @@ geo_area,nature,units,year,eg_egy_rnew
 54,g,w_per_capita,2016,64.563
 54,g,w_per_capita,2017,66.584
 54,g,w_per_capita,2018,66.064
+54,g,w_per_capita,2019,67.192
 57,g,w_per_capita,2000,5.303
 57,g,w_per_capita,2001,5.265
 57,g,w_per_capita,2002,5.226
@@ -607,6 +638,7 @@ geo_area,nature,units,year,eg_egy_rnew
 57,g,w_per_capita,2016,90.478
 57,g,w_per_capita,2017,89.58
 57,g,w_per_capita,2018,92.178
+57,g,w_per_capita,2019,91.227
 61,g,w_per_capita,2000,105.067
 61,g,w_per_capita,2001,104.199
 61,g,w_per_capita,2002,103.362
@@ -626,6 +658,7 @@ geo_area,nature,units,year,eg_egy_rnew
 61,g,w_per_capita,2016,168.681
 61,g,w_per_capita,2017,193.634
 61,g,w_per_capita,2018,201.334
+61,g,w_per_capita,2019,208.279
 62,g,w_per_capita,2000,29.93
 62,g,w_per_capita,2001,30.67
 62,g,w_per_capita,2002,30.949
@@ -645,6 +678,7 @@ geo_area,nature,units,year,eg_egy_rnew
 62,g,w_per_capita,2016,67.453
 62,g,w_per_capita,2017,75.195
 62,g,w_per_capita,2018,82.962
+62,g,w_per_capita,2019,88.132
 64,e,w_per_capita,2000,582.643
 64,e,w_per_capita,2001,595.484
 64,e,w_per_capita,2002,671.45
@@ -664,6 +698,7 @@ geo_area,nature,units,year,eg_egy_rnew
 64,e,w_per_capita,2016,2192.423
 64,e,w_per_capita,2017,2166.378
 64,e,w_per_capita,2018,2141.326
+64,e,w_per_capita,2019,3060.446
 68,e,w_per_capita,2000,45.245
 68,e,w_per_capita,2001,46.225
 68,e,w_per_capita,2002,55.032
@@ -683,6 +718,7 @@ geo_area,nature,units,year,eg_egy_rnew
 68,e,w_per_capita,2016,60.601
 68,e,w_per_capita,2017,71.102
 68,e,w_per_capita,2018,79.945
+68,e,w_per_capita,2019,90.01
 72,e,w_per_capita,2000,0
 72,e,w_per_capita,2001,0
 72,e,w_per_capita,2002,0
@@ -702,6 +738,7 @@ geo_area,nature,units,year,eg_egy_rnew
 72,e,w_per_capita,2016,1.374
 72,e,w_per_capita,2017,1.346
 72,e,w_per_capita,2018,1.317
+72,e,w_per_capita,2019,1.288
 76,e,w_per_capita,2000,364.678
 76,e,w_per_capita,2001,367.358
 76,e,w_per_capita,2002,374.1
@@ -721,6 +758,7 @@ geo_area,nature,units,year,eg_egy_rnew
 76,e,w_per_capita,2016,588.486
 76,e,w_per_capita,2017,617.206
 76,e,w_per_capita,2018,650.004
+76,e,w_per_capita,2019,672.509
 84,e,w_per_capita,2000,125.389
 84,e,w_per_capita,2001,121.732
 84,e,w_per_capita,2002,118.47
@@ -740,6 +778,7 @@ geo_area,nature,units,year,eg_egy_rnew
 84,e,w_per_capita,2016,275.978
 84,e,w_per_capita,2017,291.85
 84,e,w_per_capita,2018,287.03
+84,e,w_per_capita,2019,262.584
 90,e,w_per_capita,2000,0.754
 90,e,w_per_capita,2001,0.734
 90,e,w_per_capita,2002,0.781
@@ -759,6 +798,7 @@ geo_area,nature,units,year,eg_egy_rnew
 90,e,w_per_capita,2016,5.255
 90,e,w_per_capita,2017,5.707
 90,e,w_per_capita,2018,5.56
+90,e,w_per_capita,2019,5.419
 92,e,w_per_capita,2000,0
 92,e,w_per_capita,2001,0
 92,e,w_per_capita,2002,0
@@ -778,6 +818,7 @@ geo_area,nature,units,year,eg_egy_rnew
 92,e,w_per_capita,2016,23.676
 92,e,w_per_capita,2017,23.506
 92,e,w_per_capita,2018,23.326
+92,e,w_per_capita,2019,23.141
 96,e,w_per_capita,2000,0
 96,e,w_per_capita,2001,0
 96,e,w_per_capita,2002,0
@@ -797,6 +838,7 @@ geo_area,nature,units,year,eg_egy_rnew
 96,e,w_per_capita,2016,2.859
 96,e,w_per_capita,2017,2.827
 96,e,w_per_capita,2018,2.797
+96,e,w_per_capita,2019,2.769
 104,e,w_per_capita,2000,6.798
 104,e,w_per_capita,2001,6.725
 104,e,w_per_capita,2002,7.287
@@ -816,6 +858,7 @@ geo_area,nature,units,year,eg_egy_rnew
 104,e,w_per_capita,2016,62.173
 104,e,w_per_capita,2017,62.807
 104,e,w_per_capita,2018,62.496
+104,e,w_per_capita,2019,62.855
 108,e,w_per_capita,2000,8.505
 108,e,w_per_capita,2001,8.314
 108,e,w_per_capita,2002,8.092
@@ -835,6 +878,7 @@ geo_area,nature,units,year,eg_egy_rnew
 108,e,w_per_capita,2016,5.612
 108,e,w_per_capita,2017,5.3
 108,e,w_per_capita,2018,5.135
+108,e,w_per_capita,2019,4.977
 116,e,w_per_capita,2000,0.83
 116,e,w_per_capita,2001,0.821
 116,e,w_per_capita,2002,0.972
@@ -854,6 +898,7 @@ geo_area,nature,units,year,eg_egy_rnew
 116,e,w_per_capita,2016,62.074
 116,e,w_per_capita,2017,66.173
 116,e,w_per_capita,2018,86.74
+116,e,w_per_capita,2019,89.728
 120,e,w_per_capita,2000,46.365
 120,e,w_per_capita,2001,45.157
 120,e,w_per_capita,2002,43.973
@@ -873,6 +918,7 @@ geo_area,nature,units,year,eg_egy_rnew
 120,e,w_per_capita,2016,30.991
 120,e,w_per_capita,2017,30.281
 120,e,w_per_capita,2018,29.604
+120,e,w_per_capita,2019,28.848
 132,e,w_per_capita,2000,0
 132,e,w_per_capita,2001,0
 132,e,w_per_capita,2002,4.741
@@ -892,6 +938,7 @@ geo_area,nature,units,year,eg_egy_rnew
 132,e,w_per_capita,2016,62.835
 132,e,w_per_capita,2017,62.205
 132,e,w_per_capita,2018,65.067
+132,e,w_per_capita,2019,64.337
 136,e,w_per_capita,2000,0
 136,e,w_per_capita,2001,0
 136,e,w_per_capita,2002,0
@@ -911,6 +958,7 @@ geo_area,nature,units,year,eg_egy_rnew
 136,e,w_per_capita,2016,44.019
 136,e,w_per_capita,2017,138.304
 136,e,w_per_capita,2018,154.538
+136,e,w_per_capita,2019,170.814
 140,e,w_per_capita,2000,5.178
 140,e,w_per_capita,2001,5.064
 140,e,w_per_capita,2002,4.958
@@ -930,6 +978,7 @@ geo_area,nature,units,year,eg_egy_rnew
 140,e,w_per_capita,2016,4.22
 140,e,w_per_capita,2017,4.167
 140,e,w_per_capita,2018,4.104
+140,e,w_per_capita,2019,4.039
 142,g,w_per_capita,2000,46.62
 142,g,w_per_capita,2001,47.663
 142,g,w_per_capita,2002,48.686
@@ -949,6 +998,7 @@ geo_area,nature,units,year,eg_egy_rnew
 142,g,w_per_capita,2016,183.079
 142,g,w_per_capita,2017,205.406
 142,g,w_per_capita,2018,226.606
+142,g,w_per_capita,2019,245.483
 143,g,w_per_capita,2000,196.25
 143,g,w_per_capita,2001,194.429
 143,g,w_per_capita,2002,192.46
@@ -968,6 +1018,7 @@ geo_area,nature,units,year,eg_egy_rnew
 143,g,w_per_capita,2016,193.246
 143,g,w_per_capita,2017,191.718
 143,g,w_per_capita,2018,195.91
+143,g,w_per_capita,2019,201.849
 144,e,w_per_capita,2000,61.588
 144,e,w_per_capita,2001,61.783
 144,e,w_per_capita,2002,61.892
@@ -987,6 +1038,7 @@ geo_area,nature,units,year,eg_egy_rnew
 144,e,w_per_capita,2016,92.713
 144,e,w_per_capita,2017,96.851
 144,e,w_per_capita,2018,101.879
+144,e,w_per_capita,2019,102.987
 145,g,w_per_capita,2000,102.98
 145,g,w_per_capita,2001,103.625
 145,g,w_per_capita,2002,101.807
@@ -1006,6 +1058,7 @@ geo_area,nature,units,year,eg_egy_rnew
 145,g,w_per_capita,2016,177.467
 145,g,w_per_capita,2017,193.598
 145,g,w_per_capita,2018,209.238
+145,g,w_per_capita,2019,223.314
 148,e,w_per_capita,2000,0
 148,e,w_per_capita,2001,0
 148,e,w_per_capita,2002,0
@@ -1025,6 +1078,7 @@ geo_area,nature,units,year,eg_egy_rnew
 148,e,w_per_capita,2016,0.087
 148,e,w_per_capita,2017,0.085
 148,e,w_per_capita,2018,0.082
+148,e,w_per_capita,2019,0.08
 150,n,w_per_capita,2000,N
 150,n,w_per_capita,2001,N
 150,n,w_per_capita,2002,N
@@ -1044,6 +1098,7 @@ geo_area,nature,units,year,eg_egy_rnew
 150,n,w_per_capita,2016,N
 150,n,w_per_capita,2017,N
 150,n,w_per_capita,2018,N
+150,n,w_per_capita,2019,N
 151,n,w_per_capita,2000,N
 151,n,w_per_capita,2001,N
 151,n,w_per_capita,2002,N
@@ -1063,6 +1118,7 @@ geo_area,nature,units,year,eg_egy_rnew
 151,n,w_per_capita,2016,N
 151,n,w_per_capita,2017,N
 151,n,w_per_capita,2018,N
+151,n,w_per_capita,2019,N
 152,e,w_per_capita,2000,290.177
 152,e,w_per_capita,2001,286.863
 152,e,w_per_capita,2002,285.57
@@ -1082,6 +1138,7 @@ geo_area,nature,units,year,eg_egy_rnew
 152,e,w_per_capita,2016,510.625
 152,e,w_per_capita,2017,556.99
 152,e,w_per_capita,2018,579.593
+152,e,w_per_capita,2019,606.187
 154,n,w_per_capita,2000,N
 154,n,w_per_capita,2001,N
 154,n,w_per_capita,2002,N
@@ -1101,6 +1158,7 @@ geo_area,nature,units,year,eg_egy_rnew
 154,n,w_per_capita,2016,N
 154,n,w_per_capita,2017,N
 154,n,w_per_capita,2018,N
+154,n,w_per_capita,2019,N
 155,n,w_per_capita,2000,N
 155,n,w_per_capita,2001,N
 155,n,w_per_capita,2002,N
@@ -1120,6 +1178,7 @@ geo_area,nature,units,year,eg_egy_rnew
 155,n,w_per_capita,2016,N
 155,n,w_per_capita,2017,N
 155,n,w_per_capita,2018,N
+155,n,w_per_capita,2019,N
 156,e,w_per_capita,2000,58.775
 156,e,w_per_capita,2001,61.015
 156,e,w_per_capita,2002,63.68
@@ -1139,6 +1198,7 @@ geo_area,nature,units,year,eg_egy_rnew
 156,e,w_per_capita,2016,382.593
 156,e,w_per_capita,2017,436.901
 156,e,w_per_capita,2018,487.157
+156,e,w_per_capita,2019,529.108
 158,e,w_per_capita,2000,94.924
 158,e,w_per_capita,2001,98.586
 158,e,w_per_capita,2002,101.715
@@ -1158,6 +1218,7 @@ geo_area,nature,units,year,eg_egy_rnew
 158,e,w_per_capita,2016,187.502
 158,e,w_per_capita,2017,209.556
 158,e,w_per_capita,2018,250.335
+158,e,w_per_capita,2019,314.599
 170,e,w_per_capita,2000,210.84
 170,e,w_per_capita,2001,217.682
 170,e,w_per_capita,2002,223.191
@@ -1177,6 +1238,7 @@ geo_area,nature,units,year,eg_egy_rnew
 170,e,w_per_capita,2016,246.633
 170,e,w_per_capita,2017,246.807
 170,e,w_per_capita,2018,247.022
+170,e,w_per_capita,2019,245.824
 174,e,w_per_capita,2000,0
 174,e,w_per_capita,2001,0
 174,e,w_per_capita,2002,1.071
@@ -1196,6 +1258,7 @@ geo_area,nature,units,year,eg_egy_rnew
 174,e,w_per_capita,2016,1.82
 174,e,w_per_capita,2017,1.779
 174,e,w_per_capita,2018,1.74
+174,e,w_per_capita,2019,1.702
 175,e,w_per_capita,2000,0
 175,e,w_per_capita,2001,0
 175,e,w_per_capita,2002,0
@@ -1215,6 +1278,7 @@ geo_area,nature,units,year,eg_egy_rnew
 175,e,w_per_capita,2016,54.07
 175,e,w_per_capita,2017,59.875
 175,e,w_per_capita,2018,58.36
+175,e,w_per_capita,2019,56.907
 178,e,w_per_capita,2000,23.662
 178,e,w_per_capita,2001,22.996
 178,e,w_per_capita,2002,22.354
@@ -1234,6 +1298,7 @@ geo_area,nature,units,year,eg_egy_rnew
 178,e,w_per_capita,2016,40.345
 178,e,w_per_capita,2017,41.965
 178,e,w_per_capita,2018,40.895
+178,e,w_per_capita,2019,39.861
 180,e,w_per_capita,2000,52.858
 180,e,w_per_capita,2001,51.832
 180,e,w_per_capita,2002,50.332
@@ -1253,6 +1318,7 @@ geo_area,nature,units,year,eg_egy_rnew
 180,e,w_per_capita,2016,32.383
 180,e,w_per_capita,2017,31.526
 180,e,w_per_capita,2018,32.85
+180,e,w_per_capita,2019,31.934
 184,e,w_per_capita,2000,2.565
 184,e,w_per_capita,2001,2.553
 184,e,w_per_capita,2002,2.517
@@ -1272,6 +1338,7 @@ geo_area,nature,units,year,eg_egy_rnew
 184,e,w_per_capita,2016,236.744
 184,e,w_per_capita,2017,236.961
 184,e,w_per_capita,2018,340.773
+184,e,w_per_capita,2019,400.98
 188,e,w_per_capita,2000,359.758
 188,e,w_per_capita,2001,358.442
 188,e,w_per_capita,2002,363.865
@@ -1291,6 +1358,7 @@ geo_area,nature,units,year,eg_egy_rnew
 188,e,w_per_capita,2016,590.735
 188,e,w_per_capita,2017,608.093
 188,e,w_per_capita,2018,615.61
+188,e,w_per_capita,2019,623.199
 192,e,w_per_capita,2000,5.199
 192,e,w_per_capita,2001,5.182
 192,e,w_per_capita,2002,5.165
@@ -1310,25 +1378,27 @@ geo_area,nature,units,year,eg_egy_rnew
 192,e,w_per_capita,2016,53.816
 192,e,w_per_capita,2017,59.57
 192,e,w_per_capita,2018,66.871
-199,g,w_per_capita,2000,17.38
-199,g,w_per_capita,2001,17.292
-199,g,w_per_capita,2002,17.279
-199,g,w_per_capita,2003,17.073
-199,g,w_per_capita,2004,17.428
-199,g,w_per_capita,2005,17.575
-199,g,w_per_capita,2006,17.241
-199,g,w_per_capita,2007,18.44
+192,e,w_per_capita,2019,70.35
+199,g,w_per_capita,2000,17.384
+199,g,w_per_capita,2001,17.296
+199,g,w_per_capita,2002,17.283
+199,g,w_per_capita,2003,17.077
+199,g,w_per_capita,2004,17.432
+199,g,w_per_capita,2005,17.579
+199,g,w_per_capita,2006,17.245
+199,g,w_per_capita,2007,18.444
 199,g,w_per_capita,2008,18.241
-199,g,w_per_capita,2009,22.617
-199,g,w_per_capita,2010,24.985
-199,g,w_per_capita,2011,25.296
-199,g,w_per_capita,2012,25.94
-199,g,w_per_capita,2013,27.053
-199,g,w_per_capita,2014,27.54
+199,g,w_per_capita,2009,22.618
+199,g,w_per_capita,2010,24.987
+199,g,w_per_capita,2011,25.294
+199,g,w_per_capita,2012,25.939
+199,g,w_per_capita,2013,27.052
+199,g,w_per_capita,2014,27.539
 199,g,w_per_capita,2015,29.417
-199,g,w_per_capita,2016,30.454
+199,g,w_per_capita,2016,30.453
 199,g,w_per_capita,2017,33.371
 199,g,w_per_capita,2018,34.294
+199,g,w_per_capita,2019,35.625
 202,g,w_per_capita,2000,26.783
 202,g,w_per_capita,2001,26.302
 202,g,w_per_capita,2002,25.95
@@ -1348,6 +1418,7 @@ geo_area,nature,units,year,eg_egy_rnew
 202,g,w_per_capita,2016,29.621
 202,g,w_per_capita,2017,32.797
 202,g,w_per_capita,2018,33.888
+202,g,w_per_capita,2019,33.76
 204,e,w_per_capita,2000,0.073
 204,e,w_per_capita,2001,0.071
 204,e,w_per_capita,2002,0.069
@@ -1367,6 +1438,7 @@ geo_area,nature,units,year,eg_egy_rnew
 204,e,w_per_capita,2016,0.313
 204,e,w_per_capita,2017,0.304
 204,e,w_per_capita,2018,0.296
+204,e,w_per_capita,2019,0.288
 212,e,w_per_capita,2000,110.266
 212,e,w_per_capita,2001,110.232
 212,e,w_per_capita,2002,110.109
@@ -1386,6 +1458,7 @@ geo_area,nature,units,year,eg_egy_rnew
 212,e,w_per_capita,2016,104.338
 212,e,w_per_capita,2017,104.114
 212,e,w_per_capita,2018,73.786
+212,e,w_per_capita,2019,73.599
 214,e,w_per_capita,2000,53.732
 214,e,w_per_capita,2001,54.11
 214,e,w_per_capita,2002,53.326
@@ -1405,6 +1478,7 @@ geo_area,nature,units,year,eg_egy_rnew
 214,e,w_per_capita,2016,83.924
 214,e,w_per_capita,2017,86.348
 214,e,w_per_capita,2018,99.429
+214,e,w_per_capita,2019,122.369
 218,e,w_per_capita,2000,135.438
 218,e,w_per_capita,2001,134.746
 218,e,w_per_capita,2002,132.994
@@ -1424,6 +1498,7 @@ geo_area,nature,units,year,eg_egy_rnew
 218,e,w_per_capita,2016,281.345
 218,e,w_per_capita,2017,280.856
 218,e,w_per_capita,2018,302.281
+218,e,w_per_capita,2019,303.85
 222,e,w_per_capita,2000,97.819
 222,e,w_per_capita,2001,107.655
 222,e,w_per_capita,2002,110.292
@@ -1443,6 +1518,7 @@ geo_area,nature,units,year,eg_egy_rnew
 222,e,w_per_capita,2016,155.037
 222,e,w_per_capita,2017,183.793
 222,e,w_per_capita,2018,200.817
+222,e,w_per_capita,2019,228.472
 226,e,w_per_capita,2000,9.238
 226,e,w_per_capita,2001,8.866
 226,e,w_per_capita,2002,8.506
@@ -1462,6 +1538,7 @@ geo_area,nature,units,year,eg_egy_rnew
 226,e,w_per_capita,2016,103.359
 226,e,w_per_capita,2017,99.524
 226,e,w_per_capita,2018,97.13
+226,e,w_per_capita,2019,93.762
 231,e,w_per_capita,2000,6.125
 231,e,w_per_capita,2001,7.008
 231,e,w_per_capita,2002,6.81
@@ -1481,6 +1558,7 @@ geo_area,nature,units,year,eg_egy_rnew
 231,e,w_per_capita,2016,25.568
 231,e,w_per_capita,2017,41.032
 231,e,w_per_capita,2018,40.738
+231,e,w_per_capita,2019,39.701
 232,e,w_per_capita,2000,0
 232,e,w_per_capita,2001,0
 232,e,w_per_capita,2002,0
@@ -1500,6 +1578,7 @@ geo_area,nature,units,year,eg_egy_rnew
 232,e,w_per_capita,2016,0.441
 232,e,w_per_capita,2017,1.023
 232,e,w_per_capita,2018,3.183
+232,e,w_per_capita,2019,3.786
 238,e,w_per_capita,2000,89.872
 238,e,w_per_capita,2001,88.828
 238,e,w_per_capita,2002,88.315
@@ -1519,6 +1598,7 @@ geo_area,nature,units,year,eg_egy_rnew
 238,e,w_per_capita,2016,816.815
 238,e,w_per_capita,2017,777.489
 238,e,w_per_capita,2018,738.566
+238,e,w_per_capita,2019,708.778
 242,e,w_per_capita,2000,133.849
 242,e,w_per_capita,2001,133.419
 242,e,w_per_capita,2002,133.238
@@ -1538,6 +1618,7 @@ geo_area,nature,units,year,eg_egy_rnew
 242,e,w_per_capita,2016,223.349
 242,e,w_per_capita,2017,238.594
 242,e,w_per_capita,2018,239.611
+242,e,w_per_capita,2019,237.93
 254,e,w_per_capita,2000,702.292
 254,e,w_per_capita,2001,672.295
 254,e,w_per_capita,2002,641.777
@@ -1557,6 +1638,7 @@ geo_area,nature,units,year,eg_egy_rnew
 254,e,w_per_capita,2016,624.264
 254,e,w_per_capita,2017,607.753
 254,e,w_per_capita,2018,591.498
+254,e,w_per_capita,2019,586.236
 258,e,w_per_capita,2000,199.758
 258,e,w_per_capita,2001,196.906
 258,e,w_per_capita,2002,194.228
@@ -1576,6 +1658,7 @@ geo_area,nature,units,year,eg_egy_rnew
 258,e,w_per_capita,2016,288.656
 258,e,w_per_capita,2017,300.89
 258,e,w_per_capita,2018,309.638
+258,e,w_per_capita,2019,311.431
 262,e,w_per_capita,2000,0
 262,e,w_per_capita,2001,0
 262,e,w_per_capita,2002,0
@@ -1595,6 +1678,7 @@ geo_area,nature,units,year,eg_egy_rnew
 262,e,w_per_capita,2016,0.39
 262,e,w_per_capita,2017,0.383
 262,e,w_per_capita,2018,0.378
+262,e,w_per_capita,2019,0.372
 266,e,w_per_capita,2000,138.559
 266,e,w_per_capita,2001,135.293
 266,e,w_per_capita,2002,132.189
@@ -1614,6 +1698,7 @@ geo_area,nature,units,year,eg_egy_rnew
 266,e,w_per_capita,2016,165.79
 266,e,w_per_capita,2017,161.219
 266,e,w_per_capita,2018,157.076
+266,e,w_per_capita,2019,153.222
 268,e,w_per_capita,2000,587.032
 268,e,w_per_capita,2001,595.939
 268,e,w_per_capita,2002,601.314
@@ -1633,6 +1718,7 @@ geo_area,nature,units,year,eg_egy_rnew
 268,e,w_per_capita,2016,731.319
 268,e,w_per_capita,2017,792.981
 268,e,w_per_capita,2018,821.49
+268,e,w_per_capita,2019,839.123
 270,e,w_per_capita,2000,0
 270,e,w_per_capita,2001,0.009
 270,e,w_per_capita,2002,0.048
@@ -1652,6 +1738,7 @@ geo_area,nature,units,year,eg_egy_rnew
 270,e,w_per_capita,2016,1.577
 270,e,w_per_capita,2017,1.532
 270,e,w_per_capita,2018,1.488
+270,e,w_per_capita,2019,1.445
 275,e,w_per_capita,2000,0
 275,e,w_per_capita,2001,0
 275,e,w_per_capita,2002,0
@@ -1671,6 +1758,7 @@ geo_area,nature,units,year,eg_egy_rnew
 275,e,w_per_capita,2016,5.393
 275,e,w_per_capita,2017,7.444
 275,e,w_per_capita,2018,8.295
+275,e,w_per_capita,2019,9.604
 288,e,w_per_capita,2000,61.506
 288,e,w_per_capita,2001,60.018
 288,e,w_per_capita,2002,58.567
@@ -1690,6 +1778,7 @@ geo_area,nature,units,year,eg_egy_rnew
 288,e,w_per_capita,2016,57.103
 288,e,w_per_capita,2017,56.021
 288,e,w_per_capita,2018,55.621
+288,e,w_per_capita,2019,54.445
 296,e,w_per_capita,2000,0.735
 296,e,w_per_capita,2001,0.722
 296,e,w_per_capita,2002,0.71
@@ -1709,6 +1798,7 @@ geo_area,nature,units,year,eg_egy_rnew
 296,e,w_per_capita,2016,25.433
 296,e,w_per_capita,2017,25.072
 296,e,w_per_capita,2018,24.706
+296,e,w_per_capita,2019,24.335
 308,e,w_per_capita,2000,0
 308,e,w_per_capita,2001,0
 308,e,w_per_capita,2002,0
@@ -1728,6 +1818,7 @@ geo_area,nature,units,year,eg_egy_rnew
 308,e,w_per_capita,2016,20.551
 308,e,w_per_capita,2017,20.203
 308,e,w_per_capita,2018,21.893
+308,e,w_per_capita,2019,29.017
 312,e,w_per_capita,2000,114.442
 312,e,w_per_capita,2001,114.932
 312,e,w_per_capita,2002,125.681
@@ -1747,6 +1838,7 @@ geo_area,nature,units,year,eg_egy_rnew
 312,e,w_per_capita,2016,371.173
 312,e,w_per_capita,2017,383.308
 312,e,w_per_capita,2018,394.15
+312,e,w_per_capita,2019,461.695
 316,e,w_per_capita,2000,0
 316,e,w_per_capita,2001,0
 316,e,w_per_capita,2002,0
@@ -1766,6 +1858,7 @@ geo_area,nature,units,year,eg_egy_rnew
 316,e,w_per_capita,2016,214.332
 316,e,w_per_capita,2017,212.593
 316,e,w_per_capita,2018,211.468
+316,e,w_per_capita,2019,209.54
 320,e,w_per_capita,2000,62.267
 320,e,w_per_capita,2001,63.347
 320,e,w_per_capita,2002,63.213
@@ -1785,6 +1878,7 @@ geo_area,nature,units,year,eg_egy_rnew
 320,e,w_per_capita,2016,160.833
 320,e,w_per_capita,2017,162.749
 320,e,w_per_capita,2018,172.897
+320,e,w_per_capita,2019,163.262
 324,e,w_per_capita,2000,15.559
 324,e,w_per_capita,2001,15.233
 324,e,w_per_capita,2002,14.933
@@ -1804,6 +1898,7 @@ geo_area,nature,units,year,eg_egy_rnew
 324,e,w_per_capita,2016,32.503
 324,e,w_per_capita,2017,31.617
 324,e,w_per_capita,2018,30.737
+324,e,w_per_capita,2019,29.878
 328,e,w_per_capita,2000,29.397
 328,e,w_per_capita,2001,29.666
 328,e,w_per_capita,2002,29.89
@@ -1823,6 +1918,7 @@ geo_area,nature,units,year,eg_egy_rnew
 328,e,w_per_capita,2016,59.81
 328,e,w_per_capita,2017,61.443
 328,e,w_per_capita,2018,65.151
+328,e,w_per_capita,2019,67.47
 332,e,w_per_capita,2000,6.65
 332,e,w_per_capita,2001,6.538
 332,e,w_per_capita,2002,6.43
@@ -1842,6 +1938,7 @@ geo_area,nature,units,year,eg_egy_rnew
 332,e,w_per_capita,2016,5.369
 332,e,w_per_capita,2017,5.348
 332,e,w_per_capita,2018,7.24
+332,e,w_per_capita,2019,7.15
 340,e,w_per_capita,2000,66.666
 340,e,w_per_capita,2001,64.945
 340,e,w_per_capita,2002,68.402
@@ -1861,6 +1958,7 @@ geo_area,nature,units,year,eg_egy_rnew
 340,e,w_per_capita,2016,157.412
 340,e,w_per_capita,2017,168.561
 340,e,w_per_capita,2018,175.155
+340,e,w_per_capita,2019,178.761
 356,e,w_per_capita,2000,23.661
 356,e,w_per_capita,2001,24.807
 356,e,w_per_capita,2002,24.541
@@ -1880,6 +1978,7 @@ geo_area,nature,units,year,eg_egy_rnew
 356,e,w_per_capita,2016,68.185
 356,e,w_per_capita,2017,78.561
 356,e,w_per_capita,2018,87.295
+356,e,w_per_capita,2019,93.846
 360,e,w_per_capita,2000,25.887
 360,e,w_per_capita,2001,21.706
 360,e,w_per_capita,2002,21.612
@@ -1899,6 +1998,7 @@ geo_area,nature,units,year,eg_egy_rnew
 360,e,w_per_capita,2016,33.906
 360,e,w_per_capita,2017,34.594
 360,e,w_per_capita,2018,35.435
+360,e,w_per_capita,2019,36.437
 364,e,w_per_capita,2000,30.629
 364,e,w_per_capita,2001,30.249
 364,e,w_per_capita,2002,45.181
@@ -1918,6 +2018,7 @@ geo_area,nature,units,year,eg_egy_rnew
 364,e,w_per_capita,2016,148.606
 364,e,w_per_capita,2017,153.805
 364,e,w_per_capita,2018,154.999
+364,e,w_per_capita,2019,155.979
 368,e,w_per_capita,2000,28.514
 368,e,w_per_capita,2001,27.677
 368,e,w_per_capita,2002,14.439
@@ -1937,6 +2038,7 @@ geo_area,nature,units,year,eg_egy_rnew
 368,e,w_per_capita,2016,63.119
 368,e,w_per_capita,2017,61.536
 368,e,w_per_capita,2018,64.784
+368,e,w_per_capita,2019,63.34
 384,e,w_per_capita,2000,36.709
 384,e,w_per_capita,2001,35.842
 384,e,w_per_capita,2002,35.056
@@ -1956,6 +2058,7 @@ geo_area,nature,units,year,eg_egy_rnew
 384,e,w_per_capita,2016,25.566
 384,e,w_per_capita,2017,36.308
 384,e,w_per_capita,2018,35.393
+384,e,w_per_capita,2019,34.502
 388,e,w_per_capita,2000,20.805
 388,e,w_per_capita,2001,20.499
 388,e,w_per_capita,2002,19.953
@@ -1975,6 +2078,7 @@ geo_area,nature,units,year,eg_egy_rnew
 388,e,w_per_capita,2016,64.905
 388,e,w_per_capita,2017,74.167
 388,e,w_per_capita,2018,73.813
+388,e,w_per_capita,2019,86.027
 398,e,w_per_capita,2000,151.447
 398,e,w_per_capita,2001,151.574
 398,e,w_per_capita,2002,150.906
@@ -1994,6 +2098,7 @@ geo_area,nature,units,year,eg_egy_rnew
 398,e,w_per_capita,2016,165.504
 398,e,w_per_capita,2017,166.766
 398,e,w_per_capita,2018,183.887
+398,e,w_per_capita,2019,209.518
 400,e,w_per_capita,2000,2.811
 400,e,w_per_capita,2001,2.76
 400,e,w_per_capita,2002,2.708
@@ -2013,6 +2118,7 @@ geo_area,nature,units,year,eg_egy_rnew
 400,e,w_per_capita,2016,55.088
 400,e,w_per_capita,2017,62.46
 400,e,w_per_capita,2018,115.834
+400,e,w_per_capita,2019,162.579
 404,e,w_per_capita,2000,24.065
 404,e,w_per_capita,2001,23.417
 404,e,w_per_capita,2002,22.791
@@ -2032,6 +2138,7 @@ geo_area,nature,units,year,eg_egy_rnew
 404,e,w_per_capita,2016,33.387
 404,e,w_per_capita,2017,33.039
 404,e,w_per_capita,2018,39.235
+404,e,w_per_capita,2019,41.434
 408,e,w_per_capita,2000,200.27
 408,e,w_per_capita,2001,207.151
 408,e,w_per_capita,2002,206.176
@@ -2051,6 +2158,7 @@ geo_area,nature,units,year,eg_egy_rnew
 408,e,w_per_capita,2016,187.008
 408,e,w_per_capita,2017,188.612
 408,e,w_per_capita,2018,188.981
+408,e,w_per_capita,2019,188.278
 410,e,w_per_capita,2000,34.055
 410,e,w_per_capita,2001,35.457
 410,e,w_per_capita,2002,34.657
@@ -2070,6 +2178,7 @@ geo_area,nature,units,year,eg_egy_rnew
 410,e,w_per_capita,2016,174.595
 410,e,w_per_capita,2017,206.171
 410,e,w_per_capita,2018,235.483
+410,e,w_per_capita,2019,305.577
 414,e,w_per_capita,2000,0
 414,e,w_per_capita,2001,0
 414,e,w_per_capita,2002,0
@@ -2089,6 +2198,7 @@ geo_area,nature,units,year,eg_egy_rnew
 414,e,w_per_capita,2016,8.317
 414,e,w_per_capita,2017,10.949
 414,e,w_per_capita,2018,13.407
+414,e,w_per_capita,2019,25.135
 417,e,w_per_capita,2000,598.165
 417,e,w_per_capita,2001,593.088
 417,e,w_per_capita,2002,589.685
@@ -2108,6 +2218,7 @@ geo_area,nature,units,year,eg_egy_rnew
 417,e,w_per_capita,2016,605.298
 417,e,w_per_capita,2017,595.923
 417,e,w_per_capita,2018,582.659
+417,e,w_per_capita,2019,572.504
 418,e,w_per_capita,2000,120.526
 418,e,w_per_capita,2001,118.834
 418,e,w_per_capita,2002,117.058
@@ -2127,6 +2238,7 @@ geo_area,nature,units,year,eg_egy_rnew
 418,e,w_per_capita,2016,709.44
 418,e,w_per_capita,2017,728.735
 418,e,w_per_capita,2018,752.945
+418,e,w_per_capita,2019,841.754
 419,g,w_per_capita,2000,245.949
 419,g,w_per_capita,2001,246.697
 419,g,w_per_capita,2002,247.694
@@ -2146,6 +2258,7 @@ geo_area,nature,units,year,eg_egy_rnew
 419,g,w_per_capita,2016,357.96
 419,g,w_per_capita,2017,370.849
 419,g,w_per_capita,2018,389.02
+419,g,w_per_capita,2019,404.774
 422,e,w_per_capita,2000,73.384
 422,e,w_per_capita,2001,70.659
 422,e,w_per_capita,2002,67.429
@@ -2165,6 +2278,7 @@ geo_area,nature,units,year,eg_egy_rnew
 422,e,w_per_capita,2016,47.385
 422,e,w_per_capita,2017,44.417
 422,e,w_per_capita,2018,46.851
+422,e,w_per_capita,2019,46.876
 426,e,w_per_capita,2000,37.101
 426,e,w_per_capita,2001,37.048
 426,e,w_per_capita,2002,37.156
@@ -2184,6 +2298,7 @@ geo_area,nature,units,year,eg_egy_rnew
 426,e,w_per_capita,2016,36.198
 426,e,w_per_capita,2017,35.913
 426,e,w_per_capita,2018,35.627
+426,e,w_per_capita,2019,35.343
 430,e,w_per_capita,2000,1.404
 430,e,w_per_capita,2001,1.354
 430,e,w_per_capita,2002,1.322
@@ -2203,6 +2318,7 @@ geo_area,nature,units,year,eg_egy_rnew
 430,e,w_per_capita,2016,5.681
 430,e,w_per_capita,2017,20.077
 430,e,w_per_capita,2018,19.627
+430,e,w_per_capita,2019,19.157
 432,g,w_per_capita,2000,79.251
 432,g,w_per_capita,2001,78.169
 432,g,w_per_capita,2002,77.932
@@ -2222,6 +2338,7 @@ geo_area,nature,units,year,eg_egy_rnew
 432,g,w_per_capita,2016,86.115
 432,g,w_per_capita,2017,89.24
 432,g,w_per_capita,2018,90.418
+432,g,w_per_capita,2019,93.583
 434,e,w_per_capita,2000,0
 434,e,w_per_capita,2001,0
 434,e,w_per_capita,2002,0
@@ -2241,6 +2358,7 @@ geo_area,nature,units,year,eg_egy_rnew
 434,e,w_per_capita,2016,0.755
 434,e,w_per_capita,2017,0.777
 434,e,w_per_capita,2018,0.765
+434,e,w_per_capita,2019,0.754
 450,e,w_per_capita,2000,6.71
 450,e,w_per_capita,2001,6.506
 450,e,w_per_capita,2002,6.311
@@ -2260,6 +2378,7 @@ geo_area,nature,units,year,eg_egy_rnew
 450,e,w_per_capita,2016,7.034
 450,e,w_per_capita,2017,6.93
 450,e,w_per_capita,2018,7.509
+450,e,w_per_capita,2019,7.312
 454,e,w_per_capita,2000,26.903
 454,e,w_per_capita,2001,26.237
 454,e,w_per_capita,2002,25.597
@@ -2279,6 +2398,7 @@ geo_area,nature,units,year,eg_egy_rnew
 454,e,w_per_capita,2016,21.836
 454,e,w_per_capita,2017,21.662
 454,e,w_per_capita,2018,21.955
+454,e,w_per_capita,2019,21.399
 458,e,w_per_capita,2000,119.039
 458,e,w_per_capita,2001,115.99
 458,e,w_per_capita,2002,115.126
@@ -2298,6 +2418,7 @@ geo_area,nature,units,year,eg_egy_rnew
 458,e,w_per_capita,2016,259.333
 458,e,w_per_capita,2017,235.745
 458,e,w_per_capita,2018,239.167
+458,e,w_per_capita,2019,251.847
 462,e,w_per_capita,2000,0
 462,e,w_per_capita,2001,0
 462,e,w_per_capita,2002,0
@@ -2317,6 +2438,7 @@ geo_area,nature,units,year,eg_egy_rnew
 462,e,w_per_capita,2016,17.325
 462,e,w_per_capita,2017,22.035
 462,e,w_per_capita,2018,21.21
+462,e,w_per_capita,2019,28.707
 466,e,w_per_capita,2000,7.746
 466,e,w_per_capita,2001,7.537
 466,e,w_per_capita,2002,24.571
@@ -2336,6 +2458,7 @@ geo_area,nature,units,year,eg_egy_rnew
 466,e,w_per_capita,2016,20.751
 466,e,w_per_capita,2017,20.25
 466,e,w_per_capita,2018,19.65
+466,e,w_per_capita,2019,19.072
 474,e,w_per_capita,2000,0
 474,e,w_per_capita,2001,0
 474,e,w_per_capita,2002,10.191
@@ -2355,6 +2478,7 @@ geo_area,nature,units,year,eg_egy_rnew
 474,e,w_per_capita,2016,192.15
 474,e,w_per_capita,2017,193.379
 474,e,w_per_capita,2018,299.996
+474,e,w_per_capita,2019,349.081
 478,e,w_per_capita,2000,0
 478,e,w_per_capita,2001,0
 478,e,w_per_capita,2002,0
@@ -2374,6 +2498,7 @@ geo_area,nature,units,year,eg_egy_rnew
 478,e,w_per_capita,2016,16.612
 478,e,w_per_capita,2017,16.151
 478,e,w_per_capita,2018,27.535
+478,e,w_per_capita,2019,26.937
 480,e,w_per_capita,2000,93.756
 480,e,w_per_capita,2001,101.402
 480,e,w_per_capita,2002,99.904
@@ -2393,6 +2518,7 @@ geo_area,nature,units,year,eg_egy_rnew
 480,e,w_per_capita,2016,150.039
 480,e,w_per_capita,2017,150.937
 480,e,w_per_capita,2018,181.118
+480,e,w_per_capita,2019,193.365
 484,e,w_per_capita,2000,109.889
 484,e,w_per_capita,2001,109.603
 484,e,w_per_capita,2002,108.138
@@ -2412,6 +2538,7 @@ geo_area,nature,units,year,eg_egy_rnew
 484,e,w_per_capita,2016,152.633
 484,e,w_per_capita,2017,155.976
 484,e,w_per_capita,2018,175.356
+484,e,w_per_capita,2019,201.039
 496,e,w_per_capita,2000,6.267
 496,e,w_per_capita,2001,6.657
 496,e,w_per_capita,2002,6.593
@@ -2431,6 +2558,7 @@ geo_area,nature,units,year,eg_egy_rnew
 496,e,w_per_capita,2016,31.677
 496,e,w_per_capita,2017,57.78
 496,e,w_per_capita,2018,79.306
+496,e,w_per_capita,2019,85.644
 500,e,w_per_capita,2000,0
 500,e,w_per_capita,2001,0
 500,e,w_per_capita,2002,0
@@ -2450,6 +2578,7 @@ geo_area,nature,units,year,eg_egy_rnew
 500,e,w_per_capita,2016,0
 500,e,w_per_capita,2017,0
 500,e,w_per_capita,2018,0
+500,e,w_per_capita,2019,50.09
 504,e,w_per_capita,2000,42.625
 504,e,w_per_capita,2001,42.148
 504,e,w_per_capita,2002,41.702
@@ -2469,6 +2598,7 @@ geo_area,nature,units,year,eg_egy_rnew
 504,e,w_per_capita,2016,68.513
 504,e,w_per_capita,2017,71.242
 504,e,w_per_capita,2018,90.673
+504,e,w_per_capita,2019,89.578
 508,e,w_per_capita,2000,124.088
 508,e,w_per_capita,2001,120.615
 508,e,w_per_capita,2002,114.64
@@ -2488,6 +2618,7 @@ geo_area,nature,units,year,eg_egy_rnew
 508,e,w_per_capita,2016,79.54
 508,e,w_per_capita,2017,77.929
 508,e,w_per_capita,2018,75.691
+508,e,w_per_capita,2019,74.84
 512,e,w_per_capita,2000,0
 512,e,w_per_capita,2001,0
 512,e,w_per_capita,2002,0
@@ -2507,6 +2638,7 @@ geo_area,nature,units,year,eg_egy_rnew
 512,e,w_per_capita,2016,0.494
 512,e,w_per_capita,2017,1.76
 512,e,w_per_capita,2018,1.717
+512,e,w_per_capita,2019,1.667
 513,n,w_per_capita,2000,N
 513,n,w_per_capita,2001,N
 513,n,w_per_capita,2002,N
@@ -2545,6 +2677,7 @@ geo_area,nature,units,year,eg_egy_rnew
 516,e,w_per_capita,2016,162.608
 516,e,w_per_capita,2017,175.744
 516,e,w_per_capita,2018,179.716
+516,e,w_per_capita,2019,195.404
 520,e,w_per_capita,2000,0
 520,e,w_per_capita,2001,0
 520,e,w_per_capita,2002,0
@@ -2564,6 +2697,7 @@ geo_area,nature,units,year,eg_egy_rnew
 520,e,w_per_capita,2016,67.787
 520,e,w_per_capita,2017,67.127
 520,e,w_per_capita,2018,76.981
+520,e,w_per_capita,2019,76.366
 524,e,w_per_capita,2000,11.762
 524,e,w_per_capita,2001,16.537
 524,e,w_per_capita,2002,16.528
@@ -2583,6 +2717,7 @@ geo_area,nature,units,year,eg_egy_rnew
 524,e,w_per_capita,2016,31.09
 524,e,w_per_capita,2017,35.951
 524,e,w_per_capita,2018,39.676
+524,e,w_per_capita,2019,43.208
 531,e,w_per_capita,2000,23.459
 531,e,w_per_capita,2001,92.788
 531,e,w_per_capita,2002,93.739
@@ -2602,6 +2737,7 @@ geo_area,nature,units,year,eg_egy_rnew
 531,e,w_per_capita,2016,255.192
 531,e,w_per_capita,2017,358.673
 531,e,w_per_capita,2018,356.368
+531,e,w_per_capita,2019,361.026
 533,e,w_per_capita,2000,0
 533,e,w_per_capita,2001,0
 533,e,w_per_capita,2002,0
@@ -2621,6 +2757,7 @@ geo_area,nature,units,year,eg_egy_rnew
 533,e,w_per_capita,2016,363.324
 533,e,w_per_capita,2017,361.614
 533,e,w_per_capita,2018,359.957
+533,e,w_per_capita,2019,358.386
 535,e,w_per_capita,2000,0
 535,e,w_per_capita,2001,0
 535,e,w_per_capita,2002,0
@@ -2640,6 +2777,7 @@ geo_area,nature,units,year,eg_egy_rnew
 535,e,w_per_capita,2016,531.239
 535,e,w_per_capita,2017,612.229
 535,e,w_per_capita,2018,649.189
+535,e,w_per_capita,2019,680.83
 540,e,w_per_capita,2000,367.987
 540,e,w_per_capita,2001,373.41
 540,e,w_per_capita,2002,376.704
@@ -2659,6 +2797,7 @@ geo_area,nature,units,year,eg_egy_rnew
 540,e,w_per_capita,2016,456.939
 540,e,w_per_capita,2017,519.02
 540,e,w_per_capita,2018,531.648
+540,e,w_per_capita,2019,618.39
 543,g,w_per_capita,2000,54.99
 543,g,w_per_capita,2001,54.356
 543,g,w_per_capita,2002,53.677
@@ -2678,6 +2817,7 @@ geo_area,nature,units,year,eg_egy_rnew
 543,g,w_per_capita,2016,71.614
 543,g,w_per_capita,2017,74.731
 543,g,w_per_capita,2018,74.701
+543,g,w_per_capita,2019,75.97
 548,e,w_per_capita,2000,3.244
 548,e,w_per_capita,2001,3.171
 548,e,w_per_capita,2002,3.094
@@ -2697,6 +2837,7 @@ geo_area,nature,units,year,eg_egy_rnew
 548,e,w_per_capita,2016,33.461
 548,e,w_per_capita,2017,34.813
 548,e,w_per_capita,2018,35.394
+548,e,w_per_capita,2019,33.396
 558,e,w_per_capita,2000,30.184
 558,e,w_per_capita,2001,28.727
 558,e,w_per_capita,2002,42.712
@@ -2716,6 +2857,7 @@ geo_area,nature,units,year,eg_egy_rnew
 558,e,w_per_capita,2016,104.875
 558,e,w_per_capita,2017,105.517
 558,e,w_per_capita,2018,104.201
+558,e,w_per_capita,2019,111.744
 562,e,w_per_capita,2000,0.044
 562,e,w_per_capita,2001,0.051
 562,e,w_per_capita,2002,0.049
@@ -2735,6 +2877,7 @@ geo_area,nature,units,year,eg_egy_rnew
 562,e,w_per_capita,2016,0.385
 562,e,w_per_capita,2017,0.419
 562,e,w_per_capita,2018,1.205
+562,e,w_per_capita,2019,1.16
 566,e,w_per_capita,2000,17.052
 566,e,w_per_capita,2001,16.629
 566,e,w_per_capita,2002,16.223
@@ -2754,6 +2897,7 @@ geo_area,nature,units,year,eg_egy_rnew
 566,e,w_per_capita,2016,11.522
 566,e,w_per_capita,2017,11.228
 566,e,w_per_capita,2018,10.942
+566,e,w_per_capita,2019,10.71
 570,e,w_per_capita,2000,0
 570,e,w_per_capita,2001,0
 570,e,w_per_capita,2002,0
@@ -2773,6 +2917,7 @@ geo_area,nature,units,year,eg_egy_rnew
 570,e,w_per_capita,2016,211.67
 570,e,w_per_capita,2017,211.538
 570,e,w_per_capita,2018,211.801
+570,e,w_per_capita,2019,583.024
 583,e,w_per_capita,2000,20.111
 583,e,w_per_capita,2001,20.155
 583,e,w_per_capita,2002,20.182
@@ -2792,6 +2937,7 @@ geo_area,nature,units,year,eg_egy_rnew
 583,e,w_per_capita,2016,11.65
 583,e,w_per_capita,2017,11.52
 583,e,w_per_capita,2018,24.112
+583,e,w_per_capita,2019,23.864
 584,e,w_per_capita,2000,0.788
 584,e,w_per_capita,2001,0.778
 584,e,w_per_capita,2002,0.764
@@ -2811,6 +2957,7 @@ geo_area,nature,units,year,eg_egy_rnew
 584,e,w_per_capita,2016,27.875
 584,e,w_per_capita,2017,27.716
 584,e,w_per_capita,2018,27.837
+584,e,w_per_capita,2019,27.657
 585,e,w_per_capita,2000,0.209
 585,e,w_per_capita,2001,0.206
 585,e,w_per_capita,2002,0.204
@@ -2830,6 +2977,7 @@ geo_area,nature,units,year,eg_egy_rnew
 585,e,w_per_capita,2016,72.243
 585,e,w_per_capita,2017,71.874
 585,e,w_per_capita,2018,71.464
+585,e,w_per_capita,2019,71.107
 586,e,w_per_capita,2000,36.362
 586,e,w_per_capita,2001,36.402
 586,e,w_per_capita,2002,35.573
@@ -2849,6 +2997,7 @@ geo_area,nature,units,year,eg_egy_rnew
 586,e,w_per_capita,2016,43.008
 586,e,w_per_capita,2017,46.083
 586,e,w_per_capita,2018,59.775
+586,e,w_per_capita,2019,59.548
 591,e,w_per_capita,2000,206.017
 591,e,w_per_capita,2001,202.119
 591,e,w_per_capita,2002,226.246
@@ -2868,6 +3017,7 @@ geo_area,nature,units,year,eg_egy_rnew
 591,e,w_per_capita,2016,535.985
 591,e,w_per_capita,2017,542.181
 591,e,w_per_capita,2018,543.927
+591,e,w_per_capita,2019,540.693
 598,e,w_per_capita,2000,36.366
 598,e,w_per_capita,2001,35.646
 598,e,w_per_capita,2002,34.921
@@ -2887,6 +3037,7 @@ geo_area,nature,units,year,eg_egy_rnew
 598,e,w_per_capita,2016,40.298
 598,e,w_per_capita,2017,39.5
 598,e,w_per_capita,2018,38.735
+598,e,w_per_capita,2019,37.989
 600,e,w_per_capita,2000,1388.262
 600,e,w_per_capita,2001,1365.08
 600,e,w_per_capita,2002,1335.92
@@ -2906,6 +3057,7 @@ geo_area,nature,units,year,eg_egy_rnew
 600,e,w_per_capita,2016,1305.641
 600,e,w_per_capita,2017,1288.685
 600,e,w_per_capita,2018,1272.195
+600,e,w_per_capita,2019,1253.751
 604,e,w_per_capita,2000,109.353
 604,e,w_per_capita,2001,112.087
 604,e,w_per_capita,2002,111.995
@@ -2925,6 +3077,7 @@ geo_area,nature,units,year,eg_egy_rnew
 604,e,w_per_capita,2016,185.297
 604,e,w_per_capita,2017,185.251
 604,e,w_per_capita,2018,194.488
+604,e,w_per_capita,2019,202.997
 608,e,w_per_capita,2000,48.528
 608,e,w_per_capita,2001,48.534
 608,e,w_per_capita,2002,50.077
@@ -2944,6 +3097,7 @@ geo_area,nature,units,year,eg_egy_rnew
 608,e,w_per_capita,2016,60.423
 608,e,w_per_capita,2017,60.968
 608,e,w_per_capita,2018,61.665
+608,e,w_per_capita,2019,61.92
 624,e,w_per_capita,2000,0
 624,e,w_per_capita,2001,0
 624,e,w_per_capita,2002,0
@@ -2963,6 +3117,7 @@ geo_area,nature,units,year,eg_egy_rnew
 624,e,w_per_capita,2016,0.175
 624,e,w_per_capita,2017,0.171
 624,e,w_per_capita,2018,0.624
+624,e,w_per_capita,2019,0.609
 626,e,w_per_capita,2000,0
 626,e,w_per_capita,2001,0
 626,e,w_per_capita,2002,0
@@ -2982,6 +3137,7 @@ geo_area,nature,units,year,eg_egy_rnew
 626,e,w_per_capita,2016,0.726
 626,e,w_per_capita,2017,0.747
 626,e,w_per_capita,2018,0.733
+626,e,w_per_capita,2019,0.718
 630,e,w_per_capita,2000,27.201
 630,e,w_per_capita,2001,27.191
 630,e,w_per_capita,2002,27.29
@@ -3001,6 +3157,7 @@ geo_area,nature,units,year,eg_egy_rnew
 630,e,w_per_capita,2016,110.078
 630,e,w_per_capita,2017,116.688
 630,e,w_per_capita,2018,121.465
+630,e,w_per_capita,2019,126.271
 634,e,w_per_capita,2000,0
 634,e,w_per_capita,2001,0
 634,e,w_per_capita,2002,0
@@ -3020,6 +3177,7 @@ geo_area,nature,units,year,eg_egy_rnew
 634,e,w_per_capita,2016,16.237
 634,e,w_per_capita,2017,15.818
 634,e,w_per_capita,2018,15.494
+634,e,w_per_capita,2019,15.219
 638,e,w_per_capita,2000,194.92
 638,e,w_per_capita,2001,191.811
 638,e,w_per_capita,2002,188.885
@@ -3039,6 +3197,7 @@ geo_area,nature,units,year,eg_egy_rnew
 638,e,w_per_capita,2016,439.786
 638,e,w_per_capita,2017,438.176
 638,e,w_per_capita,2018,437.492
+638,e,w_per_capita,2019,481.972
 646,e,w_per_capita,2000,5.18
 646,e,w_per_capita,2001,4.993
 646,e,w_per_capita,2002,4.877
@@ -3058,6 +3217,7 @@ geo_area,nature,units,year,eg_egy_rnew
 646,e,w_per_capita,2016,10.138
 646,e,w_per_capita,2017,10.58
 646,e,w_per_capita,2018,11.144
+646,e,w_per_capita,2019,10.857
 652,e,w_per_capita,2000,0
 652,e,w_per_capita,2001,0
 652,e,w_per_capita,2002,0
@@ -3077,6 +3237,7 @@ geo_area,nature,units,year,eg_egy_rnew
 652,e,w_per_capita,2016,2.463
 652,e,w_per_capita,2017,2.452
 652,e,w_per_capita,2018,2.443
+652,e,w_per_capita,2019,2.436
 659,e,w_per_capita,2000,0
 659,e,w_per_capita,2001,0
 659,e,w_per_capita,2002,0
@@ -3096,6 +3257,7 @@ geo_area,nature,units,year,eg_egy_rnew
 659,e,w_per_capita,2016,80.187
 659,e,w_per_capita,2017,79.56
 659,e,w_per_capita,2018,78.95
+659,e,w_per_capita,2019,78.359
 660,e,w_per_capita,2000,0
 660,e,w_per_capita,2001,0
 660,e,w_per_capita,2002,0
@@ -3115,6 +3277,7 @@ geo_area,nature,units,year,eg_egy_rnew
 660,e,w_per_capita,2016,148.32
 660,e,w_per_capita,2017,146.764
 660,e,w_per_capita,2018,77.419
+660,e,w_per_capita,2019,101.6
 662,e,w_per_capita,2000,0
 662,e,w_per_capita,2001,0
 662,e,w_per_capita,2002,0
@@ -3134,6 +3297,7 @@ geo_area,nature,units,year,eg_egy_rnew
 662,e,w_per_capita,2016,4.638
 662,e,w_per_capita,2017,4.614
 662,e,w_per_capita,2018,21.084
+662,e,w_per_capita,2019,20.98
 663,e,w_per_capita,2000,0
 663,e,w_per_capita,2001,0
 663,e,w_per_capita,2002,0
@@ -3153,6 +3317,7 @@ geo_area,nature,units,year,eg_egy_rnew
 663,e,w_per_capita,2016,44.369
 663,e,w_per_capita,2017,2.735
 663,e,w_per_capita,2018,2.684
+663,e,w_per_capita,2019,2.631
 670,e,w_per_capita,2000,52.325
 670,e,w_per_capita,2001,52.274
 670,e,w_per_capita,2002,52.176
@@ -3172,6 +3337,7 @@ geo_area,nature,units,year,eg_egy_rnew
 670,e,w_per_capita,2016,62.485
 670,e,w_per_capita,2017,62.918
 670,e,w_per_capita,2018,62.698
+670,e,w_per_capita,2019,67.907
 678,e,w_per_capita,2000,16.308
 678,e,w_per_capita,2001,16.027
 678,e,w_per_capita,2002,15.734
@@ -3191,6 +3357,7 @@ geo_area,nature,units,year,eg_egy_rnew
 678,e,w_per_capita,2016,12.189
 678,e,w_per_capita,2017,12.729
 678,e,w_per_capita,2018,12.491
+678,e,w_per_capita,2019,12.258
 682,e,w_per_capita,2000,0.017
 682,e,w_per_capita,2001,0.017
 682,e,w_per_capita,2002,0.016
@@ -3210,6 +3377,7 @@ geo_area,nature,units,year,eg_egy_rnew
 682,e,w_per_capita,2016,0.748
 682,e,w_per_capita,2017,1.122
 682,e,w_per_capita,2018,2.585
+682,e,w_per_capita,2019,11.589
 686,e,w_per_capita,2000,1.051
 686,e,w_per_capita,2001,1.04
 686,e,w_per_capita,2002,1.029
@@ -3229,6 +3397,7 @@ geo_area,nature,units,year,eg_egy_rnew
 686,e,w_per_capita,2016,4.535
 686,e,w_per_capita,2017,8.95
 686,e,w_per_capita,2018,10.029
+686,e,w_per_capita,2019,12.825
 690,e,w_per_capita,2000,0
 690,e,w_per_capita,2001,0
 690,e,w_per_capita,2002,0
@@ -3248,6 +3417,7 @@ geo_area,nature,units,year,eg_egy_rnew
 690,e,w_per_capita,2016,83.021
 690,e,w_per_capita,2017,89.651
 690,e,w_per_capita,2018,97.823
+690,e,w_per_capita,2019,97.175
 694,e,w_per_capita,2000,0.872
 694,e,w_per_capita,2001,0.841
 694,e,w_per_capita,2002,0.806
@@ -3267,6 +3437,7 @@ geo_area,nature,units,year,eg_egy_rnew
 694,e,w_per_capita,2016,12.353
 694,e,w_per_capita,2017,13.156
 694,e,w_per_capita,2018,12.936
+694,e,w_per_capita,2019,12.667
 702,e,w_per_capita,2000,37.951
 702,e,w_per_capita,2001,37.502
 702,e,w_per_capita,2002,37.253
@@ -3286,6 +3457,7 @@ geo_area,nature,units,year,eg_egy_rnew
 702,e,w_per_capita,2016,54.305
 702,e,w_per_capita,2017,57.712
 702,e,w_per_capita,2018,64.572
+702,e,w_per_capita,2019,80.418
 704,e,w_per_capita,2000,42.543
 704,e,w_per_capita,2001,48.733
 704,e,w_per_capita,2002,52.056
@@ -3305,6 +3477,7 @@ geo_area,nature,units,year,eg_egy_rnew
 704,e,w_per_capita,2016,186.732
 704,e,w_per_capita,2017,192.539
 704,e,w_per_capita,2018,195.841
+704,e,w_per_capita,2019,254.178
 706,e,w_per_capita,2000,0
 706,e,w_per_capita,2001,0
 706,e,w_per_capita,2002,0
@@ -3324,6 +3497,7 @@ geo_area,nature,units,year,eg_egy_rnew
 706,e,w_per_capita,2016,0.527
 706,e,w_per_capita,2017,0.716
 706,e,w_per_capita,2018,0.707
+706,e,w_per_capita,2019,0.688
 710,e,w_per_capita,2000,27.762
 710,e,w_per_capita,2001,28.162
 710,e,w_per_capita,2002,27.877
@@ -3343,6 +3517,7 @@ geo_area,nature,units,year,eg_egy_rnew
 710,e,w_per_capita,2016,82.727
 710,e,w_per_capita,2017,98.006
 710,e,w_per_capita,2018,104.938
+710,e,w_per_capita,2019,105.307
 716,e,w_per_capita,2000,61.423
 716,e,w_per_capita,2001,61.204
 716,e,w_per_capita,2002,62.722
@@ -3362,6 +3537,7 @@ geo_area,nature,units,year,eg_egy_rnew
 716,e,w_per_capita,2016,62.883
 716,e,w_per_capita,2017,62.326
 716,e,w_per_capita,2018,82.532
+716,e,w_per_capita,2019,81.536
 722,g,w_per_capita,2000,30.638
 722,g,w_per_capita,2001,30.862
 722,g,w_per_capita,2002,30.591
@@ -3381,6 +3557,7 @@ geo_area,nature,units,year,eg_egy_rnew
 722,g,w_per_capita,2016,58.921
 722,g,w_per_capita,2017,61.979
 722,g,w_per_capita,2018,66.875
+722,g,w_per_capita,2019,73.334
 728,e,w_per_capita,2000,0
 728,e,w_per_capita,2001,0
 728,e,w_per_capita,2002,0
@@ -3400,6 +3577,7 @@ geo_area,nature,units,year,eg_egy_rnew
 728,e,w_per_capita,2016,0.04
 728,e,w_per_capita,2017,0.041
 728,e,w_per_capita,2018,0.05
+728,e,w_per_capita,2019,0.059
 729,e,w_per_capita,2000,14.951
 729,e,w_per_capita,2001,14.579
 729,e,w_per_capita,2002,14.207
@@ -3419,6 +3597,7 @@ geo_area,nature,units,year,eg_egy_rnew
 729,e,w_per_capita,2016,45.286
 729,e,w_per_capita,2017,52.428
 729,e,w_per_capita,2018,51.196
+729,e,w_per_capita,2019,50.12
 740,e,w_per_capita,2000,382.211
 740,e,w_per_capita,2001,377.696
 740,e,w_per_capita,2002,373.267
@@ -3438,6 +3617,7 @@ geo_area,nature,units,year,eg_egy_rnew
 740,e,w_per_capita,2016,332.626
 740,e,w_per_capita,2017,329.403
 740,e,w_per_capita,2018,328.349
+740,e,w_per_capita,2019,325.313
 747,g,w_per_capita,2000,66.551
 747,g,w_per_capita,2001,66.713
 747,g,w_per_capita,2002,65.629
@@ -3457,6 +3637,7 @@ geo_area,nature,units,year,eg_egy_rnew
 747,g,w_per_capita,2016,111.654
 747,g,w_per_capita,2017,121.274
 747,g,w_per_capita,2018,132.434
+747,g,w_per_capita,2019,141.598
 748,e,w_per_capita,2000,103.239
 748,e,w_per_capita,2001,102.409
 748,e,w_per_capita,2002,101.862
@@ -3476,6 +3657,7 @@ geo_area,nature,units,year,eg_egy_rnew
 748,e,w_per_capita,2016,151.733
 748,e,w_per_capita,2017,150.275
 748,e,w_per_capita,2018,148.758
+748,e,w_per_capita,2019,147.222
 753,g,w_per_capita,2000,54.587
 753,g,w_per_capita,2001,55.969
 753,g,w_per_capita,2002,57.922
@@ -3495,6 +3677,7 @@ geo_area,nature,units,year,eg_egy_rnew
 753,g,w_per_capita,2016,286.602
 753,g,w_per_capita,2017,323.31
 753,g,w_per_capita,2018,357.96
+753,g,w_per_capita,2019,390.614
 760,e,w_per_capita,2000,93.518
 760,e,w_per_capita,2001,91.534
 760,e,w_per_capita,2002,68.875
@@ -3514,6 +3697,7 @@ geo_area,nature,units,year,eg_egy_rnew
 760,e,w_per_capita,2016,85.958
 760,e,w_per_capita,2017,87.825
 760,e,w_per_capita,2018,88.68
+760,e,w_per_capita,2019,88.094
 762,e,w_per_capita,2000,653.279
 762,e,w_per_capita,2001,642.715
 762,e,w_per_capita,2002,631.879
@@ -3533,6 +3717,7 @@ geo_area,nature,units,year,eg_egy_rnew
 762,e,w_per_capita,2016,581.603
 762,e,w_per_capita,2017,567.411
 762,e,w_per_capita,2018,566.26
+762,e,w_per_capita,2019,565.759
 764,e,w_per_capita,2000,56.768
 764,e,w_per_capita,2001,56.244
 764,e,w_per_capita,2002,55.924
@@ -3552,6 +3737,7 @@ geo_area,nature,units,year,eg_egy_rnew
 764,e,w_per_capita,2016,136.895
 764,e,w_per_capita,2017,148.003
 764,e,w_per_capita,2018,163.822
+764,e,w_per_capita,2019,170.339
 768,e,w_per_capita,2000,13.687
 768,e,w_per_capita,2001,13.313
 768,e,w_per_capita,2002,12.969
@@ -3571,6 +3757,7 @@ geo_area,nature,units,year,eg_egy_rnew
 768,e,w_per_capita,2016,9.206
 768,e,w_per_capita,2017,9.041
 768,e,w_per_capita,2018,8.822
+768,e,w_per_capita,2019,8.615
 772,e,w_per_capita,2000,13.548
 772,e,w_per_capita,2001,13.944
 772,e,w_per_capita,2002,14.604
@@ -3590,6 +3777,7 @@ geo_area,nature,units,year,eg_egy_rnew
 772,e,w_per_capita,2016,815.831
 772,e,w_per_capita,2017,802.621
 772,e,w_per_capita,2018,789.833
+772,e,w_per_capita,2019,793.985
 776,e,w_per_capita,2000,0.582
 776,e,w_per_capita,2001,0.579
 776,e,w_per_capita,2002,0.848
@@ -3609,6 +3797,7 @@ geo_area,nature,units,year,eg_egy_rnew
 776,e,w_per_capita,2016,34.021
 776,e,w_per_capita,2017,63.048
 776,e,w_per_capita,2018,62.51
+776,e,w_per_capita,2019,74.174
 780,e,w_per_capita,2000,4.01
 780,e,w_per_capita,2001,4.253
 780,e,w_per_capita,2002,4.4
@@ -3628,6 +3817,7 @@ geo_area,nature,units,year,eg_egy_rnew
 780,e,w_per_capita,2016,2.409
 780,e,w_per_capita,2017,2.398
 780,e,w_per_capita,2018,2.166
+780,e,w_per_capita,2019,2.158
 784,e,w_per_capita,2000,0
 784,e,w_per_capita,2001,0
 784,e,w_per_capita,2002,0
@@ -3647,6 +3837,7 @@ geo_area,nature,units,year,eg_egy_rnew
 784,e,w_per_capita,2016,15.363
 784,e,w_per_capita,2017,37.592
 784,e,w_per_capita,2018,61.853
+784,e,w_per_capita,2019,193.201
 788,e,w_per_capita,2000,7.69
 788,e,w_per_capita,2001,7.636
 788,e,w_per_capita,2002,7.588
@@ -3666,6 +3857,7 @@ geo_area,nature,units,year,eg_egy_rnew
 788,e,w_per_capita,2016,30.757
 788,e,w_per_capita,2017,31.285
 788,e,w_per_capita,2018,30.929
+788,e,w_per_capita,2019,31.869
 792,e,w_per_capita,2000,178.496
 792,e,w_per_capita,2001,183.609
 792,e,w_per_capita,2002,189.723
@@ -3685,6 +3877,7 @@ geo_area,nature,units,year,eg_egy_rnew
 792,e,w_per_capita,2016,431.503
 792,e,w_per_capita,2017,477.665
 792,e,w_per_capita,2018,512.878
+792,e,w_per_capita,2019,534.43
 795,e,w_per_capita,2000,0.266
 795,e,w_per_capita,2001,0.263
 795,e,w_per_capita,2002,0.26
@@ -3704,6 +3897,7 @@ geo_area,nature,units,year,eg_egy_rnew
 795,e,w_per_capita,2016,0.212
 795,e,w_per_capita,2017,0.208
 795,e,w_per_capita,2018,0.205
+795,e,w_per_capita,2019,0.202
 796,e,w_per_capita,2000,0
 796,e,w_per_capita,2001,0
 796,e,w_per_capita,2002,0
@@ -3723,6 +3917,7 @@ geo_area,nature,units,year,eg_egy_rnew
 796,e,w_per_capita,2016,0.821
 796,e,w_per_capita,2017,5.119
 796,e,w_per_capita,2018,11.681
+796,e,w_per_capita,2019,24.611
 798,e,w_per_capita,2000,0.639
 798,e,w_per_capita,2001,0.633
 798,e,w_per_capita,2002,0.625
@@ -3742,6 +3937,7 @@ geo_area,nature,units,year,eg_egy_rnew
 798,e,w_per_capita,2016,197.828
 798,e,w_per_capita,2017,195.952
 798,e,w_per_capita,2018,194.524
+798,e,w_per_capita,2019,192.021
 800,e,w_per_capita,2000,11.404
 800,e,w_per_capita,2001,11.083
 800,e,w_per_capita,2002,12.341
@@ -3761,6 +3957,7 @@ geo_area,nature,units,year,eg_egy_rnew
 800,e,w_per_capita,2016,20.343
 800,e,w_per_capita,2017,20.453
 800,e,w_per_capita,2018,20.103
+800,e,w_per_capita,2019,24.314
 818,e,w_per_capita,2000,42.453
 818,e,w_per_capita,2001,41.659
 818,e,w_per_capita,2002,40.884
@@ -3780,6 +3977,7 @@ geo_area,nature,units,year,eg_egy_rnew
 818,e,w_per_capita,2016,39.554
 818,e,w_per_capita,2017,39.991
 818,e,w_per_capita,2018,48.909
+818,e,w_per_capita,2019,59.492
 834,e,w_per_capita,2000,18.209
 834,e,w_per_capita,2001,17.74
 834,e,w_per_capita,2002,17.263
@@ -3799,6 +3997,7 @@ geo_area,nature,units,year,eg_egy_rnew
 834,e,w_per_capita,2016,12.536
 834,e,w_per_capita,2017,12.353
 834,e,w_per_capita,2018,12.053
+834,e,w_per_capita,2019,11.704
 850,e,w_per_capita,2000,0
 850,e,w_per_capita,2001,0
 850,e,w_per_capita,2002,0
@@ -3818,6 +4017,7 @@ geo_area,nature,units,year,eg_egy_rnew
 850,e,w_per_capita,2016,88.649
 850,e,w_per_capita,2017,48.623
 850,e,w_per_capita,2018,48.657
+850,e,w_per_capita,2019,48.7
 854,e,w_per_capita,2000,2.8
 854,e,w_per_capita,2001,2.721
 854,e,w_per_capita,2002,2.644
@@ -3837,6 +4037,7 @@ geo_area,nature,units,year,eg_egy_rnew
 854,e,w_per_capita,2016,2.301
 854,e,w_per_capita,2017,4.153
 854,e,w_per_capita,2018,4.795
+854,e,w_per_capita,2019,4.812
 858,e,w_per_capita,2000,466.754
 858,e,w_per_capita,2001,465.949
 858,e,w_per_capita,2002,465.868
@@ -3856,6 +4057,7 @@ geo_area,nature,units,year,eg_egy_rnew
 858,e,w_per_capita,2016,952.98
 858,e,w_per_capita,2017,1082.978
 858,e,w_per_capita,2018,1080.811
+858,e,w_per_capita,2019,1080.802
 860,e,w_per_capita,2000,64.433
 860,e,w_per_capita,2001,63.564
 860,e,w_per_capita,2002,62.758
@@ -3875,6 +4077,7 @@ geo_area,nature,units,year,eg_egy_rnew
 860,e,w_per_capita,2016,57.129
 860,e,w_per_capita,2017,57.662
 860,e,w_per_capita,2018,59.094
+860,e,w_per_capita,2019,58.916
 862,e,w_per_capita,2000,546.286
 862,e,w_per_capita,2001,535.898
 862,e,w_per_capita,2002,497.681
@@ -3894,6 +4097,7 @@ geo_area,nature,units,year,eg_egy_rnew
 862,e,w_per_capita,2016,555.976
 862,e,w_per_capita,2017,564.462
 862,e,w_per_capita,2018,574.515
+862,e,w_per_capita,2019,582.056
 882,e,w_per_capita,2000,86.04
 882,e,w_per_capita,2001,85.579
 882,e,w_per_capita,2002,85.086
@@ -3913,6 +4117,7 @@ geo_area,nature,units,year,eg_egy_rnew
 882,e,w_per_capita,2016,85.607
 882,e,w_per_capita,2017,135.771
 882,e,w_per_capita,2018,136.054
+882,e,w_per_capita,2019,142.745
 887,e,w_per_capita,2000,0
 887,e,w_per_capita,2001,0
 887,e,w_per_capita,2002,0
@@ -3932,6 +4137,7 @@ geo_area,nature,units,year,eg_egy_rnew
 887,e,w_per_capita,2016,2.945
 887,e,w_per_capita,2017,3.593
 887,e,w_per_capita,2018,8.772
+887,e,w_per_capita,2019,8.573
 894,e,w_per_capita,2000,173.029
 894,e,w_per_capita,2001,168.558
 894,e,w_per_capita,2002,164.264
@@ -3951,3 +4157,4 @@ geo_area,nature,units,year,eg_egy_rnew
 894,e,w_per_capita,2016,148.578
 894,e,w_per_capita,2017,144.85
 894,e,w_per_capita,2018,140.757
+894,e,w_per_capita,2019,142.074
