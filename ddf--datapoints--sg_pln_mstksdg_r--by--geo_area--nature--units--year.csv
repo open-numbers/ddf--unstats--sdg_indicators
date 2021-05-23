@@ -1,7 +1,8 @@
 geo_area,nature,units,year,sg_pln_mstksdg_r
+1,g,number,2018,36
 9,g,number,2018,5
 15,g,number,2018,2
-34,g,number,2018,4
+34,g,number,2018,3
 35,g,number,2018,3
 62,g,number,2018,3
 64,g,number,2018,1
@@ -21,7 +22,7 @@ geo_area,nature,units,year,sg_pln_mstksdg_r
 332,g,number,2018,1
 384,g,number,2018,1
 412,g,number,2018,1
-419,g,number,2018,2
+419,g,number,2018,3
 430,g,number,2018,1
 432,g,number,2018,10
 498,g,number,2018,1

@@ -60,7 +60,7 @@ dc_trf_totl,measure,"Total assistance for development, by recipient countries (m
 dt_tds_dect,measure,Debt service as a proportion of exports of goods and services (%),17,17.4.1,DT_TDS_DECT,17.4
 eg_acs_elec,measure,"Proportion of population with access to electricity, by urban/rural (%)",7,7.1.1,EG_ACS_ELEC,7.1
 eg_egy_clean,measure,Proportion of population with primary reliance on clean fuels and technology (%),7,7.1.2,EG_EGY_CLEAN,7.1
-eg_egy_prim,measure,Energy intensity level of primary energy (megajoules per constant 2011 purchasing power parity GDP),7,7.3.1,EG_EGY_PRIM,7.3
+eg_egy_prim,measure,Energy intensity level of primary energy (megajoules per constant 2017 purchasing power parity GDP),7,7.3.1,EG_EGY_PRIM,7.3
 eg_egy_rnew,measure,Installed renewable electricity-generating capacity (watts per capita),"7, 12","7.b.1, 12.a.1",EG_EGY_RNEW,"7.b, 12.a"
 eg_fec_rnew,measure,Renewable energy share in the total final energy consumption (%),7,7.2.1,EG_FEC_RNEW,7.2
 eg_iff_randn,measure,"International financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems (millions of constant United States dollars)",7,7.a.1,EG_IFF_RANDN,7.a
@@ -69,7 +69,7 @@ eg_tba_h2coaq,measure,Proportion of transboundary aquifers with an operational a
 eg_tba_h2corl,measure,Proportion of transboundary river and lake basins with an operational arrangement for water cooperation (%),6,6.5.2,EG_TBA_H2CORL,6.5
 en_adap_com,measure,Number of countries with adaptation communications (Number),"13, 13","13.2.1, 13.b.1",EN_ADAP_COM,"13.2, 13.b"
 en_atm_co2,measure,Carbon dioxide emissions from fuel combustion (millions of tonnes),9,9.4.1,EN_ATM_CO2,9.4
-en_atm_co2gdp,measure,Carbon dioxide emissions per unit of GDP (kilogrammes of CO2 per constant 2010 United States dollars),9,9.4.1,EN_ATM_CO2GDP,9.4
+en_atm_co2gdp,measure,Carbon dioxide emissions per unit of GDP (kilogrammes of CO2 per constant 2017 United States dollars),9,9.4.1,EN_ATM_CO2GDP,9.4
 en_atm_co2mva,measure,Carbon dioxide emissions per unit of manufacturing value added (kilogrammes of CO2 per constant 2015 United States dollars),9,9.4.1,EN_ATM_CO2MVA,9.4
 en_atm_ghgt_aip,measure,Total greenhouse gas emissions without LULUCF for Annex I Parties (Mt CO₂ equivalent),13,13.2.2,EN_ATM_GHGT_AIP,13.2
 en_atm_ghgt_naip,measure,Total greenhouse gas emissions without LULUCF for non-Annex I Parties (Mt CO₂ equivalent),13,13.2.2,EN_ATM_GHGT_NAIP,13.2
@@ -148,7 +148,7 @@ er_ffs_cmpt,measure,Fossil-fuel subsidies (consumption and production) (millions
 er_ffs_cmpt_gdp,measure,Fossil-fuel subsidies (consumption and production) as a proportion of total GDP (%),12,12.c.1,ER_FFS_CMPT_GDP,12.c
 er_ffs_cmpt_pc,measure,Fossil-fuel subsidies (consumption and production) per capita (constant United States dollars),12,12.c.1,ER_FFS_CMPT_PC,12.c
 er_grf_animrcntn,measure,Number of local breeds for which sufficient genetic resources are stored for reconstitution,2,2.5.1,ER_GRF_ANIMRCNTN,2.5
-er_grf_plntstor,measure,Plant breeds for which sufficient genetic resources are stored (number),2,2.5.1,ER_GRF_PLNTSTOR,2.5
+er_grf_plntstor,measure,Plant genetic resources accessions stored ex situ (number),2,2.5.1,ER_GRF_PLNTSTOR,2.5
 er_h2o_fwtl,measure,Proportion of fish stocks within biologically sustainable levels (not overexploited) (%),14,14.4.1,ER_H2O_FWTL,14.4
 er_h2o_iwrmd,measure,Degree of integrated water resources management implementation (%),6,6.5.1,ER_H2O_IWRMD,6.5
 er_h2o_iwrmp,measure,Proportion of countries by IWRM implementation category (%),6,6.5.1,ER_H2O_IWRMP,6.5
@@ -218,7 +218,7 @@ nv_ind_manf,measure,Manufacturing value added (constant 2015 United States dolla
 nv_ind_manf_cd,measure,Manufacturing value added (current United States dollars) as a proportion of GDP (%),9,9.2.1,NV_IND_MANF_CD,9.2
 nv_ind_manfpc,measure,Manufacturing value added per capita (constant 2015 United States dollars),9,9.2.1,NV_IND_MANFPC,9.2
 nv_ind_ssis,measure,Proportion of small-scale industries in total industry value added (%),9,9.3.1,NV_IND_SSIS,9.3
-nv_ind_tech,measure,Proportion of medium and high-tech industry value added in total value added (%),9,9.b.1,NV_IND_TECH,9.b
+nv_ind_tech,measure,Proportion of medium and high-tech manufacturing value added in total value added (%),9,9.b.1,NV_IND_TECH,9.b
 ny_gdp_pcap,measure,Annual growth rate of real GDP per capita (%),8,8.1.1,NY_GDP_PCAP,8.1
 pd_agr_lsfp,measure,"Productivity of large-scale food producers (agricultural output per labour day, PPP) (constant 2011 international $)",2,2.3.1,PD_AGR_LSFP,2.3
 pd_agr_ssfp,measure,"Productivity of small-scale food producers (agricultural output per labour day, PPP) (constant 2011 international $)",2,2.3.1,PD_AGR_SSFP,2.3
@@ -324,7 +324,7 @@ sg_scp_cntry,measure,Countries with sustainable consumption and production (SCP)
 sg_scp_cormec,measure,Countries with coordination mechanism for sustainable consumption and production (1 = YES; 0 = NO),12,12.1.1,SG_SCP_CORMEC,12.1
 sg_scp_other,measure,Country with Other implementing activities for sustainable consumption and production (1 = YES; 0 = NO),12,12.1.1,SG_SCP_OTHER,12.1
 sg_scp_polins,measure,Countries with policy instrument for sustainable consumption and production (1 = YES; 0 = NO),12,12.1.1,SG_SCP_POLINS,12.1
-sg_scp_totl,measure,"Countries with policies, instruments and mechanism in place for sustainable consumption and production (1 = YES; 0 = NO)",12,12.1.1,SG_SCP_TOTL,12.1
+sg_scp_totl,measure,"Number of  policies, instruments and mechanism in place for sustainable consumption and production (Number)",12,12.1.1,SG_SCP_TOTL,12.1
 sg_stt_capty,measure,Dollar value of all resources made available to strengthen statistical capacity in developing countries (current United States dollars),17,17.19.1,SG_STT_CAPTY,17.19
 sg_stt_fpos,measure,Countries with national statistical legislation exists that complies with the Fundamental Principles of Official Statistics (1 = YES; 0 = NO),17,17.18.2,SG_STT_FPOS,17.18
 sg_stt_nsdsfddnr,measure,Countries with national statistical plans with funding from donors (1 = YES; 0 = NO),17,17.18.3,SG_STT_NSDSFDDNR,17.18

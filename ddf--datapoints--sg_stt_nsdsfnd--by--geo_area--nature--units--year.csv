@@ -16,7 +16,7 @@ geo_area,nature,units,year,sg_stt_nsdsfnd
 14,g,number,2019,4
 14,g,number,2020,4
 15,g,number,2019,3
-15,g,number,2020,6
+15,g,number,2020,3
 17,g,number,2019,3
 17,g,number,2020,2
 18,g,number,2019,1
@@ -24,7 +24,7 @@ geo_area,nature,units,year,sg_stt_nsdsfnd
 20,g,number,2019,1
 20,g,number,2020,1
 21,g,number,2019,1
-21,g,number,2020,2
+21,g,number,2020,1
 28,g,number,2019,1
 28,g,number,2020,1
 29,g,number,2019,7
@@ -50,7 +50,7 @@ geo_area,nature,units,year,sg_stt_nsdsfnd
 52,g,number,2019,0
 52,g,number,2020,0
 53,g,number,2019,2
-53,g,number,2020,4
+53,g,number,2020,2
 54,g,number,2020,0
 56,g,number,2019,1
 56,g,number,2020,1
@@ -131,7 +131,7 @@ geo_area,nature,units,year,sg_stt_nsdsfnd
 199,g,number,2019,5
 199,g,number,2020,4
 202,g,number,2019,9
-202,g,number,2020,16
+202,g,number,2020,8
 203,g,number,2019,1
 203,g,number,2020,1
 204,g,number,2019,0
@@ -214,7 +214,7 @@ geo_area,nature,units,year,sg_stt_nsdsfnd
 417,g,number,2019,1
 417,g,number,2020,1
 419,g,number,2019,14
-419,g,number,2020,22
+419,g,number,2020,11
 428,g,number,2019,1
 428,g,number,2020,1
 430,g,number,2019,0
@@ -254,7 +254,6 @@ geo_area,nature,units,year,sg_stt_nsdsfnd
 512,g,number,2020,1
 513,g,number,2019,36
 513,g,number,2020,35
-514,g,number,2020,40
 520,g,number,2019,0
 520,g,number,2020,0
 524,g,number,2019,0

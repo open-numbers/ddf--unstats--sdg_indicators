@@ -5,14 +5,14 @@ geo_area,nature,units,year,sm_dth_migr
 1,g,number,2017,6279
 1,g,number,2018,4937
 1,g,number,2019,5306
-1,g,number,2020,3884
+1,g,number,2020,4186
 2,g,number,2014,3478
 2,g,number,2015,4047
 2,g,number,2016,5899
 2,g,number,2017,4203
 2,g,number,2018,3010
 2,g,number,2019,2601
-2,g,number,2020,0
+2,g,number,2020,2350
 4,g,number,2014,0
 4,g,number,2015,0
 4,g,number,2016,0
@@ -26,7 +26,7 @@ geo_area,nature,units,year,sm_dth_migr
 5,g,number,2017,0
 5,g,number,2018,32
 5,g,number,2019,124
-5,g,number,2020,127
+5,g,number,2020,131
 8,g,number,2014,0
 8,g,number,2015,0
 8,g,number,2016,0
@@ -47,7 +47,7 @@ geo_area,nature,units,year,sm_dth_migr
 11,g,number,2017,518
 11,g,number,2018,451
 11,g,number,2019,870
-11,g,number,2020,387
+11,g,number,2020,382
 12,g,number,2014,46
 12,g,number,2015,3
 12,g,number,2016,9
@@ -68,14 +68,14 @@ geo_area,nature,units,year,sm_dth_migr
 14,g,number,2017,132
 14,g,number,2018,243
 14,g,number,2019,112
-14,g,number,2020,193
+14,g,number,2020,194
 15,g,number,2014,3090
 15,g,number,2015,3822
 15,g,number,2016,5496
 15,g,number,2017,230
 15,g,number,2018,2548
 15,g,number,2019,2365
-15,g,number,2020,1745
+15,g,number,2020,1755
 16,g,number,2014,0
 16,g,number,2015,0
 16,g,number,2016,0
@@ -103,7 +103,7 @@ geo_area,nature,units,year,sm_dth_migr
 19,g,number,2017,782
 19,g,number,2018,1137
 19,g,number,2019,1302
-19,g,number,2020,0
+19,g,number,2020,808
 20,g,number,2014,0
 20,g,number,2015,0
 20,g,number,2016,0
@@ -117,7 +117,7 @@ geo_area,nature,units,year,sm_dth_migr
 21,g,number,2017,348
 21,g,number,2018,377
 21,g,number,2019,430
-21,g,number,2020,360
+21,g,number,2020,367
 24,g,number,2014,0
 24,g,number,2015,0
 24,g,number,2016,0
@@ -138,7 +138,7 @@ geo_area,nature,units,year,sm_dth_migr
 29,g,number,2017,170
 29,g,number,2018,35
 29,g,number,2019,76
-29,g,number,2020,127
+29,g,number,2020,147
 30,g,number,2014,14
 30,g,number,2015,15
 30,g,number,2016,3
@@ -166,7 +166,7 @@ geo_area,nature,units,year,sm_dth_migr
 34,g,number,2017,454
 34,g,number,2018,37
 34,g,number,2019,144
-34,g,number,2020,210
+34,g,number,2020,481
 35,g,number,2014,809
 35,g,number,2015,732
 35,g,number,2016,186
@@ -208,7 +208,7 @@ geo_area,nature,units,year,sm_dth_migr
 50,g,number,2017,234
 50,g,number,2018,7
 50,g,number,2019,77
-50,g,number,2020,44
+50,g,number,2020,165
 51,g,number,2014,0
 51,g,number,2015,0
 51,g,number,2016,0
@@ -250,7 +250,7 @@ geo_area,nature,units,year,sm_dth_migr
 62,g,number,2017,454
 62,g,number,2018,89
 62,g,number,2019,144
-62,g,number,2020,0
+62,g,number,2020,481
 64,g,number,2014,0
 64,g,number,2015,0
 64,g,number,2016,0
@@ -397,7 +397,7 @@ geo_area,nature,units,year,sm_dth_migr
 142,g,number,2017,4657
 142,g,number,2018,3079
 142,g,number,2019,2869
-142,g,number,2020,0
+142,g,number,2020,477
 143,g,number,2014,0
 143,g,number,2015,0
 143,g,number,2016,0
@@ -432,7 +432,7 @@ geo_area,nature,units,year,sm_dth_migr
 150,g,number,2017,217
 150,g,number,2018,380
 150,g,number,2019,436
-150,g,number,2020,286
+150,g,number,2020,280
 152,g,number,2014,0
 152,g,number,2015,0
 152,g,number,2016,1
@@ -537,14 +537,14 @@ geo_area,nature,units,year,sm_dth_migr
 199,g,number,2017,1186
 199,g,number,2018,1102
 199,g,number,2019,1209
-199,g,number,2020,809
+199,g,number,2020,748
 202,g,number,2014,388
 202,g,number,2015,225
 202,g,number,2016,403
 202,g,number,2017,655
 202,g,number,2018,776
 202,g,number,2019,1054
-202,g,number,2020,5
+202,g,number,2020,595
 203,g,number,2014,0
 203,g,number,2015,0
 203,g,number,2016,0
@@ -698,7 +698,7 @@ geo_area,nature,units,year,sm_dth_migr
 262,g,number,2017,31
 262,g,number,2018,20
 262,g,number,2019,86
-262,g,number,2020,51
+262,g,number,2020,52
 266,g,number,2014,0
 266,g,number,2015,0
 266,g,number,2016,0
@@ -880,7 +880,7 @@ geo_area,nature,units,year,sm_dth_migr
 364,g,number,2017,181
 364,g,number,2018,16
 364,g,number,2019,65
-364,g,number,2020,21
+364,g,number,2020,292
 368,g,number,2014,0
 368,g,number,2015,0
 368,g,number,2016,0
@@ -992,7 +992,7 @@ geo_area,nature,units,year,sm_dth_migr
 419,g,number,2017,333
 419,g,number,2018,213
 419,g,number,2019,406
-419,g,number,2020,0
+419,g,number,2020,441
 422,g,number,2014,0
 422,g,number,2015,0
 422,g,number,2016,4
@@ -1027,7 +1027,7 @@ geo_area,nature,units,year,sm_dth_migr
 432,g,number,2017,526
 432,g,number,2018,531
 432,g,number,2019,745
-432,g,number,2020,26
+432,g,number,2020,72
 434,g,number,2014,2850
 434,g,number,2015,3379
 434,g,number,2016,3887
@@ -1174,7 +1174,7 @@ geo_area,nature,units,year,sm_dth_migr
 504,g,number,2017,127
 504,g,number,2018,522
 504,g,number,2019,505
-504,g,number,2020,313
+504,g,number,2020,318
 508,g,number,2014,0
 508,g,number,2015,4
 508,g,number,2016,22
@@ -1195,7 +1195,7 @@ geo_area,nature,units,year,sm_dth_migr
 513,g,number,2017,565
 513,g,number,2018,757
 513,g,number,2019,866
-513,g,number,2020,0
+513,g,number,2020,647
 516,g,number,2014,0
 516,g,number,2015,0
 516,g,number,2016,0
@@ -1636,14 +1636,14 @@ geo_area,nature,units,year,sm_dth_migr
 722,g,number,2017,0
 722,g,number,2018,0
 722,g,number,2019,0
-722,g,number,2020,0
+722,g,number,2020,192
 724,g,number,2014,52
 724,g,number,2015,55
 724,g,number,2016,195
 724,g,number,2017,99
 724,g,number,2018,238
 724,g,number,2019,145
-724,g,number,2020,128
+724,g,number,2020,129
 728,g,number,2014,0
 728,g,number,2015,0
 728,g,number,2016,0
@@ -1685,7 +1685,7 @@ geo_area,nature,units,year,sm_dth_migr
 747,g,number,2017,4203
 747,g,number,2018,3010
 747,g,number,2019,2601
-747,g,number,2020,0
+747,g,number,2020,1934
 748,g,number,2014,0
 748,g,number,2015,0
 748,g,number,2016,0
@@ -1706,7 +1706,7 @@ geo_area,nature,units,year,sm_dth_migr
 753,g,number,2017,69
 753,g,number,2018,92
 753,g,number,2019,235
-753,g,number,2020,0
+753,g,number,2020,88
 756,g,number,2014,0
 756,g,number,2015,0
 756,g,number,2016,0
@@ -1762,7 +1762,7 @@ geo_area,nature,units,year,sm_dth_migr
 780,g,number,2017,0
 780,g,number,2018,0
 780,g,number,2019,0
-780,g,number,2020,2
+780,g,number,2020,22
 784,g,number,2014,0
 784,g,number,2015,0
 784,g,number,2016,0
@@ -1881,7 +1881,7 @@ geo_area,nature,units,year,sm_dth_migr
 840,g,number,2017,348
 840,g,number,2018,377
 840,g,number,2019,429
-840,g,number,2020,360
+840,g,number,2020,367
 850,g,number,2014,0
 850,g,number,2015,0
 850,g,number,2016,15
@@ -1916,7 +1916,7 @@ geo_area,nature,units,year,sm_dth_migr
 862,g,number,2017,0
 862,g,number,2018,0
 862,g,number,2019,84
-862,g,number,2020,67
+862,g,number,2020,71
 876,g,number,2014,0
 876,g,number,2015,0
 876,g,number,2016,0

@@ -90,8 +90,8 @@ allage,21,c,male,number,2021,3
 allage,29,c,female,number,2021,4
 allage,29,c,male,number,2021,5
 allage,30,c,female,number,2021,1
-allage,34,c,male,number,2021,10
-allage,35,c,male,number,2021,10
+allage,34,c,male,number,2021,5
+allage,35,c,male,number,2021,5
 allage,39,c,female,number,2021,2
 allage,39,c,male,number,2021,4
 allage,53,c,male,number,2021,1
@@ -116,8 +116,8 @@ allage,199,c,female,number,2021,2
 allage,199,c,male,number,2021,15
 allage,202,c,female,number,2021,6
 allage,202,c,male,number,2021,15
-allage,419,c,female,number,2021,16
-allage,419,c,male,number,2021,20
+allage,419,c,female,number,2021,8
+allage,419,c,male,number,2021,10
 allage,432,c,female,number,2021,4
 allage,432,c,male,number,2021,11
 allage,485,c,male,number,2021,4
@@ -127,7 +127,7 @@ allage,514,c,female,number,2021,7
 allage,514,c,male,number,2021,17
 allage,515,c,female,number,2021,15
 allage,515,c,male,number,2021,45
-allage,543,c,male,number,2021,2
+allage,543,c,male,number,2021,1
 allage,722,c,female,number,2021,5
 allage,722,c,male,number,2021,6
 allage,738,c,female,number,2021,6

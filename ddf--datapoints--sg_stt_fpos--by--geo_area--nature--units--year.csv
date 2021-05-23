@@ -16,7 +16,7 @@ geo_area,nature,units,year,sg_stt_fpos
 14,g,number,2019,9
 14,g,number,2020,9
 15,g,number,2019,4
-15,g,number,2020,8
+15,g,number,2020,4
 17,g,number,2019,5
 17,g,number,2020,5
 18,g,number,2019,3
@@ -24,7 +24,7 @@ geo_area,nature,units,year,sg_stt_fpos
 20,g,number,2019,1
 20,g,number,2020,1
 21,g,number,2019,2
-21,g,number,2020,4
+21,g,number,2020,2
 28,g,number,2019,0
 28,g,number,2020,0
 29,g,number,2019,6
@@ -51,7 +51,7 @@ geo_area,nature,units,year,sg_stt_fpos
 52,g,number,2019,1
 52,g,number,2020,1
 53,g,number,2019,2
-53,g,number,2020,4
+53,g,number,2020,2
 54,g,number,2019,2
 54,g,number,2020,2
 56,g,number,2019,1
@@ -135,7 +135,7 @@ geo_area,nature,units,year,sg_stt_fpos
 199,g,number,2019,19
 199,g,number,2020,19
 202,g,number,2019,27
-202,g,number,2020,54
+202,g,number,2020,27
 203,g,number,2019,1
 203,g,number,2020,1
 208,g,number,2019,1
@@ -222,7 +222,7 @@ geo_area,nature,units,year,sg_stt_fpos
 417,g,number,2019,0
 417,g,number,2020,0
 419,g,number,2019,15
-419,g,number,2020,34
+419,g,number,2020,17
 426,g,number,2020,0
 428,g,number,2019,1
 428,g,number,2020,1
@@ -267,7 +267,6 @@ geo_area,nature,units,year,sg_stt_fpos
 512,g,number,2020,1
 513,g,number,2019,42
 513,g,number,2020,42
-514,g,number,2020,47
 520,g,number,2019,1
 520,g,number,2020,1
 524,g,number,2019,0

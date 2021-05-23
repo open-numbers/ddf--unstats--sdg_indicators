@@ -18,6 +18,7 @@ geo_area,nature,observation_status,units,year,fi_fsi_fsanl
 8,notspec,a,percent,2017,13.2325334
 8,notspec,a,percent,2018,11.084582
 8,notspec,a,percent,2019,8.368958
+8,notspec,a,percent,2020,8.1138999
 12,notspec,a,percent,2009,21.1415508
 12,notspec,a,percent,2010,18.31
 12,notspec,a,percent,2011,14.398306
@@ -95,6 +96,7 @@ geo_area,nature,observation_status,units,year,fi_fsi_fsanl
 50,notspec,a,percent,2017,8.8956601
 50,notspec,a,percent,2018,9.8873297
 50,notspec,a,percent,2019,8.9021334
+50,notspec,a,percent,2020,7.7375487
 51,notspec,a,percent,2005,1.9720895
 51,notspec,a,percent,2006,2.4475557
 51,notspec,a,percent,2007,2.4040157
@@ -110,6 +112,7 @@ geo_area,nature,observation_status,units,year,fi_fsi_fsanl
 51,notspec,a,percent,2017,5.4323178
 51,notspec,a,percent,2018,4.7543983
 51,notspec,a,percent,2019,5.5066658
+51,notspec,a,percent,2020,6.5548157
 56,notspec,a,percent,2006,1.2801642
 56,notspec,a,percent,2007,1.1570638
 56,notspec,a,percent,2008,1.6521642
@@ -218,6 +221,7 @@ geo_area,nature,observation_status,units,year,fi_fsi_fsanl
 100,notspec,a,percent,2017,10.4344534
 100,notspec,a,percent,2018,7.8015618
 100,notspec,a,percent,2019,6.6212994
+100,notspec,a,percent,2020,5.798352
 108,notspec,a,percent,2010,9.3152357
 108,notspec,a,percent,2011,7.3931071
 108,notspec,a,percent,2012,8.1682854
@@ -236,6 +240,7 @@ geo_area,nature,observation_status,units,year,fi_fsi_fsanl
 112,notspec,a,percent,2017,12.8521945
 112,notspec,a,percent,2018,5.0102862
 112,notspec,a,percent,2019,4.6278781
+112,notspec,a,percent,2020,4.8292427
 116,notspec,a,percent,2010,3.1418785
 116,notspec,a,percent,2011,2.2943886
 116,notspec,a,percent,2012,2.2246901
@@ -246,6 +251,7 @@ geo_area,nature,observation_status,units,year,fi_fsi_fsanl
 116,notspec,a,percent,2017,2.0724775
 116,notspec,a,percent,2018,1.9896209
 116,notspec,a,percent,2019,1.5538399
+116,notspec,a,percent,2020,1.8186254
 120,notspec,a,percent,2010,10.1013485
 120,notspec,a,percent,2011,11.4467111
 120,notspec,a,percent,2012,11.5528007
@@ -344,6 +350,7 @@ geo_area,nature,observation_status,units,year,fi_fsi_fsanl
 170,notspec,a,percent,2017,4.1797815
 170,notspec,a,percent,2018,4.4003755
 170,notspec,a,percent,2019,4.1744055
+170,notspec,a,percent,2020,4.8022308
 174,notspec,a,percent,2010,15.6595838
 174,notspec,a,percent,2011,17.6242757
 174,notspec,a,percent,2012,19.7833135
@@ -629,6 +636,7 @@ geo_area,nature,observation_status,units,year,fi_fsi_fsanl
 320,notspec,a,percent,2017,2.3239982
 320,notspec,a,percent,2018,2.176221
 320,notspec,a,percent,2019,2.201272
+320,notspec,a,percent,2020,1.8300875
 324,notspec,a,percent,2013,6.2023356
 324,notspec,a,percent,2015,6.0717533
 324,notspec,a,percent,2016,9.4423447
@@ -704,6 +712,12 @@ geo_area,nature,observation_status,units,year,fi_fsi_fsanl
 360,notspec,a,percent,2017,2.5570048
 360,notspec,a,percent,2018,2.2920825
 360,notspec,a,percent,2019,2.4327436
+360,notspec,a,percent,2020,2.7506008
+368,notspec,a,percent,2015,9.0170888
+368,notspec,a,percent,2016,12.688814
+368,notspec,a,percent,2017,14.8402138
+368,notspec,a,percent,2018,17.5475713
+368,notspec,a,percent,2019,16.18145
 372,notspec,a,percent,2005,0.4803667
 372,notspec,a,percent,2006,0.5347208
 372,notspec,a,percent,2007,0.6291767
@@ -784,6 +798,7 @@ geo_area,nature,observation_status,units,year,fi_fsi_fsanl
 410,notspec,a,percent,2016,0.4692208
 410,notspec,a,percent,2017,0.3523614
 410,notspec,a,percent,2018,0.2544357
+410,notspec,a,percent,2019,0.2511494
 412,notspec,a,percent,2010,5.8052637
 412,notspec,a,percent,2011,5.6658005
 412,notspec,a,percent,2012,7.4008298
@@ -816,6 +831,7 @@ geo_area,nature,observation_status,units,year,fi_fsi_fsanl
 417,notspec,a,percent,2017,7.3679164
 417,notspec,a,percent,2018,7.2969577
 417,notspec,a,percent,2019,7.7306841
+417,notspec,a,percent,2020,10.0935469
 422,notspec,a,percent,2011,3.7569354
 422,notspec,a,percent,2012,3.7869763
 422,notspec,a,percent,2013,3.9655306
@@ -879,6 +895,7 @@ geo_area,nature,observation_status,units,year,fi_fsi_fsanl
 446,notspec,a,percent,2017,0.227487
 446,notspec,a,percent,2018,0.217152
 446,notspec,a,percent,2019,0.2397434
+446,notspec,a,percent,2020,0.3357153
 450,notspec,a,percent,2005,7.6061971
 450,notspec,a,percent,2006,6.1462837
 450,notspec,a,percent,2007,6.6973445
@@ -893,11 +910,14 @@ geo_area,nature,observation_status,units,year,fi_fsi_fsanl
 450,notspec,a,percent,2016,8.3638932
 450,notspec,a,percent,2017,7.6726212
 450,notspec,a,percent,2018,7.2696922
-450,notspec,a,percent,2019,6.7574452
+450,notspec,a,percent,2019,7.2064714
+450,notspec,a,percent,2020,7.5721393
 454,notspec,a,percent,2015,7.2717117
 454,notspec,a,percent,2016,10.2995803
 454,notspec,a,percent,2017,8.5543332
 454,notspec,a,percent,2018,2.8284353
+454,notspec,a,percent,2019,5.0630775
+454,notspec,a,percent,2020,5.425447
 458,notspec,a,percent,2005,9.3902395
 458,notspec,a,percent,2006,8.4955986
 458,notspec,a,percent,2007,6.4988106
@@ -911,8 +931,9 @@ geo_area,nature,observation_status,units,year,fi_fsi_fsanl
 458,notspec,a,percent,2015,1.6068283
 458,notspec,a,percent,2016,1.6142683
 458,notspec,a,percent,2017,1.5491872
-458,notspec,a,percent,2018,1.4842012
-458,notspec,a,percent,2019,1.5339311
+458,notspec,a,percent,2018,1.468191
+458,notspec,a,percent,2019,1.5161209
+458,notspec,a,percent,2020,1.5666258
 462,notspec,a,percent,2012,20.9246965
 462,notspec,a,percent,2013,17.567835
 462,notspec,a,percent,2014,17.4768777
@@ -921,6 +942,7 @@ geo_area,nature,observation_status,units,year,fi_fsi_fsanl
 462,notspec,a,percent,2017,10.4547287
 462,notspec,a,percent,2018,8.8962478
 462,notspec,a,percent,2019,9.3916101
+462,notspec,a,percent,2020,8.257612
 470,notspec,a,percent,2005,8.2090638
 470,notspec,a,percent,2006,6.47015
 470,notspec,a,percent,2007,5.3101512
@@ -973,6 +995,7 @@ geo_area,nature,observation_status,units,year,fi_fsi_fsanl
 498,notspec,a,percent,2017,18.3772094
 498,notspec,a,percent,2018,12.4917043
 498,notspec,a,percent,2019,8.491076
+498,notspec,a,percent,2020,7.3816165
 499,notspec,a,percent,2006,2.8897783
 499,notspec,a,percent,2007,3.2016865
 499,notspec,a,percent,2008,7.2824329
@@ -987,6 +1010,7 @@ geo_area,nature,observation_status,units,year,fi_fsi_fsanl
 499,notspec,a,percent,2017,8.3591733
 499,notspec,a,percent,2018,7.4263819
 499,notspec,a,percent,2019,5.1178004
+499,notspec,a,percent,2020,5.8958683
 500,notspec,a,percent,2015,7.1419462
 500,notspec,a,percent,2016,4.8637258
 500,notspec,a,percent,2017,5.655573
@@ -1017,6 +1041,7 @@ geo_area,nature,observation_status,units,year,fi_fsi_fsanl
 528,notspec,a,percent,2017,2.3054271
 528,notspec,a,percent,2018,1.9598815
 528,notspec,a,percent,2019,1.8562873
+528,notspec,a,percent,2020,1.8877411
 548,notspec,a,percent,2010,4.7715054
 548,notspec,a,percent,2011,7.8201597
 548,notspec,a,percent,2012,7.8267853
@@ -1037,6 +1062,7 @@ geo_area,nature,observation_status,units,year,fi_fsi_fsanl
 558,notspec,a,percent,2017,1.0393916
 558,notspec,a,percent,2018,2.4262799
 558,notspec,a,percent,2019,3.1014167
+558,notspec,a,percent,2020,3.6999319
 566,notspec,a,percent,2007,9.5026212
 566,notspec,a,percent,2008,7.1935901
 566,notspec,a,percent,2009,37.2532873
@@ -1062,6 +1088,7 @@ geo_area,nature,observation_status,units,year,fi_fsi_fsanl
 578,notspec,a,percent,2017,1.0004036
 578,notspec,a,percent,2018,0.7464278
 578,notspec,a,percent,2019,0.8011317
+578,notspec,a,percent,2020,0.7360742
 583,notspec,a,percent,2013,2.929355
 583,notspec,a,percent,2014,2.6322271
 583,notspec,a,percent,2015,2.0440171
@@ -1080,6 +1107,7 @@ geo_area,nature,observation_status,units,year,fi_fsi_fsanl
 586,notspec,a,percent,2017,8.4294895
 586,notspec,a,percent,2018,7.9737147
 586,notspec,a,percent,2019,8.5820238
+586,notspec,a,percent,2020,9.1857912
 591,notspec,a,percent,2005,1.8400843
 591,notspec,a,percent,2006,1.4399067
 591,notspec,a,percent,2007,1.371594
@@ -1095,6 +1123,7 @@ geo_area,nature,observation_status,units,year,fi_fsi_fsanl
 591,notspec,a,percent,2017,1.4209861
 591,notspec,a,percent,2018,1.7427433
 591,notspec,a,percent,2019,1.9552546
+591,notspec,a,percent,2020,2.0134018
 598,notspec,a,percent,2008,1.7777446
 598,notspec,a,percent,2009,2.023653
 598,notspec,a,percent,2010,1.9165712
@@ -1122,6 +1151,7 @@ geo_area,nature,observation_status,units,year,fi_fsi_fsanl
 600,notspec,a,percent,2017,2.8115143
 600,notspec,a,percent,2018,2.5120218
 600,notspec,a,percent,2019,2.557864
+600,notspec,a,percent,2020,2.4100264
 604,notspec,a,percent,2010,3.027006
 604,notspec,a,percent,2011,2.8927506
 604,notspec,a,percent,2012,3.2333209
@@ -1285,6 +1315,7 @@ geo_area,nature,observation_status,units,year,fi_fsi_fsanl
 703,notspec,a,percent,2017,3.701005
 703,notspec,a,percent,2018,3.0775617
 703,notspec,a,percent,2019,2.8711831
+703,notspec,a,percent,2020,2.5300127
 704,notspec,a,percent,2008,2.1509982
 704,notspec,a,percent,2009,1.7965661
 704,notspec,a,percent,2010,2.0925994
@@ -1463,6 +1494,7 @@ geo_area,nature,observation_status,units,year,fi_fsi_fsanl
 800,notspec,a,percent,2017,5.5057768
 800,notspec,a,percent,2018,3.3356999
 800,notspec,a,percent,2019,4.7499796
+800,notspec,a,percent,2020,5.2158675
 804,notspec,a,percent,2005,57.9897717
 804,notspec,a,percent,2006,59.7566276
 804,notspec,a,percent,2007,48.1183737
@@ -1478,6 +1510,7 @@ geo_area,nature,observation_status,units,year,fi_fsi_fsanl
 804,notspec,a,percent,2017,54.5412959
 804,notspec,a,percent,2018,52.8475771
 804,notspec,a,percent,2019,48.3585111
+804,notspec,a,percent,2020,41.0040955
 826,notspec,a,percent,2008,1.5569737
 826,notspec,a,percent,2009,3.508657
 826,notspec,a,percent,2010,3.9548338
@@ -1489,6 +1522,7 @@ geo_area,nature,observation_status,units,year,fi_fsi_fsanl
 826,notspec,a,percent,2016,0.9401613
 826,notspec,a,percent,2017,0.7346597
 826,notspec,a,percent,2018,1.0726275
+826,notspec,a,percent,2019,1.079504
 834,notspec,a,percent,2010,7.8437612
 834,notspec,a,percent,2011,5.3963723
 834,notspec,a,percent,2012,6.4018855
@@ -1521,6 +1555,7 @@ geo_area,nature,observation_status,units,year,fi_fsi_fsanl
 858,notspec,a,percent,2016,2.3158618
 858,notspec,a,percent,2017,2.371681
 858,notspec,a,percent,2018,2.2553221
+858,notspec,a,percent,2019,1.9542612
 860,notspec,a,percent,2010,0.965131
 860,notspec,a,percent,2011,0.7091902
 860,notspec,a,percent,2012,3.0532835

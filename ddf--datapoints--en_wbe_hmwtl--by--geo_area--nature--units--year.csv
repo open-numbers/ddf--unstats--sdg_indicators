@@ -6,7 +6,7 @@ geo_area,nature,units,year,en_wbe_hmwtl
 11,c,kmsq,2021,1410
 13,c,kmsq,2021,10228.4
 14,c,kmsq,2021,19430.44
-15,c,kmsq,2021,739
+15,c,kmsq,2021,739.01
 18,c,kmsq,2021,6071.9
 19,c,kmsq,2021,67613.41
 29,c,kmsq,2021,1833.22
@@ -19,7 +19,7 @@ geo_area,nature,units,year,en_wbe_hmwtl
 51,c,kmsq,2021,283
 57,c,kmsq,2021,0.47
 62,c,kmsq,2021,4455.36
-76,c,kmsq,2021,41157
+76,c,kmsq,2021,41157.4
 104,c,kmsq,2021,52546.77
 112,c,kmsq,2021,1333.03
 127,c,kmsq,2021,4455.36
@@ -28,14 +28,14 @@ geo_area,nature,units,year,en_wbe_hmwtl
 145,c,kmsq,2021,7740.72
 150,c,kmsq,2021,5388.15
 151,c,kmsq,2021,3406.39
-154,c,kmsq,2021,1273
+154,c,kmsq,2021,1272.74
 155,c,kmsq,2021,0.77
-156,c,kmsq,2021,368080
+156,c,kmsq,2021,368079.8
 188,c,kmsq,2021,259.9
 199,c,kmsq,2021,71291.82
 202,c,kmsq,2021,26876.51
 203,c,kmsq,2021,893.36
-204,c,kmsq,2021,9
+204,c,kmsq,2021,8.77
 214,c,kmsq,2021,1816
 222,c,kmsq,2021,778
 223,c,kmsq,2021,109.9
@@ -49,7 +49,7 @@ geo_area,nature,units,year,en_wbe_hmwtl
 419,c,kmsq,2021,67613.42
 426,c,kmsq,2021,36
 432,c,kmsq,2021,6876.41
-440,c,kmsq,2021,473
+440,c,kmsq,2021,472.74
 450,c,kmsq,2021,12515.3
 480,c,kmsq,2021,11.46
 484,c,kmsq,2021,8383.27
@@ -78,7 +78,7 @@ geo_area,nature,units,year,en_wbe_hmwtl
 748,c,kmsq,2021,35.83
 753,c,kmsq,2021,587987.04
 780,c,kmsq,2021,17.22
-792,c,kmsq,2021,3523
+792,c,kmsq,2021,3523.46
 858,c,kmsq,2021,10438.78
-862,c,kmsq,2021,3956
+862,c,kmsq,2021,3955.61
 887,c,kmsq,2021,0.5
