@@ -161,7 +161,6 @@ postfis_dis_inc,578,c,percent,2017,27.254
 postfis_dis_inc,578,c,percent,2018,27.3
 postfis_dis_inc,591,e,percent,2016,53.39104
 postfis_dis_inc,600,e,percent,2014,51.26464
-postfis_dis_inc,608,e,percent,2015,61
 postfis_dis_inc,616,c,percent,2015,30.11789
 postfis_dis_inc,616,c,percent,2016,29.4686
 postfis_dis_inc,616,c,percent,2017,29.09516
@@ -326,7 +325,6 @@ prefis_inc,578,c,percent,2017,38.869
 prefis_inc,578,c,percent,2018,38.7
 prefis_inc,591,e,percent,2016,55.65595
 prefis_inc,600,e,percent,2014,52.1604
-prefis_inc,608,e,percent,2015,63
 prefis_inc,616,c,percent,2015,41.84282
 prefis_inc,616,c,percent,2016,40.46222
 prefis_inc,616,c,percent,2017,40.86903

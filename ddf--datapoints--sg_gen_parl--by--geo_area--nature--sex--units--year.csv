@@ -20,8 +20,8 @@ geo_area,nature,sex,units,year,sg_gen_parl
 1,c,female,percent,2018,23.43
 1,c,female,percent,2019,24.3
 1,c,female,percent,2020,24.93
-1,c,female,percent,2021,25.63
-2,c,female,percent,2021,24.9
+1,c,female,percent,2021,25.61
+2,c,female,percent,2021,24.82
 4,c,female,percent,2006,27.31
 4,c,female,percent,2007,27.31
 4,c,female,percent,2008,27.69
@@ -124,7 +124,7 @@ geo_area,nature,sex,units,year,sg_gen_parl
 11,c,female,percent,2018,14.84
 11,c,female,percent,2019,14.81
 11,c,female,percent,2020,14.84
-11,c,female,percent,2021,16.22
+11,c,female,percent,2021,15.88
 12,c,female,percent,2000,3.16
 12,c,female,percent,2001,3.42
 12,c,female,percent,2002,3.42
@@ -1592,7 +1592,7 @@ geo_area,nature,sex,units,year,sg_gen_parl
 202,c,female,percent,2018,23.64
 202,c,female,percent,2019,23.88
 202,c,female,percent,2020,24.34
-202,c,female,percent,2021,25.03
+202,c,female,percent,2021,24.94
 203,c,female,percent,2000,15
 203,c,female,percent,2001,15
 203,c,female,percent,2002,15
@@ -3246,7 +3246,7 @@ geo_area,nature,sex,units,year,sg_gen_parl
 514,c,female,percent,2020,30.09
 514,c,female,percent,2021,30.69
 515,c,female,percent,2020,22.89
-515,c,female,percent,2021,23.6
+515,c,female,percent,2021,23.57
 516,c,female,percent,2000,22.22
 516,c,female,percent,2001,25
 516,c,female,percent,2002,25
@@ -3481,7 +3481,7 @@ geo_area,nature,sex,units,year,sg_gen_parl
 566,c,female,percent,2018,5.56
 566,c,female,percent,2019,5.57
 566,c,female,percent,2020,3.43
-566,c,female,percent,2021,5.83
+566,c,female,percent,2021,3.61
 578,c,female,percent,2000,36.36
 578,c,female,percent,2001,36.36
 578,c,female,percent,2002,35.76
@@ -4315,7 +4315,7 @@ geo_area,nature,sex,units,year,sg_gen_parl
 738,c,female,percent,2017,24.04
 738,c,female,percent,2018,23.97
 738,c,female,percent,2019,24.08
-738,c,female,percent,2021,25.03
+738,c,female,percent,2021,24.94
 740,c,female,percent,2000,15.69
 740,c,female,percent,2001,0
 740,c,female,percent,2002,17.65

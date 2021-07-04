@@ -1,11 +1,11 @@
 geo_area,nature,units,year,sg_dmk_parlmp_lc
-1,c,ratio,2021,0.51164
-2,c,ratio,2021,0.48922
+1,c,ratio,2021,0.51122
+2,c,ratio,2021,0.48772
 4,c,ratio,2021,0.55624
 5,c,ratio,2021,0.50963
 8,c,ratio,2021,0.59457
 9,c,ratio,2021,0.38305
-11,c,ratio,2021,0.32082
+11,c,ratio,2021,0.31412
 12,c,ratio,2021,0.52064
 13,c,ratio,2021,0.71147
 14,c,ratio,2021,0.6098
@@ -74,7 +74,7 @@ geo_area,nature,units,year,sg_dmk_parlmp_lc
 192,c,ratio,2021,1.05208
 196,c,ratio,2021,0.42383
 199,c,ratio,2021,0.47589
-202,c,ratio,2021,0.49095
+202,c,ratio,2021,0.48913
 203,c,ratio,2021,0.4481
 204,c,ratio,2021,0.16459
 208,c,ratio,2021,0.78271
@@ -147,7 +147,7 @@ geo_area,nature,units,year,sg_dmk_parlmp_lc
 512,c,ratio,2021,0.0823
 513,c,ratio,2021,0.60488
 514,c,ratio,2021,0.5894
-515,c,ratio,2021,0.47644
+515,c,ratio,2021,0.47585
 516,c,ratio,2021,0.83629
 518,c,ratio,2021,0.46814
 524,c,ratio,2021,0.56036
@@ -157,7 +157,7 @@ geo_area,nature,units,year,sg_dmk_parlmp_lc
 554,c,ratio,2021,0.93866
 558,c,ratio,2021,0.92691
 562,c,ratio,2021,0.51065
-566,c,ratio,2021,0.11651
+566,c,ratio,2021,0.07213
 578,c,ratio,2021,0.89363
 583,c,ratio,2021,0
 586,c,ratio,2021,0.41149
@@ -192,7 +192,7 @@ geo_area,nature,units,year,sg_dmk_parlmp_lc
 722,c,ratio,2021,0.56856
 724,c,ratio,2021,0.85669
 728,c,ratio,2021,0.56278
-738,c,ratio,2021,0.49095
+738,c,ratio,2021,0.48913
 740,c,ratio,2021,0.58053
 746,c,ratio,2021,0.48073
 747,c,ratio,2021,0.4051
