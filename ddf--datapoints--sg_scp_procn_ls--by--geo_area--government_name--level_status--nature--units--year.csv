@@ -1,0 +1,10 @@
+geo_area,government_name,level_status,nature,units,year,sg_scp_procn_ls
+578,city_of_stavanger,lowimp,c,number,2020,1
+578,city_of_trondheim,lowimp,c,number,2020,1
+616,cit_of_wroclaw,mlowimp,c,number,2020,1
+616,city_of_poznan,mlowimp,c,number,2020,1
+616,city_of_warsaw,mlowimp,c,number,2020,1
+724,ayuntamiento_de_barcelona,higimp,c,number,2020,1
+840,city_county_of_san_francisco,mlowimp,c,number,2020,1
+840,city_of_portland_oregon,lowimp,c,number,2020,1
+840,king_county_washington,mhigimp,c,number,2020,1

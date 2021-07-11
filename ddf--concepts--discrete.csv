@@ -5,6 +5,7 @@ cause_of_death,entity_domain,Cause Of Death
 cities,entity_domain,Cities
 counterpart,entity_domain,Counterpart
 description,string,Description
+deviation_level,entity_domain,Deviation Level
 disability_status,entity_domain,Disability Status
 education_level,entity_domain,Education Level
 fiscal_intervention_stage,entity_domain,Fiscal Intervention Stage
@@ -13,6 +14,7 @@ freq,entity_domain,Freq
 frequency_of_chlorophyll_a_concentration,entity_domain,Frequency Of Chlorophyll A Concentration
 geo_area,entity_domain,Geo Area
 goal,string,Goal
+government_name,entity_domain,Government Name
 grounds_of_discrimination,entity_domain,Grounds Of Discrimination
 hazard_type,entity_domain,Hazard Type
 ihr_capacity,entity_domain,Ihr Capacity
