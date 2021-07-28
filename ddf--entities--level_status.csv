@@ -6,10 +6,10 @@ abt2insufnt,ABT2INSUFNT
 abt2nontlt,ABT2NONTLT
 abt2noprog,ABT2NOPROG
 higimp,HIGIMP
-is_comp,IS_COMP
-is_compdisse,IS_COMPDISSE
-is_dissem,IS_DISSEM
 lowimp,LOWIMP
+ls_comp,LS_COMP
+ls_compdisse,LS_COMPDISSE
+ls_dissem,LS_DISSEM
 mhigimp,MHIGIMP
 mlowimp,MLOWIMP
 t,_T

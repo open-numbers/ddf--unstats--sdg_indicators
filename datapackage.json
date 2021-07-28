@@ -8,7 +8,7 @@
     "description": "SDG indicators",
     "author": "Gapminder",
     "license": "CC-BY-4.0",
-    "created": "2021-07-11T02:14:21.036006+00:00",
+    "created": "2021-07-28T17:07:56.605073+00:00",
     "translations": [],
     "version": "0.0.1",
     "resources": [
@@ -11360,8 +11360,8 @@
             }
         },
         {
-            "name": "ddf--datapoints--sg_scp_totl--by--geo_area--nature--units--year",
-            "path": "ddf--datapoints--sg_scp_totl--by--geo_area--nature--units--year.csv",
+            "name": "ddf--datapoints--sg_scp_totln--by--geo_area--nature--units--year",
+            "path": "ddf--datapoints--sg_scp_totln--by--geo_area--nature--units--year.csv",
             "schema": {
                 "fields": [
                     {
@@ -11377,7 +11377,7 @@
                         "name": "year"
                     },
                     {
-                        "name": "sg_scp_totl"
+                        "name": "sg_scp_totln"
                     }
                 ],
                 "primaryKey": [
@@ -13791,39 +13791,6 @@
             }
         },
         {
-            "name": "ddf--datapoints--sh_sta_stnt_inp--by--age--geo_area--nature--units--year",
-            "path": "ddf--datapoints--sh_sta_stnt_inp--by--age--geo_area--nature--units--year.csv",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "age"
-                    },
-                    {
-                        "name": "geo_area"
-                    },
-                    {
-                        "name": "nature"
-                    },
-                    {
-                        "name": "units"
-                    },
-                    {
-                        "name": "year"
-                    },
-                    {
-                        "name": "sh_sta_stnt_inp"
-                    }
-                ],
-                "primaryKey": [
-                    "age",
-                    "geo_area",
-                    "nature",
-                    "units",
-                    "year"
-                ]
-            }
-        },
-        {
             "name": "ddf--datapoints--sh_sta_stntn--by--age--geo_area--nature--units--year",
             "path": "ddf--datapoints--sh_sta_stntn--by--age--geo_area--nature--units--year.csv",
             "schema": {
@@ -15770,39 +15737,6 @@
                     "location",
                     "nature",
                     "sex",
-                    "units",
-                    "year"
-                ]
-            }
-        },
-        {
-            "name": "ddf--datapoints--sn_sta_ovwgt_inp--by--age--geo_area--nature--units--year",
-            "path": "ddf--datapoints--sn_sta_ovwgt_inp--by--age--geo_area--nature--units--year.csv",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "age"
-                    },
-                    {
-                        "name": "geo_area"
-                    },
-                    {
-                        "name": "nature"
-                    },
-                    {
-                        "name": "units"
-                    },
-                    {
-                        "name": "year"
-                    },
-                    {
-                        "name": "sn_sta_ovwgt_inp"
-                    }
-                ],
-                "primaryKey": [
-                    "age",
-                    "geo_area",
-                    "nature",
                     "units",
                     "year"
                 ]
@@ -23812,9 +23746,9 @@
                     "units",
                     "year"
                 ],
-                "value": "sg_scp_totl",
+                "value": "sg_scp_totln",
                 "resources": [
-                    "ddf--datapoints--sg_scp_totl--by--geo_area--nature--units--year"
+                    "ddf--datapoints--sg_scp_totln--by--geo_area--nature--units--year"
                 ]
             },
             {
@@ -24777,19 +24711,6 @@
                     "units",
                     "year"
                 ],
-                "value": "sh_sta_stnt_inp",
-                "resources": [
-                    "ddf--datapoints--sh_sta_stnt_inp--by--age--geo_area--nature--units--year"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "age",
-                    "geo_area",
-                    "nature",
-                    "units",
-                    "year"
-                ],
                 "value": "sh_sta_stntn",
                 "resources": [
                     "ddf--datapoints--sh_sta_stntn--by--age--geo_area--nature--units--year"
@@ -25534,19 +25455,6 @@
                 "value": "sn_sta_ovwgt",
                 "resources": [
                     "ddf--datapoints--sn_sta_ovwgt--by--age--geo_area--location--nature--sex--units--year"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "age",
-                    "geo_area",
-                    "nature",
-                    "units",
-                    "year"
-                ],
-                "value": "sn_sta_ovwgt_inp",
-                "resources": [
-                    "ddf--datapoints--sn_sta_ovwgt_inp--by--age--geo_area--nature--units--year"
                 ]
             },
             {

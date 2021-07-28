@@ -354,7 +354,7 @@ sg_scp_polins,measure,Countries with policy instrument for sustainable consumpti
 sg_scp_procn,measure,Number of countries implementing sustainable public procurement policies and action plans,12,12.7.1,SG_SCP_PROCN,12.7
 sg_scp_procn_hs,measure,Number of countries implementing sustainable public procurement policies and action plans at higher subnational level by level of implementation (1 = YES; 0 = NO),12,12.7.1,SG_SCP_PROCN_HS,12.7
 sg_scp_procn_ls,measure,Number of countries implementing sustainable public procurement policies and action plans at lower subnational level by level of implementation (1 = YES; 0 = NO),12,12.7.1,SG_SCP_PROCN_LS,12.7
-sg_scp_totl,measure,"Number of  policies, instruments and mechanism in place for sustainable consumption and production (Number)",12,12.1.1,SG_SCP_TOTL,12.1
+sg_scp_totln,measure,"Number of policies, instruments and mechanism in place for sustainable consumption and production (Number)",12,12.1.1,SG_SCP_TOTLN,12.1
 sg_stt_capty,measure,Dollar value of all resources made available to strengthen statistical capacity in developing countries (current United States dollars),17,17.19.1,SG_STT_CAPTY,17.19
 sg_stt_fpos,measure,Countries with national statistical legislation exists that complies with the Fundamental Principles of Official Statistics (1 = YES; 0 = NO),17,17.18.2,SG_STT_FPOS,17.18
 sg_stt_nsdsfddnr,measure,Countries with national statistical plans with funding from donors (1 = YES; 0 = NO),17,17.18.3,SG_STT_NSDSFDDNR,17.18
@@ -429,7 +429,6 @@ sh_sta_poisn,measure,"Mortality rate attributed to unintentional poisonings, by 
 sh_sta_scide,measure,"Suicide mortality rate, by sex (deaths per 100,000 population)",3,3.4.2,SH_STA_SCIDE,3.4
 sh_sta_sciden,measure,"Number of deaths attributed to suicide, by sex (number)",3,3.4.2,SH_STA_SCIDEN,3.4
 sh_sta_stnt,measure,Proportion of children moderately or severely stunted (%),2,2.2.1,SH_STA_STNT,2.2
-sh_sta_stnt_inp,measure,"Proportion of children moderately or severely stunted, survey estimates (%)",2,2.2.1,SH_STA_STNT_INP,2.2
 sh_sta_stntn,measure,Children moderately or severely stunted (thousands),2,2.2.1,SH_STA_STNTN,2.2
 sh_sta_traf,measure,"Death rate due to road traffic injuries, by sex (per 100,000 population)",3,3.6.1,SH_STA_TRAF,3.6
 sh_sta_wash,measure,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (deaths per 100,000 population)",3,3.9.2,SH_STA_WASH,3.9
@@ -486,7 +485,6 @@ sm_pop_refg_or,measure,"Number of refugees per 100,000 population, by country of
 sn_itk_defc,measure,Prevalence of undernourishment (%),2,2.1.1,SN_ITK_DEFC,2.1
 sn_itk_defcn,measure,Number of undernourish people (millions),2,2.1.1,SN_ITK_DEFCN,2.1
 sn_sta_ovwgt,measure,Proportion of children moderately or severely overweight (%),2,2.2.2,SN_STA_OVWGT,2.2
-sn_sta_ovwgt_inp,measure,"Proportion of children moderately or severely overweight, survey estimates (%)",2,2.2.2,SN_STA_OVWGT_INP,2.2
 sn_sta_ovwgtn,measure,Children moderately or severely overweight (thousands),2,2.2.2,SN_STA_OVWGTN,2.2
 sp_acs_bsrvh2o,measure,"Proportion of population using basic drinking water services, by location (%)",1,1.4.1,SP_ACS_BSRVH2O,1.4
 sp_acs_bsrvsan,measure,"Proportion of population using basic sanitation services, by location (%)",1,1.4.1,SP_ACS_BSRVSAN,1.4
