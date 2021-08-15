@@ -1094,7 +1094,7 @@ geo_area,nature,observation_status,units,year,gr_g14_xdc
 360,notspec,a,cur_lcu_m,2003,349306128.195849
 360,notspec,a,cur_lcu_m,2004,421918140
 360,notspec,a,cur_lcu_m,2005,485600629.837047
-360,notspec,a,cur_lcu_m,2006,626205570.2664981
+360,notspec,a,cur_lcu_m,2006,626205570.266498
 360,notspec,a,cur_lcu_m,2007,697936665.217978
 360,notspec,a,cur_lcu_m,2008,1053000000
 360,notspec,a,cur_lcu_m,2009,916208000
@@ -1106,7 +1106,7 @@ geo_area,nature,observation_status,units,year,gr_g14_xdc
 360,notspec,a,cur_lcu_m,2015,1742055306.7909
 360,notspec,a,cur_lcu_m,2016,1792395255.1796999
 360,notspec,a,cur_lcu_m,2017,1945441825.2153399
-360,notspec,a,cur_lcu_m,2018,2192279588.4777102
+360,notspec,a,cur_lcu_m,2018,2192279588.4777098
 360,notspec,a,cur_lcu_m,2019,2259249454.1322799
 364,notspec,a,cur_lcu_m,2000,135845177.0225
 364,notspec,a,cur_lcu_m,2001,174153856.625
@@ -1319,7 +1319,7 @@ geo_area,nature,observation_status,units,year,gr_g14_xdc
 410,notspec,a,cur_lcu_m,2012,479727000
 410,notspec,a,cur_lcu_m,2013,484435000
 410,notspec,a,cur_lcu_m,2014,504923393.960679
-410,notspec,a,cur_lcu_m,2015,534556695.4769099
+410,notspec,a,cur_lcu_m,2015,534556695.47691
 410,notspec,a,cur_lcu_m,2016,568032266.714234
 410,notspec,a,cur_lcu_m,2017,610243861.17015
 410,notspec,a,cur_lcu_m,2018,633787977.297516
