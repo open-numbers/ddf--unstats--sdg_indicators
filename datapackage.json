@@ -8,7 +8,7 @@
     "description": "SDG indicators",
     "author": "Gapminder",
     "license": "CC-BY-4.0",
-    "created": "2021-08-15T01:44:56.020453+00:00",
+    "created": "2021-09-26T03:15:05.444491+00:00",
     "translations": [],
     "version": "0.0.1",
     "resources": [
@@ -15434,8 +15434,8 @@
             }
         },
         {
-            "name": "ddf--datapoints--sl_tlf_manf--by--activity--geo_area--nature--units--year",
-            "path": "ddf--datapoints--sl_tlf_manf--by--activity--geo_area--nature--units--year.csv",
+            "name": "ddf--datapoints--sl_tlf_manf--by--activity--geo_area--nature--sex--units--year",
+            "path": "ddf--datapoints--sl_tlf_manf--by--activity--geo_area--nature--sex--units--year.csv",
             "schema": {
                 "fields": [
                     {
@@ -15446,6 +15446,9 @@
                     },
                     {
                         "name": "nature"
+                    },
+                    {
+                        "name": "sex"
                     },
                     {
                         "name": "units"
@@ -15461,6 +15464,7 @@
                     "activity",
                     "geo_area",
                     "nature",
+                    "sex",
                     "units",
                     "year"
                 ]
@@ -25342,12 +25346,13 @@
                     "activity",
                     "geo_area",
                     "nature",
+                    "sex",
                     "units",
                     "year"
                 ],
                 "value": "sl_tlf_manf",
                 "resources": [
-                    "ddf--datapoints--sl_tlf_manf--by--activity--geo_area--nature--units--year"
+                    "ddf--datapoints--sl_tlf_manf--by--activity--geo_area--nature--sex--units--year"
                 ]
             },
             {
