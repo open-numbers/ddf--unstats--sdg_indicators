@@ -1,5 +1,5 @@
 geo_area,nature,sex,units,year,si_agr_ssfp
-8,e,bothsex,con_usd,2005,2974.5
+8,e,bothsex,con_usd,2005,2974.50
 8,e,female,con_usd,2005,2243.78
 8,e,male,con_usd,2005,3046.45
 50,e,bothsex,con_usd,2010,1093.0995
@@ -23,7 +23,18 @@ geo_area,nature,sex,units,year,si_agr_ssfp
 120,e,bothsex,con_usd,2014,2145.09778
 120,e,female,con_usd,2014,1922.16465
 120,e,male,con_usd,2014,2252.69908
-124,c,male,con_usd,2016,-1537
+124,c,bothsex,con_usd,2001,-4794.24
+124,c,bothsex,con_usd,2006,-4801.97
+124,c,bothsex,con_usd,2011,-4347.48
+124,c,bothsex,con_usd,2016,-2387.97
+124,c,female,con_usd,2001,-4078.78
+124,c,female,con_usd,2006,-4066.53
+124,c,female,con_usd,2011,-3692.48
+124,c,female,con_usd,2016,-2341.22
+124,c,male,con_usd,2001,-5091.27
+124,c,male,con_usd,2006,-5130.40
+124,c,male,con_usd,2011,-4643.48
+124,c,male,con_usd,2016,-2411.14
 218,e,bothsex,con_usd,2006,2141.55033
 218,e,bothsex,con_usd,2014,2159.83309
 218,e,female,con_usd,2006,1457.54853
@@ -90,6 +101,7 @@ geo_area,nature,sex,units,year,si_agr_ssfp
 466,e,female,con_usd,2017,705.65603
 466,e,male,con_usd,2014,1352.74327
 466,e,male,con_usd,2017,1466.59234
+466,notspec,bothsex,con_usd,2016,Nan
 484,e,bothsex,con_usd,2014,1554.0933
 484,e,female,con_usd,2014,1189.85129
 484,e,male,con_usd,2014,1607.8689

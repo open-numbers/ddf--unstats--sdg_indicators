@@ -7,6 +7,7 @@ geo_area,nature,units,year,sg_nhr_intexst
 1,notspec,percent,2017,58.9
 1,notspec,percent,2018,59.8984772
 1,notspec,percent,2019,60.40609
+1,notspec,percent,2020,61.42132
 9,notspec,percent,2000,8.333333
 9,notspec,percent,2005,8.333333
 9,notspec,percent,2010,0
@@ -15,6 +16,7 @@ geo_area,nature,units,year,sg_nhr_intexst
 9,notspec,percent,2017,8.333333
 9,notspec,percent,2018,8.3333333
 9,notspec,percent,2019,8.3333333
+9,notspec,percent,2020,8.33333
 34,notspec,percent,2000,33.3
 34,notspec,percent,2005,44.4
 34,notspec,percent,2010,66.7
@@ -23,6 +25,7 @@ geo_area,nature,units,year,sg_nhr_intexst
 34,notspec,percent,2017,77.8
 34,notspec,percent,2018,77.7777778
 34,notspec,percent,2019,77.7777778
+34,notspec,percent,2020,77.7777778
 35,notspec,percent,2000,18.2
 35,notspec,percent,2005,36.4
 35,notspec,percent,2010,45.5
@@ -31,6 +34,7 @@ geo_area,nature,units,year,sg_nhr_intexst
 35,notspec,percent,2017,54.5
 35,notspec,percent,2018,54.5454545
 35,notspec,percent,2019,54.5454545
+35,notspec,percent,2020,54.5454545
 53,notspec,percent,2000,100
 53,notspec,percent,2005,100
 53,notspec,percent,2010,100
@@ -39,6 +43,7 @@ geo_area,nature,units,year,sg_nhr_intexst
 53,notspec,percent,2017,100
 53,notspec,percent,2018,100
 53,notspec,percent,2019,100
+53,notspec,percent,2020,100
 62,notspec,percent,2000,21.428571
 62,notspec,percent,2005,28.571429
 62,notspec,percent,2010,42.857143
@@ -47,6 +52,7 @@ geo_area,nature,units,year,sg_nhr_intexst
 62,notspec,percent,2017,71.428571
 62,notspec,percent,2018,71.4285714
 62,notspec,percent,2019,71.4285714
+62,notspec,percent,2020,78.57143
 135,notspec,percent,2000,0
 135,notspec,percent,2005,0
 135,notspec,percent,2010,37.5
@@ -55,6 +61,7 @@ geo_area,nature,units,year,sg_nhr_intexst
 135,notspec,percent,2017,75
 135,notspec,percent,2018,75
 135,notspec,percent,2019,75
+135,notspec,percent,2020,87.5
 199,notspec,percent,2000,12.5
 199,notspec,percent,2005,27.1
 199,notspec,percent,2010,31.3
@@ -63,6 +70,7 @@ geo_area,nature,units,year,sg_nhr_intexst
 199,notspec,percent,2017,47.9
 199,notspec,percent,2018,50
 199,notspec,percent,2019,50
+199,notspec,percent,2020,50
 202,notspec,percent,2000,18.75
 202,notspec,percent,2005,39.583333
 202,notspec,percent,2010,41.666667
@@ -71,6 +79,7 @@ geo_area,nature,units,year,sg_nhr_intexst
 202,notspec,percent,2017,54
 202,notspec,percent,2018,57.1428571
 202,notspec,percent,2019,58.33333
+202,notspec,percent,2020,58.33333
 419,notspec,percent,2000,26.470588
 419,notspec,percent,2005,41.176471
 419,notspec,percent,2010,50
@@ -79,6 +88,7 @@ geo_area,nature,units,year,sg_nhr_intexst
 419,notspec,percent,2017,52.941176
 419,notspec,percent,2018,55.8823529
 419,notspec,percent,2019,58.82353
+419,notspec,percent,2020,58.82353
 432,notspec,percent,2000,12.5
 432,notspec,percent,2005,34.4
 432,notspec,percent,2010,43.8
@@ -87,6 +97,7 @@ geo_area,nature,units,year,sg_nhr_intexst
 432,notspec,percent,2017,62.5
 432,notspec,percent,2018,65.625
 432,notspec,percent,2019,68.75
+432,notspec,percent,2020,71.875
 485,notspec,percent,2000,0
 485,notspec,percent,2005,7.7
 485,notspec,percent,2010,23.1
@@ -95,6 +106,7 @@ geo_area,nature,units,year,sg_nhr_intexst
 485,notspec,percent,2017,46.2
 485,notspec,percent,2018,46.1538462
 485,notspec,percent,2019,46.1538462
+485,notspec,percent,2020,46.1538462
 513,notspec,percent,2000,28.26087
 513,notspec,percent,2005,43.478261
 513,notspec,percent,2010,56.521739
@@ -103,6 +115,7 @@ geo_area,nature,units,year,sg_nhr_intexst
 513,notspec,percent,2017,71.73913
 513,notspec,percent,2018,73.9130435
 513,notspec,percent,2019,73.9130435
+513,notspec,percent,2020,77.27273
 514,notspec,percent,2000,30
 514,notspec,percent,2005,44
 514,notspec,percent,2010,56
@@ -127,6 +140,7 @@ geo_area,nature,units,year,sg_nhr_intexst
 518,notspec,percent,2017,60
 518,notspec,percent,2018,60
 518,notspec,percent,2019,60
+518,notspec,percent,2020,60
 543,notspec,percent,2000,8.3
 543,notspec,percent,2005,8.3
 543,notspec,percent,2010,0
@@ -134,7 +148,8 @@ geo_area,nature,units,year,sg_nhr_intexst
 543,notspec,percent,2016,8.3
 543,notspec,percent,2017,8.3
 543,notspec,percent,2018,8.3
-543,notspec,percent,2019,8.3
+543,notspec,percent,2019,8.33333
+543,notspec,percent,2020,8.33333
 722,notspec,percent,2000,2.6
 722,notspec,percent,2005,10.5
 722,notspec,percent,2010,15.8
@@ -143,6 +158,7 @@ geo_area,nature,units,year,sg_nhr_intexst
 722,notspec,percent,2017,21.1
 722,notspec,percent,2018,21.0526316
 722,notspec,percent,2019,21.0526316
+722,notspec,percent,2020,21.0526316
 738,notspec,percent,2000,18.4
 738,notspec,percent,2005,38.8
 738,notspec,percent,2010,40.8
@@ -151,6 +167,7 @@ geo_area,nature,units,year,sg_nhr_intexst
 738,notspec,percent,2017,53.1
 738,notspec,percent,2018,57.1428571
 738,notspec,percent,2019,57.1428571
+738,notspec,percent,2020,57.1428571
 746,notspec,percent,2000,40
 746,notspec,percent,2005,40
 746,notspec,percent,2010,80
@@ -159,6 +176,7 @@ geo_area,nature,units,year,sg_nhr_intexst
 746,notspec,percent,2017,100
 746,notspec,percent,2018,100
 746,notspec,percent,2019,100
+746,notspec,percent,2020,100
 747,notspec,percent,2000,8.333333
 747,notspec,percent,2005,12.5
 747,notspec,percent,2010,41.666667
@@ -167,6 +185,7 @@ geo_area,nature,units,year,sg_nhr_intexst
 747,notspec,percent,2017,62.5
 747,notspec,percent,2018,62.5
 747,notspec,percent,2019,62.5
+747,notspec,percent,2020,62.5
 753,notspec,percent,2000,17.647059
 753,notspec,percent,2005,41.176471
 753,notspec,percent,2010,47.058824
@@ -175,3 +194,4 @@ geo_area,nature,units,year,sg_nhr_intexst
 753,notspec,percent,2017,52.941176
 753,notspec,percent,2018,52.9411765
 753,notspec,percent,2019,52.9411765
+753,notspec,percent,2020,52.9411765

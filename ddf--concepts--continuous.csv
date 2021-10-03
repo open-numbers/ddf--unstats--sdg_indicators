@@ -22,6 +22,9 @@ ag_prd_fiessn,measure,Total population in severe food insecurity (thousands of p
 ag_prd_ortind,measure,Agriculture orientation index for government expenditures,2,2.a.1,AG_PRD_ORTIND,2.a
 ag_prd_xsubdy,measure,Agricultural export subsidies (millions of current United States dollars),2,2.b.1,AG_PRD_XSUBDY,2.b
 ag_xpd_agsgb,measure,Agriculture share of Government Expenditure (%),2,2.a.1,AG_XPD_AGSGB,2.a
+bn_cab_xoka_gd_zs,measure,Current account balance as a proportion of GDP (%),17,17.13.1,BN_CAB_XOKA_GD_ZS,17.13
+bn_klt_ptxl_cd,measure,"Portfolio investment, net (Balance of Payments, current United States dollars)",17,17.13.1,BN_KLT_PTXL_CD,17.13
+bx_klt_dinv_wd_gd_zs,measure,"Foreign direct investment, net inflows, as a proportion of GDP (%)",17,17.13.1,BX_KLT_DINV_WD_GD_ZS,17.13
 bx_trf_pwkr,measure,Volume of remittances (in United States dollars) as a proportion of total GDP (%),17,17.3.2,BX_TRF_PWKR,17.3
 dc_fin_climb,measure,"Climate-specific financial support provided via bilateral, regional and other channels, by type of support (Billions of current United States dollars)",13,13.a.1,DC_FIN_CLIMB,13.a
 dc_fin_climm,measure,"Climate-specific financial support provided via multilateral channels, by type of support (Billions of current United States dollars)",13,13.a.1,DC_FIN_CLIMM,13.a
@@ -57,6 +60,8 @@ dc_tof_washl,measure,"Total official development assistance (gross disbursement)
 dc_trf_tfdv,measure,"Total resource flows for development, by recipient and donor countries (millions of current United States dollars)",10,10.b.1,DC_TRF_TFDV,10.b
 dc_trf_totdl,measure,"Total assistance for development, by donor countries (millions of current United States dollars)",10,10.b.1,DC_TRF_TOTDL,10.b
 dc_trf_totl,measure,"Total assistance for development, by recipient countries (millions of current United States dollars)",10,10.b.1,DC_TRF_TOTL,10.b
+dp_dod_dld2_cr_cg_z1,measure,"Gross public sector debt, Central Government, as a proportion of GDP (%)",17,17.13.1,DP_DOD_DLD2_CR_CG_Z1,17.13
+dt_dod_dect_gn_zs,measure,External debt stocks as a proportion of GNI (%),17,17.13.1,DT_DOD_DECT_GN_ZS,17.13
 dt_tds_dect,measure,Debt service as a proportion of exports of goods and services (%),17,17.4.1,DT_TDS_DECT,17.4
 eg_acs_elec,measure,"Proportion of population with access to electricity, by urban/rural (%)",7,7.1.1,EG_ACS_ELEC,7.1
 eg_egy_clean,measure,Proportion of population with primary reliance on clean fuels and technology (%),7,7.1.2,EG_EGY_CLEAN,7.1
@@ -201,6 +206,7 @@ er_wat_prdu,measure,"Countries with procedures in law or policy for participatio
 er_wat_proced,measure,Proportion of countries with clearly defined procedures in law or policy for participation by service users/communities in planning program in water resources planning and management (%),6,6.b.1,ER_WAT_PROCED,6.b
 fb_atm_totl,measure,"Number of automated teller machines (ATMs) per 100,000 adults",8,8.10.1,FB_ATM_TOTL,8.10
 fb_bnk_accss,measure,"Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",8,8.10.2,FB_BNK_ACCSS,8.10
+fb_bnk_capa_zs,measure,Bank capital to assets ratio (%),17,17.13.1,FB_BNK_CAPA_ZS,17.13
 fb_cbk_brch,measure,"Number of commercial bank branches per 100,000 adults",8,8.10.1,FB_CBK_BRCH,8.10
 fc_acc_ssid,measure,Proportion of small-scale industries with a loan or line of credit (%),9,9.3.2,FC_ACC_SSID,9.3
 fi_fsi_fsanl,measure,Non-performing loans to total gross loans (%),10,10.5.1,FI_FSI_FSANL,10.5
@@ -210,9 +216,14 @@ fi_fsi_fsknl,measure,Non-performing loans net of provisions to capital (%),10,10
 fi_fsi_fskrtc,measure,Regulatory Tier 1 capital to risk-weighted assets (%),10,10.5.1,FI_FSI_FSKRTC,10.5
 fi_fsi_fsls,measure,Liquid assets to short term liabilities (%),10,10.5.1,FI_FSI_FSLS,10.5
 fi_fsi_fssno,measure,Net open position in foreign exchange to capital (%),10,10.5.1,FI_FSI_FSSNO,10.5
+fi_res_totl_mo,measure,Total reserves in months of imports (ratio),17,17.13.1,FI_RES_TOTL_MO,17.13
+fm_lbl_bmny_ir_zs,measure,Broad money to total reserves ratio,17,17.13.1,FM_LBL_BMNY_IR_ZS,17.13
+fm_lbl_bmny_zg,measure,Annual broad money growth (%),17,17.13.1,FM_LBL_BMNY_ZG,17.13
+fp_cpi_totl_zg,measure,"Annual inflation, consumer prices (%)",17,17.13.1,FP_CPI_TOTL_ZG,17.13
 gb_pop_scierd,measure,"Researchers (in full-time equivalent) per million inhabitants (per 1,000,000 population)",9,9.5.2,GB_POP_SCIERD,9.5
 gb_xpd_rsdv,measure,Research and development expenditure as a proportion of GDP (%),9,9.5.1,GB_XPD_RSDV,9.5
 gc_gob_taxd,measure,Proportion of domestic budget funded by domestic taxes (% of GDP),17,17.1.2,GC_GOB_TAXD,17.1
+gc_tax_totl_gd_zs,measure,Tax revenue as a proportion of GDP (%),17,17.13.1,GC_TAX_TOTL_GD_ZS,17.13
 gf_com_pppi,measure,"Amount of United States dollars committed to public-private partnerships for infrastructure, million USD nominal",17,17.17.1,GF_COM_PPPI,17.17
 gf_com_pppi_kd,measure,"Amount of United States dollars committed to public-private partnerships for infrastructure, million USD real",17,17.17.1,GF_COM_PPPI_KD,17.17
 gf_frn_fdi,measure,Foreign direct investment (FDI) inflows (millions of US dollars),17,17.3.1,GF_FRN_FDI,17.3
@@ -234,11 +245,16 @@ it_net_bbnd,measure,"Fixed Internet broadband subscriptions per 100 inhabitants
 it_net_bbndn,measure,"Number of fixed Internet broadband subscriptions, by speed (number)",17,17.6.1,IT_NET_BBNDN,17.6
 it_use_ii99,measure,Internet users per 100 inhabitants,17,17.8.1,IT_USE_ii99,17.8
 iu_cor_brib,measure,"Prevalence rate of bribery, by sex (%)",16,16.5.1,IU_COR_BRIB,16.5
+ne_con_govt_kd_zg,measure,Annual growth of the general government final consumption expenditure (%),17,17.13.1,NE_CON_GOVT_KD_ZG,17.13
+ne_exp_gnfs_kd_zg,measure,Annual growth of exports of goods and services (%),17,17.13.1,NE_EXP_GNFS_KD_ZG,17.13
+ne_gdi_totl_kd_zg,measure,Annual growth of the gross capital formation (%),17,17.13.1,NE_GDI_TOTL_KD_ZG,17.13
+ne_imp_gnfs_kd_zg,measure,Annual growth of imports of goods and services (%),17,17.13.1,NE_IMP_GNFS_KD_ZG,17.13
 nv_ind_manf,measure,Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%),9,9.2.1,NV_IND_MANF,9.2
 nv_ind_manf_cd,measure,Manufacturing value added (current United States dollars) as a proportion of GDP (%),9,9.2.1,NV_IND_MANF_CD,9.2
 nv_ind_manfpc,measure,Manufacturing value added per capita (constant 2015 United States dollars),9,9.2.1,NV_IND_MANFPC,9.2
 nv_ind_ssis,measure,Proportion of small-scale industries in total industry value added (%),9,9.3.1,NV_IND_SSIS,9.3
 nv_ind_tech,measure,Proportion of medium and high-tech manufacturing value added in total value added (%),9,9.b.1,NV_IND_TECH,9.b
+ny_gdp_mktp_kd_zg,measure,Annual GDP growth (%),17,17.13.1,NY_GDP_MKTP_KD_ZG,17.13
 ny_gdp_pcap,measure,Annual growth rate of real GDP per capita (%),8,8.1.1,NY_GDP_PCAP,8.1
 pd_agr_lsfp,measure,"Productivity of large-scale food producers (agricultural output per labour day, PPP) (constant 2011 international $)",2,2.3.1,PD_AGR_LSFP,2.3
 pd_agr_ssfp,measure,"Productivity of small-scale food producers (agricultural output per labour day, PPP) (constant 2011 international $)",2,2.3.1,PD_AGR_SSFP,2.3
@@ -501,6 +517,7 @@ st_eev_accseea,measure,Implementation of standard accounting tools to monitor th
 st_eev_acctsa,measure,Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (Tourism Satellite Account tables),12,12.b.1,ST_EEV_ACCTSA,12.b
 st_eev_stdacct,measure,Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (number of tables),12,12.b.1,ST_EEV_STDACCT,12.b
 st_gdp_zs,measure,Tourism direct GDP as a proportion of total GDP (%),8,8.9.1,ST_GDP_ZS,8.9
+tg_val_totl_gd_zs,measure,Merchandise trade as a proportion of GDP (%),17,17.13.1,TG_VAL_TOTL_GD_ZS,17.13
 tm_tax_dmfn,measure,"Average tariff applied by developed countries, most-favored nation status, by type of product (%)",17,17.12.1,TM_TAX_DMFN,17.12
 tm_tax_dprf,measure,"Average tariff applied by developed countries, preferential status, by type of product (%)",17,17.12.1,TM_TAX_DPRF,17.12
 tm_tax_wmfn,measure,"Worldwide weighted tariff-average, most-favoured-nation status, by type of product (%)",17,17.10.1,TM_TAX_WMFN,17.10

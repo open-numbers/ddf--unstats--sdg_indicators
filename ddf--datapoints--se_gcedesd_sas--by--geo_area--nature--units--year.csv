@@ -6,6 +6,7 @@ geo_area,nature,units,year,se_gcedesd_sas
 50,c,index,2020,0.833
 51,c,index,2020,0.833
 56,c,index,2020,1
+68,c,index,2020,0.75
 70,c,index,2020,0.5
 76,c,index,2020,0.917
 100,c,index,2020,0.708
@@ -13,7 +14,9 @@ geo_area,nature,units,year,se_gcedesd_sas
 108,c,index,2020,0.625
 116,c,index,2020,1
 124,c,index,2020,0.833
+170,c,index,2020,1
 180,c,index,2020,0.833
+192,c,index,2020,1
 196,c,index,2020,0.667
 208,c,index,2020,0.833
 214,c,index,2020,1
@@ -23,6 +26,7 @@ geo_area,nature,units,year,se_gcedesd_sas
 275,c,index,2020,0.833
 276,c,index,2020,0.917
 348,c,index,2020,0.792
+356,c,index,2020,1
 372,c,index,2020,0.833
 380,c,index,2020,0.833
 400,c,index,2020,1
@@ -32,17 +36,21 @@ geo_area,nature,units,year,se_gcedesd_sas
 428,c,index,2020,1
 440,c,index,2020,1
 454,c,index,2020,1
+458,c,index,2020,0.833
 470,c,index,2020,0.917
 480,c,index,2020,0.833
+484,c,index,2020,1
 492,c,index,2020,0.667
 496,c,index,2020,0.833
 498,c,index,2020,0.833
 512,c,index,2020,0.833
 558,c,index,2020,1
+604,c,index,2020,1
 616,c,index,2020,1
 634,c,index,2020,0.667
 642,c,index,2020,1
 659,c,index,2020,0.833
+674,c,index,2020,1
 682,c,index,2020,1
 703,c,index,2020,0.25
 705,c,index,2020,1

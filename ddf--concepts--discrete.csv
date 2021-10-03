@@ -36,6 +36,7 @@ policy_instruments,entity_domain,Policy Instruments
 quantile,entity_domain,Quantile
 report_ordinal,entity_domain,Report Ordinal
 sampling_stations,entity_domain,Sampling Stations
+severity_of_price_levels,entity_domain,Severity Of Price Levels
 sex,entity_domain,Sex
 substance_use_disorders,entity_domain,Substance Use Disorders
 target,string,Target
