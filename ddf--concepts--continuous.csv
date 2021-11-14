@@ -2,7 +2,7 @@ concept,concept_type,description,goal,indicator,name,target
 ag_fls_idx,measure,Food loss percentage (%),12,12.3.1,AG_FLS_IDX,12.3
 ag_food_wst,measure,Food waste (Tonnes),12,12.3.1,AG_FOOD_WST,12.3
 ag_food_wst_pc,measure,Food waste per capita (KG),12,12.3.1,AG_FOOD_WST_PC,12.3
-ag_fpa_cfpi,measure,Consumer Food Price Index,2,2.c.1,AG_FPA_CFPI,2.c
+ag_fpa_cfpi,measure,"Indicator of Food Price Anomalies (IFPA), by Consumer Food Price Index",2,2.c.1,AG_FPA_CFPI,2.c
 ag_fpa_comm,measure,"Indicator of Food Price Anomalies (IFPA), by type of product",2,2.c.1,AG_FPA_COMM,2.c
 ag_fpa_hmfp,measure,"Proportion of countries recording abnormally high or moderately high food prices, according to the Indicator of Food Price Anomalies (%)",2,2.c.1,AG_FPA_HMFP,2.c
 ag_lnd_dgrd,measure,Proportion of land that is degraded over total land area (%),15,15.3.1,AG_LND_DGRD,15.3
