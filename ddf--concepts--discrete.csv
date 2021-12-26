@@ -19,6 +19,7 @@ grounds_of_discrimination,entity_domain,Grounds Of Discrimination
 hazard_type,entity_domain,Hazard Type
 ihr_capacity,entity_domain,Ihr Capacity
 indicator,string,Indicator
+level_of_government,entity_domain,Level Of Government
 level_of_requirement,entity_domain,Level Of Requirement
 level_status,entity_domain,Level Status
 location,entity_domain,Location

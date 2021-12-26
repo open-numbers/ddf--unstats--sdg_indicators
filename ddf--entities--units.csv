@@ -1,5 +1,6 @@
 units,name
 bool,BOOL
+con_ppp_usd,CON_PPP_USD
 con_usd,CON_USD
 con_usd_m,CON_USD_M
 cu_usd,CU_USD

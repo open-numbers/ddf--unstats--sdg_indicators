@@ -171,6 +171,10 @@ er_grf_animrcntn,measure,Number of local breeds for which sufficient genetic res
 er_grf_plntstor,measure,Plant genetic resources accessions stored ex situ (number),2,2.5.1,ER_GRF_PLNTSTOR,2.5
 er_h2o_fwtl,measure,Proportion of fish stocks within biologically sustainable levels (not overexploited) (%),14,14.4.1,ER_H2O_FWTL,14.4
 er_h2o_iwrmd,measure,Degree of integrated water resources management implementation (%),6,6.5.1,ER_H2O_IWRMD,6.5
+er_h2o_iwrmd_ee,measure,"Degree of integrated water resources management implementation, enabling environment (%)",6,6.5.1,ER_H2O_IWRMD_EE,6.5
+er_h2o_iwrmd_fi,measure,"Degree of integrated water resources management implementation, financing (%)",6,6.5.1,ER_H2O_IWRMD_FI,6.5
+er_h2o_iwrmd_ip,measure,"Degree of integrated water resources management implementation, institutions and participation (%)",6,6.5.1,ER_H2O_IWRMD_IP,6.5
+er_h2o_iwrmd_mi,measure,"Degree of integrated water resources management implementation, management instruments (%)",6,6.5.1,ER_H2O_IWRMD_MI,6.5
 er_h2o_iwrmp,measure,Proportion of countries by IWRM implementation category (%),6,6.5.1,ER_H2O_IWRMP,6.5
 er_h2o_partic,measure,Proportion of countries with high level of users/communities participating in planning programs in rural drinking-water supply (%),6,6.b.1,ER_H2O_PARTIC,6.b
 er_h2o_prdu,measure,"Countries with procedures in law or policy for participation by service users/communities in planning program in rural drinking-water supply, by level of definition in procedures (10 = Clearly defined; 5 = Not clearly defined ; 0 = NA)",6,6.b.1,ER_H2O_PRDU,6.b
@@ -221,7 +225,13 @@ fm_lbl_bmny_ir_zs,measure,Broad money to total reserves ratio,17,17.13.1,FM_LBL_
 fm_lbl_bmny_zg,measure,Annual broad money growth (%),17,17.13.1,FM_LBL_BMNY_ZG,17.13
 fp_cpi_totl_zg,measure,"Annual inflation, consumer prices (%)",17,17.13.1,FP_CPI_TOTL_ZG,17.13
 gb_pop_scierd,measure,"Researchers (in full-time equivalent) per million inhabitants (per 1,000,000 population)",9,9.5.2,GB_POP_SCIERD,9.5
+gb_xpd_cul_pbpv,measure,"Total expenditure per capita spent on cultural heritage, public and private (PPP, constant 2017 United States dollars)",11,11.4.1,GB_XPD_CUL_PBPV,11.4
+gb_xpd_culnat_pb,measure,"Total expenditure per capita spent on cultural and natural heritage, public (PPP, constant 2017 United States dollars)",11,11.4.1,GB_XPD_CULNAT_PB,11.4
+gb_xpd_culnat_pbpv,measure,"Total expenditure per capita spent on cultural and natural heritage, public and private (PPP, constant 2017 United States dollars)",11,11.4.1,GB_XPD_CULNAT_PBPV,11.4
+gb_xpd_culnat_pv,measure,"Total expenditure per capita spent on cultural and natural heritage, private (PPP, constant 2017 United States dollars)",11,11.4.1,GB_XPD_CULNAT_PV,11.4
+gb_xpd_nat_pbpv,measure,"Total expenditure per capita spent on natural heritage, public and private (PPP, constant 2017 United States dollars)",11,11.4.1,GB_XPD_NAT_PBPV,11.4
 gb_xpd_rsdv,measure,Research and development expenditure as a proportion of GDP (%),9,9.5.1,GB_XPD_RSDV,9.5
+gc_bal_cash_gd_zs,measure,Cash surplus/deficit as a proportion of GDP (%),17,17.13.1,GC_BAL_CASH_GD_ZS,17.13
 gc_gob_taxd,measure,Proportion of domestic budget funded by domestic taxes (% of GDP),17,17.1.2,GC_GOB_TAXD,17.1
 gc_tax_totl_gd_zs,measure,Tax revenue as a proportion of GDP (%),17,17.13.1,GC_TAX_TOTL_GD_ZS,17.13
 gf_com_pppi,measure,"Amount of United States dollars committed to public-private partnerships for infrastructure, million USD nominal",17,17.17.1,GF_COM_PPPI,17.17
@@ -246,6 +256,7 @@ it_net_bbndn,measure,"Number of fixed Internet broadband subscriptions, by speed
 it_use_ii99,measure,Internet users per 100 inhabitants,17,17.8.1,IT_USE_ii99,17.8
 iu_cor_brib,measure,"Prevalence rate of bribery, by sex (%)",16,16.5.1,IU_COR_BRIB,16.5
 ne_con_govt_kd_zg,measure,Annual growth of the general government final consumption expenditure (%),17,17.13.1,NE_CON_GOVT_KD_ZG,17.13
+ne_con_prvt_kd_zg,measure,Annual growth of households and NPISHs final consumption expenditure (%),17,17.13.1,NE_CON_PRVT_KD_ZG,17.13
 ne_exp_gnfs_kd_zg,measure,Annual growth of exports of goods and services (%),17,17.13.1,NE_EXP_GNFS_KD_ZG,17.13
 ne_gdi_totl_kd_zg,measure,Annual growth of the gross capital formation (%),17,17.13.1,NE_GDI_TOTL_KD_ZG,17.13
 ne_imp_gnfs_kd_zg,measure,Annual growth of imports of goods and services (%),17,17.13.1,NE_IMP_GNFS_KD_ZG,17.13
@@ -256,6 +267,7 @@ nv_ind_ssis,measure,Proportion of small-scale industries in total industry value
 nv_ind_tech,measure,Proportion of medium and high-tech manufacturing value added in total value added (%),9,9.b.1,NV_IND_TECH,9.b
 ny_gdp_mktp_kd_zg,measure,Annual GDP growth (%),17,17.13.1,NY_GDP_MKTP_KD_ZG,17.13
 ny_gdp_pcap,measure,Annual growth rate of real GDP per capita (%),8,8.1.1,NY_GDP_PCAP,8.1
+pa_nus_atls,measure,DEC alternative conversion factor (in local currency unit per United States dollar),17,17.13.1,PA_NUS_ATLS,17.13
 pd_agr_lsfp,measure,"Productivity of large-scale food producers (agricultural output per labour day, PPP) (constant 2011 international $)",2,2.3.1,PD_AGR_LSFP,2.3
 pd_agr_ssfp,measure,"Productivity of small-scale food producers (agricultural output per labour day, PPP) (constant 2011 international $)",2,2.3.1,PD_AGR_SSFP,2.3
 sd_cpa_uprdp,measure,Countries that have national urban policies or regional development plans that respond to population dynamics; ensure balanced territorial development; and increase local fiscal space (1 = YES; 0 = NO),11,11.a.1,SD_CPA_UPRDP,11.a

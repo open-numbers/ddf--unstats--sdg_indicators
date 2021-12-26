@@ -8,7 +8,7 @@
     "description": "SDG indicators",
     "author": "Gapminder",
     "license": "CC-BY-4.0",
-    "created": "2021-11-14T07:18:56.026181+00:00",
+    "created": "2021-12-26T01:43:12.598555+00:00",
     "translations": [],
     "version": "0.0.1",
     "resources": [
@@ -5357,6 +5357,138 @@
             }
         },
         {
+            "name": "ddf--datapoints--er_h2o_iwrmd_ee--by--geo_area--level_status--nature--units--year",
+            "path": "ddf--datapoints--er_h2o_iwrmd_ee--by--geo_area--level_status--nature--units--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "level_status"
+                    },
+                    {
+                        "name": "nature"
+                    },
+                    {
+                        "name": "units"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "er_h2o_iwrmd_ee"
+                    }
+                ],
+                "primaryKey": [
+                    "geo_area",
+                    "level_status",
+                    "nature",
+                    "units",
+                    "year"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--er_h2o_iwrmd_fi--by--geo_area--level_status--nature--units--year",
+            "path": "ddf--datapoints--er_h2o_iwrmd_fi--by--geo_area--level_status--nature--units--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "level_status"
+                    },
+                    {
+                        "name": "nature"
+                    },
+                    {
+                        "name": "units"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "er_h2o_iwrmd_fi"
+                    }
+                ],
+                "primaryKey": [
+                    "geo_area",
+                    "level_status",
+                    "nature",
+                    "units",
+                    "year"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--er_h2o_iwrmd_ip--by--geo_area--level_status--nature--units--year",
+            "path": "ddf--datapoints--er_h2o_iwrmd_ip--by--geo_area--level_status--nature--units--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "level_status"
+                    },
+                    {
+                        "name": "nature"
+                    },
+                    {
+                        "name": "units"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "er_h2o_iwrmd_ip"
+                    }
+                ],
+                "primaryKey": [
+                    "geo_area",
+                    "level_status",
+                    "nature",
+                    "units",
+                    "year"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--er_h2o_iwrmd_mi--by--geo_area--level_status--nature--units--year",
+            "path": "ddf--datapoints--er_h2o_iwrmd_mi--by--geo_area--level_status--nature--units--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "level_status"
+                    },
+                    {
+                        "name": "nature"
+                    },
+                    {
+                        "name": "units"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "er_h2o_iwrmd_mi"
+                    }
+                ],
+                "primaryKey": [
+                    "geo_area",
+                    "level_status",
+                    "nature",
+                    "units",
+                    "year"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--er_h2o_iwrmp--by--geo_area--level_status--nature--units--year",
             "path": "ddf--datapoints--er_h2o_iwrmp--by--geo_area--level_status--nature--units--year.csv",
             "schema": {
@@ -6991,6 +7123,171 @@
             }
         },
         {
+            "name": "ddf--datapoints--gb_xpd_cul_pbpv--by--geo_area--level_of_government--nature--units--year",
+            "path": "ddf--datapoints--gb_xpd_cul_pbpv--by--geo_area--level_of_government--nature--units--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "level_of_government"
+                    },
+                    {
+                        "name": "nature"
+                    },
+                    {
+                        "name": "units"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "gb_xpd_cul_pbpv"
+                    }
+                ],
+                "primaryKey": [
+                    "geo_area",
+                    "level_of_government",
+                    "nature",
+                    "units",
+                    "year"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--gb_xpd_culnat_pb--by--geo_area--level_of_government--nature--units--year",
+            "path": "ddf--datapoints--gb_xpd_culnat_pb--by--geo_area--level_of_government--nature--units--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "level_of_government"
+                    },
+                    {
+                        "name": "nature"
+                    },
+                    {
+                        "name": "units"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "gb_xpd_culnat_pb"
+                    }
+                ],
+                "primaryKey": [
+                    "geo_area",
+                    "level_of_government",
+                    "nature",
+                    "units",
+                    "year"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--gb_xpd_culnat_pbpv--by--geo_area--level_of_government--nature--units--year",
+            "path": "ddf--datapoints--gb_xpd_culnat_pbpv--by--geo_area--level_of_government--nature--units--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "level_of_government"
+                    },
+                    {
+                        "name": "nature"
+                    },
+                    {
+                        "name": "units"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "gb_xpd_culnat_pbpv"
+                    }
+                ],
+                "primaryKey": [
+                    "geo_area",
+                    "level_of_government",
+                    "nature",
+                    "units",
+                    "year"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--gb_xpd_culnat_pv--by--geo_area--level_of_government--nature--units--year",
+            "path": "ddf--datapoints--gb_xpd_culnat_pv--by--geo_area--level_of_government--nature--units--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "level_of_government"
+                    },
+                    {
+                        "name": "nature"
+                    },
+                    {
+                        "name": "units"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "gb_xpd_culnat_pv"
+                    }
+                ],
+                "primaryKey": [
+                    "geo_area",
+                    "level_of_government",
+                    "nature",
+                    "units",
+                    "year"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--gb_xpd_nat_pbpv--by--geo_area--level_of_government--nature--units--year",
+            "path": "ddf--datapoints--gb_xpd_nat_pbpv--by--geo_area--level_of_government--nature--units--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "level_of_government"
+                    },
+                    {
+                        "name": "nature"
+                    },
+                    {
+                        "name": "units"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "gb_xpd_nat_pbpv"
+                    }
+                ],
+                "primaryKey": [
+                    "geo_area",
+                    "level_of_government",
+                    "nature",
+                    "units",
+                    "year"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--gb_xpd_rsdv--by--geo_area--nature--units--year",
             "path": "ddf--datapoints--gb_xpd_rsdv--by--geo_area--nature--units--year.csv",
             "schema": {
@@ -7009,6 +7306,35 @@
                     },
                     {
                         "name": "gb_xpd_rsdv"
+                    }
+                ],
+                "primaryKey": [
+                    "geo_area",
+                    "nature",
+                    "units",
+                    "year"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--gc_bal_cash_gd_zs--by--geo_area--nature--units--year",
+            "path": "ddf--datapoints--gc_bal_cash_gd_zs--by--geo_area--nature--units--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "nature"
+                    },
+                    {
+                        "name": "units"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "gc_bal_cash_gd_zs"
                     }
                 ],
                 "primaryKey": [
@@ -7808,6 +8134,35 @@
             }
         },
         {
+            "name": "ddf--datapoints--ne_con_prvt_kd_zg--by--geo_area--nature--units--year",
+            "path": "ddf--datapoints--ne_con_prvt_kd_zg--by--geo_area--nature--units--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "nature"
+                    },
+                    {
+                        "name": "units"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "ne_con_prvt_kd_zg"
+                    }
+                ],
+                "primaryKey": [
+                    "geo_area",
+                    "nature",
+                    "units",
+                    "year"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--ne_exp_gnfs_kd_zg--by--geo_area--nature--units--year",
             "path": "ddf--datapoints--ne_exp_gnfs_kd_zg--by--geo_area--nature--units--year.csv",
             "schema": {
@@ -8107,6 +8462,35 @@
                     },
                     {
                         "name": "ny_gdp_pcap"
+                    }
+                ],
+                "primaryKey": [
+                    "geo_area",
+                    "nature",
+                    "units",
+                    "year"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--pa_nus_atls--by--geo_area--nature--units--year",
+            "path": "ddf--datapoints--pa_nus_atls--by--geo_area--nature--units--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "nature"
+                    },
+                    {
+                        "name": "units"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "pa_nus_atls"
                     }
                 ],
                 "primaryKey": [
@@ -18930,6 +19314,21 @@
             }
         },
         {
+            "name": "ddf--entities--level_of_government",
+            "path": "ddf--entities--level_of_government.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "level_of_government"
+                    },
+                    {
+                        "name": "name"
+                    }
+                ],
+                "primaryKey": "level_of_government"
+            }
+        },
+        {
             "name": "ddf--entities--level_of_requirement",
             "path": "ddf--entities--level_of_requirement.csv",
             "schema": {
@@ -19531,6 +19930,15 @@
                 "value": "name",
                 "resources": [
                     "ddf--entities--ihr_capacity"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "level_of_government"
+                ],
+                "value": "name",
+                "resources": [
+                    "ddf--entities--level_of_government"
                 ]
             },
             {
@@ -21918,6 +22326,58 @@
                     "units",
                     "year"
                 ],
+                "value": "er_h2o_iwrmd_ee",
+                "resources": [
+                    "ddf--datapoints--er_h2o_iwrmd_ee--by--geo_area--level_status--nature--units--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo_area",
+                    "level_status",
+                    "nature",
+                    "units",
+                    "year"
+                ],
+                "value": "er_h2o_iwrmd_fi",
+                "resources": [
+                    "ddf--datapoints--er_h2o_iwrmd_fi--by--geo_area--level_status--nature--units--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo_area",
+                    "level_status",
+                    "nature",
+                    "units",
+                    "year"
+                ],
+                "value": "er_h2o_iwrmd_ip",
+                "resources": [
+                    "ddf--datapoints--er_h2o_iwrmd_ip--by--geo_area--level_status--nature--units--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo_area",
+                    "level_status",
+                    "nature",
+                    "units",
+                    "year"
+                ],
+                "value": "er_h2o_iwrmd_mi",
+                "resources": [
+                    "ddf--datapoints--er_h2o_iwrmd_mi--by--geo_area--level_status--nature--units--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo_area",
+                    "level_status",
+                    "nature",
+                    "units",
+                    "year"
+                ],
                 "value": "er_h2o_iwrmp",
                 "resources": [
                     "ddf--datapoints--er_h2o_iwrmp--by--geo_area--level_status--nature--units--year"
@@ -22559,6 +23019,71 @@
             {
                 "primaryKey": [
                     "geo_area",
+                    "level_of_government",
+                    "nature",
+                    "units",
+                    "year"
+                ],
+                "value": "gb_xpd_cul_pbpv",
+                "resources": [
+                    "ddf--datapoints--gb_xpd_cul_pbpv--by--geo_area--level_of_government--nature--units--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo_area",
+                    "level_of_government",
+                    "nature",
+                    "units",
+                    "year"
+                ],
+                "value": "gb_xpd_culnat_pb",
+                "resources": [
+                    "ddf--datapoints--gb_xpd_culnat_pb--by--geo_area--level_of_government--nature--units--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo_area",
+                    "level_of_government",
+                    "nature",
+                    "units",
+                    "year"
+                ],
+                "value": "gb_xpd_culnat_pbpv",
+                "resources": [
+                    "ddf--datapoints--gb_xpd_culnat_pbpv--by--geo_area--level_of_government--nature--units--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo_area",
+                    "level_of_government",
+                    "nature",
+                    "units",
+                    "year"
+                ],
+                "value": "gb_xpd_culnat_pv",
+                "resources": [
+                    "ddf--datapoints--gb_xpd_culnat_pv--by--geo_area--level_of_government--nature--units--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo_area",
+                    "level_of_government",
+                    "nature",
+                    "units",
+                    "year"
+                ],
+                "value": "gb_xpd_nat_pbpv",
+                "resources": [
+                    "ddf--datapoints--gb_xpd_nat_pbpv--by--geo_area--level_of_government--nature--units--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo_area",
                     "nature",
                     "units",
                     "year"
@@ -22566,6 +23091,18 @@
                 "value": "gb_xpd_rsdv",
                 "resources": [
                     "ddf--datapoints--gb_xpd_rsdv--by--geo_area--nature--units--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo_area",
+                    "nature",
+                    "units",
+                    "year"
+                ],
+                "value": "gc_bal_cash_gd_zs",
+                "resources": [
+                    "ddf--datapoints--gc_bal_cash_gd_zs--by--geo_area--nature--units--year"
                 ]
             },
             {
@@ -22886,6 +23423,18 @@
                     "units",
                     "year"
                 ],
+                "value": "ne_con_prvt_kd_zg",
+                "resources": [
+                    "ddf--datapoints--ne_con_prvt_kd_zg--by--geo_area--nature--units--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo_area",
+                    "nature",
+                    "units",
+                    "year"
+                ],
                 "value": "ne_exp_gnfs_kd_zg",
                 "resources": [
                     "ddf--datapoints--ne_exp_gnfs_kd_zg--by--geo_area--nature--units--year"
@@ -23002,6 +23551,18 @@
                 "value": "ny_gdp_pcap",
                 "resources": [
                     "ddf--datapoints--ny_gdp_pcap--by--geo_area--nature--units--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo_area",
+                    "nature",
+                    "units",
+                    "year"
+                ],
+                "value": "pa_nus_atls",
+                "resources": [
+                    "ddf--datapoints--pa_nus_atls--by--geo_area--nature--units--year"
                 ]
             },
             {
