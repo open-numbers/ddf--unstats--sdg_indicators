@@ -9,6 +9,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 1,c,number,2019,146
 1,c,number,2020,148
 1,c,number,2021,148
+1,c,number,2022,148
 4,c,number,2012,1
 4,c,number,2013,1
 4,c,number,2014,1
@@ -19,6 +20,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 4,c,number,2019,1
 4,c,number,2020,1
 4,c,number,2021,1
+4,c,number,2022,1
 8,c,number,2012,1
 8,c,number,2013,1
 8,c,number,2014,1
@@ -29,6 +31,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 8,c,number,2019,1
 8,c,number,2020,1
 8,c,number,2021,1
+8,c,number,2022,1
 9,c,number,2012,6
 9,c,number,2013,6
 9,c,number,2014,7
@@ -39,6 +42,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 9,c,number,2019,10
 9,c,number,2020,10
 9,c,number,2021,10
+9,c,number,2022,10
 12,c,number,2012,1
 12,c,number,2013,1
 12,c,number,2014,1
@@ -49,6 +53,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 12,c,number,2019,1
 12,c,number,2020,1
 12,c,number,2021,1
+12,c,number,2022,1
 15,c,number,2012,6
 15,c,number,2013,6
 15,c,number,2014,6
@@ -59,6 +64,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 15,c,number,2019,6
 15,c,number,2020,6
 15,c,number,2021,6
+15,c,number,2022,6
 16,c,number,2012,0
 16,c,number,2013,0
 16,c,number,2014,0
@@ -69,6 +75,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 16,c,number,2019,0
 16,c,number,2020,0
 16,c,number,2021,0
+16,c,number,2022,0
 20,c,number,2012,0
 20,c,number,2013,0
 20,c,number,2014,0
@@ -79,6 +86,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 20,c,number,2019,0
 20,c,number,2020,0
 20,c,number,2021,0
+20,c,number,2022,0
 21,c,number,2012,1
 21,c,number,2013,1
 21,c,number,2014,1
@@ -89,6 +97,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 21,c,number,2019,2
 21,c,number,2020,2
 21,c,number,2021,2
+21,c,number,2022,2
 24,c,number,2012,1
 24,c,number,2013,1
 24,c,number,2014,1
@@ -99,6 +108,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 24,c,number,2019,1
 24,c,number,2020,1
 24,c,number,2021,1
+24,c,number,2022,1
 28,c,number,2012,0
 28,c,number,2013,0
 28,c,number,2014,0
@@ -109,6 +119,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 28,c,number,2019,1
 28,c,number,2020,1
 28,c,number,2021,1
+28,c,number,2022,1
 30,c,number,2012,2
 30,c,number,2013,3
 30,c,number,2014,3
@@ -119,6 +130,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 30,c,number,2019,4
 30,c,number,2020,4
 30,c,number,2021,4
+30,c,number,2022,4
 31,c,number,2012,0
 31,c,number,2013,0
 31,c,number,2014,0
@@ -129,6 +141,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 31,c,number,2019,0
 31,c,number,2020,0
 31,c,number,2021,0
+31,c,number,2022,0
 32,c,number,2012,0
 32,c,number,2013,0
 32,c,number,2014,0
@@ -139,6 +152,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 32,c,number,2019,1
 32,c,number,2020,1
 32,c,number,2021,1
+32,c,number,2022,1
 34,c,number,2012,8
 34,c,number,2013,9
 34,c,number,2014,9
@@ -149,6 +163,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 34,c,number,2019,9
 34,c,number,2020,9
 34,c,number,2021,9
+34,c,number,2022,9
 35,c,number,2012,6
 35,c,number,2013,6
 35,c,number,2014,6
@@ -159,6 +174,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 35,c,number,2019,6
 35,c,number,2020,6
 35,c,number,2021,6
+35,c,number,2022,6
 36,c,number,2012,1
 36,c,number,2013,1
 36,c,number,2014,1
@@ -169,6 +185,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 36,c,number,2019,1
 36,c,number,2020,1
 36,c,number,2021,1
+36,c,number,2022,1
 40,c,number,2012,1
 40,c,number,2013,1
 40,c,number,2014,1
@@ -179,6 +196,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 40,c,number,2019,1
 40,c,number,2020,1
 40,c,number,2021,1
+40,c,number,2022,1
 44,c,number,2012,0
 44,c,number,2013,0
 44,c,number,2014,0
@@ -189,6 +207,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 44,c,number,2019,0
 44,c,number,2020,0
 44,c,number,2021,0
+44,c,number,2022,0
 48,c,number,2012,0
 48,c,number,2013,0
 48,c,number,2014,0
@@ -199,6 +218,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 48,c,number,2019,0
 48,c,number,2020,0
 48,c,number,2021,0
+48,c,number,2022,0
 50,c,number,2012,1
 50,c,number,2013,1
 50,c,number,2014,1
@@ -209,6 +229,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 50,c,number,2019,1
 50,c,number,2020,1
 50,c,number,2021,1
+50,c,number,2022,1
 51,c,number,2012,1
 51,c,number,2013,1
 51,c,number,2014,1
@@ -219,6 +240,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 51,c,number,2019,1
 51,c,number,2020,1
 51,c,number,2021,1
+51,c,number,2022,1
 52,c,number,2012,0
 52,c,number,2013,0
 52,c,number,2014,0
@@ -229,6 +251,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 52,c,number,2019,0
 52,c,number,2020,0
 52,c,number,2021,0
+52,c,number,2022,0
 53,c,number,2012,1
 53,c,number,2013,1
 53,c,number,2014,1
@@ -239,6 +262,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 53,c,number,2019,1
 53,c,number,2020,1
 53,c,number,2021,1
+53,c,number,2022,1
 56,c,number,2012,1
 56,c,number,2013,1
 56,c,number,2014,1
@@ -249,6 +273,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 56,c,number,2019,1
 56,c,number,2020,1
 56,c,number,2021,1
+56,c,number,2022,1
 60,c,number,2012,0
 60,c,number,2013,0
 60,c,number,2014,0
@@ -259,6 +284,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 60,c,number,2019,0
 60,c,number,2020,0
 60,c,number,2021,0
+60,c,number,2022,0
 62,c,number,2012,9
 62,c,number,2013,10
 62,c,number,2014,10
@@ -269,6 +295,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 62,c,number,2019,10
 62,c,number,2020,10
 62,c,number,2021,10
+62,c,number,2022,10
 64,c,number,2012,1
 64,c,number,2013,1
 64,c,number,2014,1
@@ -279,6 +306,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 64,c,number,2019,1
 64,c,number,2020,1
 64,c,number,2021,1
+64,c,number,2022,1
 68,c,number,2012,0
 68,c,number,2013,0
 68,c,number,2014,0
@@ -289,6 +317,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 68,c,number,2019,1
 68,c,number,2020,1
 68,c,number,2021,1
+68,c,number,2022,1
 70,c,number,2012,0
 70,c,number,2013,0
 70,c,number,2014,0
@@ -299,6 +328,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 70,c,number,2019,0
 70,c,number,2020,0
 70,c,number,2021,0
+70,c,number,2022,0
 72,c,number,2012,0
 72,c,number,2013,0
 72,c,number,2014,0
@@ -309,6 +339,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 72,c,number,2019,0
 72,c,number,2020,0
 72,c,number,2021,0
+72,c,number,2022,0
 76,c,number,2012,1
 76,c,number,2013,1
 76,c,number,2014,1
@@ -319,6 +350,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 76,c,number,2019,1
 76,c,number,2020,1
 76,c,number,2021,1
+76,c,number,2022,1
 84,c,number,2012,0
 84,c,number,2013,0
 84,c,number,2014,0
@@ -329,6 +361,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 84,c,number,2019,0
 84,c,number,2020,0
 84,c,number,2021,0
+84,c,number,2022,0
 86,c,number,2012,0
 86,c,number,2013,0
 86,c,number,2014,0
@@ -339,6 +372,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 86,c,number,2019,0
 86,c,number,2020,0
 86,c,number,2021,0
+86,c,number,2022,0
 90,c,number,2012,0
 90,c,number,2013,0
 90,c,number,2014,0
@@ -349,6 +383,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 90,c,number,2019,0
 90,c,number,2020,0
 90,c,number,2021,0
+90,c,number,2022,0
 92,c,number,2012,0
 92,c,number,2013,0
 92,c,number,2014,0
@@ -359,6 +394,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 92,c,number,2019,0
 92,c,number,2020,0
 92,c,number,2021,0
+92,c,number,2022,0
 96,c,number,2012,0
 96,c,number,2013,0
 96,c,number,2014,0
@@ -369,6 +405,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 96,c,number,2019,0
 96,c,number,2020,0
 96,c,number,2021,0
+96,c,number,2022,0
 100,c,number,2012,1
 100,c,number,2013,1
 100,c,number,2014,1
@@ -379,6 +416,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 100,c,number,2019,1
 100,c,number,2020,1
 100,c,number,2021,1
+100,c,number,2022,1
 104,c,number,2012,1
 104,c,number,2013,1
 104,c,number,2014,1
@@ -389,6 +427,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 104,c,number,2019,1
 104,c,number,2020,1
 104,c,number,2021,1
+104,c,number,2022,1
 108,c,number,2012,1
 108,c,number,2013,1
 108,c,number,2014,1
@@ -399,6 +438,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 108,c,number,2019,1
 108,c,number,2020,1
 108,c,number,2021,1
+108,c,number,2022,1
 112,c,number,2012,0
 112,c,number,2013,0
 112,c,number,2014,0
@@ -409,6 +449,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 112,c,number,2019,0
 112,c,number,2020,0
 112,c,number,2021,0
+112,c,number,2022,0
 116,c,number,2012,1
 116,c,number,2013,1
 116,c,number,2014,1
@@ -419,6 +460,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 116,c,number,2019,1
 116,c,number,2020,1
 116,c,number,2021,1
+116,c,number,2022,1
 120,c,number,2012,1
 120,c,number,2013,1
 120,c,number,2014,1
@@ -429,6 +471,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 120,c,number,2019,1
 120,c,number,2020,1
 120,c,number,2021,1
+120,c,number,2022,1
 124,c,number,2012,1
 124,c,number,2013,1
 124,c,number,2014,1
@@ -439,6 +482,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 124,c,number,2019,1
 124,c,number,2020,1
 124,c,number,2021,1
+124,c,number,2022,1
 132,c,number,2012,0
 132,c,number,2013,0
 132,c,number,2014,0
@@ -449,6 +493,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 132,c,number,2019,0
 132,c,number,2020,0
 132,c,number,2021,0
+132,c,number,2022,0
 136,c,number,2012,0
 136,c,number,2013,0
 136,c,number,2014,0
@@ -459,6 +504,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 136,c,number,2019,0
 136,c,number,2020,0
 136,c,number,2021,0
+136,c,number,2022,0
 140,c,number,2012,1
 140,c,number,2013,1
 140,c,number,2014,1
@@ -469,6 +515,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 140,c,number,2019,1
 140,c,number,2020,1
 140,c,number,2021,1
+140,c,number,2022,1
 143,c,number,2012,1
 143,c,number,2013,1
 143,c,number,2014,1
@@ -479,6 +526,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 143,c,number,2019,1
 143,c,number,2020,1
 143,c,number,2021,1
+143,c,number,2022,1
 144,c,number,2012,0
 144,c,number,2013,1
 144,c,number,2014,1
@@ -489,6 +537,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 144,c,number,2019,1
 144,c,number,2020,1
 144,c,number,2021,1
+144,c,number,2022,1
 145,c,number,2012,12
 145,c,number,2013,12
 145,c,number,2014,13
@@ -499,6 +548,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 145,c,number,2019,15
 145,c,number,2020,15
 145,c,number,2021,15
+145,c,number,2022,15
 148,c,number,2012,1
 148,c,number,2013,1
 148,c,number,2014,1
@@ -509,6 +559,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 148,c,number,2019,1
 148,c,number,2020,1
 148,c,number,2021,1
+148,c,number,2022,1
 150,c,number,2012,31
 150,c,number,2013,32
 150,c,number,2014,32
@@ -519,6 +570,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 150,c,number,2019,34
 150,c,number,2020,34
 150,c,number,2021,34
+150,c,number,2022,34
 152,c,number,2012,0
 152,c,number,2013,0
 152,c,number,2014,0
@@ -529,6 +581,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 152,c,number,2019,1
 152,c,number,2020,1
 152,c,number,2021,1
+152,c,number,2022,1
 156,c,number,2012,0
 156,c,number,2013,0
 156,c,number,2014,0
@@ -539,6 +592,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 156,c,number,2019,0
 156,c,number,2020,0
 156,c,number,2021,0
+156,c,number,2022,0
 162,c,number,2012,0
 162,c,number,2013,0
 162,c,number,2014,0
@@ -549,6 +603,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 162,c,number,2019,0
 162,c,number,2020,0
 162,c,number,2021,0
+162,c,number,2022,0
 166,c,number,2012,0
 166,c,number,2013,0
 166,c,number,2014,0
@@ -559,6 +614,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 166,c,number,2019,0
 166,c,number,2020,0
 166,c,number,2021,0
+166,c,number,2022,0
 170,c,number,2012,0
 170,c,number,2013,0
 170,c,number,2014,0
@@ -569,6 +625,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 170,c,number,2019,0
 170,c,number,2020,0
 170,c,number,2021,0
+170,c,number,2022,0
 174,c,number,2012,0
 174,c,number,2013,0
 174,c,number,2014,0
@@ -579,6 +636,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 174,c,number,2019,0
 174,c,number,2020,0
 174,c,number,2021,0
+174,c,number,2022,0
 175,c,number,2012,0
 175,c,number,2013,0
 175,c,number,2014,0
@@ -589,6 +647,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 175,c,number,2019,0
 175,c,number,2020,0
 175,c,number,2021,0
+175,c,number,2022,0
 178,c,number,2012,1
 178,c,number,2013,1
 178,c,number,2014,1
@@ -599,6 +658,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 178,c,number,2019,1
 178,c,number,2020,1
 178,c,number,2021,1
+178,c,number,2022,1
 180,c,number,2012,1
 180,c,number,2013,1
 180,c,number,2014,1
@@ -609,6 +669,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 180,c,number,2019,1
 180,c,number,2020,1
 180,c,number,2021,1
+180,c,number,2022,1
 184,c,number,2012,1
 184,c,number,2013,1
 184,c,number,2014,1
@@ -619,6 +680,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 184,c,number,2019,1
 184,c,number,2020,1
 184,c,number,2021,1
+184,c,number,2022,1
 188,c,number,2012,1
 188,c,number,2013,1
 188,c,number,2014,1
@@ -629,6 +691,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 188,c,number,2019,1
 188,c,number,2020,1
 188,c,number,2021,1
+188,c,number,2022,1
 191,c,number,2012,1
 191,c,number,2013,1
 191,c,number,2014,1
@@ -639,6 +702,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 191,c,number,2019,1
 191,c,number,2020,1
 191,c,number,2021,1
+191,c,number,2022,1
 192,c,number,2012,1
 192,c,number,2013,1
 192,c,number,2014,1
@@ -649,6 +713,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 192,c,number,2019,1
 192,c,number,2020,1
 192,c,number,2021,1
+192,c,number,2022,1
 196,c,number,2012,1
 196,c,number,2013,1
 196,c,number,2014,1
@@ -659,6 +724,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 196,c,number,2019,1
 196,c,number,2020,1
 196,c,number,2021,1
+196,c,number,2022,1
 199,c,number,2012,37
 199,c,number,2013,37
 199,c,number,2014,37
@@ -669,6 +735,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 199,c,number,2019,38
 199,c,number,2020,40
 199,c,number,2021,40
+199,c,number,2022,40
 202,c,number,2012,37
 202,c,number,2013,38
 202,c,number,2014,38
@@ -679,6 +746,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 202,c,number,2019,38
 202,c,number,2020,40
 202,c,number,2021,40
+202,c,number,2022,40
 203,c,number,2012,1
 203,c,number,2013,1
 203,c,number,2014,1
@@ -689,6 +757,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 203,c,number,2019,1
 203,c,number,2020,1
 203,c,number,2021,1
+203,c,number,2022,1
 204,c,number,2012,1
 204,c,number,2013,1
 204,c,number,2014,1
@@ -699,6 +768,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 204,c,number,2019,1
 204,c,number,2020,1
 204,c,number,2021,1
+204,c,number,2022,1
 208,c,number,2012,1
 208,c,number,2013,1
 208,c,number,2014,1
@@ -709,6 +779,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 208,c,number,2019,1
 208,c,number,2020,1
 208,c,number,2021,1
+208,c,number,2022,1
 212,c,number,2012,0
 212,c,number,2013,0
 212,c,number,2014,0
@@ -719,6 +790,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 212,c,number,2019,0
 212,c,number,2020,0
 212,c,number,2021,0
+212,c,number,2022,0
 214,c,number,2012,0
 214,c,number,2013,0
 214,c,number,2014,0
@@ -729,6 +801,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 214,c,number,2019,0
 214,c,number,2020,0
 214,c,number,2021,0
+214,c,number,2022,0
 218,c,number,2012,1
 218,c,number,2013,1
 218,c,number,2014,1
@@ -739,6 +812,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 218,c,number,2019,1
 218,c,number,2020,1
 218,c,number,2021,1
+218,c,number,2022,1
 222,c,number,2012,1
 222,c,number,2013,1
 222,c,number,2014,1
@@ -749,6 +823,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 222,c,number,2019,1
 222,c,number,2020,1
 222,c,number,2021,1
+222,c,number,2022,1
 226,c,number,2012,0
 226,c,number,2013,0
 226,c,number,2014,0
@@ -759,6 +834,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 226,c,number,2019,0
 226,c,number,2020,0
 226,c,number,2021,0
+226,c,number,2022,0
 231,c,number,2012,1
 231,c,number,2013,1
 231,c,number,2014,1
@@ -769,6 +845,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 231,c,number,2019,1
 231,c,number,2020,1
 231,c,number,2021,1
+231,c,number,2022,1
 232,c,number,2012,1
 232,c,number,2013,1
 232,c,number,2014,1
@@ -779,6 +856,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 232,c,number,2019,1
 232,c,number,2020,1
 232,c,number,2021,1
+232,c,number,2022,1
 233,c,number,2012,1
 233,c,number,2013,1
 233,c,number,2014,1
@@ -789,6 +867,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 233,c,number,2019,1
 233,c,number,2020,1
 233,c,number,2021,1
+233,c,number,2022,1
 234,c,number,2012,0
 234,c,number,2013,0
 234,c,number,2014,0
@@ -799,6 +878,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 234,c,number,2019,0
 234,c,number,2020,0
 234,c,number,2021,0
+234,c,number,2022,0
 238,c,number,2012,0
 238,c,number,2013,0
 238,c,number,2014,0
@@ -809,6 +889,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 238,c,number,2019,0
 238,c,number,2020,0
 238,c,number,2021,0
+238,c,number,2022,0
 239,c,number,2012,0
 239,c,number,2013,0
 239,c,number,2014,0
@@ -819,6 +900,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 239,c,number,2019,0
 239,c,number,2020,0
 239,c,number,2021,0
+239,c,number,2022,0
 242,c,number,2012,1
 242,c,number,2013,1
 242,c,number,2014,1
@@ -829,6 +911,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 242,c,number,2019,1
 242,c,number,2020,1
 242,c,number,2021,1
+242,c,number,2022,1
 246,c,number,2012,1
 246,c,number,2013,1
 246,c,number,2014,1
@@ -839,6 +922,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 246,c,number,2019,1
 246,c,number,2020,1
 246,c,number,2021,1
+246,c,number,2022,1
 248,c,number,2012,0
 248,c,number,2013,0
 248,c,number,2014,0
@@ -849,6 +933,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 248,c,number,2019,0
 248,c,number,2020,0
 248,c,number,2021,0
+248,c,number,2022,0
 250,c,number,2012,1
 250,c,number,2013,1
 250,c,number,2014,1
@@ -859,6 +944,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 250,c,number,2019,1
 250,c,number,2020,1
 250,c,number,2021,1
+250,c,number,2022,1
 254,c,number,2012,0
 254,c,number,2013,0
 254,c,number,2014,0
@@ -869,6 +955,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 254,c,number,2019,0
 254,c,number,2020,0
 254,c,number,2021,0
+254,c,number,2022,0
 258,c,number,2012,0
 258,c,number,2013,0
 258,c,number,2014,0
@@ -879,6 +966,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 258,c,number,2019,0
 258,c,number,2020,0
 258,c,number,2021,0
+258,c,number,2022,0
 260,c,number,2012,0
 260,c,number,2013,0
 260,c,number,2014,0
@@ -889,6 +977,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 260,c,number,2019,0
 260,c,number,2020,0
 260,c,number,2021,0
+260,c,number,2022,0
 262,c,number,2012,1
 262,c,number,2013,1
 262,c,number,2014,1
@@ -899,6 +988,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 262,c,number,2019,1
 262,c,number,2020,1
 262,c,number,2021,1
+262,c,number,2022,1
 266,c,number,2012,1
 266,c,number,2013,1
 266,c,number,2014,1
@@ -909,6 +999,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 266,c,number,2019,1
 266,c,number,2020,1
 266,c,number,2021,1
+266,c,number,2022,1
 268,c,number,2012,0
 268,c,number,2013,0
 268,c,number,2014,0
@@ -919,6 +1010,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 268,c,number,2019,1
 268,c,number,2020,1
 268,c,number,2021,1
+268,c,number,2022,1
 270,c,number,2012,0
 270,c,number,2013,0
 270,c,number,2014,0
@@ -929,6 +1021,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 270,c,number,2019,0
 270,c,number,2020,0
 270,c,number,2021,0
+270,c,number,2022,0
 275,c,number,2012,0
 275,c,number,2013,0
 275,c,number,2014,0
@@ -939,6 +1032,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 275,c,number,2019,0
 275,c,number,2020,0
 275,c,number,2021,0
+275,c,number,2022,0
 276,c,number,2012,1
 276,c,number,2013,1
 276,c,number,2014,1
@@ -949,6 +1043,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 276,c,number,2019,1
 276,c,number,2020,1
 276,c,number,2021,1
+276,c,number,2022,1
 288,c,number,2012,1
 288,c,number,2013,1
 288,c,number,2014,1
@@ -959,6 +1054,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 288,c,number,2019,1
 288,c,number,2020,1
 288,c,number,2021,1
+288,c,number,2022,1
 292,c,number,2012,0
 292,c,number,2013,0
 292,c,number,2014,0
@@ -969,6 +1065,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 292,c,number,2019,0
 292,c,number,2020,0
 292,c,number,2021,0
+292,c,number,2022,0
 296,c,number,2012,1
 296,c,number,2013,1
 296,c,number,2014,1
@@ -979,6 +1076,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 296,c,number,2019,1
 296,c,number,2020,1
 296,c,number,2021,1
+296,c,number,2022,1
 300,c,number,2012,1
 300,c,number,2013,1
 300,c,number,2014,1
@@ -989,6 +1087,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 300,c,number,2019,1
 300,c,number,2020,1
 300,c,number,2021,1
+300,c,number,2022,1
 304,c,number,2012,0
 304,c,number,2013,0
 304,c,number,2014,0
@@ -999,6 +1098,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 304,c,number,2019,0
 304,c,number,2020,0
 304,c,number,2021,0
+304,c,number,2022,0
 308,c,number,2012,0
 308,c,number,2013,0
 308,c,number,2014,0
@@ -1009,6 +1109,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 308,c,number,2019,0
 308,c,number,2020,0
 308,c,number,2021,0
+308,c,number,2022,0
 312,c,number,2012,0
 312,c,number,2013,0
 312,c,number,2014,0
@@ -1019,6 +1120,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 312,c,number,2019,0
 312,c,number,2020,0
 312,c,number,2021,0
+312,c,number,2022,0
 316,c,number,2012,0
 316,c,number,2013,0
 316,c,number,2014,0
@@ -1029,6 +1131,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 316,c,number,2019,0
 316,c,number,2020,0
 316,c,number,2021,0
+316,c,number,2022,0
 320,c,number,2012,1
 320,c,number,2013,1
 320,c,number,2014,1
@@ -1039,6 +1142,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 320,c,number,2019,1
 320,c,number,2020,1
 320,c,number,2021,1
+320,c,number,2022,1
 324,c,number,2012,1
 324,c,number,2013,1
 324,c,number,2014,1
@@ -1049,6 +1153,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 324,c,number,2019,1
 324,c,number,2020,1
 324,c,number,2021,1
+324,c,number,2022,1
 328,c,number,2012,0
 328,c,number,2013,0
 328,c,number,2014,0
@@ -1059,6 +1164,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 328,c,number,2019,1
 328,c,number,2020,1
 328,c,number,2021,1
+328,c,number,2022,1
 332,c,number,2012,0
 332,c,number,2013,0
 332,c,number,2014,0
@@ -1069,6 +1175,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 332,c,number,2019,0
 332,c,number,2020,0
 332,c,number,2021,0
+332,c,number,2022,0
 334,c,number,2012,0
 334,c,number,2013,0
 334,c,number,2014,0
@@ -1079,6 +1186,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 334,c,number,2019,0
 334,c,number,2020,0
 334,c,number,2021,0
+334,c,number,2022,0
 336,c,number,2012,0
 336,c,number,2013,0
 336,c,number,2014,0
@@ -1089,6 +1197,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 336,c,number,2019,0
 336,c,number,2020,0
 336,c,number,2021,0
+336,c,number,2022,0
 340,c,number,2012,1
 340,c,number,2013,1
 340,c,number,2014,1
@@ -1099,6 +1208,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 340,c,number,2019,1
 340,c,number,2020,1
 340,c,number,2021,1
+340,c,number,2022,1
 344,c,number,2012,0
 344,c,number,2013,0
 344,c,number,2014,0
@@ -1109,6 +1219,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 344,c,number,2019,0
 344,c,number,2020,0
 344,c,number,2021,0
+344,c,number,2022,0
 348,c,number,2012,1
 348,c,number,2013,1
 348,c,number,2014,1
@@ -1119,6 +1230,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 348,c,number,2019,1
 348,c,number,2020,1
 348,c,number,2021,1
+348,c,number,2022,1
 352,c,number,2012,1
 352,c,number,2013,1
 352,c,number,2014,1
@@ -1129,6 +1241,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 352,c,number,2019,1
 352,c,number,2020,1
 352,c,number,2021,1
+352,c,number,2022,1
 356,c,number,2012,1
 356,c,number,2013,1
 356,c,number,2014,1
@@ -1139,6 +1252,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 356,c,number,2019,1
 356,c,number,2020,1
 356,c,number,2021,1
+356,c,number,2022,1
 360,c,number,2012,1
 360,c,number,2013,1
 360,c,number,2014,1
@@ -1149,6 +1263,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 360,c,number,2019,1
 360,c,number,2020,1
 360,c,number,2021,1
+360,c,number,2022,1
 364,c,number,2012,1
 364,c,number,2013,1
 364,c,number,2014,1
@@ -1159,6 +1274,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 364,c,number,2019,1
 364,c,number,2020,1
 364,c,number,2021,1
+364,c,number,2022,1
 368,c,number,2012,0
 368,c,number,2013,0
 368,c,number,2014,1
@@ -1169,6 +1285,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 368,c,number,2019,1
 368,c,number,2020,1
 368,c,number,2021,1
+368,c,number,2022,1
 372,c,number,2012,1
 372,c,number,2013,1
 372,c,number,2014,1
@@ -1179,6 +1296,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 372,c,number,2019,1
 372,c,number,2020,1
 372,c,number,2021,1
+372,c,number,2022,1
 376,c,number,2012,0
 376,c,number,2013,0
 376,c,number,2014,0
@@ -1189,6 +1307,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 376,c,number,2019,0
 376,c,number,2020,0
 376,c,number,2021,0
+376,c,number,2022,0
 380,c,number,2012,1
 380,c,number,2013,1
 380,c,number,2014,1
@@ -1199,6 +1318,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 380,c,number,2019,1
 380,c,number,2020,1
 380,c,number,2021,1
+380,c,number,2022,1
 384,c,number,2012,1
 384,c,number,2013,1
 384,c,number,2014,1
@@ -1209,6 +1329,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 384,c,number,2019,1
 384,c,number,2020,1
 384,c,number,2021,1
+384,c,number,2022,1
 388,c,number,2012,1
 388,c,number,2013,1
 388,c,number,2014,1
@@ -1219,6 +1340,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 388,c,number,2019,1
 388,c,number,2020,1
 388,c,number,2021,1
+388,c,number,2022,1
 392,c,number,2012,0
 392,c,number,2013,1
 392,c,number,2014,1
@@ -1229,6 +1351,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 392,c,number,2019,1
 392,c,number,2020,1
 392,c,number,2021,1
+392,c,number,2022,1
 398,c,number,2012,0
 398,c,number,2013,0
 398,c,number,2014,0
@@ -1239,6 +1362,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 398,c,number,2019,0
 398,c,number,2020,0
 398,c,number,2021,0
+398,c,number,2022,0
 400,c,number,2012,1
 400,c,number,2013,1
 400,c,number,2014,1
@@ -1249,6 +1373,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 400,c,number,2019,1
 400,c,number,2020,1
 400,c,number,2021,1
+400,c,number,2022,1
 404,c,number,2012,1
 404,c,number,2013,1
 404,c,number,2014,1
@@ -1259,6 +1384,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 404,c,number,2019,1
 404,c,number,2020,1
 404,c,number,2021,1
+404,c,number,2022,1
 408,c,number,2012,1
 408,c,number,2013,1
 408,c,number,2014,1
@@ -1269,6 +1395,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 408,c,number,2019,1
 408,c,number,2020,1
 408,c,number,2021,1
+408,c,number,2022,1
 410,c,number,2012,1
 410,c,number,2013,1
 410,c,number,2014,1
@@ -1279,6 +1406,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 410,c,number,2019,1
 410,c,number,2020,1
 410,c,number,2021,1
+410,c,number,2022,1
 414,c,number,2012,1
 414,c,number,2013,1
 414,c,number,2014,1
@@ -1289,6 +1417,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 414,c,number,2019,1
 414,c,number,2020,1
 414,c,number,2021,1
+414,c,number,2022,1
 417,c,number,2012,1
 417,c,number,2013,1
 417,c,number,2014,1
@@ -1299,6 +1428,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 417,c,number,2019,1
 417,c,number,2020,1
 417,c,number,2021,1
+417,c,number,2022,1
 418,c,number,2012,1
 418,c,number,2013,1
 418,c,number,2014,1
@@ -1309,6 +1439,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 418,c,number,2019,1
 418,c,number,2020,1
 418,c,number,2021,1
+418,c,number,2022,1
 419,c,number,2012,16
 419,c,number,2013,16
 419,c,number,2014,16
@@ -1319,6 +1450,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 419,c,number,2019,21
 419,c,number,2020,21
 419,c,number,2021,21
+419,c,number,2022,21
 422,c,number,2012,1
 422,c,number,2013,1
 422,c,number,2014,1
@@ -1329,6 +1461,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 422,c,number,2019,1
 422,c,number,2020,1
 422,c,number,2021,1
+422,c,number,2022,1
 426,c,number,2012,1
 426,c,number,2013,1
 426,c,number,2014,1
@@ -1339,6 +1472,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 426,c,number,2019,1
 426,c,number,2020,1
 426,c,number,2021,1
+426,c,number,2022,1
 428,c,number,2012,1
 428,c,number,2013,1
 428,c,number,2014,1
@@ -1349,6 +1483,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 428,c,number,2019,1
 428,c,number,2020,1
 428,c,number,2021,1
+428,c,number,2022,1
 430,c,number,2012,1
 430,c,number,2013,1
 430,c,number,2014,1
@@ -1359,6 +1494,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 430,c,number,2019,1
 430,c,number,2020,1
 430,c,number,2021,1
+430,c,number,2022,1
 432,c,number,2012,20
 432,c,number,2013,21
 432,c,number,2014,21
@@ -1369,6 +1505,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 432,c,number,2019,24
 432,c,number,2020,25
 432,c,number,2021,25
+432,c,number,2022,25
 434,c,number,2012,1
 434,c,number,2013,1
 434,c,number,2014,1
@@ -1379,6 +1516,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 434,c,number,2019,1
 434,c,number,2020,1
 434,c,number,2021,1
+434,c,number,2022,1
 438,c,number,2012,0
 438,c,number,2013,0
 438,c,number,2014,0
@@ -1389,6 +1527,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 438,c,number,2019,0
 438,c,number,2020,0
 438,c,number,2021,0
+438,c,number,2022,0
 440,c,number,2012,1
 440,c,number,2013,1
 440,c,number,2014,1
@@ -1399,6 +1538,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 440,c,number,2019,1
 440,c,number,2020,1
 440,c,number,2021,1
+440,c,number,2022,1
 442,c,number,2012,1
 442,c,number,2013,1
 442,c,number,2014,1
@@ -1409,6 +1549,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 442,c,number,2019,1
 442,c,number,2020,1
 442,c,number,2021,1
+442,c,number,2022,1
 446,c,number,2012,0
 446,c,number,2013,0
 446,c,number,2014,0
@@ -1419,6 +1560,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 446,c,number,2019,0
 446,c,number,2020,0
 446,c,number,2021,0
+446,c,number,2022,0
 450,c,number,2012,1
 450,c,number,2013,1
 450,c,number,2014,1
@@ -1429,6 +1571,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 450,c,number,2019,1
 450,c,number,2020,1
 450,c,number,2021,1
+450,c,number,2022,1
 454,c,number,2012,1
 454,c,number,2013,1
 454,c,number,2014,1
@@ -1439,6 +1582,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 454,c,number,2019,1
 454,c,number,2020,1
 454,c,number,2021,1
+454,c,number,2022,1
 458,c,number,2012,1
 458,c,number,2013,1
 458,c,number,2014,1
@@ -1449,6 +1593,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 458,c,number,2019,1
 458,c,number,2020,1
 458,c,number,2021,1
+458,c,number,2022,1
 462,c,number,2012,1
 462,c,number,2013,1
 462,c,number,2014,1
@@ -1459,6 +1604,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 462,c,number,2019,1
 462,c,number,2020,1
 462,c,number,2021,1
+462,c,number,2022,1
 466,c,number,2012,1
 466,c,number,2013,1
 466,c,number,2014,1
@@ -1469,6 +1615,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 466,c,number,2019,1
 466,c,number,2020,1
 466,c,number,2021,1
+466,c,number,2022,1
 470,c,number,2012,0
 470,c,number,2013,0
 470,c,number,2014,0
@@ -1479,6 +1626,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 470,c,number,2019,1
 470,c,number,2020,1
 470,c,number,2021,1
+470,c,number,2022,1
 474,c,number,2012,0
 474,c,number,2013,0
 474,c,number,2014,0
@@ -1489,6 +1637,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 474,c,number,2019,0
 474,c,number,2020,0
 474,c,number,2021,0
+474,c,number,2022,0
 478,c,number,2012,1
 478,c,number,2013,1
 478,c,number,2014,1
@@ -1499,6 +1648,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 478,c,number,2019,1
 478,c,number,2020,1
 478,c,number,2021,1
+478,c,number,2022,1
 480,c,number,2012,1
 480,c,number,2013,1
 480,c,number,2014,1
@@ -1509,6 +1659,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 480,c,number,2019,1
 480,c,number,2020,1
 480,c,number,2021,1
+480,c,number,2022,1
 484,c,number,2012,0
 484,c,number,2013,0
 484,c,number,2014,0
@@ -1519,6 +1670,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 484,c,number,2019,0
 484,c,number,2020,0
 484,c,number,2021,0
+484,c,number,2022,0
 492,c,number,2012,0
 492,c,number,2013,0
 492,c,number,2014,0
@@ -1529,6 +1681,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 492,c,number,2019,0
 492,c,number,2020,0
 492,c,number,2021,0
+492,c,number,2022,0
 496,c,number,2012,0
 496,c,number,2013,0
 496,c,number,2014,0
@@ -1539,6 +1692,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 496,c,number,2019,1
 496,c,number,2020,1
 496,c,number,2021,1
+496,c,number,2022,1
 498,c,number,2012,0
 498,c,number,2013,0
 498,c,number,2014,0
@@ -1549,6 +1703,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 498,c,number,2019,1
 498,c,number,2020,1
 498,c,number,2021,1
+498,c,number,2022,1
 499,c,number,2012,1
 499,c,number,2013,1
 499,c,number,2014,1
@@ -1559,6 +1714,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 499,c,number,2019,1
 499,c,number,2020,1
 499,c,number,2021,1
+499,c,number,2022,1
 500,c,number,2012,0
 500,c,number,2013,0
 500,c,number,2014,0
@@ -1569,6 +1725,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 500,c,number,2019,0
 500,c,number,2020,0
 500,c,number,2021,0
+500,c,number,2022,0
 504,c,number,2012,1
 504,c,number,2013,1
 504,c,number,2014,1
@@ -1579,6 +1736,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 504,c,number,2019,1
 504,c,number,2020,1
 504,c,number,2021,1
+504,c,number,2022,1
 508,c,number,2012,0
 508,c,number,2013,0
 508,c,number,2014,0
@@ -1586,9 +1744,10 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 508,c,number,2016,0
 508,c,number,2017,0
 508,c,number,2018,0
-508,c,number,2019,1
-508,c,number,2020,0
-508,c,number,2021,0
+508,c,number,2019,0
+508,c,number,2020,1
+508,c,number,2021,1
+508,c,number,2022,1
 512,c,number,2012,1
 512,c,number,2013,1
 512,c,number,2014,1
@@ -1599,6 +1758,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 512,c,number,2019,1
 512,c,number,2020,1
 512,c,number,2021,1
+512,c,number,2022,1
 513,c,number,2012,32
 513,c,number,2013,33
 513,c,number,2014,33
@@ -1609,6 +1769,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 513,c,number,2019,36
 513,c,number,2020,36
 513,c,number,2021,36
+513,c,number,2022,36
 516,c,number,2012,1
 516,c,number,2013,1
 516,c,number,2014,1
@@ -1619,6 +1780,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 516,c,number,2019,1
 516,c,number,2020,1
 516,c,number,2021,1
+516,c,number,2022,1
 520,c,number,2012,0
 520,c,number,2013,0
 520,c,number,2014,0
@@ -1629,6 +1791,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 520,c,number,2019,0
 520,c,number,2020,0
 520,c,number,2021,0
+520,c,number,2022,0
 524,c,number,2012,1
 524,c,number,2013,1
 524,c,number,2014,1
@@ -1639,6 +1802,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 524,c,number,2019,1
 524,c,number,2020,1
 524,c,number,2021,1
+524,c,number,2022,1
 528,c,number,2012,1
 528,c,number,2013,1
 528,c,number,2014,1
@@ -1649,6 +1813,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 528,c,number,2019,1
 528,c,number,2020,1
 528,c,number,2021,1
+528,c,number,2022,1
 531,c,number,2012,0
 531,c,number,2013,0
 531,c,number,2014,0
@@ -1659,6 +1824,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 531,c,number,2019,0
 531,c,number,2020,0
 531,c,number,2021,0
+531,c,number,2022,0
 533,c,number,2012,0
 533,c,number,2013,0
 533,c,number,2014,0
@@ -1669,6 +1835,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 533,c,number,2019,0
 533,c,number,2020,0
 533,c,number,2021,0
+533,c,number,2022,0
 534,c,number,2012,0
 534,c,number,2013,0
 534,c,number,2014,0
@@ -1679,6 +1846,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 534,c,number,2019,0
 534,c,number,2020,0
 534,c,number,2021,0
+534,c,number,2022,0
 535,c,number,2012,0
 535,c,number,2013,0
 535,c,number,2014,0
@@ -1689,6 +1857,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 535,c,number,2019,0
 535,c,number,2020,0
 535,c,number,2021,0
+535,c,number,2022,0
 540,c,number,2012,0
 540,c,number,2013,0
 540,c,number,2014,0
@@ -1699,6 +1868,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 540,c,number,2019,0
 540,c,number,2020,0
 540,c,number,2021,0
+540,c,number,2022,0
 543,c,number,2012,5
 543,c,number,2013,5
 543,c,number,2014,6
@@ -1709,6 +1879,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 543,c,number,2019,9
 543,c,number,2020,9
 543,c,number,2021,9
+543,c,number,2022,9
 548,c,number,2012,0
 548,c,number,2013,0
 548,c,number,2014,0
@@ -1719,6 +1890,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 548,c,number,2019,0
 548,c,number,2020,0
 548,c,number,2021,0
+548,c,number,2022,0
 554,c,number,2012,0
 554,c,number,2013,0
 554,c,number,2014,0
@@ -1729,6 +1901,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 554,c,number,2019,0
 554,c,number,2020,0
 554,c,number,2021,0
+554,c,number,2022,0
 558,c,number,2012,1
 558,c,number,2013,1
 558,c,number,2014,1
@@ -1739,6 +1912,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 558,c,number,2019,1
 558,c,number,2020,1
 558,c,number,2021,1
+558,c,number,2022,1
 562,c,number,2012,1
 562,c,number,2013,1
 562,c,number,2014,1
@@ -1749,6 +1923,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 562,c,number,2019,1
 562,c,number,2020,1
 562,c,number,2021,1
+562,c,number,2022,1
 566,c,number,2012,0
 566,c,number,2013,0
 566,c,number,2014,0
@@ -1759,6 +1934,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 566,c,number,2019,0
 566,c,number,2020,0
 566,c,number,2021,0
+566,c,number,2022,0
 570,c,number,2012,0
 570,c,number,2013,0
 570,c,number,2014,0
@@ -1769,6 +1945,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 570,c,number,2019,0
 570,c,number,2020,0
 570,c,number,2021,0
+570,c,number,2022,0
 574,c,number,2012,0
 574,c,number,2013,0
 574,c,number,2014,0
@@ -1779,6 +1956,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 574,c,number,2019,0
 574,c,number,2020,0
 574,c,number,2021,0
+574,c,number,2022,0
 578,c,number,2012,1
 578,c,number,2013,1
 578,c,number,2014,1
@@ -1789,6 +1967,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 578,c,number,2019,1
 578,c,number,2020,1
 578,c,number,2021,1
+578,c,number,2022,1
 580,c,number,2012,0
 580,c,number,2013,0
 580,c,number,2014,0
@@ -1799,6 +1978,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 580,c,number,2019,0
 580,c,number,2020,0
 580,c,number,2021,0
+580,c,number,2022,0
 581,c,number,2012,0
 581,c,number,2013,0
 581,c,number,2014,0
@@ -1809,6 +1989,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 581,c,number,2019,0
 581,c,number,2020,0
 581,c,number,2021,0
+581,c,number,2022,0
 583,c,number,2012,0
 583,c,number,2013,0
 583,c,number,2014,0
@@ -1819,6 +2000,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 583,c,number,2019,0
 583,c,number,2020,0
 583,c,number,2021,0
+583,c,number,2022,0
 584,c,number,2012,0
 584,c,number,2013,0
 584,c,number,2014,1
@@ -1829,6 +2011,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 584,c,number,2019,1
 584,c,number,2020,1
 584,c,number,2021,1
+584,c,number,2022,1
 585,c,number,2012,1
 585,c,number,2013,1
 585,c,number,2014,1
@@ -1839,6 +2022,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 585,c,number,2019,1
 585,c,number,2020,1
 585,c,number,2021,1
+585,c,number,2022,1
 586,c,number,2012,1
 586,c,number,2013,1
 586,c,number,2014,1
@@ -1849,6 +2033,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 586,c,number,2019,1
 586,c,number,2020,1
 586,c,number,2021,1
+586,c,number,2022,1
 591,c,number,2012,1
 591,c,number,2013,1
 591,c,number,2014,1
@@ -1859,6 +2044,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 591,c,number,2019,1
 591,c,number,2020,1
 591,c,number,2021,1
+591,c,number,2022,1
 598,c,number,2012,0
 598,c,number,2013,0
 598,c,number,2014,0
@@ -1869,6 +2055,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 598,c,number,2019,1
 598,c,number,2020,1
 598,c,number,2021,1
+598,c,number,2022,1
 600,c,number,2012,1
 600,c,number,2013,1
 600,c,number,2014,1
@@ -1879,6 +2066,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 600,c,number,2019,1
 600,c,number,2020,1
 600,c,number,2021,1
+600,c,number,2022,1
 604,c,number,2012,1
 604,c,number,2013,1
 604,c,number,2014,1
@@ -1889,6 +2077,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 604,c,number,2019,1
 604,c,number,2020,1
 604,c,number,2021,1
+604,c,number,2022,1
 608,c,number,2012,1
 608,c,number,2013,1
 608,c,number,2014,1
@@ -1899,6 +2088,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 608,c,number,2019,1
 608,c,number,2020,1
 608,c,number,2021,1
+608,c,number,2022,1
 612,c,number,2012,0
 612,c,number,2013,0
 612,c,number,2014,0
@@ -1909,6 +2099,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 612,c,number,2019,0
 612,c,number,2020,0
 612,c,number,2021,0
+612,c,number,2022,0
 616,c,number,2012,1
 616,c,number,2013,1
 616,c,number,2014,1
@@ -1919,6 +2110,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 616,c,number,2019,1
 616,c,number,2020,1
 616,c,number,2021,1
+616,c,number,2022,1
 620,c,number,2012,1
 620,c,number,2013,1
 620,c,number,2014,1
@@ -1929,6 +2121,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 620,c,number,2019,1
 620,c,number,2020,1
 620,c,number,2021,1
+620,c,number,2022,1
 624,c,number,2012,1
 624,c,number,2013,1
 624,c,number,2014,1
@@ -1938,6 +2131,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 624,c,number,2018,1
 624,c,number,2019,1
 624,c,number,2021,1
+624,c,number,2022,1
 626,c,number,2012,0
 626,c,number,2013,0
 626,c,number,2014,0
@@ -1948,6 +2142,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 626,c,number,2019,0
 626,c,number,2020,0
 626,c,number,2021,0
+626,c,number,2022,0
 630,c,number,2012,0
 630,c,number,2013,0
 630,c,number,2014,0
@@ -1958,6 +2153,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 630,c,number,2019,0
 630,c,number,2020,0
 630,c,number,2021,0
+630,c,number,2022,0
 634,c,number,2012,1
 634,c,number,2013,1
 634,c,number,2014,1
@@ -1968,6 +2164,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 634,c,number,2019,1
 634,c,number,2020,1
 634,c,number,2021,1
+634,c,number,2022,1
 638,c,number,2012,0
 638,c,number,2013,0
 638,c,number,2014,0
@@ -1978,6 +2175,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 638,c,number,2019,0
 638,c,number,2020,0
 638,c,number,2021,0
+638,c,number,2022,0
 642,c,number,2012,1
 642,c,number,2013,1
 642,c,number,2014,1
@@ -1988,6 +2186,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 642,c,number,2019,1
 642,c,number,2020,1
 642,c,number,2021,1
+642,c,number,2022,1
 643,c,number,2012,0
 643,c,number,2013,0
 643,c,number,2014,0
@@ -1998,6 +2197,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 643,c,number,2019,0
 643,c,number,2020,0
 643,c,number,2021,0
+643,c,number,2022,1
 646,c,number,2012,1
 646,c,number,2013,1
 646,c,number,2014,1
@@ -2008,6 +2208,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 646,c,number,2019,1
 646,c,number,2020,1
 646,c,number,2021,1
+646,c,number,2022,1
 652,c,number,2012,0
 652,c,number,2013,0
 652,c,number,2014,0
@@ -2018,6 +2219,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 652,c,number,2019,0
 652,c,number,2020,0
 652,c,number,2021,0
+652,c,number,2022,0
 654,c,number,2012,0
 654,c,number,2013,0
 654,c,number,2014,0
@@ -2028,6 +2230,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 654,c,number,2019,0
 654,c,number,2020,0
 654,c,number,2021,0
+654,c,number,2022,0
 659,c,number,2012,0
 659,c,number,2013,0
 659,c,number,2014,0
@@ -2038,6 +2241,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 659,c,number,2019,0
 659,c,number,2020,0
 659,c,number,2021,0
+659,c,number,2022,0
 660,c,number,2012,0
 660,c,number,2013,0
 660,c,number,2014,0
@@ -2048,6 +2252,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 660,c,number,2019,0
 660,c,number,2020,0
 660,c,number,2021,0
+660,c,number,2022,0
 662,c,number,2012,1
 662,c,number,2013,1
 662,c,number,2014,1
@@ -2058,6 +2263,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 662,c,number,2019,1
 662,c,number,2020,1
 662,c,number,2021,1
+662,c,number,2022,1
 663,c,number,2012,0
 663,c,number,2013,0
 663,c,number,2014,0
@@ -2068,6 +2274,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 663,c,number,2019,0
 663,c,number,2020,0
 663,c,number,2021,0
+663,c,number,2022,0
 666,c,number,2012,0
 666,c,number,2013,0
 666,c,number,2014,0
@@ -2078,6 +2285,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 666,c,number,2019,0
 666,c,number,2020,0
 666,c,number,2021,0
+666,c,number,2022,0
 670,c,number,2012,0
 670,c,number,2013,0
 670,c,number,2014,0
@@ -2088,6 +2296,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 670,c,number,2019,0
 670,c,number,2020,0
 670,c,number,2021,0
+670,c,number,2022,0
 674,c,number,2012,0
 674,c,number,2013,0
 674,c,number,2014,0
@@ -2098,6 +2307,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 674,c,number,2019,0
 674,c,number,2020,0
 674,c,number,2021,0
+674,c,number,2022,0
 678,c,number,2012,1
 678,c,number,2013,1
 678,c,number,2014,1
@@ -2108,6 +2318,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 678,c,number,2019,1
 678,c,number,2020,1
 678,c,number,2021,1
+678,c,number,2022,1
 682,c,number,2012,1
 682,c,number,2013,1
 682,c,number,2014,1
@@ -2118,6 +2329,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 682,c,number,2019,1
 682,c,number,2020,1
 682,c,number,2021,1
+682,c,number,2022,1
 686,c,number,2012,1
 686,c,number,2013,1
 686,c,number,2014,1
@@ -2128,6 +2340,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 686,c,number,2019,1
 686,c,number,2020,1
 686,c,number,2021,1
+686,c,number,2022,1
 688,c,number,2012,0
 688,c,number,2013,1
 688,c,number,2014,1
@@ -2138,6 +2351,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 688,c,number,2019,1
 688,c,number,2020,1
 688,c,number,2021,1
+688,c,number,2022,1
 690,c,number,2012,1
 690,c,number,2013,1
 690,c,number,2014,1
@@ -2148,6 +2362,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 690,c,number,2019,1
 690,c,number,2020,1
 690,c,number,2021,1
+690,c,number,2022,1
 694,c,number,2012,1
 694,c,number,2013,1
 694,c,number,2014,1
@@ -2158,6 +2373,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 694,c,number,2019,1
 694,c,number,2020,1
 694,c,number,2021,1
+694,c,number,2022,1
 702,c,number,2012,0
 702,c,number,2013,0
 702,c,number,2014,0
@@ -2168,6 +2384,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 702,c,number,2019,0
 702,c,number,2020,0
 702,c,number,2021,0
+702,c,number,2022,0
 703,c,number,2012,1
 703,c,number,2013,1
 703,c,number,2014,1
@@ -2178,6 +2395,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 703,c,number,2019,1
 703,c,number,2020,1
 703,c,number,2021,1
+703,c,number,2022,1
 704,c,number,2012,0
 704,c,number,2013,0
 704,c,number,2014,0
@@ -2188,6 +2406,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 704,c,number,2019,0
 704,c,number,2020,0
 704,c,number,2021,0
+704,c,number,2022,0
 705,c,number,2012,1
 705,c,number,2013,1
 705,c,number,2014,1
@@ -2198,6 +2417,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 705,c,number,2019,1
 705,c,number,2020,1
 705,c,number,2021,1
+705,c,number,2022,1
 706,c,number,2012,0
 706,c,number,2013,0
 706,c,number,2014,0
@@ -2208,6 +2428,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 706,c,number,2019,0
 706,c,number,2020,0
 706,c,number,2021,0
+706,c,number,2022,0
 710,c,number,2012,0
 710,c,number,2013,0
 710,c,number,2014,0
@@ -2218,6 +2439,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 710,c,number,2019,0
 710,c,number,2020,0
 710,c,number,2021,0
+710,c,number,2022,0
 716,c,number,2012,1
 716,c,number,2013,1
 716,c,number,2014,1
@@ -2228,6 +2450,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 716,c,number,2019,1
 716,c,number,2020,1
 716,c,number,2021,1
+716,c,number,2022,1
 722,c,number,2012,14
 722,c,number,2013,14
 722,c,number,2014,15
@@ -2238,6 +2461,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 722,c,number,2019,20
 722,c,number,2020,20
 722,c,number,2021,20
+722,c,number,2022,20
 724,c,number,2012,1
 724,c,number,2013,1
 724,c,number,2014,1
@@ -2248,6 +2472,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 724,c,number,2019,1
 724,c,number,2020,1
 724,c,number,2021,1
+724,c,number,2022,1
 728,c,number,2012,0
 728,c,number,2013,0
 728,c,number,2014,0
@@ -2255,9 +2480,10 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 728,c,number,2016,0
 728,c,number,2017,0
 728,c,number,2018,0
-728,c,number,2019,1
-728,c,number,2020,0
-728,c,number,2021,0
+728,c,number,2019,0
+728,c,number,2020,1
+728,c,number,2021,1
+728,c,number,2022,1
 729,c,number,2012,1
 729,c,number,2013,1
 729,c,number,2014,1
@@ -2268,6 +2494,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 729,c,number,2019,1
 729,c,number,2020,1
 729,c,number,2021,1
+729,c,number,2022,1
 732,c,number,2012,0
 732,c,number,2013,0
 732,c,number,2014,0
@@ -2278,6 +2505,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 732,c,number,2019,0
 732,c,number,2020,0
 732,c,number,2021,0
+732,c,number,2022,0
 740,c,number,2012,0
 740,c,number,2013,0
 740,c,number,2014,0
@@ -2288,6 +2516,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 740,c,number,2019,0
 740,c,number,2020,0
 740,c,number,2021,0
+740,c,number,2022,0
 744,c,number,2012,0
 744,c,number,2013,0
 744,c,number,2014,0
@@ -2298,6 +2527,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 744,c,number,2019,0
 744,c,number,2020,0
 744,c,number,2021,0
+744,c,number,2022,0
 747,c,number,2012,18
 747,c,number,2013,18
 747,c,number,2014,19
@@ -2308,6 +2538,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 747,c,number,2019,21
 747,c,number,2020,21
 747,c,number,2021,21
+747,c,number,2022,21
 748,c,number,2012,0
 748,c,number,2013,1
 748,c,number,2014,1
@@ -2318,6 +2549,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 748,c,number,2019,1
 748,c,number,2020,1
 748,c,number,2021,1
+748,c,number,2022,1
 752,c,number,2012,1
 752,c,number,2013,1
 752,c,number,2014,1
@@ -2328,6 +2560,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 752,c,number,2019,1
 752,c,number,2020,1
 752,c,number,2021,1
+752,c,number,2022,1
 753,c,number,2012,8
 753,c,number,2013,9
 753,c,number,2014,9
@@ -2338,6 +2571,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 753,c,number,2019,10
 753,c,number,2020,10
 753,c,number,2021,10
+753,c,number,2022,10
 756,c,number,2012,1
 756,c,number,2013,1
 756,c,number,2014,1
@@ -2348,6 +2582,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 756,c,number,2019,1
 756,c,number,2020,1
 756,c,number,2021,1
+756,c,number,2022,1
 760,c,number,2012,1
 760,c,number,2013,1
 760,c,number,2014,1
@@ -2358,6 +2593,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 760,c,number,2019,1
 760,c,number,2020,1
 760,c,number,2021,1
+760,c,number,2022,1
 762,c,number,2012,0
 762,c,number,2013,0
 762,c,number,2014,0
@@ -2368,6 +2604,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 762,c,number,2019,0
 762,c,number,2020,0
 762,c,number,2021,0
+762,c,number,2022,0
 764,c,number,2012,0
 764,c,number,2013,0
 764,c,number,2014,0
@@ -2378,6 +2615,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 764,c,number,2019,0
 764,c,number,2020,0
 764,c,number,2021,0
+764,c,number,2022,0
 768,c,number,2012,1
 768,c,number,2013,1
 768,c,number,2014,1
@@ -2388,6 +2626,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 768,c,number,2019,1
 768,c,number,2020,1
 768,c,number,2021,1
+768,c,number,2022,1
 772,c,number,2012,0
 772,c,number,2013,0
 772,c,number,2014,0
@@ -2398,6 +2637,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 772,c,number,2019,0
 772,c,number,2020,0
 772,c,number,2021,0
+772,c,number,2022,0
 776,c,number,2012,0
 776,c,number,2013,0
 776,c,number,2014,0
@@ -2408,6 +2648,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 776,c,number,2019,1
 776,c,number,2020,1
 776,c,number,2021,1
+776,c,number,2022,1
 780,c,number,2012,1
 780,c,number,2013,1
 780,c,number,2014,1
@@ -2418,6 +2659,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 780,c,number,2019,1
 780,c,number,2020,1
 780,c,number,2021,1
+780,c,number,2022,1
 784,c,number,2012,1
 784,c,number,2013,1
 784,c,number,2014,1
@@ -2428,6 +2670,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 784,c,number,2019,1
 784,c,number,2020,1
 784,c,number,2021,1
+784,c,number,2022,1
 788,c,number,2012,1
 788,c,number,2013,1
 788,c,number,2014,1
@@ -2438,6 +2681,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 788,c,number,2019,1
 788,c,number,2020,1
 788,c,number,2021,1
+788,c,number,2022,1
 792,c,number,2012,1
 792,c,number,2013,1
 792,c,number,2014,1
@@ -2448,6 +2692,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 792,c,number,2019,1
 792,c,number,2020,1
 792,c,number,2021,1
+792,c,number,2022,1
 795,c,number,2012,0
 795,c,number,2013,0
 795,c,number,2014,0
@@ -2458,6 +2703,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 795,c,number,2019,0
 795,c,number,2020,0
 795,c,number,2021,0
+795,c,number,2022,0
 796,c,number,2012,0
 796,c,number,2013,0
 796,c,number,2014,0
@@ -2468,6 +2714,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 796,c,number,2019,0
 796,c,number,2020,0
 796,c,number,2021,0
+796,c,number,2022,0
 798,c,number,2012,0
 798,c,number,2013,0
 798,c,number,2014,0
@@ -2478,6 +2725,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 798,c,number,2019,1
 798,c,number,2020,1
 798,c,number,2021,1
+798,c,number,2022,1
 800,c,number,2012,1
 800,c,number,2013,1
 800,c,number,2014,1
@@ -2488,6 +2736,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 800,c,number,2019,1
 800,c,number,2020,1
 800,c,number,2021,1
+800,c,number,2022,1
 804,c,number,2012,0
 804,c,number,2013,0
 804,c,number,2014,0
@@ -2498,6 +2747,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 804,c,number,2019,0
 804,c,number,2020,0
 804,c,number,2021,0
+804,c,number,2022,0
 807,c,number,2012,0
 807,c,number,2013,0
 807,c,number,2014,0
@@ -2508,6 +2758,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 807,c,number,2019,0
 807,c,number,2020,0
 807,c,number,2021,0
+807,c,number,2022,0
 818,c,number,2012,1
 818,c,number,2013,1
 818,c,number,2014,1
@@ -2518,6 +2769,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 818,c,number,2019,1
 818,c,number,2020,1
 818,c,number,2021,1
+818,c,number,2022,1
 826,c,number,2012,1
 826,c,number,2013,1
 826,c,number,2014,1
@@ -2528,6 +2780,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 826,c,number,2019,1
 826,c,number,2020,1
 826,c,number,2021,1
+826,c,number,2022,1
 830,c,number,2012,0
 830,c,number,2013,0
 830,c,number,2014,0
@@ -2538,6 +2791,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 830,c,number,2019,0
 830,c,number,2020,0
 830,c,number,2021,0
+830,c,number,2022,0
 831,c,number,2012,0
 831,c,number,2013,0
 831,c,number,2014,0
@@ -2548,6 +2802,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 831,c,number,2019,0
 831,c,number,2020,0
 831,c,number,2021,0
+831,c,number,2022,0
 832,c,number,2012,0
 832,c,number,2013,0
 832,c,number,2014,0
@@ -2558,6 +2813,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 832,c,number,2019,0
 832,c,number,2020,0
 832,c,number,2021,0
+832,c,number,2022,0
 833,c,number,2012,0
 833,c,number,2013,0
 833,c,number,2014,0
@@ -2568,6 +2824,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 833,c,number,2019,0
 833,c,number,2020,0
 833,c,number,2021,0
+833,c,number,2022,0
 834,c,number,2012,1
 834,c,number,2013,1
 834,c,number,2014,1
@@ -2578,6 +2835,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 834,c,number,2019,1
 834,c,number,2020,1
 834,c,number,2021,1
+834,c,number,2022,1
 840,c,number,2012,0
 840,c,number,2013,0
 840,c,number,2014,0
@@ -2588,6 +2846,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 840,c,number,2019,1
 840,c,number,2020,1
 840,c,number,2021,1
+840,c,number,2022,1
 850,c,number,2012,0
 850,c,number,2013,0
 850,c,number,2014,0
@@ -2598,6 +2857,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 850,c,number,2019,0
 850,c,number,2020,0
 850,c,number,2021,0
+850,c,number,2022,0
 854,c,number,2012,1
 854,c,number,2013,1
 854,c,number,2014,1
@@ -2608,6 +2868,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 854,c,number,2019,1
 854,c,number,2020,1
 854,c,number,2021,1
+854,c,number,2022,1
 858,c,number,2012,1
 858,c,number,2013,1
 858,c,number,2014,1
@@ -2618,6 +2879,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 858,c,number,2019,1
 858,c,number,2020,1
 858,c,number,2021,1
+858,c,number,2022,1
 860,c,number,2012,0
 860,c,number,2013,0
 860,c,number,2014,0
@@ -2628,6 +2890,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 860,c,number,2019,0
 860,c,number,2020,0
 860,c,number,2021,0
+860,c,number,2022,0
 862,c,number,2012,1
 862,c,number,2013,1
 862,c,number,2014,1
@@ -2638,6 +2901,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 862,c,number,2019,1
 862,c,number,2020,1
 862,c,number,2021,1
+862,c,number,2022,1
 876,c,number,2012,0
 876,c,number,2013,0
 876,c,number,2014,0
@@ -2648,6 +2912,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 876,c,number,2019,0
 876,c,number,2020,0
 876,c,number,2021,0
+876,c,number,2022,0
 882,c,number,2012,1
 882,c,number,2013,1
 882,c,number,2014,1
@@ -2658,6 +2923,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 882,c,number,2019,1
 882,c,number,2020,1
 882,c,number,2021,1
+882,c,number,2022,1
 887,c,number,2012,1
 887,c,number,2013,1
 887,c,number,2014,1
@@ -2668,6 +2934,7 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 887,c,number,2019,1
 887,c,number,2020,1
 887,c,number,2021,1
+887,c,number,2022,1
 894,c,number,2012,1
 894,c,number,2013,1
 894,c,number,2014,1
@@ -2678,3 +2945,4 @@ geo_area,nature,units,year,er_cbd_ptypgrfa
 894,c,number,2019,1
 894,c,number,2020,1
 894,c,number,2021,1
+894,c,number,2022,1

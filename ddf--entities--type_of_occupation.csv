@@ -1,6 +1,8 @@
 type_of_occupation,name
+adminpro,ADMINPRO
+assocpro,ASSOCPRO
 dent,DENT
-isco08,isco08
+general,GENERAL
 isco08_0,isco08-0
 isco08_1,isco08-1
 isco08_2,isco08-2
@@ -12,7 +14,7 @@ isco08_7,isco08-7
 isco08_8,isco08-8
 isco08_9,isco08-9
 isco08_x,isco08-X
-isco88,isco88
+isco88_0,isco88-0
 isco88_1,isco88-1
 isco88_2,isco88-2
 isco88_3,isco88-3
@@ -23,7 +25,12 @@ isco88_7,isco88-7
 isco88_8,isco88-8
 isco88_9,isco88-9
 isco88_x,isco88-X
-nurs,NURS
+judges,JUDGES
 nursmid,NURSMID
+otherman,OTHERMAN
 phar,PHAR
 phys,PHYS
+registrars,REGISTRARS
+seniorman,SENIORMAN
+t,_T
+total_psp,TOTAL_PSP

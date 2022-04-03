@@ -83,6 +83,8 @@ geo_area,nature,observation_status,units,year,en_ewt_collpcap
 192,c,a,kg,2015,0.05791
 192,c,a,kg,2016,0.07275
 192,c,a,kg,2017,0.05992
+192,c,a,kg,2018,0.05655
+192,c,a,kg,2019,0.0433
 196,c,a,kg,2008,2.21623
 196,c,a,kg,2009,2.09182
 196,c,a,kg,2010,2.34492
@@ -173,6 +175,7 @@ geo_area,nature,observation_status,units,year,en_ewt_collpcap
 254,c,a,kg,2015,1.29498
 254,c,a,kg,2016,1.37777
 254,c,a,kg,2017,1.92232
+254,c,a,kg,2018,2.27967
 276,c,a,kg,2008,8.55818
 276,c,a,kg,2009,10.28722
 276,c,a,kg,2010,9.61356
@@ -205,6 +208,7 @@ geo_area,nature,observation_status,units,year,en_ewt_collpcap
 312,c,a,kg,2015,8.6219
 312,c,a,kg,2016,10.15609
 312,c,a,kg,2017,10.69608
+312,c,a,kg,2018,10.98918
 348,c,a,kg,2008,4.49546
 348,c,a,kg,2009,4.69233
 348,c,a,kg,2010,4.08174
@@ -312,7 +316,7 @@ geo_area,nature,observation_status,units,year,en_ewt_collpcap
 438,c,a,kg,2012,4.84282
 438,c,a,kg,2013,7.85968
 438,c,a,kg,2014,8.27311
-438,c,a,kg,2015,11.43376
+438,c,a,kg,2015,11.43377
 438,c,a,kg,2016,13.93632
 438,c,a,kg,2017,12.42455
 438,c,a,kg,2018,15.39356
@@ -358,6 +362,7 @@ geo_area,nature,observation_status,units,year,en_ewt_collpcap
 474,c,a,kg,2015,7.6516
 474,c,a,kg,2016,8.75822
 474,c,a,kg,2017,10.12379
+474,c,a,kg,2018,9.92887
 480,c,a,kg,2016,88.61452
 480,c,a,kg,2017,197.70707
 484,c,a,kg,2006,0.23801
@@ -445,6 +450,7 @@ geo_area,nature,observation_status,units,year,en_ewt_collpcap
 638,c,a,kg,2015,7.48935
 638,c,a,kg,2016,7.68504
 638,c,a,kg,2017,8.11066
+638,c,a,kg,2018,8.70224
 642,c,a,kg,2008,1.04794
 642,c,a,kg,2009,1.87809
 642,c,a,kg,2010,1.2821

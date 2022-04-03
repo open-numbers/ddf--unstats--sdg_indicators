@@ -1,5 +1,4 @@
 age,geo_area,location,nature,sex,units,year,sd_mdp_csmp
-lt18y,12,allarea,c,bothsex,percent,2012,21.4
 lt18y,24,allarea,c,bothsex,percent,2015,74.4
 lt18y,24,rural,c,bothsex,percent,2015,99
 lt18y,24,urban,c,bothsex,percent,2015,61.7

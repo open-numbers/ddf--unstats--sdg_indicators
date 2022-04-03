@@ -1,5 +1,5 @@
 geo_area,nature,units,year,ic_frm_brib
-1,e,percent,2019,16.09
+1,e,percent,2019,15.6
 4,e,percent,2008,36.75
 4,e,percent,2014,46.84
 5,e,percent,2019,9.62
@@ -27,6 +27,7 @@ geo_area,nature,units,year,ic_frm_brib
 34,e,percent,2019,24.77
 35,e,percent,2019,32.28
 39,e,percent,2019,10.88
+40,e,percent,2021,1.29
 44,e,percent,2010,21
 50,e,percent,2007,60.35
 50,e,percent,2013,47.7
@@ -75,12 +76,12 @@ geo_area,nature,units,year,ic_frm_brib
 145,e,percent,2019,13.65
 148,e,percent,2009,35.01
 148,e,percent,2018,27.41
-150,e,percent,2019,8.81
+150,e,percent,2021,7.63
 151,e,percent,2019,10.98
 152,e,percent,2006,7.77
 152,e,percent,2010,1.29
-154,e,percent,2019,1.01
-155,e,percent,2019,2.17
+154,e,percent,2021,1.26
+155,e,percent,2021,1.48
 156,e,percent,2012,11.59
 170,e,percent,2006,3.51
 170,e,percent,2010,2.22
@@ -94,13 +95,14 @@ geo_area,nature,units,year,ic_frm_brib
 191,e,percent,2013,5.96
 191,e,percent,2019,10.14
 196,e,percent,2019,0.17
-199,e,percent,2019,27.01
+199,e,percent,2019,27.39
 202,e,percent,2019,21.27
 203,e,percent,2009,7.15
 203,e,percent,2013,3.69
 203,e,percent,2019,3.46
 204,e,percent,2009,34.54
 204,e,percent,2016,14.55
+208,e,percent,2020,3.37
 212,e,percent,2010,5.83
 214,e,percent,2010,16.3
 214,e,percent,2016,12.34
@@ -117,6 +119,7 @@ geo_area,nature,units,year,ic_frm_brib
 233,e,percent,2013,0
 233,e,percent,2019,0
 242,e,percent,2009,10.5
+246,e,percent,2020,2.85
 262,e,percent,2013,11.13
 266,e,percent,2009,23.24
 268,e,percent,2008,9.84
@@ -146,6 +149,7 @@ geo_area,nature,units,year,ic_frm_brib
 360,e,percent,2009,26.9
 360,e,percent,2015,30.62
 368,e,percent,2011,37.27
+372,e,percent,2020,0.43
 376,e,percent,2013,0.08
 380,e,percent,2019,11.81
 384,e,percent,2009,19.27
@@ -211,11 +215,12 @@ geo_area,nature,units,year,ic_frm_brib
 504,e,percent,2019,16.9
 508,e,percent,2007,12.35
 508,e,percent,2018,21.06
-513,e,percent,2019,8.81
+513,e,percent,2021,7.63
 516,e,percent,2006,1.21
 516,e,percent,2014,9.12
 524,e,percent,2009,15.08
 524,e,percent,2013,14.45
+528,e,percent,2020,0.28
 543,e,percent,2019,21.8
 548,e,percent,2009,11.9
 558,e,percent,2006,7.68
@@ -286,6 +291,7 @@ geo_area,nature,units,year,ic_frm_brib
 748,e,percent,2006,5.72
 748,e,percent,2016,6.72
 752,e,percent,2014,1.87
+752,e,percent,2020,0
 753,e,percent,2019,29.71
 762,e,percent,2008,37.85
 762,e,percent,2013,35.5

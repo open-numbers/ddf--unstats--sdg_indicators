@@ -7,10 +7,10 @@ ag_fpa_comm,measure,"Indicator of Food Price Anomalies (IFPA), by type of produc
 ag_fpa_hmfp,measure,"Proportion of countries recording abnormally high or moderately high food prices, according to the Indicator of Food Price Anomalies (%)",2,2.c.1,AG_FPA_HMFP,2.c
 ag_lnd_dgrd,measure,Proportion of land that is degraded over total land area (%),15,15.3.1,AG_LND_DGRD,15.3
 ag_lnd_frst,measure,Forest area as a proportion of total land area (%),15,15.1.1,AG_LND_FRST,15.1
-ag_lnd_frstbiopha,measure,Above-ground biomass stock in forest (tonnes per hectare),15,15.2.1,AG_LND_FRSTBIOPHA,15.2
+ag_lnd_frstbiopha,measure,Above-ground biomass in forest (tonnes per hectare),15,15.2.1,AG_LND_FRSTBIOPHA,15.2
 ag_lnd_frstcert,measure,Forest area under an independently verified forest management certification scheme (thousands of hectares),15,15.2.1,AG_LND_FRSTCERT,15.2
-ag_lnd_frstchg,measure,Forest area annual net change rate (%),15,15.2.1,AG_LND_FRSTCHG,15.2
-ag_lnd_frstmgt,measure,Proportion of forest area under a long-term management plan (%),15,15.2.1,AG_LND_FRSTMGT,15.2
+ag_lnd_frstchg,measure,Annual forest area change rate (%),15,15.2.1,AG_LND_FRSTCHG,15.2
+ag_lnd_frstmgt,measure,Proportion of forest area with a long-term management plan (%),15,15.2.1,AG_LND_FRSTMGT,15.2
 ag_lnd_frstn,measure,Forest area (thousands of hectares),15,15.1.1,AG_LND_FRSTN,15.1
 ag_lnd_frstprct,measure,Proportion of forest area within legally established protected areas (%),15,15.2.1,AG_LND_FRSTPRCT,15.2
 ag_lnd_totl,measure,Land area (thousands of hectares),15,15.1.1,AG_LND_TOTL,15.1
@@ -26,6 +26,10 @@ bn_cab_xoka_gd_zs,measure,Current account balance as a proportion of GDP (%),17,
 bn_klt_ptxl_cd,measure,"Portfolio investment, net (Balance of Payments, current United States dollars)",17,17.13.1,BN_KLT_PTXL_CD,17.13
 bx_klt_dinv_wd_gd_zs,measure,"Foreign direct investment, net inflows, as a proportion of GDP (%)",17,17.13.1,BX_KLT_DINV_WD_GD_ZS,17.13
 bx_trf_pwkr,measure,Volume of remittances (in United States dollars) as a proportion of total GDP (%),17,17.3.2,BX_TRF_PWKR,17.3
+dc_envtech_exp,measure,Amount of tracked exported Environmentally Sound Technologies (current United States dollars),17,17.7.1,DC_ENVTECH_EXP,17.7
+dc_envtech_imp,measure,Amount of tracked imported Environmentally Sound Technologies (current United States dollars),17,17.7.1,DC_ENVTECH_IMP,17.7
+dc_envtech_rexp,measure,Amount of tracked re-exported Environmentally Sound Technologies (current United States dollars),17,17.7.1,DC_ENVTECH_REXP,17.7
+dc_envtech_rimp,measure,Amount of tracked re-imported Environmentally Sound Technologies (current United States dollars),17,17.7.1,DC_ENVTECH_RIMP,17.7
 dc_fin_climb,measure,"Climate-specific financial support provided via bilateral, regional and other channels, by type of support (Billions of current United States dollars)",13,13.a.1,DC_FIN_CLIMB,13.a
 dc_fin_climm,measure,"Climate-specific financial support provided via multilateral channels, by type of support (Billions of current United States dollars)",13,13.a.1,DC_FIN_CLIMM,13.a
 dc_fin_climt,measure,Total climate-specific financial support provided (Billions of current United States dollars),13,13.a.1,DC_FIN_CLIMT,13.a
@@ -75,7 +79,7 @@ eg_tba_h2corl,measure,Proportion of transboundary river and lake basins with an 
 en_adap_com,measure,Number of countries with adaptation communications (Number),13,13.2.1,EN_ADAP_COM,13.2
 en_adap_com_dv,measure,Number of least developed countries and small island developing States with adaptation communications (Number),13,13.b.1,EN_ADAP_COM_DV,13.b
 en_atm_co2,measure,Carbon dioxide emissions from fuel combustion (millions of tonnes),9,9.4.1,EN_ATM_CO2,9.4
-en_atm_co2gdp,measure,Carbon dioxide emissions per unit of GDP (kilogrammes of CO2 per constant 2017 United States dollars),9,9.4.1,EN_ATM_CO2GDP,9.4
+en_atm_co2gdp,measure,Carbon dioxide emissions per unit of GDP PPP (kilogrammes of CO2 per constant 2017 United States dollars),9,9.4.1,EN_ATM_CO2GDP,9.4
 en_atm_co2mva,measure,Carbon dioxide emissions per unit of manufacturing value added (kilogrammes of CO2 per constant 2015 United States dollars),9,9.4.1,EN_ATM_CO2MVA,9.4
 en_atm_ghgt_aip,measure,Total greenhouse gas emissions without LULUCF for Annex I Parties (Mt CO₂ equivalent),13,13.2.2,EN_ATM_GHGT_AIP,13.2
 en_atm_ghgt_naip,measure,Total greenhouse gas emissions without LULUCF for non-Annex I Parties (Mt CO₂ equivalent),13,13.2.2,EN_ATM_GHGT_NAIP,13.2
@@ -112,14 +116,20 @@ en_lkrv_swap,measure,Lakes and rivers seasonal water area (% of total land area)
 en_lkw_qltrb,measure,Lake water quality turbidity (%),6,6.6.1,EN_LKW_QLTRB,6.6
 en_lkw_qltrst,measure,Lake water quality trophic state (%),6,6.6.1,EN_LKW_QLTRST,6.6
 en_lnd_slum,measure,Proportion of urban population living in slums (%),11,11.1.1,EN_LND_SLUM,11.1
+en_mar_bealit_bp,measure,Beach litter originating from national land-based sources that ends in the beach (%),14,14.1.1,EN_MAR_BEALIT_BP,14.1
+en_mar_bealit_bv,measure,Beach litter originating from national land-based sources that ends in the beach (Tonnes),14,14.1.1,EN_MAR_BEALIT_BV,14.1
+en_mar_bealit_exp,measure,Exported beach litter originating from national land-based sources (Tonnes),14,14.1.1,EN_MAR_BEALIT_EXP,14.1
+en_mar_bealit_op,measure,Beach litter originating from national land-based sources that ends in the ocean (%),14,14.1.1,EN_MAR_BEALIT_OP,14.1
+en_mar_bealit_ov,measure,Beach litter originating from national land-based sources that ends in the ocean (Tonnes),14,14.1.1,EN_MAR_BEALIT_OV,14.1
 en_mar_bealitsq,measure,Beach litter per square kilometer (Number),14,14.1.1,EN_MAR_BEALITSQ,14.1
 en_mar_chlanm,measure,"Chlorophyll-a anomaly, remote sensing (%)",14,14.1.1,EN_MAR_CHLANM,14.1
 en_mar_chldev,measure,"Chlorophyll-a deviations, remote sensing (%)",14,14.1.1,EN_MAR_CHLDEV,14.1
+en_mar_plasdd,measure,Floating plastic debris density (count per km2),14,14.1.1,EN_MAR_PLASDD,14.1
 en_mat_domcmpc,measure,"Domestic material consumption per capita, by type of raw material (tonnes)","12, 8","12.2.2, 8.4.2",EN_MAT_DOMCMPC,"12.2, 8.4"
-en_mat_domcmpg,measure,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2010 United States dollars)","12, 8","12.2.2, 8.4.2",EN_MAT_DOMCMPG,"12.2, 8.4"
+en_mat_domcmpg,measure,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)","12, 8","12.2.2, 8.4.2",EN_MAT_DOMCMPG,"12.2, 8.4"
 en_mat_domcmpt,measure,"Domestic material consumption, by type of raw material (tonnes)","12, 8","12.2.2, 8.4.2",EN_MAT_DOMCMPT,"12.2, 8.4"
 en_mat_ftprpc,measure,"Material footprint per capita, by type of raw material (tonnes)","12, 8","12.2.1, 8.4.1",EN_MAT_FTPRPC,"12.2, 8.4"
-en_mat_ftprpg,measure,"Material footprint per unit of GDP, by type of raw material (kilograms per constant 2010 United States dollar)","12, 8","12.2.1, 8.4.1",EN_MAT_FTPRPG,"12.2, 8.4"
+en_mat_ftprpg,measure,"Material footprint per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollar)","12, 8","12.2.1, 8.4.1",EN_MAT_FTPRPG,"12.2, 8.4"
 en_mat_ftprtn,measure,"Material footprint, by type of raw material (tonnes)","12, 8","12.2.1, 8.4.1",EN_MAT_FTPRTN,"12.2, 8.4"
 en_mwt_collv,measure,Municipal waste collected (Tonnes),12,12.4.2,EN_MWT_COLLV,12.4
 en_mwt_genv,measure,Municipal waste generated (Tonnes),12,12.4.2,EN_MWT_GENV,12.4
@@ -137,6 +147,7 @@ en_rsrv_mnwan,measure,Reservoir minimum water area (square kilometres),6,6.6.1,E
 en_rsrv_mnwap,measure,Reservoir minimum water area (% of total land area),6,6.6.1,EN_RSRV_MNWAP,6.6
 en_rsrv_mxwan,measure,Reservoir maximum water area (square kilometres),6,6.6.1,EN_RSRV_MXWAN,6.6
 en_rsrv_mxwap,measure,Reservoir maximum water area (% of total land area),6,6.6.1,EN_RSRV_MXWAP,6.6
+en_scp_ecsyba,measure,Number of countries using ecosystem-based approaches to managing marine areas (1 = YES; 0 = NO),14,14.2.1,EN_SCP_ECSYBA,14.2
 en_scp_frmn,measure,"Number of companies publishing sustainability reports with disclosure by dimension, by level of requirement (Number)",12,12.6.1,EN_SCP_FRMN,12.6
 en_scp_fshgdp,measure,Sustainable fisheries as a proportion of GDP,14,14.7.1,EN_SCP_FSHGDP,14.7
 en_twt_genv,measure,"Total waste generation, by activity (Tonnes)",12,12.4.2,EN_TWT_GENV,12.4
@@ -164,9 +175,9 @@ er_cbd_nagoya,measure,Countries that are parties to the Nagoya Protocol (1 = YES
 er_cbd_orspgrfa,measure,"Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance  of the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO)",15,15.6.1,ER_CBD_ORSPGRFA,15.6
 er_cbd_ptypgrfa,measure,Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO),15,15.6.1,ER_CBD_PTYPGRFA,15.6
 er_cbd_smta,measure,Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the country (number),15,15.6.1,ER_CBD_SMTA,15.6
-er_ffs_cmpt,measure,Fossil-fuel subsidies (consumption and production) (millions of constant United States dollars),12,12.c.1,ER_FFS_CMPT,12.c
+er_ffs_cmpt_cd,measure,Fossil-fuel subsidies (consumption and production) (billions of nominal United States dollars),12,12.c.1,ER_FFS_CMPT_CD,12.c
 er_ffs_cmpt_gdp,measure,Fossil-fuel subsidies (consumption and production) as a proportion of total GDP (%),12,12.c.1,ER_FFS_CMPT_GDP,12.c
-er_ffs_cmpt_pc,measure,Fossil-fuel subsidies (consumption and production) per capita (constant United States dollars),12,12.c.1,ER_FFS_CMPT_PC,12.c
+er_ffs_cmpt_pc_cd,measure,Fossil-fuel subsidies (consumption and production) per capita (nominal United States dollars),12,12.c.1,ER_FFS_CMPT_PC_CD,12.c
 er_grf_animrcntn,measure,Number of local breeds for which sufficient genetic resources are stored for reconstitution,2,2.5.1,ER_GRF_ANIMRCNTN,2.5
 er_grf_plntstor,measure,Plant genetic resources accessions stored ex situ (number),2,2.5.1,ER_GRF_PLNTSTOR,2.5
 er_h2o_fwtl,measure,Proportion of fish stocks within biologically sustainable levels (not overexploited) (%),14,14.4.1,ER_H2O_FWTL,14.4
@@ -316,6 +327,10 @@ sg_cpa_migrp,measure,"Proportion of countries with migration policies to facilit
 sg_cpa_migrs,measure,"Countries with migration policies to facilitate orderly, safe, regular and responsible migration and mobility of people, by policy domain (1 = Requires further progress; 2 = Partially meets; 3 = Meets; 4 = Fully meets)",10,10.7.2,SG_CPA_MIGRS,10.7
 sg_cpa_sdevp,measure,Mechanisms in place to enhance policy coherence for sustainable development (%),17,17.14.1,SG_CPA_SDEVP,17.14
 sg_cpa_sign_bit,measure,Number of countries with a signed bilateral investment treaty (BIT) (Number),17,17.5.1,SG_CPA_SIGN_BIT,17.5
+sg_dmk_jdc,measure,Proportions of positions in the judiciary compared to national distributions (ratio),16,16.7.1,SG_DMK_JDC,16.7
+sg_dmk_jdc_cns,measure,"Proportions of positions in the judiciary compared to national distributions, Constitutional Court (ratio)",16,16.7.1,SG_DMK_JDC_CNS,16.7
+sg_dmk_jdc_hgr,measure,"Proportions of positions in the judiciary compared to national distributions, Higher Courts (ratio)",16,16.7.1,SG_DMK_JDC_HGR,16.7
+sg_dmk_jdc_lwr,measure,"Proportions of positions in the judiciary compared to national distributions, Lower Courts (ratio)",16,16.7.1,SG_DMK_JDC_LWR,16.7
 sg_dmk_parlcc_jc,measure,"Number of chairs of permanent committees, by age sex and focus of the committee, Joint Committees",16,16.7.1,SG_DMK_PARLCC_JC,16.7
 sg_dmk_parlcc_lc,measure,"Number of chairs of permanent committees, by age sex and focus of the committee, Lower Chamber or Unicameral",16,16.7.1,SG_DMK_PARLCC_LC,16.7
 sg_dmk_parlcc_uc,measure,"Number of chairs of permanent committees, by age sex and focus of the committee, Upper Chamber",16,16.7.1,SG_DMK_PARLCC_UC,16.7
@@ -329,6 +344,7 @@ sg_dmk_parlyp_lc,measure,"Proportion of youth in parliament (age 45 or below), L
 sg_dmk_parlyp_uc,measure,"Proportion of youth in parliament (age 45 or below), Upper Chamber (%)",16,16.7.1,SG_DMK_PARLYP_UC,16.7
 sg_dmk_parlyr_lc,measure,"Ratio of young members in parliament (Ratio of the proportion of young members in parliament (age 45 or below) in the proportion of the national population (age 45 or below) with the age of eligibility as a lower bound boundary), Lower Chamber or Unicameral",16,16.7.1,SG_DMK_PARLYR_LC,16.7
 sg_dmk_parlyr_uc,measure,"Ratio of young members in parliament (Ratio of the proportion of young members in parliament (age 45 or below) in the proportion of the national population (age 45 or below) with the age of eligibility as a lower bound boundary), Upper Chamber",16,16.7.1,SG_DMK_PARLYR_UC,16.7
+sg_dmk_psrvc,measure,Proportions of positions in the public service compared to national distributions (ratio),16,16.7.1,SG_DMK_PSRVC,16.7
 sg_dsr_lgrgsr,measure,Score of adoption and implementation of national DRR strategies in line with the Sendai Framework,"1, 11, 13","1.5.3, 11.b.1, 13.1.2",SG_DSR_LGRGSR,"1.5, 11.b, 13.1"
 sg_dsr_sfdrr,measure,Number of countries that reported having a National DRR Strategy which is aligned to the Sendai Framework,"1, 11, 13","1.5.3, 11.b.1, 13.1.2",SG_DSR_SFDRR,"1.5, 11.b, 13.1"
 sg_dsr_siln,measure,Number of local governments that adopt and implement local DRR strategies in line with national strategies (number),"1, 13, 11","1.5.4, 13.1.3, 11.b.2",SG_DSR_SILN,"1.5, 13.1, 11.b"
@@ -358,8 +374,8 @@ sg_nhr_intexst,measure,Proportion of countries that applied for accreditation as
 sg_nhr_intexstn,measure,"Countries with National Human Rights Institutions not fully compliant with the Paris Principles, B status (1 = YES; 0 = NO)",16,16.a.1,SG_NHR_INTEXSTN,16.a
 sg_nhr_noappln,measure,"Countries with no application for accreditation with the Paris Principles, D status  (1 = YES; 0 = NO)",16,16.a.1,SG_NHR_NOAPPLN,16.a
 sg_nhr_nostusn,measure,"Countries with National Human Rights Institutions and no status with the Paris Principles, C status (1 = YES; 0 = NO)",16,16.a.1,SG_NHR_NOSTUSN,16.a
-sg_pln_mstksdg_p,measure,"Progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals, Provider (1 = YES; 0 = NO)",17,17.16.1,SG_PLN_MSTKSDG_P,17.16
-sg_pln_mstksdg_r,measure,"Progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals, Recipient (1 = YES; 0 = NO)",17,17.16.1,SG_PLN_MSTKSDG_R,17.16
+sg_pln_mstksdg_p,measure,"Number of countries reporting progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals, Provider (1 = YES; 0 = NO)",17,17.16.1,SG_PLN_MSTKSDG_P,17.16
+sg_pln_mstksdg_r,measure,"Number of countries reporting progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals, Recipient (1 = YES; 0 = NO)",17,17.16.1,SG_PLN_MSTKSDG_R,17.16
 sg_pln_prpolres,measure,Extent of use of country-owned results frameworks and planning tools by providers of development cooperation - data by provider (%) ,17,17.15.1,SG_PLN_PRPOLRES,17.15
 sg_pln_prvndi,measure,Proportion of project objectives of new development interventions drawn from country-led result frameworks - data by provider (%),17,17.15.1,SG_PLN_PRVNDI,17.15
 sg_pln_prvrictry,measure,Proportion of results indicators drawn from country-led results frameworks - data by provider (%),17,17.15.1,SG_PLN_PRVRICTRY,17.15
@@ -376,8 +392,6 @@ sg_reg_censusn,measure,Countries that have conducted at least one population and
 sg_reg_deth75,measure,Proportion of countries with death registration data that are at least 75 percent complete (%),17,17.19.2,SG_REG_DETH75,17.19
 sg_reg_deth75n,measure,Countries with death registration data that are at least 75 percent complete (1 = YES; 0 = NO),17,17.19.2,SG_REG_DETH75N,17.19
 sg_scp_cntry,measure,Countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or target into national policies (1 = YES; 0 = NO),12,12.1.1,SG_SCP_CNTRY,12.1
-sg_scp_cormec,measure,Countries with coordination mechanism for sustainable consumption and production (1 = YES; 0 = NO),12,12.1.1,SG_SCP_CORMEC,12.1
-sg_scp_other,measure,Country with Other implementing activities for sustainable consumption and production (1 = YES; 0 = NO),12,12.1.1,SG_SCP_OTHER,12.1
 sg_scp_polins,measure,Countries with policy instrument for sustainable consumption and production (1 = YES; 0 = NO),12,12.1.1,SG_SCP_POLINS,12.1
 sg_scp_procn,measure,Number of countries implementing sustainable public procurement policies and action plans,12,12.7.1,SG_SCP_PROCN,12.7
 sg_scp_procn_hs,measure,Number of countries implementing sustainable public procurement policies and action plans at higher subnational level by level of implementation (1 = YES; 0 = NO),12,12.7.1,SG_SCP_PROCN_HS,12.7
@@ -488,9 +502,10 @@ si_pov_50mi,measure,Proportion of people living below 50 percent of median incom
 si_pov_day1,measure,Proportion of population below international poverty line (%),1,1.1.1,SI_POV_DAY1,1.1
 si_pov_emp1,measure,"Employed population below international poverty line, by sex and age (%)",1,1.1.1,SI_POV_EMP1,1.1
 si_pov_nahc,measure,Proportion of population living below the national poverty line (%),1,1.2.1,SI_POV_NAHC,1.2
-si_rmt_cost,measure,Remittance costs as a proportion of the amount remitted (%),10,10.c.1,SI_RMT_COST,10.c
-si_rmt_cost_bc,measure,Corridor remittance costs as a proportion of the amount remitted (%),10,10.c.1,SI_RMT_COST_BC,10.c
-si_rmt_cost_sc,measure,SmaRT corridor remittance costs as a proportion of the amount remitted (%),10,10.c.1,SI_RMT_COST_SC,10.c
+si_rmt_cost,measure,Average remittance costs of sending $200 to a receiving country as a proportion of the amount remitted (%),10,10.c.1,SI_RMT_COST,10.c
+si_rmt_cost_bc,measure,Average remittance costs of sending $200 in a corridor as a proportion of the amount remitted (%),10,10.c.1,SI_RMT_COST_BC,10.c
+si_rmt_cost_sc,measure,SmaRT average remittance costs of sending $200 in a corridor as a proportion of the amount remitted (%),10,10.c.1,SI_RMT_COST_SC,10.c
+si_rmt_cost_snd,measure,Average remittance costs of sending $200 for a sending country as a proportion of the amount remitted (%),10,10.c.1,SI_RMT_COST_SND,10.c
 sl_cpa_yemp,measure,"Existence of a developed and operationalized national strategy for youth employment, as a distinct strategy or as part of a national employment strategy",8,8.b.1,SL_CPA_YEMP,8.b
 sl_dom_tspd,measure,"Proportion of time spent on unpaid domestic chores and care work, by sex, age and location (%)",5,5.4.1,SL_DOM_TSPD,5.4
 sl_dom_tspdcw,measure,"Proportion of time spent on unpaid care work, by sex, age and location (%)",5,5.4.1,SL_DOM_TSPDCW,5.4
@@ -516,7 +531,7 @@ sn_sta_ovwgt,measure,Proportion of children moderately or severely overweight (%
 sn_sta_ovwgtn,measure,Children moderately or severely overweight (thousands),2,2.2.2,SN_STA_OVWGTN,2.2
 sp_acs_bsrvh2o,measure,"Proportion of population using basic drinking water services, by location (%)",1,1.4.1,SP_ACS_BSRVH2O,1.4
 sp_acs_bsrvsan,measure,"Proportion of population using basic sanitation services, by location (%)",1,1.4.1,SP_ACS_BSRVSAN,1.4
-sp_dyn_adkl,measure,"Adolescent birth rate (per 1,000 women aged 15-19 years)",3,3.7.2,SP_DYN_ADKL,3.7
+sp_dyn_adkl,measure,"Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years)",3,3.7.2,SP_DYN_ADKL,3.7
 sp_dyn_mrbf15,measure,Proportion of women aged 20-24 years who were married or in a union before age 15 (%),5,5.3.1,SP_DYN_MRBF15,5.3
 sp_dyn_mrbf18,measure,Proportion of women aged 20-24 years who were married or in a union before age 18 (%),5,5.3.1,SP_DYN_MRBF18,5.3
 sp_gnp_wnowns,measure,"Share of women among owners or rights-bearers of agricultural land, by type of tenure (%)",5,5.a.1,SP_GNP_WNOWNS,5.a
@@ -542,26 +557,26 @@ tx_imp_gbsvr,measure,Developing countries’ and least developed countries’ sh
 vc_arm_sztrace,measure,"Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments",16,16.4.2,VC_ARM_SZTRACE,16.4
 vc_dsr_affct,measure,Number of people affected by disaster (number),"1, 11, 13","1.5.1, 11.5.1, 13.1.1",VC_DSR_AFFCT,"1.5, 11.5, 13.1"
 vc_dsr_aglh,measure,Direct agriculture loss attributed to disasters (current United States dollars),"1, 11","1.5.2, 11.5.2",VC_DSR_AGLH,"1.5, 11.5"
-vc_dsr_bsdn,measure,Number of disruptions to basic services attributed to disasters (number),11,11.5.2,VC_DSR_BSDN,11.5
-vc_dsr_cdan,measure,Number of damaged critical infrastructure attributed to disasters (number),11,11.5.2,VC_DSR_CDAN,11.5
-vc_dsr_cdyn,measure,Number of other destroyed or damaged critical infrastructure units and facilities attributed to disasters (number),11,11.5.2,VC_DSR_CDYN,11.5
+vc_dsr_bsdn,measure,Number of disruptions to basic services attributed to disasters (number),11,11.5.3,VC_DSR_BSDN,11.5
+vc_dsr_cdan,measure,Number of damaged critical infrastructure attributed to disasters (number),11,11.5.3,VC_DSR_CDAN,11.5
+vc_dsr_cdyn,measure,Number of other destroyed or damaged critical infrastructure units and facilities attributed to disasters (number),11,11.5.3,VC_DSR_CDYN,11.5
 vc_dsr_chln,measure,Direct economic loss to cultural heritage damaged or destroyed attributed to disasters (millions of current United States dollars),"1, 11","1.5.2, 11.5.2",VC_DSR_CHLN,"1.5, 11.5"
 vc_dsr_ciln,measure,Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters (current United States dollars),"1, 11","1.5.2, 11.5.2",VC_DSR_CILN,"1.5, 11.5"
 vc_dsr_daff,measure,"Number of directly affected persons attributed to disasters per 100,000 population (number)","1, 11, 13","1.5.1, 11.5.1, 13.1.1",VC_DSR_DAFF,"1.5, 11.5, 13.1"
 vc_dsr_ddpa,measure,Direct economic loss to other damaged or destroyed productive assets attributed to disasters (current United States dollars),"1, 11","1.5.2, 11.5.2",VC_DSR_DDPA,"1.5, 11.5"
-vc_dsr_efdn,measure,Number of destroyed or damaged educational facilities attributed to disasters (number),11,11.5.2,VC_DSR_EFDN,11.5
-vc_dsr_esdn,measure,Number of disruptions to educational services attributed to disasters (number),11,11.5.2,VC_DSR_ESDN,11.5
+vc_dsr_efdn,measure,Number of destroyed or damaged educational facilities attributed to disasters (number),11,11.5.3,VC_DSR_EFDN,11.5
+vc_dsr_esdn,measure,Number of disruptions to educational services attributed to disasters (number),11,11.5.3,VC_DSR_ESDN,11.5
 vc_dsr_gdpls,measure,Direct economic loss attributed to disasters (current United States dollars),"1, 11","1.5.2, 11.5.2",VC_DSR_GDPLS,"1.5, 11.5"
-vc_dsr_hfdn,measure,Number of destroyed or damaged health facilities attributed to disasters (number),11,11.5.2,VC_DSR_HFDN,11.5
+vc_dsr_hfdn,measure,Number of destroyed or damaged health facilities attributed to disasters (number),11,11.5.3,VC_DSR_HFDN,11.5
 vc_dsr_holh,measure,Direct economic loss in the housing sector attributed to disasters (current United States dollars),"1, 11","1.5.2, 11.5.2",VC_DSR_HOLH,"1.5, 11.5"
-vc_dsr_hsdn,measure,Number of disruptions to health services attributed to disasters (number),11,11.5.2,VC_DSR_HSDN,11.5
+vc_dsr_hsdn,measure,Number of disruptions to health services attributed to disasters (number),11,11.5.3,VC_DSR_HSDN,11.5
 vc_dsr_ijiln,measure,Number of injured or ill people attributed to disasters (number),"1, 11, 13","1.5.1, 11.5.1, 13.1.1",VC_DSR_IJILN,"1.5, 11.5, 13.1"
 vc_dsr_lsgp,measure,Direct economic loss attributed to disasters relative to GDP (%),"1, 11","1.5.2, 11.5.2",VC_DSR_LSGP,"1.5, 11.5"
 vc_dsr_miss,measure,Number of missing persons due to disaster (number),"1, 11, 13","1.5.1, 11.5.1, 13.1.1",VC_DSR_MISS,"1.5, 11.5, 13.1"
 vc_dsr_mmhn,measure,Number of deaths and missing persons attributed to disasters (number),"1, 11, 13","1.5.1, 11.5.1, 13.1.1",VC_DSR_MMHN,"1.5, 11.5, 13.1"
 vc_dsr_mort,measure,Number of deaths due to disaster (number),"1, 11, 13","1.5.1, 11.5.1, 13.1.1",VC_DSR_MORT,"1.5, 11.5, 13.1"
 vc_dsr_mtmp,measure,"Number of deaths and missing persons attributed to disasters per 100,000 population (number)","1, 11, 13","1.5.1, 11.5.1, 13.1.1",VC_DSR_MTMP,"1.5, 11.5, 13.1"
-vc_dsr_obdn,measure,Number of disruptions to other basic services attributed to disasters (number),11,11.5.2,VC_DSR_OBDN,11.5
+vc_dsr_obdn,measure,Number of disruptions to other basic services attributed to disasters (number),11,11.5.3,VC_DSR_OBDN,11.5
 vc_dsr_pdan,measure,Number of people whose damaged dwellings were attributed to disasters (number),"1, 11, 13","1.5.1, 11.5.1, 13.1.1",VC_DSR_PDAN,"1.5, 11.5, 13.1"
 vc_dsr_pdln,measure,"Number of people whose livelihoods were disrupted or destroyed, attributed to disasters (number)","1, 11, 13","1.5.1, 11.5.1, 13.1.1",VC_DSR_PDLN,"1.5, 11.5, 13.1"
 vc_dsr_pdyn,measure,Number of people whose destroyed dwellings were attributed to disasters (number),"1, 11, 13","1.5.1, 11.5.1, 13.1.1",VC_DSR_PDYN,"1.5, 11.5, 13.1"

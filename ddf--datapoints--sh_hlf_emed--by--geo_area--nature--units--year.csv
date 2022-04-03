@@ -2,6 +2,7 @@ geo_area,nature,units,year,sh_hlf_emed
 68,c,percent,2016,23.07692
 108,c,percent,2013,0
 108,c,percent,2016,0
+144,c,percent,2019,68.33
 152,c,percent,2016,36.36364
 170,c,percent,2008,88.76405
 170,c,percent,2016,8.33333
@@ -23,7 +24,7 @@ geo_area,nature,units,year,sh_hlf_emed
 480,c,percent,2008,26.22951
 496,c,percent,2004,9.09091
 496,c,percent,2012,26.74419
-498,c,percent,2019,21.67
+498,c,percent,2019,25
 604,c,percent,2016,69.23077
 686,c,percent,2016,7.69231
 729,c,percent,2012,34.48276
@@ -31,6 +32,7 @@ geo_area,nature,units,year,sh_hlf_emed
 762,c,percent,2004,0
 762,c,percent,2013,15
 780,c,percent,2016,0
+804,c,percent,2019,19.75
 834,c,percent,2004,27.92793
 834,c,percent,2012,18.96552
 834,c,percent,2016,0

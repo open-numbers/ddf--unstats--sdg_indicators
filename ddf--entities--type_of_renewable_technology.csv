@@ -1,0 +1,9 @@
+type_of_renewable_technology,name
+all,ALL
+bioenergy,BIOENERGY
+geothermal,GEOTHERMAL
+hydropower,HYDROPOWER
+marine,MARINE
+multiple,MULTIPLE
+solar,SOLAR
+wind,WIND
