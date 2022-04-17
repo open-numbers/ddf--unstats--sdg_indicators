@@ -220,7 +220,7 @@ geo_area,name
 626,Timor-Leste
 630,Puerto Rico
 634,Qatar
-636,Other non-oecd Americas
+636,Other non-OECD Americas
 638,Réunion
 64,Bhutan
 642,Romania
@@ -296,6 +296,8 @@ geo_area,name
 832,Jersey
 833,Isle of Man
 834,United Republic of Tanzania
+835,United Republic of Tanzania (Mainland)
+836,United Republic of Tanzania (Zanzibar)
 84,Belize
 840,United States of America
 850,United States Virgin Islands
@@ -322,6 +324,7 @@ geo_area,name
 906,North America (ILO)
 907,Other regions (ILO)
 908,Western Europe (ILO)
+909,Eastern Southern South-Eastern Asia and Oceania (MDG)
 910,High income economies (WB)
 911,Low income economies (WB)
 912,Lower middle economies (WB)
@@ -336,6 +339,23 @@ geo_area,name
 920,Azores Islands
 921,ODA residual
 922,Custom groupings of data providers
+923,LLDC Africa
+924,LLDC Americas
+925,LLDC Asia
+926,LLDC Europe
+927,LDC Africa
+928,LDC Americas
+929,LDC Asia
+930,LDC Oceania
+931,SIDS Africa
+932,SIDS Americas
+933,SIDS Asia
+934,SIDS Oceania
+935,World (total) by SDG regions
+936,World (total) by continental regions
+937,World (total) by MDG regions
+938,Member States
+951,Other Africa (IEA)
 96,Brunei Darussalam
 97,European Union
 99018,"FAO Major Fishing Area: Pacific, Eastern Central"
@@ -360,7 +380,7 @@ geo_area,name
 99037,Residual/unallocated ODA: Latin America and the Caribbean
 99038,Residual/unallocated ODA: Oceania excl. Aus. and N. Zealand
 99039,Residual/unallocated ODA: Sub-Saharan Africa
-99040,Residual/unallocated ODA: Western Asia and Northern Africa
+99040,Residual/unallocated ODA: Western Asia and Northern Africa
 99041,Belgium and Luxembourg
 99042,WHO Africa
 99043,WHO Americas
@@ -369,3 +389,4 @@ geo_area,name
 99046,WHO Eastern Mediterranean
 99047,WHO Western Pacific
 99048,WHO Global
+99049,"Residual/unallocated ODA: Unspecified, developing countries"

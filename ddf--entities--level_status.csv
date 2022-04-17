@@ -6,9 +6,15 @@ abt2insufnt,ABT2INSUFNT
 abt2nontlt,ABT2NONTLT
 abt2noprog,ABT2NOPROG
 higimp,HIGIMP
+li_imp_admng,LI_IMP_ADMNG
+li_pla_dsg,LI_PLA_DSG
+li_pldv,LI_PLDV
 lowimp,LOWIMP
+ls_comp,LS_COMP
+ls_compdisse,LS_COMPDISSE
+ls_dissem,LS_DISSEM
 mhigimp,MHIGIMP
 mlowimp,MLOWIMP
-notspec,NOTSPEC
+t,_T
 vhigimp,VHIGIMP
 vlowimp,VLOWIMP

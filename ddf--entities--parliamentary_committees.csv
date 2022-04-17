@@ -1,6 +1,10 @@
 parliamentary_committees,name
 defence,DEFENCE
+faff_def,FAFF_DEF
+faff_def_fin,FAFF_DEF_FIN
+faff_def_hr,FAFF_DEF_HR
 finance,FINANCE
 for_aff,FOR_AFF
 gen_equ,GEN_EQU
+hr_gequ,HR_GEQU
 hum_righ,HUM_RIGH

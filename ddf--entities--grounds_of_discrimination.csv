@@ -1,6 +1,7 @@
 grounds_of_discrimination,name
 age,AGE
 all,ALL
+colr,COLR
 dishea,DISHEA
 edu,EDU
 eth,ETH
@@ -13,6 +14,8 @@ landia,LANDIA
 mar,MAR
 marfam,MARFAM
 mig,MIG
+netw,NETW
+origin,ORIGIN
 other,OTHER
 polview,POLVIEW
 pregy,PREGY
@@ -23,5 +26,6 @@ sex,SEX
 sexo,SEXO
 sexogenid,SEXOGENID
 socioecon,SOCIOECON
-wealth,WEALTH
+trad,TRAD
 wedlock,WEDLOCK
+work,WORK
