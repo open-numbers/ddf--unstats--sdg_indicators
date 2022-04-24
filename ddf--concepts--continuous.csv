@@ -515,6 +515,7 @@ sl_emp_ftlinjur,measure,"Fatal occupational injuries among employees, by sex and
 sl_emp_gtotl,measure,Labour share of GDP (%),10,10.4.1,SL_EMP_GTOTL,10.4
 sl_emp_injur,measure,"Non-fatal occupational injuries among employees, by sex and migrant status (per 100,000 employees)",8,8.8.1,SL_EMP_INJUR,8.8
 sl_emp_pcap,measure,Annual growth rate of real GDP per employed person (%),8,8.2.1,SL_EMP_PCAP,8.2
+sl_emp_rcost_mo,measure,Migrant recruitment costs (number of months of earnings),10,10.7.1,SL_EMP_RCOST_MO,10.7
 sl_isv_ifem,measure,"Proportion of informal employment, by sector and sex (ILO harmonized estimates) (%)",8,8.3.1,SL_ISV_IFEM,8.3
 sl_lbr_ntlcpl,measure,Level of national compliance with labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation,8,8.8.2,SL_LBR_NTLCPL,8.8
 sl_tlf_chldea,measure,"Proportion of children engaged in economic activity, by sex and age  (%)",8,8.7.1,SL_TLF_CHLDEA,8.7

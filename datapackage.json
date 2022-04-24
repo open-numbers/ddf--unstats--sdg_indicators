@@ -8,7 +8,7 @@
     "description": "SDG indicators",
     "author": "Gapminder",
     "license": "CC-BY-4.0",
-    "created": "2022-04-03T03:45:32.793160+00:00",
+    "created": "2022-04-24T02:36:26.585035+00:00",
     "translations": [],
     "version": "0.0.1",
     "resources": [
@@ -17037,6 +17037,39 @@
             }
         },
         {
+            "name": "ddf--datapoints--sl_emp_rcost_mo--by--geo_area--nature--sex--units--year",
+            "path": "ddf--datapoints--sl_emp_rcost_mo--by--geo_area--nature--sex--units--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "nature"
+                    },
+                    {
+                        "name": "sex"
+                    },
+                    {
+                        "name": "units"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "sl_emp_rcost_mo"
+                    }
+                ],
+                "primaryKey": [
+                    "geo_area",
+                    "nature",
+                    "sex",
+                    "units",
+                    "year"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--sl_isv_ifem--by--activity--geo_area--nature--observation_status--sex--units--year",
             "path": "ddf--datapoints--sl_isv_ifem--by--activity--geo_area--nature--observation_status--sex--units--year.csv",
             "schema": {
@@ -27833,6 +27866,19 @@
                 "value": "sl_emp_pcap",
                 "resources": [
                     "ddf--datapoints--sl_emp_pcap--by--geo_area--nature--observation_status--units--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo_area",
+                    "nature",
+                    "sex",
+                    "units",
+                    "year"
+                ],
+                "value": "sl_emp_rcost_mo",
+                "resources": [
+                    "ddf--datapoints--sl_emp_rcost_mo--by--geo_area--nature--sex--units--year"
                 ]
             },
             {

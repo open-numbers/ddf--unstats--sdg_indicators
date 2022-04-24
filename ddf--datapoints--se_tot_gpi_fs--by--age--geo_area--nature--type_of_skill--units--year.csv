@@ -1,8 +1,4 @@
 age,geo_area,nature,type_of_skill,units,year,se_tot_gpi_fs
-16_65,1,e,lite,ratio,2020,0.98873
-16_65,1,e,nume,ratio,2020,0.92629
-16_65,9,e,lite,ratio,2020,1.0048
-16_65,9,e,nume,ratio,2020,0.93334
 16_65,36,c,lite,ratio,2012,1.00359
 16_65,36,c,nume,ratio,2012,0.93052
 16_65,40,c,lite,ratio,2012,0.9866
@@ -10,8 +6,6 @@ age,geo_area,nature,type_of_skill,units,year,se_tot_gpi_fs
 16_65,50,c,lite,ratio,2011,0.87729
 16_65,56,c,lite,ratio,2012,0.97875
 16_65,56,c,nume,ratio,2012,0.94306
-16_65,62,e,lite,ratio,2020,0.89371
-16_65,62,e,nume,ratio,2020,1.00826
 16_65,124,c,lite,ratio,2012,0.99413
 16_65,124,c,nume,ratio,2012,0.92378
 16_65,152,c,lite,ratio,2015,0.89933
@@ -50,14 +44,10 @@ age,geo_area,nature,type_of_skill,units,year,se_tot_gpi_fs
 16_65,398,c,nume,ratio,2017,1.00826
 16_65,410,c,lite,ratio,2012,0.96633
 16_65,410,c,nume,ratio,2012,0.93635
-16_65,419,e,lite,ratio,2020,0.95904
-16_65,419,e,nume,ratio,2020,0.77798
 16_65,440,c,lite,ratio,2015,1.02343
 16_65,440,c,nume,ratio,2015,0.99428
 16_65,484,c,lite,ratio,2017,0.9853
 16_65,484,c,nume,ratio,2017,0.80013
-16_65,513,e,lite,ratio,2020,1.01769
-16_65,513,e,nume,ratio,2020,0.96311
 16_65,528,c,lite,ratio,2012,0.98234
 16_65,528,c,nume,ratio,2012,0.94549
 16_65,554,c,lite,ratio,2014,1.01098
@@ -81,12 +71,8 @@ age,geo_area,nature,type_of_skill,units,year,se_tot_gpi_fs
 16_65,710,c,nume,ratio,2017,0.99288
 16_65,724,c,lite,ratio,2012,0.96748
 16_65,724,c,nume,ratio,2012,0.90183
-16_65,747,e,lite,ratio,2020,0.86416
-16_65,747,e,nume,ratio,2020,0.70537
 16_65,752,c,lite,ratio,2012,0.98382
 16_65,752,c,nume,ratio,2012,0.9487
-16_65,753,e,lite,ratio,2020,1.00228
-16_65,753,e,nume,ratio,2020,0.96439
 16_65,792,c,lite,ratio,2015,0.84474
 16_65,792,c,nume,ratio,2015,0.68105
 16_65,826,c,lite,ratio,2012,1.00608

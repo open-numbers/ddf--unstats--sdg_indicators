@@ -10,7 +10,7 @@ age,geo_area,nature,sex,units,year,sh_fpl_infmsr
 15_49,50,c,female,percent,2018,86.3
 15_49,51,c,female,percent,2010,80.7
 15_49,51,c,female,percent,2016,75
-15_49,62,g,female,percent,2021,79.3
+15_49,62,g,female,percent,2022,78.9
 15_49,104,c,female,percent,2016,81.4
 15_49,108,c,female,percent,2010,64.4
 15_49,108,c,female,percent,2017,63.1
@@ -54,7 +54,7 @@ age,geo_area,nature,sex,units,year,sh_fpl_infmsr
 15_49,400,c,female,percent,2018,68.7
 15_49,404,c,female,percent,2014,77.2
 15_49,417,c,female,percent,2012,85.4
-15_49,419,g,female,percent,2021,91.5
+15_49,419,g,female,percent,2022,91.5
 15_49,426,c,female,percent,2009,68
 15_49,426,c,female,percent,2014,71.4
 15_49,430,c,female,percent,2013,91.6
@@ -101,7 +101,7 @@ age,geo_area,nature,sex,units,year,sh_fpl_infmsr
 15_49,716,c,female,percent,2006,68.1
 15_49,716,c,female,percent,2011,75.8
 15_49,716,c,female,percent,2015,72.2
-15_49,722,g,female,percent,2021,83.6
+15_49,722,g,female,percent,2022,83.5
 15_49,747,g,female,percent,2022,73.8
 15_49,748,c,female,percent,2007,74.4
 15_49,753,g,female,percent,2022,86.2

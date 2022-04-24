@@ -1,8 +1,4 @@
 education_level,geo_area,nature,type_of_skill,units,year,se_lgp_achi
-grad23,1,e,skill_math,ratio,2020,0.64403
-grad23,1,e,skill_read,ratio,2020,0.6444
-grad23,9,e,skill_math,ratio,2020,0.92237
-grad23,9,e,skill_read,ratio,2020,0.9878
 grad23,32,c,skill_math,ratio,2006,0.56898
 grad23,32,c,skill_read,ratio,2006,0.6217
 grad23,36,c,skill_math,ratio,2003,0.52361
@@ -21,7 +17,6 @@ grad23,170,c,skill_math,ratio,2006,0.66516
 grad23,170,c,skill_read,ratio,2006,0.72938
 grad23,188,c,skill_math,ratio,2006,0.7219
 grad23,188,c,skill_read,ratio,2006,0.82838
-grad23,202,e,skill_read,ratio,2020,0.5728
 grad23,208,c,skill_math,ratio,2007,0.79824
 grad23,208,c,skill_math,ratio,2015,0.8347
 grad23,208,c,skill_read,ratio,2006,0.92163
@@ -41,12 +36,8 @@ grad23,372,c,skill_math,ratio,2011,0.48993
 grad23,372,c,skill_math,ratio,2015,0.77493
 grad23,372,c,skill_read,ratio,2011,0.85551
 grad23,372,c,skill_read,ratio,2016,1.01271
-grad23,419,e,skill_math,ratio,2020,0.62305
-grad23,419,e,skill_read,ratio,2020,0.62577
 grad23,484,c,skill_math,ratio,2006,0.66532
 grad23,484,c,skill_read,ratio,2006,0.62671
-grad23,513,e,skill_math,ratio,2020,0.81918
-grad23,513,e,skill_read,ratio,2020,0.99538
 grad23,558,c,skill_math,ratio,2006,0.82428
 grad23,558,c,skill_read,ratio,2006,0.61786
 grad23,578,c,skill_math,ratio,2003,0.16769
@@ -66,8 +57,6 @@ grad23,604,c,skill_read,ratio,2006,0.42443
 grad23,710,c,skill_read,ratio,2006,0.5728
 grad23,858,c,skill_math,ratio,2006,0.75326
 grad23,858,c,skill_read,ratio,2006,0.83726
-lowsec,1,e,skill_math,ratio,2020,0.75802
-lowsec,1,e,skill_read,ratio,2020,0.76421
 lowsec,8,c,skill_math,ratio,2000,0.85235
 lowsec,8,c,skill_math,ratio,2009,0.46376
 lowsec,8,c,skill_math,ratio,2012,0.96586
@@ -76,8 +65,6 @@ lowsec,8,c,skill_read,ratio,2000,0.87781
 lowsec,8,c,skill_read,ratio,2009,0.80953
 lowsec,8,c,skill_read,ratio,2012,0.85464
 lowsec,8,c,skill_read,ratio,2018,0.77012
-lowsec,9,e,skill_math,ratio,2020,0.89346
-lowsec,9,e,skill_read,ratio,2020,0.8684
 lowsec,12,c,skill_math,ratio,2015,1.31886
 lowsec,12,c,skill_read,ratio,2015,1.29857
 lowsec,31,c,skill_math,ratio,2006,1.04007
@@ -143,8 +130,6 @@ lowsec,56,c,skill_read,ratio,2009,0.87098
 lowsec,56,c,skill_read,ratio,2012,0.86661
 lowsec,56,c,skill_read,ratio,2015,0.72563
 lowsec,56,c,skill_read,ratio,2018,0.708
-lowsec,62,e,skill_math,ratio,2020,0.57909
-lowsec,62,e,skill_read,ratio,2020,1.03873
 lowsec,70,c,skill_math,ratio,2007,1.31399
 lowsec,70,c,skill_read,ratio,2018,0.85397
 lowsec,76,c,skill_math,ratio,2000,0.65141
@@ -233,8 +218,6 @@ lowsec,191,c,skill_read,ratio,2018,0.85115
 lowsec,196,c,skill_math,ratio,2003,0.65323
 lowsec,196,c,skill_math,ratio,2007,0.60538
 lowsec,196,c,skill_read,ratio,2018,1.07557
-lowsec,202,e,skill_math,ratio,2020,0.29505
-lowsec,202,e,skill_read,ratio,2020,0.35661
 lowsec,203,c,skill_math,ratio,2000,0.69376
 lowsec,203,c,skill_math,ratio,2003,1.0191
 lowsec,203,c,skill_math,ratio,2006,0.74716
@@ -463,8 +446,6 @@ lowsec,410,c,skill_read,ratio,2012,0.92289
 lowsec,410,c,skill_read,ratio,2018,0.7362
 lowsec,414,c,skill_math,ratio,2007,0.79694
 lowsec,414,c,skill_math,ratio,2015,0.95143
-lowsec,419,e,skill_math,ratio,2020,0.63229
-lowsec,419,e,skill_read,ratio,2020,0.60232
 lowsec,422,c,skill_math,ratio,2003,1.10648
 lowsec,422,c,skill_math,ratio,2007,0.85403
 lowsec,422,c,skill_math,ratio,2011,0.81
@@ -551,8 +532,6 @@ lowsec,504,c,skill_read,ratio,2018,1.83719
 lowsec,512,c,skill_math,ratio,2007,1.23118
 lowsec,512,c,skill_math,ratio,2011,1.72662
 lowsec,512,c,skill_math,ratio,2015,0.86629
-lowsec,513,e,skill_math,ratio,2020,0.80399
-lowsec,513,e,skill_read,ratio,2020,0.79553
 lowsec,528,c,skill_math,ratio,2000,0.95139
 lowsec,528,c,skill_math,ratio,2003,0.9482
 lowsec,528,c,skill_math,ratio,2006,0.75426
@@ -732,8 +711,6 @@ lowsec,724,c,skill_read,ratio,2006,0.95118
 lowsec,724,c,skill_read,ratio,2009,0.93762
 lowsec,724,c,skill_read,ratio,2012,0.92633
 lowsec,724,c,skill_read,ratio,2015,0.89908
-lowsec,747,e,skill_math,ratio,2020,0.7811
-lowsec,747,e,skill_read,ratio,2020,0.94051
 lowsec,752,c,skill_math,ratio,2000,0.69719
 lowsec,752,c,skill_math,ratio,2003,0.74945
 lowsec,752,c,skill_math,ratio,2006,0.76769
@@ -840,10 +817,6 @@ lowsec,858,c,skill_read,ratio,2015,0.65211
 lowsec,858,c,skill_read,ratio,2018,0.61379
 lowsec,894,c,skill_math,ratio,2015,0.23653
 lowsec,894,c,skill_read,ratio,2015,0.27516
-primar,1,e,skill_math,ratio,2020,0.70912
-primar,1,e,skill_read,ratio,2020,0.80703
-primar,9,e,skill_math,ratio,2020,1.07367
-primar,9,e,skill_read,ratio,2020,0.85392
 primar,12,c,skill_math,ratio,2007,0.70166
 primar,31,c,skill_read,ratio,2011,0.92174
 primar,31,c,skill_read,ratio,2016,1.10476
@@ -862,8 +835,6 @@ primar,48,c,skill_read,ratio,2016,1.13631
 primar,51,c,skill_math,ratio,2003,0.73991
 primar,51,c,skill_math,ratio,2007,1.03429
 primar,51,c,skill_math,ratio,2015,0.92566
-primar,62,e,skill_math,ratio,2020,0.39952
-primar,62,e,skill_read,ratio,2020,0.72861
 primar,76,c,skill_math,ratio,2006,0.87147
 primar,76,c,skill_read,ratio,2006,0.88777
 primar,84,c,skill_read,ratio,2001,0.61261
@@ -872,6 +843,10 @@ primar,100,c,skill_read,ratio,2001,0.92668
 primar,100,c,skill_read,ratio,2006,0.8738
 primar,100,c,skill_read,ratio,2011,0.70709
 primar,100,c,skill_read,ratio,2016,0.83638
+primar,108,c,skill_math,ratio,2019,1.18006
+primar,108,c,skill_read,ratio,2019,0.68689
+primar,120,c,skill_math,ratio,2019,0.38942
+primar,120,c,skill_read,ratio,2019,0.55221
 primar,124,c,skill_math,ratio,2015,0.76335
 primar,124,c,skill_read,ratio,2001,0.85475
 primar,124,c,skill_read,ratio,2011,0.95853
@@ -893,6 +868,8 @@ primar,203,c,skill_math,ratio,2015,1.00559
 primar,203,c,skill_read,ratio,2001,0.83223
 primar,203,c,skill_read,ratio,2011,0.95603
 primar,203,c,skill_read,ratio,2016,1.00784
+primar,204,c,skill_math,ratio,2019,0.74116
+primar,204,c,skill_read,ratio,2019,0.86411
 primar,214,c,skill_math,ratio,2006,0.54957
 primar,214,c,skill_read,ratio,2006,0.49351
 primar,218,c,skill_math,ratio,2006,0.43764
@@ -907,6 +884,8 @@ primar,250,c,skill_read,ratio,2001,0.89371
 primar,250,c,skill_read,ratio,2006,0.88633
 primar,250,c,skill_read,ratio,2011,0.87738
 primar,250,c,skill_read,ratio,2016,0.97781
+primar,266,c,skill_math,ratio,2019,0.74317
+primar,266,c,skill_read,ratio,2019,0.88603
 primar,268,c,skill_math,ratio,2007,0.34321
 primar,268,c,skill_math,ratio,2015,0.44118
 primar,268,c,skill_read,ratio,2006,1.11975
@@ -922,6 +901,8 @@ primar,276,c,skill_read,ratio,2016,0.84288
 primar,300,c,skill_read,ratio,2001,1.04943
 primar,320,c,skill_math,ratio,2006,0.35331
 primar,320,c,skill_read,ratio,2006,0.22493
+primar,324,c,skill_math,ratio,2019,0.96397
+primar,324,c,skill_read,ratio,2019,0.87548
 primar,344,c,skill_math,ratio,2003,0.80517
 primar,344,c,skill_math,ratio,2007,0.84846
 primar,344,c,skill_math,ratio,2011,0.69798
@@ -957,6 +938,8 @@ primar,380,c,skill_math,ratio,2015,0.63149
 primar,380,c,skill_read,ratio,2001,0.91237
 primar,380,c,skill_read,ratio,2006,0.97085
 primar,380,c,skill_read,ratio,2011,0.90132
+primar,384,c,skill_math,ratio,2019,0.33237
+primar,384,c,skill_read,ratio,2019,0.3507
 primar,398,c,skill_math,ratio,2007,0.99081
 primar,398,c,skill_math,ratio,2011,0.98094
 primar,398,c,skill_math,ratio,2015,0.87454
@@ -968,8 +951,6 @@ primar,414,c,skill_math,ratio,2015,1.15468
 primar,414,c,skill_read,ratio,2001,0.94134
 primar,414,c,skill_read,ratio,2006,1.12883
 primar,414,c,skill_read,ratio,2011,1.08171
-primar,419,e,skill_math,ratio,2020,0.53987
-primar,419,e,skill_read,ratio,2020,0.53166
 primar,428,c,skill_math,ratio,2003,0.77627
 primar,428,c,skill_math,ratio,2007,0.97519
 primar,428,c,skill_read,ratio,2001,0.90917
@@ -1005,8 +986,6 @@ primar,512,c,skill_math,ratio,2011,0.61693
 primar,512,c,skill_math,ratio,2015,0.7959
 primar,512,c,skill_read,ratio,2011,0.86124
 primar,512,c,skill_read,ratio,2016,1.11816
-primar,513,e,skill_math,ratio,2020,0.72952
-primar,513,e,skill_read,ratio,2020,0.92553
 primar,528,c,skill_math,ratio,2003,0.8136
 primar,528,c,skill_math,ratio,2007,0.90678
 primar,528,c,skill_math,ratio,2011,0.78205
@@ -1025,6 +1004,8 @@ primar,554,c,skill_read,ratio,2011,0.8278
 primar,554,c,skill_read,ratio,2016,0.85392
 primar,558,c,skill_math,ratio,2006,0.76556
 primar,558,c,skill_read,ratio,2006,0.38758
+primar,562,c,skill_math,ratio,2019,1.17928
+primar,562,c,skill_read,ratio,2019,1.06897
 primar,578,c,skill_math,ratio,2003,0.66558
 primar,578,c,skill_math,ratio,2007,0.60604
 primar,578,c,skill_math,ratio,2011,0.83906
@@ -1064,6 +1045,8 @@ primar,682,c,skill_math,ratio,2011,1.16146
 primar,682,c,skill_math,ratio,2015,1.2114
 primar,682,c,skill_read,ratio,2011,0.96466
 primar,682,c,skill_read,ratio,2016,0.80401
+primar,686,c,skill_math,ratio,2019,1.00093
+primar,686,c,skill_read,ratio,2019,0.97959
 primar,688,c,skill_math,ratio,2011,0.69679
 primar,688,c,skill_math,ratio,2015,0.36146
 primar,702,c,skill_math,ratio,2003,0.87315
@@ -1087,8 +1070,6 @@ primar,724,c,skill_math,ratio,2015,0.80948
 primar,724,c,skill_read,ratio,2006,0.98831
 primar,724,c,skill_read,ratio,2011,0.90179
 primar,724,c,skill_read,ratio,2016,0.93196
-primar,747,e,skill_math,ratio,2020,0.907
-primar,747,e,skill_read,ratio,2020,0.78538
 primar,752,c,skill_math,ratio,2007,0.65352
 primar,752,c,skill_math,ratio,2011,0.66957
 primar,752,c,skill_math,ratio,2015,0.69759
@@ -1096,9 +1077,9 @@ primar,752,c,skill_read,ratio,2001,0.92482
 primar,752,c,skill_read,ratio,2006,0.96881
 primar,752,c,skill_read,ratio,2011,0.95114
 primar,752,c,skill_read,ratio,2016,0.95952
-primar,753,e,skill_math,ratio,2020,0.78519
-primar,753,e,skill_read,ratio,2020,0.98819
 primar,764,c,skill_math,ratio,2011,0.51
+primar,768,c,skill_math,ratio,2019,1.08217
+primar,768,c,skill_read,ratio,2019,0.99849
 primar,780,c,skill_read,ratio,2006,0.4175
 primar,780,c,skill_read,ratio,2011,0.7052
 primar,780,c,skill_read,ratio,2016,1.02311
@@ -1123,6 +1104,8 @@ primar,840,c,skill_read,ratio,2001,0.62938
 primar,840,c,skill_read,ratio,2006,0.95123
 primar,840,c,skill_read,ratio,2011,0.93228
 primar,840,c,skill_read,ratio,2016,0.95137
+primar,854,c,skill_math,ratio,2019,1.03133
+primar,854,c,skill_read,ratio,2019,1.02324
 primar,858,c,skill_math,ratio,2006,0.64179
 primar,858,c,skill_read,ratio,2006,0.55451
 primar,887,c,skill_math,ratio,2003,0.57618
