@@ -8,11 +8,6 @@ age,geo_area,nature,sex,units,year,sp_dyn_mrbf15
 20_24,8,c,female,per_marw_20t24y,2018,1.4
 20_24,12,c,female,per_marw_20t24y,2019,0
 20_24,24,c,female,per_marw_20t24y,2016,7.9
-20_24,30,e,female,per_marw_20t24y,2001,0.4
-20_24,30,e,female,per_marw_20t24y,2006,0.4
-20_24,30,e,female,per_marw_20t24y,2011,0.3
-20_24,30,e,female,per_marw_20t24y,2016,0.3
-20_24,30,e,female,per_marw_20t24y,2021,0.2
 20_24,31,c,female,per_marw_20t24y,2011,1.9
 20_24,32,c,female,per_marw_20t24y,2020,2.4
 20_24,34,e,female,per_marw_20t24y,2001,26.1
@@ -176,11 +171,6 @@ age,geo_area,nature,sex,units,year,sp_dyn_mrbf15
 20_24,729,c,female,per_marw_20t24y,2014,11.9
 20_24,740,c,female,per_marw_20t24y,2018,8.8
 20_24,748,c,female,per_marw_20t24y,2014,0.8
-20_24,753,e,female,per_marw_20t24y,2001,2
-20_24,753,e,female,per_marw_20t24y,2006,1.6
-20_24,753,e,female,per_marw_20t24y,2011,1.2
-20_24,753,e,female,per_marw_20t24y,2016,1
-20_24,753,e,female,per_marw_20t24y,2021,0.9
 20_24,760,c,female,per_marw_20t24y,2006,2.5
 20_24,762,c,female,per_marw_20t24y,2017,0.1
 20_24,764,c,female,per_marw_20t24y,2019,3

@@ -1,8 +1,8 @@
 activity,geo_area,nature,observation_status,units,year,nv_ind_manf
-isic4_c,1,ca,a,percent,2000,15.17
-isic4_c,1,ca,a,percent,2001,14.87
-isic4_c,1,ca,a,percent,2002,14.87
-isic4_c,1,ca,a,percent,2003,15.06
+isic4_c,1,ca,a,percent,2000,14.62
+isic4_c,1,ca,a,percent,2001,14.34
+isic4_c,1,ca,a,percent,2002,14.39
+isic4_c,1,ca,a,percent,2003,14.82
 isic4_c,1,ca,a,percent,2004,15.31
 isic4_c,1,ca,a,percent,2005,15.36
 isic4_c,1,ca,a,percent,2006,15.68
@@ -20,7 +20,7 @@ isic4_c,1,ca,a,percent,2017,16.36
 isic4_c,1,ca,a,percent,2018,16.48
 isic4_c,1,ca,a,percent,2019,16.35
 isic4_c,1,ca,a,percent,2020,16.7
-isic4_c,1,e,a,percent,2021,16.94
+isic4_c,1,e,a,percent,2021,16.92
 isic4_c,2,ca,a,percent,2000,12.23
 isic4_c,2,ca,a,percent,2001,12.1
 isic4_c,2,ca,a,percent,2002,12.12
@@ -42,7 +42,7 @@ isic4_c,2,ca,a,percent,2017,10.66
 isic4_c,2,ca,a,percent,2018,10.72
 isic4_c,2,ca,a,percent,2019,10.66
 isic4_c,2,ca,a,percent,2020,10.67
-isic4_c,2,e,a,percent,2021,10.55
+isic4_c,2,e,a,percent,2021,10.49
 isic4_c,4,ca,a,percent,2000,17.75
 isic4_c,4,ca,a,percent,2001,20.72
 isic4_c,4,ca,a,percent,2002,19.11
@@ -86,7 +86,7 @@ isic4_c,5,ca,a,percent,2017,11.58
 isic4_c,5,ca,a,percent,2018,11.4
 isic4_c,5,ca,a,percent,2019,11.08
 isic4_c,5,ca,a,percent,2020,11.15
-isic4_c,5,e,a,percent,2021,11.16
+isic4_c,5,e,a,percent,2021,11.17
 isic4_c,8,ca,a,percent,2000,4.12
 isic4_c,8,ca,a,percent,2001,4.02
 isic4_c,8,ca,a,percent,2002,4.01
@@ -108,7 +108,7 @@ isic4_c,8,ca,a,percent,2017,6.22
 isic4_c,8,ca,a,percent,2018,6.35
 isic4_c,8,ca,a,percent,2019,6.56
 isic4_c,8,ca,a,percent,2020,6.44
-isic4_c,8,e,a,percent,2021,6.54
+isic4_c,8,e,a,percent,2021,6.61
 isic4_c,9,ca,a,percent,2000,10.13
 isic4_c,9,ca,a,percent,2001,9.98
 isic4_c,9,ca,a,percent,2002,10.14
@@ -130,7 +130,7 @@ isic4_c,9,ca,a,percent,2017,6.46
 isic4_c,9,ca,a,percent,2018,6.12
 isic4_c,9,ca,a,percent,2019,6.05
 isic4_c,9,ca,a,percent,2020,6.05
-isic4_c,9,e,a,percent,2021,5.94
+isic4_c,9,e,a,percent,2021,5.95
 isic4_c,11,ca,a,percent,2000,12.72
 isic4_c,11,ca,a,percent,2001,12.28
 isic4_c,11,ca,a,percent,2002,12.5
@@ -174,7 +174,7 @@ isic4_c,12,ca,a,percent,2017,4.57
 isic4_c,12,ca,a,percent,2018,4.68
 isic4_c,12,ca,a,percent,2019,4.81
 isic4_c,12,ca,a,percent,2020,4.97
-isic4_c,12,e,a,percent,2021,4.94
+isic4_c,12,e,a,percent,2021,4.93
 isic4_c,13,ca,a,percent,2000,19.33
 isic4_c,13,ca,a,percent,2001,18.87
 isic4_c,13,ca,a,percent,2002,18.44
@@ -196,7 +196,7 @@ isic4_c,13,ca,a,percent,2017,16.3
 isic4_c,13,ca,a,percent,2018,16.24
 isic4_c,13,ca,a,percent,2019,16.24
 isic4_c,13,ca,a,percent,2020,16.09
-isic4_c,13,e,a,percent,2021,16.17
+isic4_c,13,e,a,percent,2021,16.07
 isic4_c,14,ca,a,percent,2000,10.41
 isic4_c,14,ca,a,percent,2001,10.25
 isic4_c,14,ca,a,percent,2002,10.05
@@ -218,7 +218,7 @@ isic4_c,14,ca,a,percent,2017,8.91
 isic4_c,14,ca,a,percent,2018,8.87
 isic4_c,14,ca,a,percent,2019,8.78
 isic4_c,14,ca,a,percent,2020,8.77
-isic4_c,14,e,a,percent,2021,8.74
+isic4_c,14,e,a,percent,2021,8.71
 isic4_c,15,ca,a,percent,2000,11.69
 isic4_c,15,ca,a,percent,2001,11.79
 isic4_c,15,ca,a,percent,2002,11.82
@@ -240,7 +240,7 @@ isic4_c,15,ca,a,percent,2017,11.37
 isic4_c,15,ca,a,percent,2018,11.41
 isic4_c,15,ca,a,percent,2019,11.54
 isic4_c,15,ca,a,percent,2020,11.79
-isic4_c,15,e,a,percent,2021,11.47
+isic4_c,15,e,a,percent,2021,11.33
 isic4_c,17,ca,a,percent,2000,11.92
 isic4_c,17,ca,a,percent,2001,11.16
 isic4_c,17,ca,a,percent,2002,11.09
@@ -284,7 +284,7 @@ isic4_c,18,ca,a,percent,2017,11.89
 isic4_c,18,ca,a,percent,2018,11.9
 isic4_c,18,ca,a,percent,2019,11.82
 isic4_c,18,ca,a,percent,2020,11.23
-isic4_c,18,e,a,percent,2021,11.25
+isic4_c,18,e,a,percent,2021,11.24
 isic4_c,19,ca,a,percent,2000,13.6
 isic4_c,19,ca,a,percent,2001,13.06
 isic4_c,19,ca,a,percent,2002,12.93
@@ -306,7 +306,7 @@ isic4_c,19,ca,a,percent,2017,11.89
 isic4_c,19,ca,a,percent,2018,11.95
 isic4_c,19,ca,a,percent,2019,11.85
 isic4_c,19,ca,a,percent,2020,11.9
-isic4_c,19,e,a,percent,2021,12.14
+isic4_c,19,e,a,percent,2021,12.12
 isic4_c,20,ca,a,percent,2000,3.83
 isic4_c,20,ca,a,percent,2001,3.45
 isic4_c,20,ca,a,percent,2002,3.44
@@ -328,7 +328,7 @@ isic4_c,20,ca,a,percent,2017,3.75
 isic4_c,20,ca,a,percent,2018,3.61
 isic4_c,20,ca,a,percent,2019,3.67
 isic4_c,20,ca,a,percent,2020,3.68
-isic4_c,20,e,a,percent,2021,3.63
+isic4_c,20,e,a,percent,2021,3.61
 isic4_c,21,ca,a,percent,2000,12.84
 isic4_c,21,ca,a,percent,2001,12.21
 isic4_c,21,ca,a,percent,2002,12.11
@@ -350,7 +350,7 @@ isic4_c,21,ca,a,percent,2017,11.45
 isic4_c,21,ca,a,percent,2018,11.58
 isic4_c,21,ca,a,percent,2019,11.51
 isic4_c,21,ca,a,percent,2020,11.57
-isic4_c,21,e,a,percent,2021,11.88
+isic4_c,21,e,a,percent,2021,11.85
 isic4_c,24,ca,a,percent,2000,4.84
 isic4_c,24,ca,a,percent,2001,5.06
 isic4_c,24,ca,a,percent,2002,4.8
@@ -372,7 +372,7 @@ isic4_c,24,ca,a,percent,2017,6.98
 isic4_c,24,ca,a,percent,2018,7.17
 isic4_c,24,ca,a,percent,2019,6.16
 isic4_c,24,ca,a,percent,2020,5.96
-isic4_c,24,e,a,percent,2021,6.17
+isic4_c,24,e,a,percent,2021,6.12
 isic4_c,28,ca,a,percent,2000,2.42
 isic4_c,28,ca,a,percent,2001,2.55
 isic4_c,28,ca,a,percent,2002,2.61
@@ -394,7 +394,7 @@ isic4_c,28,ca,a,percent,2017,2.56
 isic4_c,28,ca,a,percent,2018,2.55
 isic4_c,28,ca,a,percent,2019,2.34
 isic4_c,28,ca,a,percent,2020,2.43
-isic4_c,28,e,a,percent,2021,2.41
+isic4_c,28,e,a,percent,2021,2.38
 isic4_c,29,ca,a,percent,2000,25.8
 isic4_c,29,ca,a,percent,2001,27.24
 isic4_c,29,ca,a,percent,2002,27.3
@@ -416,11 +416,11 @@ isic4_c,29,ca,a,percent,2017,22.03
 isic4_c,29,ca,a,percent,2018,21.44
 isic4_c,29,ca,a,percent,2019,20.98
 isic4_c,29,ca,a,percent,2020,22.16
-isic4_c,29,e,a,percent,2021,21.77
-isic4_c,30,ca,a,percent,2000,21.72
-isic4_c,30,ca,a,percent,2001,21.26
-isic4_c,30,ca,a,percent,2002,21.4
-isic4_c,30,ca,a,percent,2003,21.9
+isic4_c,29,e,a,percent,2021,21.75
+isic4_c,30,ca,a,percent,2000,18.47
+isic4_c,30,ca,a,percent,2001,18.09
+isic4_c,30,ca,a,percent,2002,18.63
+isic4_c,30,ca,a,percent,2003,20.57
 isic4_c,30,ca,a,percent,2004,22.46
 isic4_c,30,ca,a,percent,2005,22.68
 isic4_c,30,ca,a,percent,2006,23.12
@@ -438,7 +438,7 @@ isic4_c,30,ca,a,percent,2017,26.14
 isic4_c,30,ca,a,percent,2018,26.25
 isic4_c,30,ca,a,percent,2019,25.97
 isic4_c,30,ca,a,percent,2020,26.5
-isic4_c,30,e,a,percent,2021,26.77
+isic4_c,30,e,a,percent,2021,26.76
 isic4_c,31,ca,a,percent,2000,9.01
 isic4_c,31,ca,a,percent,2001,8.53
 isic4_c,31,ca,a,percent,2002,8.44
@@ -460,7 +460,7 @@ isic4_c,31,ca,a,percent,2017,5.02
 isic4_c,31,ca,a,percent,2018,5.27
 isic4_c,31,ca,a,percent,2019,5.73
 isic4_c,31,ca,a,percent,2020,6.53
-isic4_c,31,e,a,percent,2021,6.4
+isic4_c,31,e,a,percent,2021,6.35
 isic4_c,32,ca,a,percent,2000,14.59
 isic4_c,32,ca,a,percent,2001,14.14
 isic4_c,32,ca,a,percent,2002,14.13
@@ -482,7 +482,7 @@ isic4_c,32,ca,a,percent,2017,13.64
 isic4_c,32,ca,a,percent,2018,13.33
 isic4_c,32,ca,a,percent,2019,12.77
 isic4_c,32,ca,a,percent,2020,13.07
-isic4_c,32,e,a,percent,2021,13.05
+isic4_c,32,e,a,percent,2021,13.1
 isic4_c,34,ca,a,percent,2000,12.34
 isic4_c,34,ca,a,percent,2001,12.5
 isic4_c,34,ca,a,percent,2002,12.63
@@ -504,7 +504,7 @@ isic4_c,34,ca,a,percent,2017,15.14
 isic4_c,34,ca,a,percent,2018,15.02
 isic4_c,34,ca,a,percent,2019,14.57
 isic4_c,34,ca,a,percent,2020,15.83
-isic4_c,34,e,a,percent,2021,15.9
+isic4_c,34,e,a,percent,2021,15.91
 isic4_c,35,ca,a,percent,2000,22.9
 isic4_c,35,ca,a,percent,2001,22.37
 isic4_c,35,ca,a,percent,2002,22.67
@@ -526,7 +526,7 @@ isic4_c,35,ca,a,percent,2017,21.07
 isic4_c,35,ca,a,percent,2018,21.1
 isic4_c,35,ca,a,percent,2019,20.8
 isic4_c,35,ca,a,percent,2020,21.18
-isic4_c,35,e,a,percent,2021,21.1
+isic4_c,35,e,a,percent,2021,21.11
 isic4_c,36,ca,a,percent,2000,9.42
 isic4_c,36,ca,a,percent,2001,9.3
 isic4_c,36,ca,a,percent,2002,9.41
@@ -548,7 +548,7 @@ isic4_c,36,ca,a,percent,2017,5.86
 isic4_c,36,ca,a,percent,2018,5.48
 isic4_c,36,ca,a,percent,2019,5.42
 isic4_c,36,ca,a,percent,2020,5.43
-isic4_c,36,e,a,percent,2021,5.31
+isic4_c,36,e,a,percent,2021,5.32
 isic4_c,39,ca,a,percent,2000,14.97
 isic4_c,39,ca,a,percent,2001,14.78
 isic4_c,39,ca,a,percent,2002,14.64
@@ -570,7 +570,7 @@ isic4_c,39,ca,a,percent,2017,13.24
 isic4_c,39,ca,a,percent,2018,13.17
 isic4_c,39,ca,a,percent,2019,13.02
 isic4_c,39,ca,a,percent,2020,12.89
-isic4_c,39,e,a,percent,2021,13.01
+isic4_c,39,e,a,percent,2021,13.04
 isic4_c,40,ca,a,percent,2000,15.21
 isic4_c,40,ca,a,percent,2001,15.43
 isic4_c,40,ca,a,percent,2002,14.98
@@ -592,7 +592,7 @@ isic4_c,40,ca,a,percent,2017,17.32
 isic4_c,40,ca,a,percent,2018,17.8
 isic4_c,40,ca,a,percent,2019,17.66
 isic4_c,40,ca,a,percent,2020,17.55
-isic4_c,40,e,a,percent,2021,17.87
+isic4_c,40,e,a,percent,2021,17.92
 isic4_c,44,ca,a,percent,2000,2.93
 isic4_c,44,ca,a,percent,2001,2.48
 isic4_c,44,ca,a,percent,2002,2.25
@@ -614,7 +614,7 @@ isic4_c,44,ca,a,percent,2017,2.69
 isic4_c,44,ca,a,percent,2018,1.85
 isic4_c,44,ca,a,percent,2019,0.9
 isic4_c,44,ca,a,percent,2020,0.84
-isic4_c,44,e,a,percent,2021,0.83
+isic4_c,44,e,a,percent,2021,0.85
 isic4_c,48,ca,a,percent,2000,14.7
 isic4_c,48,ca,a,percent,2001,14.86
 isic4_c,48,ca,a,percent,2002,15.02
@@ -636,7 +636,7 @@ isic4_c,48,ca,a,percent,2017,17.12
 isic4_c,48,ca,a,percent,2018,17.14
 isic4_c,48,ca,a,percent,2019,17.07
 isic4_c,48,ca,a,percent,2020,18.51
-isic4_c,48,e,a,percent,2021,18.71
+isic4_c,48,e,a,percent,2021,18.73
 isic4_c,50,ca,a,percent,2000,11.97
 isic4_c,50,ca,a,percent,2001,12.13
 isic4_c,50,ca,a,percent,2002,12.25
@@ -658,7 +658,7 @@ isic4_c,50,ca,a,percent,2017,18.11
 isic4_c,50,ca,a,percent,2018,19.04
 isic4_c,50,ca,a,percent,2019,20.1
 isic4_c,50,ca,a,percent,2020,20.21
-isic4_c,50,e,a,percent,2021,20.48
+isic4_c,50,e,a,percent,2021,20.56
 isic4_c,51,ca,a,percent,2000,9.76
 isic4_c,51,ca,a,percent,2001,9.15
 isic4_c,51,ca,a,percent,2002,9.31
@@ -680,7 +680,7 @@ isic4_c,51,ca,a,percent,2017,10.62
 isic4_c,51,ca,a,percent,2018,11.23
 isic4_c,51,ca,a,percent,2019,11.42
 isic4_c,51,ca,a,percent,2020,11.89
-isic4_c,51,e,a,percent,2021,11.86
+isic4_c,51,e,a,percent,2021,11.89
 isic4_c,52,ca,a,percent,2000,8.93
 isic4_c,52,ca,a,percent,2001,8.4
 isic4_c,52,ca,a,percent,2002,8.36
@@ -702,7 +702,7 @@ isic4_c,52,ca,a,percent,2017,5.26
 isic4_c,52,ca,a,percent,2018,5.17
 isic4_c,52,ca,a,percent,2019,5.14
 isic4_c,52,ca,a,percent,2020,6.24
-isic4_c,52,e,a,percent,2021,6.07
+isic4_c,52,e,a,percent,2021,6.1
 isic4_c,53,ca,a,percent,2000,10.24
 isic4_c,53,ca,a,percent,2001,10.1
 isic4_c,53,ca,a,percent,2002,10.26
@@ -746,7 +746,7 @@ isic4_c,54,ca,a,percent,2017,4.79
 isic4_c,54,ca,a,percent,2018,4.89
 isic4_c,54,ca,a,percent,2019,4.94
 isic4_c,54,ca,a,percent,2020,5.31
-isic4_c,54,e,a,percent,2021,5.12
+isic4_c,54,e,a,percent,2021,5.05
 isic4_c,56,ca,a,percent,2000,14.37
 isic4_c,56,ca,a,percent,2001,14.31
 isic4_c,56,ca,a,percent,2002,14.13
@@ -768,7 +768,7 @@ isic4_c,56,ca,a,percent,2017,12.32
 isic4_c,56,ca,a,percent,2018,12.08
 isic4_c,56,ca,a,percent,2019,12.26
 isic4_c,56,ca,a,percent,2020,12.51
-isic4_c,56,e,a,percent,2021,12.72
+isic4_c,56,e,a,percent,2021,12.76
 isic4_c,57,ca,a,percent,2000,2.13
 isic4_c,57,ca,a,percent,2001,2.34
 isic4_c,57,ca,a,percent,2002,2.38
@@ -790,7 +790,7 @@ isic4_c,57,ca,a,percent,2017,3.42
 isic4_c,57,ca,a,percent,2018,3.51
 isic4_c,57,ca,a,percent,2019,3.51
 isic4_c,57,ca,a,percent,2020,3.6
-isic4_c,57,e,a,percent,2021,4.02
+isic4_c,57,e,a,percent,2021,4
 isic4_c,60,ca,a,percent,2000,2.23
 isic4_c,60,ca,a,percent,2001,1.93
 isic4_c,60,ca,a,percent,2002,1.9
@@ -834,7 +834,7 @@ isic4_c,61,ca,a,percent,2017,5.02
 isic4_c,61,ca,a,percent,2018,5.04
 isic4_c,61,ca,a,percent,2019,5.05
 isic4_c,61,ca,a,percent,2020,5.01
-isic4_c,61,e,a,percent,2021,4.9
+isic4_c,61,e,a,percent,2021,4.89
 isic4_c,62,ca,a,percent,2000,22.37
 isic4_c,62,ca,a,percent,2001,21.84
 isic4_c,62,ca,a,percent,2002,22.04
@@ -856,7 +856,7 @@ isic4_c,62,ca,a,percent,2017,20.31
 isic4_c,62,ca,a,percent,2018,20.37
 isic4_c,62,ca,a,percent,2019,20.06
 isic4_c,62,ca,a,percent,2020,20.47
-isic4_c,62,e,a,percent,2021,20.37
+isic4_c,62,e,a,percent,2021,20.38
 isic4_c,64,ca,a,percent,2000,7.37
 isic4_c,64,ca,a,percent,2001,7.66
 isic4_c,64,ca,a,percent,2002,7.05
@@ -878,7 +878,7 @@ isic4_c,64,ca,a,percent,2017,7.9
 isic4_c,64,ca,a,percent,2018,7.87
 isic4_c,64,ca,a,percent,2019,7.46
 isic4_c,64,ca,a,percent,2020,7.75
-isic4_c,64,e,a,percent,2021,7.63
+isic4_c,64,e,a,percent,2021,7.59
 isic4_c,68,ca,a,percent,2000,10.42
 isic4_c,68,ca,a,percent,2001,10.52
 isic4_c,68,ca,a,percent,2002,10.29
@@ -900,7 +900,7 @@ isic4_c,68,ca,a,percent,2017,10.29
 isic4_c,68,ca,a,percent,2018,10.42
 isic4_c,68,ca,a,percent,2019,10.52
 isic4_c,68,ca,a,percent,2020,12.06
-isic4_c,68,e,a,percent,2021,11.98
+isic4_c,68,e,a,percent,2021,11.86
 isic4_c,70,ca,a,percent,2000,8.26
 isic4_c,70,ca,a,percent,2001,8.59
 isic4_c,70,ca,a,percent,2002,8.86
@@ -922,7 +922,7 @@ isic4_c,70,ca,a,percent,2017,12.52
 isic4_c,70,ca,a,percent,2018,12.28
 isic4_c,70,ca,a,percent,2019,11.95
 isic4_c,70,ca,a,percent,2020,11.59
-isic4_c,70,e,a,percent,2021,11.7
+isic4_c,70,e,a,percent,2021,11.69
 isic4_c,72,ca,a,percent,2000,5.68
 isic4_c,72,ca,a,percent,2001,5.72
 isic4_c,72,ca,a,percent,2002,5.47
@@ -944,7 +944,7 @@ isic4_c,72,ca,a,percent,2017,5.59
 isic4_c,72,ca,a,percent,2018,5.53
 isic4_c,72,ca,a,percent,2019,5.52
 isic4_c,72,ca,a,percent,2020,5.47
-isic4_c,72,e,a,percent,2021,5.37
+isic4_c,72,e,a,percent,2021,5.32
 isic4_c,76,ca,a,percent,2000,13.68
 isic4_c,76,ca,a,percent,2001,13.6
 isic4_c,76,ca,a,percent,2002,13.57
@@ -966,7 +966,7 @@ isic4_c,76,ca,a,percent,2017,10.46
 isic4_c,76,ca,a,percent,2018,10.42
 isic4_c,76,ca,a,percent,2019,10.23
 isic4_c,76,ca,a,percent,2020,10.21
-isic4_c,76,e,a,percent,2021,10.26
+isic4_c,76,e,a,percent,2021,10.23
 isic4_c,84,ca,a,percent,2000,10.63
 isic4_c,84,ca,a,percent,2001,10.13
 isic4_c,84,ca,a,percent,2002,9.8
@@ -988,7 +988,7 @@ isic4_c,84,ca,a,percent,2017,6.49
 isic4_c,84,ca,a,percent,2018,6.51
 isic4_c,84,ca,a,percent,2019,6.44
 isic4_c,84,ca,a,percent,2020,6.22
-isic4_c,84,e,a,percent,2021,6.09
+isic4_c,84,e,a,percent,2021,6.1
 isic4_c,90,ca,a,percent,2000,13.05
 isic4_c,90,ca,a,percent,2001,11.25
 isic4_c,90,ca,a,percent,2002,10.85
@@ -1010,7 +1010,7 @@ isic4_c,90,ca,a,percent,2017,9.3
 isic4_c,90,ca,a,percent,2018,9.22
 isic4_c,90,ca,a,percent,2019,10.1
 isic4_c,90,ca,a,percent,2020,11.67
-isic4_c,90,e,a,percent,2021,11.57
+isic4_c,90,e,a,percent,2021,11.54
 isic4_c,92,ca,a,percent,2000,2.51
 isic4_c,92,ca,a,percent,2001,2.33
 isic4_c,92,ca,a,percent,2002,2.4
@@ -1032,7 +1032,7 @@ isic4_c,92,ca,a,percent,2017,1.95
 isic4_c,92,ca,a,percent,2018,2.06
 isic4_c,92,ca,a,percent,2019,2.1
 isic4_c,92,ca,a,percent,2020,2.12
-isic4_c,92,e,a,percent,2021,2.12
+isic4_c,92,e,a,percent,2021,2.13
 isic4_c,96,ca,a,percent,2000,17.16
 isic4_c,96,ca,a,percent,2001,16.72
 isic4_c,96,ca,a,percent,2002,17.2
@@ -1120,7 +1120,7 @@ isic4_c,108,ca,a,percent,2017,11.19
 isic4_c,108,ca,a,percent,2018,10.82
 isic4_c,108,ca,a,percent,2019,10.44
 isic4_c,108,ca,a,percent,2020,10.82
-isic4_c,108,e,a,percent,2021,10.67
+isic4_c,108,e,a,percent,2021,10.68
 isic4_c,112,ca,a,percent,2000,16.29
 isic4_c,112,ca,a,percent,2001,16.68
 isic4_c,112,ca,a,percent,2002,16.97
@@ -1142,7 +1142,7 @@ isic4_c,112,ca,a,percent,2017,22.01
 isic4_c,112,ca,a,percent,2018,22.43
 isic4_c,112,ca,a,percent,2019,22.39
 isic4_c,112,ca,a,percent,2020,22.63
-isic4_c,112,e,a,percent,2021,23.02
+isic4_c,112,e,a,percent,2021,23.04
 isic4_c,116,ca,a,percent,2000,11.17
 isic4_c,116,ca,a,percent,2001,11.89
 isic4_c,116,ca,a,percent,2002,12.77
@@ -1164,7 +1164,7 @@ isic4_c,116,ca,a,percent,2017,15.95
 isic4_c,116,ca,a,percent,2018,16.2
 isic4_c,116,ca,a,percent,2019,16.15
 isic4_c,116,ca,a,percent,2020,16.21
-isic4_c,116,e,a,percent,2021,16.61
+isic4_c,116,e,a,percent,2021,16.62
 isic4_c,120,ca,a,percent,2000,15.63
 isic4_c,120,ca,a,percent,2001,16.06
 isic4_c,120,ca,a,percent,2002,16.55
@@ -1186,7 +1186,7 @@ isic4_c,120,ca,a,percent,2017,15.13
 isic4_c,120,ca,a,percent,2018,15.06
 isic4_c,120,ca,a,percent,2019,15.11
 isic4_c,120,ca,a,percent,2020,15.75
-isic4_c,120,e,a,percent,2021,15.71
+isic4_c,120,e,a,percent,2021,15.72
 isic4_c,124,ca,a,percent,2000,14.9
 isic4_c,124,ca,a,percent,2001,14.11
 isic4_c,124,ca,a,percent,2002,13.95
@@ -1208,7 +1208,7 @@ isic4_c,124,ca,a,percent,2017,9.77
 isic4_c,124,ca,a,percent,2018,9.82
 isic4_c,124,ca,a,percent,2019,9.62
 isic4_c,124,ca,a,percent,2020,9.74
-isic4_c,124,e,a,percent,2021,10
+isic4_c,124,e,a,percent,2021,9.89
 isic4_c,132,ca,a,percent,2000,8.65
 isic4_c,132,ca,a,percent,2001,6.77
 isic4_c,132,ca,a,percent,2002,6.42
@@ -1230,7 +1230,7 @@ isic4_c,132,ca,a,percent,2017,5.99
 isic4_c,132,ca,a,percent,2018,6.56
 isic4_c,132,ca,a,percent,2019,6.41
 isic4_c,132,ca,a,percent,2020,6.96
-isic4_c,132,e,a,percent,2021,6.91
+isic4_c,132,e,a,percent,2021,6.8
 isic4_c,136,ca,a,percent,2000,0.81
 isic4_c,136,ca,a,percent,2001,0.81
 isic4_c,136,ca,a,percent,2002,0.82
@@ -1274,11 +1274,11 @@ isic4_c,140,ca,a,percent,2017,18.98
 isic4_c,140,ca,a,percent,2018,18.48
 isic4_c,140,ca,a,percent,2019,18.32
 isic4_c,140,ca,a,percent,2020,18.39
-isic4_c,140,e,a,percent,2021,18.52
-isic4_c,142,ca,a,percent,2000,19.46
-isic4_c,142,ca,a,percent,2001,19.13
-isic4_c,142,ca,a,percent,2002,19.3
-isic4_c,142,ca,a,percent,2003,19.66
+isic4_c,140,e,a,percent,2021,18.61
+isic4_c,142,ca,a,percent,2000,17.32
+isic4_c,142,ca,a,percent,2001,17.03
+isic4_c,142,ca,a,percent,2002,17.46
+isic4_c,142,ca,a,percent,2003,18.78
 isic4_c,142,ca,a,percent,2004,20.02
 isic4_c,142,ca,a,percent,2005,20.21
 isic4_c,142,ca,a,percent,2006,20.62
@@ -1296,7 +1296,7 @@ isic4_c,142,ca,a,percent,2017,22.73
 isic4_c,142,ca,a,percent,2018,22.81
 isic4_c,142,ca,a,percent,2019,22.55
 isic4_c,142,ca,a,percent,2020,23.22
-isic4_c,142,e,a,percent,2021,23.45
+isic4_c,142,e,a,percent,2021,23.43
 isic4_c,143,ca,a,percent,2000,16.98
 isic4_c,143,ca,a,percent,2001,16.81
 isic4_c,143,ca,a,percent,2002,16.15
@@ -1318,7 +1318,7 @@ isic4_c,143,ca,a,percent,2017,14.15
 isic4_c,143,ca,a,percent,2018,14.37
 isic4_c,143,ca,a,percent,2019,13.95
 isic4_c,143,ca,a,percent,2020,14.72
-isic4_c,143,e,a,percent,2021,14.64
+isic4_c,143,e,a,percent,2021,14.65
 isic4_c,144,ca,a,percent,2000,20.79
 isic4_c,144,ca,a,percent,2001,20.39
 isic4_c,144,ca,a,percent,2002,19.89
@@ -1362,7 +1362,7 @@ isic4_c,145,ca,a,percent,2017,12.41
 isic4_c,145,ca,a,percent,2018,12.35
 isic4_c,145,ca,a,percent,2019,12.07
 isic4_c,145,ca,a,percent,2020,12.3
-isic4_c,145,e,a,percent,2021,12.54
+isic4_c,145,e,a,percent,2021,12.59
 isic4_c,148,ca,a,percent,2000,11.32
 isic4_c,148,ca,a,percent,2001,11.66
 isic4_c,148,ca,a,percent,2002,13.53
@@ -1384,7 +1384,7 @@ isic4_c,148,ca,a,percent,2017,11.44
 isic4_c,148,ca,a,percent,2018,11.25
 isic4_c,148,ca,a,percent,2019,11.02
 isic4_c,148,ca,a,percent,2020,11.09
-isic4_c,148,e,a,percent,2021,11.53
+isic4_c,148,e,a,percent,2021,11.72
 isic4_c,150,ca,a,percent,2000,14.17
 isic4_c,150,ca,a,percent,2001,14.14
 isic4_c,150,ca,a,percent,2002,14.05
@@ -1406,7 +1406,7 @@ isic4_c,150,ca,a,percent,2017,14.26
 isic4_c,150,ca,a,percent,2018,14.33
 isic4_c,150,ca,a,percent,2019,14.17
 isic4_c,150,ca,a,percent,2020,14.18
-isic4_c,150,e,a,percent,2021,14.43
+isic4_c,150,e,a,percent,2021,14.42
 isic4_c,151,ca,a,percent,2000,14.05
 isic4_c,151,ca,a,percent,2001,14.15
 isic4_c,151,ca,a,percent,2002,14.22
@@ -1428,7 +1428,7 @@ isic4_c,151,ca,a,percent,2017,15.9
 isic4_c,151,ca,a,percent,2018,16.01
 isic4_c,151,ca,a,percent,2019,15.99
 isic4_c,151,ca,a,percent,2020,15.75
-isic4_c,151,e,a,percent,2021,16.03
+isic4_c,151,e,a,percent,2021,16.02
 isic4_c,152,ca,a,percent,2000,14.96
 isic4_c,152,ca,a,percent,2001,14.56
 isic4_c,152,ca,a,percent,2002,14.52
@@ -1450,7 +1450,7 @@ isic4_c,152,ca,a,percent,2017,11.33
 isic4_c,152,ca,a,percent,2018,11.34
 isic4_c,152,ca,a,percent,2019,11.28
 isic4_c,152,ca,a,percent,2020,11.6
-isic4_c,152,e,a,percent,2021,11.37
+isic4_c,152,e,a,percent,2021,11.36
 isic4_c,154,ca,a,percent,2000,11.54
 isic4_c,154,ca,a,percent,2001,11.53
 isic4_c,154,ca,a,percent,2002,11.76
@@ -1472,7 +1472,7 @@ isic4_c,154,ca,a,percent,2017,11.4
 isic4_c,154,ca,a,percent,2018,11.64
 isic4_c,154,ca,a,percent,2019,11.76
 isic4_c,154,ca,a,percent,2020,12.37
-isic4_c,154,e,a,percent,2021,12.78
+isic4_c,154,e,a,percent,2021,12.8
 isic4_c,155,ca,a,percent,2000,15.22
 isic4_c,155,ca,a,percent,2001,15.23
 isic4_c,155,ca,a,percent,2002,14.98
@@ -1494,11 +1494,11 @@ isic4_c,155,ca,a,percent,2017,15.88
 isic4_c,155,ca,a,percent,2018,15.88
 isic4_c,155,ca,a,percent,2019,15.51
 isic4_c,155,ca,a,percent,2020,15.27
-isic4_c,155,e,a,percent,2021,15.48
-isic4_c,156,ca,a,percent,2000,25.94
-isic4_c,156,ca,a,percent,2001,26.03
-isic4_c,156,ca,a,percent,2002,26.14
-isic4_c,156,ca,a,percent,2003,26.29
+isic4_c,155,e,a,percent,2021,15.44
+isic4_c,156,ca,a,percent,2000,16.48
+isic4_c,156,ca,a,percent,2001,17.19
+isic4_c,156,ca,a,percent,2002,18.77
+isic4_c,156,ca,a,percent,2003,22.9
 isic4_c,156,ca,a,percent,2004,26.44
 isic4_c,156,ca,a,percent,2005,25.99
 isic4_c,156,ca,a,percent,2006,26.09
@@ -1516,7 +1516,7 @@ isic4_c,156,ca,a,percent,2017,28.49
 isic4_c,156,ca,a,percent,2018,28.31
 isic4_c,156,ca,a,percent,2019,27.9
 isic4_c,156,ca,a,percent,2020,27.98
-isic4_c,156,e,a,percent,2021,28.06
+isic4_c,156,e,a,percent,2021,28.09
 isic4_c,158,ca,a,percent,2000,19.63
 isic4_c,158,ca,a,percent,2001,18.54
 isic4_c,158,ca,a,percent,2002,19.68
@@ -1560,7 +1560,7 @@ isic4_c,170,ca,a,percent,2017,12.15
 isic4_c,170,ca,a,percent,2018,12.02
 isic4_c,170,ca,a,percent,2019,11.77
 isic4_c,170,ca,a,percent,2020,11.66
-isic4_c,170,e,a,percent,2021,11.57
+isic4_c,170,e,a,percent,2021,11.61
 isic4_c,174,ca,a,percent,2000,6.65
 isic4_c,174,ca,a,percent,2001,6.77
 isic4_c,174,ca,a,percent,2002,6.58
@@ -1582,7 +1582,7 @@ isic4_c,174,ca,a,percent,2017,6.41
 isic4_c,174,ca,a,percent,2018,6.43
 isic4_c,174,ca,a,percent,2019,6.27
 isic4_c,174,ca,a,percent,2020,6.04
-isic4_c,174,e,a,percent,2021,6.01
+isic4_c,174,e,a,percent,2021,6
 isic4_c,178,ca,a,percent,2000,6.53
 isic4_c,178,ca,a,percent,2001,7.77
 isic4_c,178,ca,a,percent,2002,8.69
@@ -1626,7 +1626,7 @@ isic4_c,180,ca,a,percent,2017,17.94
 isic4_c,180,ca,a,percent,2018,16.83
 isic4_c,180,ca,a,percent,2019,17.1
 isic4_c,180,ca,a,percent,2020,15.6
-isic4_c,180,e,a,percent,2021,15.1
+isic4_c,180,e,a,percent,2021,15.15
 isic4_c,184,ca,a,percent,2000,2.65
 isic4_c,184,ca,a,percent,2001,2.63
 isic4_c,184,ca,a,percent,2002,2.65
@@ -1670,7 +1670,7 @@ isic4_c,188,ca,a,percent,2017,11.59
 isic4_c,188,ca,a,percent,2018,11.61
 isic4_c,188,ca,a,percent,2019,11.58
 isic4_c,188,ca,a,percent,2020,12.53
-isic4_c,188,e,a,percent,2021,12.37
+isic4_c,188,e,a,percent,2021,12.29
 isic4_c,191,ca,a,percent,2000,15.46
 isic4_c,191,ca,a,percent,2001,15.22
 isic4_c,191,ca,a,percent,2002,14.69
@@ -1692,7 +1692,7 @@ isic4_c,191,ca,a,percent,2017,13.11
 isic4_c,191,ca,a,percent,2018,12.73
 isic4_c,191,ca,a,percent,2019,12.52
 isic4_c,191,ca,a,percent,2020,13.1
-isic4_c,191,e,a,percent,2021,13.07
+isic4_c,191,e,a,percent,2021,13.17
 isic4_c,192,ca,a,percent,2000,18.98
 isic4_c,192,ca,a,percent,2001,18.28
 isic4_c,192,ca,a,percent,2002,18.05
@@ -1780,7 +1780,7 @@ isic4_c,202,ca,a,percent,2017,10.3
 isic4_c,202,ca,a,percent,2018,10.37
 isic4_c,202,ca,a,percent,2019,10.23
 isic4_c,202,ca,a,percent,2020,10.14
-isic4_c,202,e,a,percent,2021,10.09
+isic4_c,202,e,a,percent,2021,10.08
 isic4_c,203,ca,a,percent,2000,16.58
 isic4_c,203,ca,a,percent,2001,16.76
 isic4_c,203,ca,a,percent,2002,17.15
@@ -1802,7 +1802,7 @@ isic4_c,203,ca,a,percent,2017,25.21
 isic4_c,203,ca,a,percent,2018,24.89
 isic4_c,203,ca,a,percent,2019,25.29
 isic4_c,203,ca,a,percent,2020,24.73
-isic4_c,203,e,a,percent,2021,25.42
+isic4_c,203,e,a,percent,2021,25.36
 isic4_c,204,ca,a,percent,2000,25.37
 isic4_c,204,ca,a,percent,2001,24.29
 isic4_c,204,ca,a,percent,2002,23.5
@@ -1824,7 +1824,7 @@ isic4_c,204,ca,a,percent,2017,9.73
 isic4_c,204,ca,a,percent,2018,9.46
 isic4_c,204,ca,a,percent,2019,9.85
 isic4_c,204,ca,a,percent,2020,10.11
-isic4_c,204,e,a,percent,2021,9.85
+isic4_c,204,e,a,percent,2021,9.75
 isic4_c,208,ca,a,percent,2000,13.37
 isic4_c,208,ca,a,percent,2001,13.47
 isic4_c,208,ca,a,percent,2002,13.08
@@ -1846,7 +1846,7 @@ isic4_c,208,ca,a,percent,2017,13.55
 isic4_c,208,ca,a,percent,2018,13.68
 isic4_c,208,ca,a,percent,2019,14.35
 isic4_c,208,ca,a,percent,2020,14.62
-isic4_c,208,e,a,percent,2021,14.9
+isic4_c,208,e,a,percent,2021,14.93
 isic4_c,212,ca,a,percent,2000,6.63
 isic4_c,212,ca,a,percent,2001,6.25
 isic4_c,212,ca,a,percent,2002,5.7
@@ -1868,7 +1868,7 @@ isic4_c,212,ca,a,percent,2017,3.26
 isic4_c,212,ca,a,percent,2018,3.02
 isic4_c,212,ca,a,percent,2019,2.58
 isic4_c,212,ca,a,percent,2020,3.21
-isic4_c,212,e,a,percent,2021,3.08
+isic4_c,212,e,a,percent,2021,3.07
 isic4_c,214,ca,a,percent,2000,19.67
 isic4_c,214,ca,a,percent,2001,18.96
 isic4_c,214,ca,a,percent,2002,18.8
@@ -1890,7 +1890,7 @@ isic4_c,214,ca,a,percent,2017,13.95
 isic4_c,214,ca,a,percent,2018,13.85
 isic4_c,214,ca,a,percent,2019,13.52
 isic4_c,214,ca,a,percent,2020,14.16
-isic4_c,214,e,a,percent,2021,13.87
+isic4_c,214,e,a,percent,2021,13.76
 isic4_c,218,ca,a,percent,2000,17.67
 isic4_c,218,ca,a,percent,2001,17.38
 isic4_c,218,ca,a,percent,2002,16.99
@@ -1912,7 +1912,7 @@ isic4_c,218,ca,a,percent,2017,14.64
 isic4_c,218,ca,a,percent,2018,14.54
 isic4_c,218,ca,a,percent,2019,14.42
 isic4_c,218,ca,a,percent,2020,14.44
-isic4_c,218,e,a,percent,2021,14.33
+isic4_c,218,e,a,percent,2021,14.31
 isic4_c,222,ca,a,percent,2000,18.05
 isic4_c,222,ca,a,percent,2001,18.16
 isic4_c,222,ca,a,percent,2002,17.95
@@ -1934,7 +1934,7 @@ isic4_c,222,ca,a,percent,2017,16.04
 isic4_c,222,ca,a,percent,2018,15.73
 isic4_c,222,ca,a,percent,2019,15.64
 isic4_c,222,ca,a,percent,2020,14.98
-isic4_c,222,e,a,percent,2021,15.16
+isic4_c,222,e,a,percent,2021,15.2
 isic4_c,226,ca,a,percent,2000,7.55
 isic4_c,226,ca,a,percent,2001,5.19
 isic4_c,226,ca,a,percent,2002,4.9
@@ -1956,7 +1956,7 @@ isic4_c,226,ca,a,percent,2017,23.91
 isic4_c,226,ca,a,percent,2018,22.87
 isic4_c,226,ca,a,percent,2019,21.44
 isic4_c,226,ca,a,percent,2020,19.75
-isic4_c,226,e,a,percent,2021,20.37
+isic4_c,226,e,a,percent,2021,21.6
 isic4_c,231,ca,a,percent,2000,3.84
 isic4_c,231,ca,a,percent,2001,3.67
 isic4_c,231,ca,a,percent,2002,3.66
@@ -1978,7 +1978,7 @@ isic4_c,231,ca,a,percent,2017,5.52
 isic4_c,231,ca,a,percent,2018,5.52
 isic4_c,231,ca,a,percent,2019,5.48
 isic4_c,231,ca,a,percent,2020,5.56
-isic4_c,231,e,a,percent,2021,5.56
+isic4_c,231,e,a,percent,2021,5.63
 isic4_c,232,ca,a,percent,2000,10.39
 isic4_c,232,ca,a,percent,2001,9.94
 isic4_c,232,ca,a,percent,2002,10.4
@@ -2066,7 +2066,7 @@ isic4_c,246,ca,a,percent,2017,15.6
 isic4_c,246,ca,a,percent,2018,14.76
 isic4_c,246,ca,a,percent,2019,15.02
 isic4_c,246,ca,a,percent,2020,15.32
-isic4_c,246,e,a,percent,2021,15.7
+isic4_c,246,e,a,percent,2021,15.75
 isic4_c,250,ca,a,percent,2000,11.17
 isic4_c,250,ca,a,percent,2001,11.08
 isic4_c,250,ca,a,percent,2002,10.94
@@ -2088,7 +2088,7 @@ isic4_c,250,ca,a,percent,2017,10.4
 isic4_c,250,ca,a,percent,2018,10.38
 isic4_c,250,ca,a,percent,2019,10.41
 isic4_c,250,ca,a,percent,2020,10.06
-isic4_c,250,e,a,percent,2021,10.24
+isic4_c,250,e,a,percent,2021,10.27
 isic4_c,258,ca,a,percent,2000,6.4
 isic4_c,258,ca,a,percent,2001,6.41
 isic4_c,258,ca,a,percent,2002,6.65
@@ -2132,7 +2132,7 @@ isic4_c,262,ca,a,percent,2017,2.94
 isic4_c,262,ca,a,percent,2018,2.98
 isic4_c,262,ca,a,percent,2019,3
 isic4_c,262,ca,a,percent,2020,3.09
-isic4_c,262,e,a,percent,2021,3.06
+isic4_c,262,e,a,percent,2021,3.07
 isic4_c,266,ca,a,percent,2000,4.08
 isic4_c,266,ca,a,percent,2001,4.22
 isic4_c,266,ca,a,percent,2002,4.99
@@ -2154,7 +2154,7 @@ isic4_c,266,ca,a,percent,2017,6.94
 isic4_c,266,ca,a,percent,2018,7.85
 isic4_c,266,ca,a,percent,2019,7.84
 isic4_c,266,ca,a,percent,2020,7.74
-isic4_c,266,e,a,percent,2021,8.02
+isic4_c,266,e,a,percent,2021,8.04
 isic4_c,268,ca,a,percent,2000,8
 isic4_c,268,ca,a,percent,2001,7.54
 isic4_c,268,ca,a,percent,2002,8.11
@@ -2176,7 +2176,7 @@ isic4_c,268,ca,a,percent,2017,8.67
 isic4_c,268,ca,a,percent,2018,8.61
 isic4_c,268,ca,a,percent,2019,8.31
 isic4_c,268,ca,a,percent,2020,8.85
-isic4_c,268,e,a,percent,2021,9.06
+isic4_c,268,e,a,percent,2021,9.17
 isic4_c,270,ca,a,percent,2000,6.19
 isic4_c,270,ca,a,percent,2001,5.95
 isic4_c,270,ca,a,percent,2002,6.2
@@ -2198,7 +2198,7 @@ isic4_c,270,ca,a,percent,2017,5.09
 isic4_c,270,ca,a,percent,2018,4.69
 isic4_c,270,ca,a,percent,2019,4.02
 isic4_c,270,ca,a,percent,2020,3.38
-isic4_c,270,e,a,percent,2021,3.26
+isic4_c,270,e,a,percent,2021,3.23
 isic4_c,275,ca,a,percent,2000,11.05
 isic4_c,275,ca,a,percent,2001,12.04
 isic4_c,275,ca,a,percent,2002,10.49
@@ -2220,7 +2220,7 @@ isic4_c,275,ca,a,percent,2017,11.39
 isic4_c,275,ca,a,percent,2018,11.29
 isic4_c,275,ca,a,percent,2019,11.24
 isic4_c,275,ca,a,percent,2020,11.06
-isic4_c,275,e,a,percent,2021,10.91
+isic4_c,275,e,a,percent,2021,10.92
 isic4_c,276,ca,a,percent,2000,19.03
 isic4_c,276,ca,a,percent,2001,18.98
 isic4_c,276,ca,a,percent,2002,18.55
@@ -2242,7 +2242,7 @@ isic4_c,276,ca,a,percent,2017,20.84
 isic4_c,276,ca,a,percent,2018,20.77
 isic4_c,276,ca,a,percent,2019,19.85
 isic4_c,276,ca,a,percent,2020,19.34
-isic4_c,276,e,a,percent,2021,19.73
+isic4_c,276,e,a,percent,2021,19.65
 isic4_c,288,ca,a,percent,2000,16.18
 isic4_c,288,ca,a,percent,2001,16.05
 isic4_c,288,ca,a,percent,2002,16.05
@@ -2264,7 +2264,7 @@ isic4_c,288,ca,a,percent,2017,11.73
 isic4_c,288,ca,a,percent,2018,11.51
 isic4_c,288,ca,a,percent,2019,11.49
 isic4_c,288,ca,a,percent,2020,11.6
-isic4_c,288,e,a,percent,2021,11.46
+isic4_c,288,e,a,percent,2021,11.47
 isic4_c,296,ca,a,percent,2000,4.61
 isic4_c,296,ca,a,percent,2001,4.72
 isic4_c,296,ca,a,percent,2002,5.09
@@ -2286,7 +2286,7 @@ isic4_c,296,ca,a,percent,2017,4.17
 isic4_c,296,ca,a,percent,2018,4
 isic4_c,296,ca,a,percent,2019,4.03
 isic4_c,296,ca,a,percent,2020,4.16
-isic4_c,296,e,a,percent,2021,4.1
+isic4_c,296,e,a,percent,2021,4.12
 isic4_c,300,ca,a,percent,2000,11.21
 isic4_c,300,ca,a,percent,2001,11.82
 isic4_c,300,ca,a,percent,2002,11.98
@@ -2308,7 +2308,7 @@ isic4_c,300,ca,a,percent,2017,8.27
 isic4_c,300,ca,a,percent,2018,8.6
 isic4_c,300,ca,a,percent,2019,8.77
 isic4_c,300,ca,a,percent,2020,10.36
-isic4_c,300,e,a,percent,2021,10.23
+isic4_c,300,e,a,percent,2021,10.22
 isic4_c,304,ca,a,percent,2000,4.84
 isic4_c,304,ca,a,percent,2001,4.98
 isic4_c,304,ca,a,percent,2002,5.14
@@ -2330,7 +2330,7 @@ isic4_c,304,ca,a,percent,2017,1.9
 isic4_c,304,ca,a,percent,2018,3.54
 isic4_c,304,ca,a,percent,2019,3.42
 isic4_c,304,ca,a,percent,2020,3.09
-isic4_c,304,e,a,percent,2021,3.24
+isic4_c,304,e,a,percent,2021,3.22
 isic4_c,308,ca,a,percent,2000,4.77
 isic4_c,308,ca,a,percent,2001,4.92
 isic4_c,308,ca,a,percent,2002,5.06
@@ -2352,7 +2352,7 @@ isic4_c,308,ca,a,percent,2017,3.39
 isic4_c,308,ca,a,percent,2018,3.55
 isic4_c,308,ca,a,percent,2019,3.64
 isic4_c,308,ca,a,percent,2020,3.79
-isic4_c,308,e,a,percent,2021,3.81
+isic4_c,308,e,a,percent,2021,3.8
 isic4_c,320,ca,a,percent,2000,16.18
 isic4_c,320,ca,a,percent,2001,15.99
 isic4_c,320,ca,a,percent,2002,15.57
@@ -2374,7 +2374,7 @@ isic4_c,320,ca,a,percent,2017,14.35
 isic4_c,320,ca,a,percent,2018,14.35
 isic4_c,320,ca,a,percent,2019,14.24
 isic4_c,320,ca,a,percent,2020,14.43
-isic4_c,320,e,a,percent,2021,14.19
+isic4_c,320,e,a,percent,2021,14.04
 isic4_c,324,ca,a,percent,2000,13.56
 isic4_c,324,ca,a,percent,2001,13.8
 isic4_c,324,ca,a,percent,2002,13.89
@@ -2396,7 +2396,7 @@ isic4_c,324,ca,a,percent,2017,11.25
 isic4_c,324,ca,a,percent,2018,11.5
 isic4_c,324,ca,a,percent,2019,11.41
 isic4_c,324,ca,a,percent,2020,10.9
-isic4_c,324,e,a,percent,2021,10.82
+isic4_c,324,e,a,percent,2021,10.89
 isic4_c,328,ca,a,percent,2000,11.26
 isic4_c,328,ca,a,percent,2001,11.26
 isic4_c,328,ca,a,percent,2002,6.07
@@ -2418,7 +2418,7 @@ isic4_c,328,ca,a,percent,2017,4.69
 isic4_c,328,ca,a,percent,2018,4.59
 isic4_c,328,ca,a,percent,2019,5
 isic4_c,328,ca,a,percent,2020,3.18
-isic4_c,328,e,a,percent,2021,2.72
+isic4_c,328,e,a,percent,2021,2.73
 isic4_c,332,ca,a,percent,2000,15.37
 isic4_c,332,ca,a,percent,2001,15.43
 isic4_c,332,ca,a,percent,2002,15.67
@@ -2462,7 +2462,7 @@ isic4_c,340,ca,a,percent,2017,17.24
 isic4_c,340,ca,a,percent,2018,17.25
 isic4_c,340,ca,a,percent,2019,17.14
 isic4_c,340,ca,a,percent,2020,16.18
-isic4_c,340,e,a,percent,2021,16.21
+isic4_c,340,e,a,percent,2021,16.49
 isic4_c,344,ca,a,percent,2000,2.87
 isic4_c,344,ca,a,percent,2001,2.6
 isic4_c,344,ca,a,percent,2002,2.31
@@ -2506,7 +2506,7 @@ isic4_c,348,ca,a,percent,2017,19.64
 isic4_c,348,ca,a,percent,2018,19.16
 isic4_c,348,ca,a,percent,2019,18.63
 isic4_c,348,ca,a,percent,2020,18.06
-isic4_c,348,e,a,percent,2021,18.72
+isic4_c,348,e,a,percent,2021,18.69
 isic4_c,352,ca,a,percent,2000,10.22
 isic4_c,352,ca,a,percent,2001,10.42
 isic4_c,352,ca,a,percent,2002,10.13
@@ -2528,7 +2528,7 @@ isic4_c,352,ca,a,percent,2017,9.66
 isic4_c,352,ca,a,percent,2018,9.64
 isic4_c,352,ca,a,percent,2019,9.08
 isic4_c,352,ca,a,percent,2020,9.23
-isic4_c,352,e,a,percent,2021,9.13
+isic4_c,352,e,a,percent,2021,9.1
 isic4_c,356,ca,a,percent,2000,13.47
 isic4_c,356,ca,a,percent,2001,13.3
 isic4_c,356,ca,a,percent,2002,13.38
@@ -2550,7 +2550,7 @@ isic4_c,356,ca,a,percent,2017,15.64
 isic4_c,356,ca,a,percent,2018,15.46
 isic4_c,356,ca,a,percent,2019,14.5
 isic4_c,356,ca,a,percent,2020,16.61
-isic4_c,356,e,a,percent,2021,16.57
+isic4_c,356,e,a,percent,2021,16.59
 isic4_c,360,ca,a,percent,2000,23.16
 isic4_c,360,ca,a,percent,2001,23.09
 isic4_c,360,ca,a,percent,2002,23.26
@@ -2572,7 +2572,7 @@ isic4_c,360,ca,a,percent,2017,20.68
 isic4_c,360,ca,a,percent,2018,20.5
 isic4_c,360,ca,a,percent,2019,20.26
 isic4_c,360,ca,a,percent,2020,20.08
-isic4_c,360,e,a,percent,2021,20.13
+isic4_c,360,e,a,percent,2021,20.12
 isic4_c,364,ca,a,percent,2000,9.13
 isic4_c,364,ca,a,percent,2001,10.03
 isic4_c,364,ca,a,percent,2002,10.53
@@ -2594,7 +2594,7 @@ isic4_c,364,ca,a,percent,2017,13.65
 isic4_c,364,ca,a,percent,2018,13.05
 isic4_c,364,ca,a,percent,2019,14.29
 isic4_c,364,ca,a,percent,2020,12.91
-isic4_c,364,e,a,percent,2021,13.2
+isic4_c,364,e,a,percent,2021,13.24
 isic4_c,368,ca,a,percent,2000,6.33
 isic4_c,368,ca,a,percent,2001,6.76
 isic4_c,368,ca,a,percent,2002,6.62
@@ -2616,7 +2616,7 @@ isic4_c,368,ca,a,percent,2017,2.18
 isic4_c,368,ca,a,percent,2018,2.39
 isic4_c,368,ca,a,percent,2019,2.4
 isic4_c,368,ca,a,percent,2020,2.87
-isic4_c,368,e,a,percent,2021,2.81
+isic4_c,368,e,a,percent,2021,2.8
 isic4_c,372,ca,a,percent,2000,26.17
 isic4_c,372,ca,a,percent,2001,26.15
 isic4_c,372,ca,a,percent,2002,27.58
@@ -2638,7 +2638,7 @@ isic4_c,372,ca,a,percent,2017,31.92
 isic4_c,372,ca,a,percent,2018,32.46
 isic4_c,372,ca,a,percent,2019,31.67
 isic4_c,372,ca,a,percent,2020,36.81
-isic4_c,372,e,a,percent,2021,39.22
+isic4_c,372,e,a,percent,2021,39.32
 isic4_c,376,ca,a,percent,2000,18.04
 isic4_c,376,ca,a,percent,2001,16.5
 isic4_c,376,ca,a,percent,2002,15.72
@@ -2660,7 +2660,7 @@ isic4_c,376,ca,a,percent,2017,11.99
 isic4_c,376,ca,a,percent,2018,11.84
 isic4_c,376,ca,a,percent,2019,11.7
 isic4_c,376,ca,a,percent,2020,11.84
-isic4_c,376,e,a,percent,2021,11.74
+isic4_c,376,e,a,percent,2021,11.77
 isic4_c,380,ca,a,percent,2000,15.63
 isic4_c,380,ca,a,percent,2001,15.28
 isic4_c,380,ca,a,percent,2002,15.23
@@ -2682,7 +2682,7 @@ isic4_c,380,ca,a,percent,2017,14.89
 isic4_c,380,ca,a,percent,2018,15.01
 isic4_c,380,ca,a,percent,2019,14.87
 isic4_c,380,ca,a,percent,2020,14.45
-isic4_c,380,e,a,percent,2021,14.73
+isic4_c,380,e,a,percent,2021,14.78
 isic4_c,384,ca,a,percent,2000,15.37
 isic4_c,384,ca,a,percent,2001,13.18
 isic4_c,384,ca,a,percent,2002,14.44
@@ -2704,7 +2704,7 @@ isic4_c,384,ca,a,percent,2017,13.39
 isic4_c,384,ca,a,percent,2018,16.16
 isic4_c,384,ca,a,percent,2019,15.95
 isic4_c,384,ca,a,percent,2020,17.96
-isic4_c,384,e,a,percent,2021,18.04
+isic4_c,384,e,a,percent,2021,18.03
 isic4_c,388,ca,a,percent,2000,9.87
 isic4_c,388,ca,a,percent,2001,9.67
 isic4_c,388,ca,a,percent,2002,9.43
@@ -2726,7 +2726,7 @@ isic4_c,388,ca,a,percent,2017,8.08
 isic4_c,388,ca,a,percent,2018,7.99
 isic4_c,388,ca,a,percent,2019,8.06
 isic4_c,388,ca,a,percent,2020,8.5
-isic4_c,388,e,a,percent,2021,8.19
+isic4_c,388,e,a,percent,2021,8.2
 isic4_c,392,ca,a,percent,2000,19.61
 isic4_c,392,ca,a,percent,2001,18.52
 isic4_c,392,ca,a,percent,2002,18.26
@@ -2748,7 +2748,7 @@ isic4_c,392,ca,a,percent,2017,20.82
 isic4_c,392,ca,a,percent,2018,21.47
 isic4_c,392,ca,a,percent,2019,21.22
 isic4_c,392,ca,a,percent,2020,22.67
-isic4_c,392,e,a,percent,2021,23.19
+isic4_c,392,e,a,percent,2021,22.96
 isic4_c,398,ca,a,percent,2000,12.75
 isic4_c,398,ca,a,percent,2001,12.77
 isic4_c,398,ca,a,percent,2002,12.52
@@ -2770,7 +2770,7 @@ isic4_c,398,ca,a,percent,2017,10.55
 isic4_c,398,ca,a,percent,2018,10.59
 isic4_c,398,ca,a,percent,2019,10.72
 isic4_c,398,ca,a,percent,2020,11.43
-isic4_c,398,e,a,percent,2021,11.43
+isic4_c,398,e,a,percent,2021,11.42
 isic4_c,400,ca,a,percent,2000,14.95
 isic4_c,400,ca,a,percent,2001,15.27
 isic4_c,400,ca,a,percent,2002,17.39
@@ -2814,7 +2814,7 @@ isic4_c,404,ca,a,percent,2017,9.46
 isic4_c,404,ca,a,percent,2018,9.28
 isic4_c,404,ca,a,percent,2019,9.06
 isic4_c,404,ca,a,percent,2020,9.08
-isic4_c,404,e,a,percent,2021,8.91
+isic4_c,404,e,a,percent,2021,8.86
 isic4_c,408,ca,a,percent,2000,22.2
 isic4_c,408,ca,a,percent,2001,22.08
 isic4_c,408,ca,a,percent,2002,21.49
@@ -2858,7 +2858,7 @@ isic4_c,410,ca,a,percent,2017,26.58
 isic4_c,410,ca,a,percent,2018,26.68
 isic4_c,410,ca,a,percent,2019,26.39
 isic4_c,410,ca,a,percent,2020,26.38
-isic4_c,410,e,a,percent,2021,26.59
+isic4_c,410,e,a,percent,2021,26.56
 isic4_c,414,ca,a,percent,2000,6.93
 isic4_c,414,ca,a,percent,2001,6.5
 isic4_c,414,ca,a,percent,2002,8.04
@@ -2880,7 +2880,7 @@ isic4_c,414,ca,a,percent,2017,9.12
 isic4_c,414,ca,a,percent,2018,9.1
 isic4_c,414,ca,a,percent,2019,9.18
 isic4_c,414,ca,a,percent,2020,6.79
-isic4_c,414,e,a,percent,2021,6.72
+isic4_c,414,e,a,percent,2021,6.75
 isic4_c,417,ca,a,percent,2000,24.21
 isic4_c,417,ca,a,percent,2001,25.07
 isic4_c,417,ca,a,percent,2002,22.35
@@ -2902,7 +2902,7 @@ isic4_c,417,ca,a,percent,2017,14.52
 isic4_c,417,ca,a,percent,2018,14.7
 isic4_c,417,ca,a,percent,2019,15.16
 isic4_c,417,ca,a,percent,2020,15.39
-isic4_c,417,e,a,percent,2021,15.12
+isic4_c,417,e,a,percent,2021,15.29
 isic4_c,418,ca,a,percent,2000,6.69
 isic4_c,418,ca,a,percent,2001,7.09
 isic4_c,418,ca,a,percent,2002,7.16
@@ -2946,7 +2946,7 @@ isic4_c,419,ca,a,percent,2017,13.53
 isic4_c,419,ca,a,percent,2018,13.38
 isic4_c,419,ca,a,percent,2019,13.16
 isic4_c,419,ca,a,percent,2020,13.23
-isic4_c,419,e,a,percent,2021,13.21
+isic4_c,419,e,a,percent,2021,13.18
 isic4_c,422,ca,a,percent,2000,9.71
 isic4_c,422,ca,a,percent,2001,9.36
 isic4_c,422,ca,a,percent,2002,9.22
@@ -2990,7 +2990,7 @@ isic4_c,426,ca,a,percent,2017,16.04
 isic4_c,426,ca,a,percent,2018,18.55
 isic4_c,426,ca,a,percent,2019,17.97
 isic4_c,426,ca,a,percent,2020,17.82
-isic4_c,426,e,a,percent,2021,18.14
+isic4_c,426,e,a,percent,2021,18.19
 isic4_c,428,ca,a,percent,2000,13.52
 isic4_c,428,ca,a,percent,2001,13.63
 isic4_c,428,ca,a,percent,2002,14.18
@@ -3056,7 +3056,7 @@ isic4_c,432,ca,a,percent,2017,11.46
 isic4_c,432,ca,a,percent,2018,11.62
 isic4_c,432,ca,a,percent,2019,11.46
 isic4_c,432,ca,a,percent,2020,11.9
-isic4_c,432,e,a,percent,2021,11.87
+isic4_c,432,e,a,percent,2021,11.85
 isic4_c,434,ca,a,percent,2000,2.32
 isic4_c,434,ca,a,percent,2001,2.19
 isic4_c,434,ca,a,percent,2002,2.27
@@ -3078,7 +3078,7 @@ isic4_c,434,ca,a,percent,2017,2.84
 isic4_c,434,ca,a,percent,2018,2.63
 isic4_c,434,ca,a,percent,2019,2.9
 isic4_c,434,ca,a,percent,2020,2.79
-isic4_c,434,e,a,percent,2021,2.14
+isic4_c,434,e,a,percent,2021,2.04
 isic4_c,438,ca,a,percent,2000,33.6
 isic4_c,438,ca,a,percent,2001,35.79
 isic4_c,438,ca,a,percent,2002,36.61
@@ -3122,7 +3122,7 @@ isic4_c,440,ca,a,percent,2017,17.54
 isic4_c,440,ca,a,percent,2018,17.51
 isic4_c,440,ca,a,percent,2019,17.42
 isic4_c,440,ca,a,percent,2020,17.64
-isic4_c,440,e,a,percent,2021,17.88
+isic4_c,440,e,a,percent,2021,17.9
 isic4_c,442,ca,a,percent,2000,7.15
 isic4_c,442,ca,a,percent,2001,6.77
 isic4_c,442,ca,a,percent,2002,6.87
@@ -3144,7 +3144,7 @@ isic4_c,442,ca,a,percent,2017,4.59
 isic4_c,442,ca,a,percent,2018,4.42
 isic4_c,442,ca,a,percent,2019,4.89
 isic4_c,442,ca,a,percent,2020,4.77
-isic4_c,442,e,a,percent,2021,4.79
+isic4_c,442,e,a,percent,2021,4.83
 isic4_c,446,ca,a,percent,2000,9.06
 isic4_c,446,ca,a,percent,2001,7.3
 isic4_c,446,ca,a,percent,2002,6.41
@@ -3166,7 +3166,7 @@ isic4_c,446,ca,a,percent,2017,0.56
 isic4_c,446,ca,a,percent,2018,0.55
 isic4_c,446,ca,a,percent,2019,0.56
 isic4_c,446,ca,a,percent,2020,0.56
-isic4_c,446,e,a,percent,2021,0.44
+isic4_c,446,e,a,percent,2021,0.45
 isic4_c,450,ca,a,percent,2000,9.42
 isic4_c,450,ca,a,percent,2001,9.85
 isic4_c,450,ca,a,percent,2002,9.18
@@ -3188,7 +3188,7 @@ isic4_c,450,ca,a,percent,2017,8.67
 isic4_c,450,ca,a,percent,2018,8.81
 isic4_c,450,ca,a,percent,2019,8.82
 isic4_c,450,ca,a,percent,2020,8.42
-isic4_c,450,e,a,percent,2021,8.41
+isic4_c,450,e,a,percent,2021,8.43
 isic4_c,454,ca,a,percent,2000,7.35
 isic4_c,454,ca,a,percent,2001,6.63
 isic4_c,454,ca,a,percent,2002,6.45
@@ -3232,7 +3232,7 @@ isic4_c,458,ca,a,percent,2017,22.33
 isic4_c,458,ca,a,percent,2018,22.37
 isic4_c,458,ca,a,percent,2019,22.25
 isic4_c,458,ca,a,percent,2020,22.95
-isic4_c,458,e,a,percent,2021,22.8
+isic4_c,458,e,a,percent,2021,22.74
 isic4_c,462,ca,a,percent,2000,2.46
 isic4_c,462,ca,a,percent,2001,2.99
 isic4_c,462,ca,a,percent,2002,2.9
@@ -3254,7 +3254,7 @@ isic4_c,462,ca,a,percent,2017,2.06
 isic4_c,462,ca,a,percent,2018,2.12
 isic4_c,462,ca,a,percent,2019,2.03
 isic4_c,462,ca,a,percent,2020,2.41
-isic4_c,462,e,a,percent,2021,2.32
+isic4_c,462,e,a,percent,2021,2.22
 isic4_c,466,ca,a,percent,2000,14.29
 isic4_c,466,ca,a,percent,2001,15.38
 isic4_c,466,ca,a,percent,2002,17.82
@@ -3276,7 +3276,7 @@ isic4_c,466,ca,a,percent,2017,13.72
 isic4_c,466,ca,a,percent,2018,15.35
 isic4_c,466,ca,a,percent,2019,15.98
 isic4_c,466,ca,a,percent,2020,17.26
-isic4_c,466,e,a,percent,2021,17.61
+isic4_c,466,e,a,percent,2021,17.58
 isic4_c,470,ca,a,percent,2000,13.1
 isic4_c,470,ca,a,percent,2001,10.96
 isic4_c,470,ca,a,percent,2002,11.09
@@ -3298,7 +3298,7 @@ isic4_c,470,ca,a,percent,2017,7.13
 isic4_c,470,ca,a,percent,2018,7.35
 isic4_c,470,ca,a,percent,2019,7.29
 isic4_c,470,ca,a,percent,2020,7.8
-isic4_c,470,e,a,percent,2021,7.66
+isic4_c,470,e,a,percent,2021,7.65
 isic4_c,478,ca,a,percent,2000,9.41
 isic4_c,478,ca,a,percent,2001,8.93
 isic4_c,478,ca,a,percent,2002,10.08
@@ -3320,7 +3320,7 @@ isic4_c,478,ca,a,percent,2017,8.28
 isic4_c,478,ca,a,percent,2018,7.86
 isic4_c,478,ca,a,percent,2019,7.56
 isic4_c,478,ca,a,percent,2020,8.24
-isic4_c,478,e,a,percent,2021,8.3
+isic4_c,478,e,a,percent,2021,8.28
 isic4_c,480,ca,a,percent,2000,18.98
 isic4_c,480,ca,a,percent,2001,19.28
 isic4_c,480,ca,a,percent,2002,18.5
@@ -3342,7 +3342,7 @@ isic4_c,480,ca,a,percent,2017,12.32
 isic4_c,480,ca,a,percent,2018,11.95
 isic4_c,480,ca,a,percent,2019,11.65
 isic4_c,480,ca,a,percent,2020,11.25
-isic4_c,480,e,a,percent,2021,11.08
+isic4_c,480,e,a,percent,2021,11.07
 isic4_c,484,ca,a,percent,2000,19.8
 isic4_c,484,ca,a,percent,2001,19.33
 isic4_c,484,ca,a,percent,2002,18.87
@@ -3364,7 +3364,7 @@ isic4_c,484,ca,a,percent,2017,17.17
 isic4_c,484,ca,a,percent,2018,17.11
 isic4_c,484,ca,a,percent,2019,17.15
 isic4_c,484,ca,a,percent,2020,16.91
-isic4_c,484,e,a,percent,2021,17.06
+isic4_c,484,e,a,percent,2021,16.99
 isic4_c,492,ca,a,percent,2000,6.38
 isic4_c,492,ca,a,percent,2001,6.38
 isic4_c,492,ca,a,percent,2002,6.29
@@ -3386,7 +3386,7 @@ isic4_c,492,ca,a,percent,2017,4.05
 isic4_c,492,ca,a,percent,2018,3.63
 isic4_c,492,ca,a,percent,2019,3.12
 isic4_c,492,ca,a,percent,2020,3.5
-isic4_c,492,e,a,percent,2021,3.37
+isic4_c,492,e,a,percent,2021,3.36
 isic4_c,496,ca,a,percent,2000,7.73
 isic4_c,496,ca,a,percent,2001,10.26
 isic4_c,496,ca,a,percent,2002,12.26
@@ -3408,7 +3408,7 @@ isic4_c,496,ca,a,percent,2017,8.52
 isic4_c,496,ca,a,percent,2018,9.19
 isic4_c,496,ca,a,percent,2019,9.69
 isic4_c,496,ca,a,percent,2020,10.37
-isic4_c,496,e,a,percent,2021,10.3
+isic4_c,496,e,a,percent,2021,10.33
 isic4_c,498,ca,a,percent,2000,14.28
 isic4_c,498,ca,a,percent,2001,14.2
 isic4_c,498,ca,a,percent,2002,13.55
@@ -3430,7 +3430,7 @@ isic4_c,498,ca,a,percent,2017,11.77
 isic4_c,498,ca,a,percent,2018,11.69
 isic4_c,498,ca,a,percent,2019,11.61
 isic4_c,498,ca,a,percent,2020,11.69
-isic4_c,498,e,a,percent,2021,11.66
+isic4_c,498,e,a,percent,2021,11.95
 isic4_c,499,ca,a,percent,2000,11.47
 isic4_c,499,ca,a,percent,2001,11.48
 isic4_c,499,ca,a,percent,2002,10.77
@@ -3452,7 +3452,7 @@ isic4_c,499,ca,a,percent,2017,3.98
 isic4_c,499,ca,a,percent,2018,4.13
 isic4_c,499,ca,a,percent,2019,3.93
 isic4_c,499,ca,a,percent,2020,4.81
-isic4_c,499,e,a,percent,2021,4.73
+isic4_c,499,e,a,percent,2021,4.72
 isic4_c,500,ca,a,percent,2000,1.31
 isic4_c,500,ca,a,percent,2001,1.32
 isic4_c,500,ca,a,percent,2002,1.44
@@ -3474,7 +3474,7 @@ isic4_c,500,ca,a,percent,2017,2.35
 isic4_c,500,ca,a,percent,2018,2.36
 isic4_c,500,ca,a,percent,2019,3.83
 isic4_c,500,ca,a,percent,2020,3.02
-isic4_c,500,e,a,percent,2021,3.12
+isic4_c,500,e,a,percent,2021,3.14
 isic4_c,504,ca,a,percent,2000,17.26
 isic4_c,504,ca,a,percent,2001,16.52
 isic4_c,504,ca,a,percent,2002,16.61
@@ -3496,7 +3496,7 @@ isic4_c,504,ca,a,percent,2017,15.41
 isic4_c,504,ca,a,percent,2018,15.74
 isic4_c,504,ca,a,percent,2019,15.7
 isic4_c,504,ca,a,percent,2020,15.05
-isic4_c,504,e,a,percent,2021,14.67
+isic4_c,504,e,a,percent,2021,14.48
 isic4_c,508,ca,a,percent,2000,9.32
 isic4_c,508,ca,a,percent,2001,11.2
 isic4_c,508,ca,a,percent,2002,11.14
@@ -3518,7 +3518,7 @@ isic4_c,508,ca,a,percent,2017,8.08
 isic4_c,508,ca,a,percent,2018,7.95
 isic4_c,508,ca,a,percent,2019,7.88
 isic4_c,508,ca,a,percent,2020,7.86
-isic4_c,508,e,a,percent,2021,7.79
+isic4_c,508,e,a,percent,2021,7.78
 isic4_c,512,ca,a,percent,2000,4.66
 isic4_c,512,ca,a,percent,2001,6.8
 isic4_c,512,ca,a,percent,2002,7.8
@@ -3540,7 +3540,7 @@ isic4_c,512,ca,a,percent,2017,9.99
 isic4_c,512,ca,a,percent,2018,10.87
 isic4_c,512,ca,a,percent,2019,11.45
 isic4_c,512,ca,a,percent,2020,12.37
-isic4_c,512,e,a,percent,2021,12.8
+isic4_c,512,e,a,percent,2021,12.83
 isic4_c,513,ca,a,percent,2000,13.52
 isic4_c,513,ca,a,percent,2001,13.19
 isic4_c,513,ca,a,percent,2002,13.1
@@ -3562,7 +3562,7 @@ isic4_c,513,ca,a,percent,2017,12.84
 isic4_c,513,ca,a,percent,2018,12.93
 isic4_c,513,ca,a,percent,2019,12.82
 isic4_c,513,ca,a,percent,2020,12.84
-isic4_c,513,e,a,percent,2021,13.11
+isic4_c,513,e,a,percent,2021,13.1
 isic4_c,516,ca,a,percent,2000,12.87
 isic4_c,516,ca,a,percent,2001,13.48
 isic4_c,516,ca,a,percent,2002,13.37
@@ -3584,7 +3584,7 @@ isic4_c,516,ca,a,percent,2017,12.47
 isic4_c,516,ca,a,percent,2018,12.29
 isic4_c,516,ca,a,percent,2019,12.89
 isic4_c,516,ca,a,percent,2020,11.27
-isic4_c,516,e,a,percent,2021,11.45
+isic4_c,516,e,a,percent,2021,11.49
 isic4_c,520,ca,a,percent,2000,2.16
 isic4_c,520,ca,a,percent,2001,1.8
 isic4_c,520,ca,a,percent,2002,1.83
@@ -3627,7 +3627,7 @@ isic4_c,524,ca,a,percent,2017,5.17
 isic4_c,524,ca,a,percent,2018,5.25
 isic4_c,524,ca,a,percent,2019,5.24
 isic4_c,524,ca,a,percent,2020,4.9
-isic4_c,524,e,a,percent,2021,4.72
+isic4_c,524,e,a,percent,2021,4.76
 isic4_c,528,ca,a,percent,2000,11.12
 isic4_c,528,ca,a,percent,2001,11.15
 isic4_c,528,ca,a,percent,2002,11.06
@@ -3649,7 +3649,7 @@ isic4_c,528,ca,a,percent,2017,11.13
 isic4_c,528,ca,a,percent,2018,11.31
 isic4_c,528,ca,a,percent,2019,11.13
 isic4_c,528,ca,a,percent,2020,11.28
-isic4_c,528,e,a,percent,2021,11.31
+isic4_c,528,e,a,percent,2021,11.32
 isic4_c,531,ca,a,percent,2011,8.13
 isic4_c,531,ca,a,percent,2012,8.32
 isic4_c,531,ca,a,percent,2013,8.54
@@ -3660,7 +3660,7 @@ isic4_c,531,ca,a,percent,2017,9.92
 isic4_c,531,ca,a,percent,2018,8.91
 isic4_c,531,ca,a,percent,2019,7.45
 isic4_c,531,ca,a,percent,2020,4.15
-isic4_c,531,e,a,percent,2021,4.47
+isic4_c,531,e,a,percent,2021,4.59
 isic4_c,533,ca,a,percent,2000,2
 isic4_c,533,ca,a,percent,2001,2.2
 isic4_c,533,ca,a,percent,2002,2.43
@@ -3682,7 +3682,7 @@ isic4_c,533,ca,a,percent,2017,3.78
 isic4_c,533,ca,a,percent,2018,3.42
 isic4_c,533,ca,a,percent,2019,3.39
 isic4_c,533,ca,a,percent,2020,3.33
-isic4_c,533,e,a,percent,2021,3.74
+isic4_c,533,e,a,percent,2021,3.8
 isic4_c,534,ca,a,percent,2011,1.53
 isic4_c,534,ca,a,percent,2012,1.16
 isic4_c,534,ca,a,percent,2013,0.94
@@ -3693,7 +3693,7 @@ isic4_c,534,ca,a,percent,2017,0.77
 isic4_c,534,ca,a,percent,2018,0.83
 isic4_c,534,ca,a,percent,2019,0.8
 isic4_c,534,ca,a,percent,2020,0.8
-isic4_c,534,e,a,percent,2021,0.74
+isic4_c,534,e,a,percent,2021,0.73
 isic4_c,540,ca,a,percent,2000,10.09
 isic4_c,540,ca,a,percent,2001,7.38
 isic4_c,540,ca,a,percent,2002,8.17
@@ -3715,7 +3715,7 @@ isic4_c,540,ca,a,percent,2017,9.13
 isic4_c,540,ca,a,percent,2018,9.78
 isic4_c,540,ca,a,percent,2019,10.85
 isic4_c,540,ca,a,percent,2020,11.5
-isic4_c,540,e,a,percent,2021,10.68
+isic4_c,540,e,a,percent,2021,10.49
 isic4_c,543,ca,a,percent,2000,6.37
 isic4_c,543,ca,a,percent,2001,6.02
 isic4_c,543,ca,a,percent,2002,6.1
@@ -3737,7 +3737,7 @@ isic4_c,543,ca,a,percent,2017,4.8
 isic4_c,543,ca,a,percent,2018,4.88
 isic4_c,543,ca,a,percent,2019,4.93
 isic4_c,543,ca,a,percent,2020,5.23
-isic4_c,543,e,a,percent,2021,5.06
+isic4_c,543,e,a,percent,2021,5.01
 isic4_c,548,ca,a,percent,2000,4.45
 isic4_c,548,ca,a,percent,2001,4.56
 isic4_c,548,ca,a,percent,2002,4.2
@@ -3759,7 +3759,7 @@ isic4_c,548,ca,a,percent,2017,3.18
 isic4_c,548,ca,a,percent,2018,3.21
 isic4_c,548,ca,a,percent,2019,3.14
 isic4_c,548,ca,a,percent,2020,3.5
-isic4_c,548,e,a,percent,2021,3.42
+isic4_c,548,e,a,percent,2021,3.43
 isic4_c,554,ca,a,percent,2000,15.91
 isic4_c,554,ca,a,percent,2001,15.55
 isic4_c,554,ca,a,percent,2002,15.95
@@ -3781,7 +3781,7 @@ isic4_c,554,ca,a,percent,2017,10.91
 isic4_c,554,ca,a,percent,2018,10.75
 isic4_c,554,ca,a,percent,2019,10.49
 isic4_c,554,ca,a,percent,2020,10.37
-isic4_c,554,e,a,percent,2021,10.26
+isic4_c,554,e,a,percent,2021,10.28
 isic4_c,558,ca,a,percent,2000,11.85
 isic4_c,558,ca,a,percent,2001,12.18
 isic4_c,558,ca,a,percent,2002,12.34
@@ -3803,7 +3803,7 @@ isic4_c,558,ca,a,percent,2017,13.84
 isic4_c,558,ca,a,percent,2018,14.54
 isic4_c,558,ca,a,percent,2019,15.04
 isic4_c,558,ca,a,percent,2020,14.98
-isic4_c,558,e,a,percent,2021,15.11
+isic4_c,558,e,a,percent,2021,15.09
 isic4_c,562,ca,a,percent,2000,7.64
 isic4_c,562,ca,a,percent,2001,7.33
 isic4_c,562,ca,a,percent,2002,7.14
@@ -3825,7 +3825,7 @@ isic4_c,562,ca,a,percent,2017,7.77
 isic4_c,562,ca,a,percent,2018,7.51
 isic4_c,562,ca,a,percent,2019,7.63
 isic4_c,562,ca,a,percent,2020,7.61
-isic4_c,562,e,a,percent,2021,7.51
+isic4_c,562,e,a,percent,2021,7.53
 isic4_c,566,ca,a,percent,2000,11.71
 isic4_c,566,ca,a,percent,2001,11.31
 isic4_c,566,ca,a,percent,2002,11.55
@@ -3847,7 +3847,7 @@ isic4_c,566,ca,a,percent,2017,9.08
 isic4_c,566,ca,a,percent,2018,9.09
 isic4_c,566,ca,a,percent,2019,8.96
 isic4_c,566,ca,a,percent,2020,8.88
-isic4_c,566,e,a,percent,2021,8.64
+isic4_c,566,e,a,percent,2021,8.66
 isic4_c,578,ca,a,percent,2000,7.33
 isic4_c,578,ca,a,percent,2001,7.12
 isic4_c,578,ca,a,percent,2002,6.97
@@ -3869,7 +3869,7 @@ isic4_c,578,ca,a,percent,2017,6.38
 isic4_c,578,ca,a,percent,2018,6.43
 isic4_c,578,ca,a,percent,2019,6.54
 isic4_c,578,ca,a,percent,2020,6.43
-isic4_c,578,e,a,percent,2021,6.35
+isic4_c,578,e,a,percent,2021,6.34
 isic4_c,583,ca,a,percent,2000,1.85
 isic4_c,583,ca,a,percent,2001,2.16
 isic4_c,583,ca,a,percent,2002,2.05
@@ -3935,7 +3935,7 @@ isic4_c,585,ca,a,percent,2017,1.03
 isic4_c,585,ca,a,percent,2018,0.98
 isic4_c,585,ca,a,percent,2019,1.03
 isic4_c,585,ca,a,percent,2020,1.03
-isic4_c,585,e,a,percent,2021,1.15
+isic4_c,585,e,a,percent,2021,1.13
 isic4_c,586,ca,a,percent,2000,9.94
 isic4_c,586,ca,a,percent,2001,10.66
 isic4_c,586,ca,a,percent,2002,10.78
@@ -3957,7 +3957,7 @@ isic4_c,586,ca,a,percent,2017,12.6
 isic4_c,586,ca,a,percent,2018,12.55
 isic4_c,586,ca,a,percent,2019,12.35
 isic4_c,586,ca,a,percent,2020,11.6
-isic4_c,586,e,a,percent,2021,11.63
+isic4_c,586,e,a,percent,2021,11.72
 isic4_c,591,ca,a,percent,2000,11.79
 isic4_c,591,ca,a,percent,2001,10.99
 isic4_c,591,ca,a,percent,2002,10.46
@@ -3979,7 +3979,7 @@ isic4_c,591,ca,a,percent,2017,5.99
 isic4_c,591,ca,a,percent,2018,5.84
 isic4_c,591,ca,a,percent,2019,5.6
 isic4_c,591,ca,a,percent,2020,5.33
-isic4_c,591,e,a,percent,2021,5.16
+isic4_c,591,e,a,percent,2021,5.17
 isic4_c,598,ca,a,percent,2000,2.61
 isic4_c,598,ca,a,percent,2001,2.61
 isic4_c,598,ca,a,percent,2002,2.41
@@ -4001,7 +4001,7 @@ isic4_c,598,ca,a,percent,2017,1.75
 isic4_c,598,ca,a,percent,2018,1.64
 isic4_c,598,ca,a,percent,2019,1.55
 isic4_c,598,ca,a,percent,2020,1.59
-isic4_c,598,e,a,percent,2021,1.6
+isic4_c,598,e,a,percent,2021,1.59
 isic4_c,600,ca,a,percent,2000,28.27
 isic4_c,600,ca,a,percent,2001,27.52
 isic4_c,600,ca,a,percent,2002,23.59
@@ -4023,7 +4023,7 @@ isic4_c,600,ca,a,percent,2017,19.73
 isic4_c,600,ca,a,percent,2018,19.57
 isic4_c,600,ca,a,percent,2019,19.42
 isic4_c,600,ca,a,percent,2020,18.93
-isic4_c,600,e,a,percent,2021,18.54
+isic4_c,600,e,a,percent,2021,18.57
 isic4_c,604,ca,a,percent,2000,15.59
 isic4_c,604,ca,a,percent,2001,15.63
 isic4_c,604,ca,a,percent,2002,15.8
@@ -4045,7 +4045,7 @@ isic4_c,604,ca,a,percent,2017,13
 isic4_c,604,ca,a,percent,2018,13.23
 isic4_c,604,ca,a,percent,2019,12.77
 isic4_c,604,ca,a,percent,2020,12.45
-isic4_c,604,e,a,percent,2021,12.51
+isic4_c,604,e,a,percent,2021,12.59
 isic4_c,608,ca,a,percent,2000,23.4
 isic4_c,608,ca,a,percent,2001,23.32
 isic4_c,608,ca,a,percent,2002,23.33
@@ -4067,7 +4067,7 @@ isic4_c,608,ca,a,percent,2017,20.08
 isic4_c,608,ca,a,percent,2018,19.85
 isic4_c,608,ca,a,percent,2019,19.41
 isic4_c,608,ca,a,percent,2020,19.37
-isic4_c,608,e,a,percent,2021,19.25
+isic4_c,608,e,a,percent,2021,19.24
 isic4_c,616,ca,a,percent,2000,10.74
 isic4_c,616,ca,a,percent,2001,10.48
 isic4_c,616,ca,a,percent,2002,10.53
@@ -4089,7 +4089,7 @@ isic4_c,616,ca,a,percent,2017,17.32
 isic4_c,616,ca,a,percent,2018,17.53
 isic4_c,616,ca,a,percent,2019,17.39
 isic4_c,616,ca,a,percent,2020,16.56
-isic4_c,616,e,a,percent,2021,17.1
+isic4_c,616,e,a,percent,2021,17.18
 isic4_c,620,ca,a,percent,2000,12.66
 isic4_c,620,ca,a,percent,2001,12.61
 isic4_c,620,ca,a,percent,2002,12.44
@@ -4133,7 +4133,7 @@ isic4_c,624,ca,a,percent,2017,10.38
 isic4_c,624,ca,a,percent,2018,9.86
 isic4_c,624,ca,a,percent,2019,10.28
 isic4_c,624,ca,a,percent,2020,10.13
-isic4_c,624,e,a,percent,2021,10.04
+isic4_c,624,e,a,percent,2021,10.02
 isic4_c,626,ca,a,percent,2000,2.13
 isic4_c,626,ca,a,percent,2001,2.19
 isic4_c,626,ca,a,percent,2002,2.23
@@ -4177,7 +4177,7 @@ isic4_c,630,ca,a,percent,2017,47.34
 isic4_c,630,ca,a,percent,2018,47.75
 isic4_c,630,ca,a,percent,2019,47.26
 isic4_c,630,ca,a,percent,2020,48.24
-isic4_c,630,e,a,percent,2021,48.35
+isic4_c,630,e,a,percent,2021,48.3
 isic4_c,634,ca,a,percent,2000,11.19
 isic4_c,634,ca,a,percent,2001,12.23
 isic4_c,634,ca,a,percent,2002,12.6
@@ -4199,7 +4199,7 @@ isic4_c,634,ca,a,percent,2017,8.79
 isic4_c,634,ca,a,percent,2018,9.27
 isic4_c,634,ca,a,percent,2019,9.05
 isic4_c,634,ca,a,percent,2020,8.78
-isic4_c,634,e,a,percent,2021,8.75
+isic4_c,634,e,a,percent,2021,8.76
 isic4_c,642,ca,a,percent,2000,18.73
 isic4_c,642,ca,a,percent,2001,19.79
 isic4_c,642,ca,a,percent,2002,19.84
@@ -4221,7 +4221,7 @@ isic4_c,642,ca,a,percent,2017,20.02
 isic4_c,642,ca,a,percent,2018,19.71
 isic4_c,642,ca,a,percent,2019,18.71
 isic4_c,642,ca,a,percent,2020,17.59
-isic4_c,642,e,a,percent,2021,17.73
+isic4_c,642,e,a,percent,2021,17.69
 isic4_c,643,ca,a,percent,2000,13.93
 isic4_c,643,ca,a,percent,2001,13.84
 isic4_c,643,ca,a,percent,2002,13.76
@@ -4265,7 +4265,7 @@ isic4_c,646,ca,a,percent,2017,7.03
 isic4_c,646,ca,a,percent,2018,7.35
 isic4_c,646,ca,a,percent,2019,7.47
 isic4_c,646,ca,a,percent,2020,7.89
-isic4_c,646,e,a,percent,2021,7.91
+isic4_c,646,e,a,percent,2021,7.93
 isic4_c,659,ca,a,percent,2000,9.57
 isic4_c,659,ca,a,percent,2001,11.73
 isic4_c,659,ca,a,percent,2002,8.75
@@ -4309,7 +4309,7 @@ isic4_c,660,ca,a,percent,2017,2
 isic4_c,660,ca,a,percent,2018,2.07
 isic4_c,660,ca,a,percent,2019,2.01
 isic4_c,660,ca,a,percent,2020,2.89
-isic4_c,660,e,a,percent,2021,2.94
+isic4_c,660,e,a,percent,2021,2.91
 isic4_c,662,ca,a,percent,2000,2.57
 isic4_c,662,ca,a,percent,2001,2.67
 isic4_c,662,ca,a,percent,2002,2.54
@@ -4331,7 +4331,7 @@ isic4_c,662,ca,a,percent,2017,3.03
 isic4_c,662,ca,a,percent,2018,3.13
 isic4_c,662,ca,a,percent,2019,3.15
 isic4_c,662,ca,a,percent,2020,3.55
-isic4_c,662,e,a,percent,2021,3.51
+isic4_c,662,e,a,percent,2021,3.45
 isic4_c,670,ca,a,percent,2000,7.45
 isic4_c,670,ca,a,percent,2001,7.03
 isic4_c,670,ca,a,percent,2002,6.43
@@ -4353,7 +4353,7 @@ isic4_c,670,ca,a,percent,2017,4.66
 isic4_c,670,ca,a,percent,2018,4.88
 isic4_c,670,ca,a,percent,2019,3.88
 isic4_c,670,ca,a,percent,2020,3.61
-isic4_c,670,e,a,percent,2021,3.62
+isic4_c,670,e,a,percent,2021,3.54
 isic4_c,674,ca,a,percent,2000,37.73
 isic4_c,674,ca,a,percent,2001,35.65
 isic4_c,674,ca,a,percent,2002,35.26
@@ -4375,7 +4375,7 @@ isic4_c,674,ca,a,percent,2017,28.79
 isic4_c,674,ca,a,percent,2018,32.34
 isic4_c,674,ca,a,percent,2019,30.81
 isic4_c,674,ca,a,percent,2020,33.9
-isic4_c,674,e,a,percent,2021,33.65
+isic4_c,674,e,a,percent,2021,33.66
 isic4_c,678,ca,a,percent,2000,7.58
 isic4_c,678,ca,a,percent,2001,7.27
 isic4_c,678,ca,a,percent,2002,7.45
@@ -4397,7 +4397,7 @@ isic4_c,678,ca,a,percent,2017,6.62
 isic4_c,678,ca,a,percent,2018,6.34
 isic4_c,678,ca,a,percent,2019,6.27
 isic4_c,678,ca,a,percent,2020,6.28
-isic4_c,678,e,a,percent,2021,6.28
+isic4_c,678,e,a,percent,2021,6.29
 isic4_c,682,ca,a,percent,2000,8.84
 isic4_c,682,ca,a,percent,2001,9.21
 isic4_c,682,ca,a,percent,2002,9.66
@@ -4419,7 +4419,7 @@ isic4_c,682,ca,a,percent,2017,13.14
 isic4_c,682,ca,a,percent,2018,13.1
 isic4_c,682,ca,a,percent,2019,12.85
 isic4_c,682,ca,a,percent,2020,12.36
-isic4_c,682,e,a,percent,2021,12.58
+isic4_c,682,e,a,percent,2021,12.56
 isic4_c,686,ca,a,percent,2000,19.87
 isic4_c,686,ca,a,percent,2001,20.37
 isic4_c,686,ca,a,percent,2002,20.93
@@ -4441,7 +4441,7 @@ isic4_c,686,ca,a,percent,2017,16.61
 isic4_c,686,ca,a,percent,2018,16.27
 isic4_c,686,ca,a,percent,2019,16.14
 isic4_c,686,ca,a,percent,2020,16.8
-isic4_c,686,e,a,percent,2021,16.59
+isic4_c,686,e,a,percent,2021,16.44
 isic4_c,688,ca,a,percent,2000,18.45
 isic4_c,688,ca,a,percent,2001,18.08
 isic4_c,688,ca,a,percent,2002,18.47
@@ -4485,7 +4485,7 @@ isic4_c,690,ca,a,percent,2017,5.82
 isic4_c,690,ca,a,percent,2018,6.11
 isic4_c,690,ca,a,percent,2019,6.51
 isic4_c,690,ca,a,percent,2020,6.81
-isic4_c,690,e,a,percent,2021,7.12
+isic4_c,690,e,a,percent,2021,7.16
 isic4_c,694,ca,a,percent,2000,2.35
 isic4_c,694,ca,a,percent,2001,2.62
 isic4_c,694,ca,a,percent,2002,2.33
@@ -4529,7 +4529,7 @@ isic4_c,702,ca,a,percent,2017,19.18
 isic4_c,702,ca,a,percent,2018,19.83
 isic4_c,702,ca,a,percent,2019,19.28
 isic4_c,702,ca,a,percent,2020,21.86
-isic4_c,702,e,a,percent,2021,21.91
+isic4_c,702,e,a,percent,2021,22.04
 isic4_c,703,ca,a,percent,2000,9.63
 isic4_c,703,ca,a,percent,2001,10.88
 isic4_c,703,ca,a,percent,2002,10.74
@@ -4551,7 +4551,7 @@ isic4_c,703,ca,a,percent,2017,18.66
 isic4_c,703,ca,a,percent,2018,20.08
 isic4_c,703,ca,a,percent,2019,21.01
 isic4_c,703,ca,a,percent,2020,18.45
-isic4_c,703,e,a,percent,2021,19.23
+isic4_c,703,e,a,percent,2021,19.04
 isic4_c,704,ca,a,percent,2000,11.41
 isic4_c,704,ca,a,percent,2001,11.88
 isic4_c,704,ca,a,percent,2002,12.39
@@ -4573,7 +4573,7 @@ isic4_c,704,ca,a,percent,2017,15.45
 isic4_c,704,ca,a,percent,2018,16.31
 isic4_c,704,ca,a,percent,2019,16.96
 isic4_c,704,ca,a,percent,2020,17.44
-isic4_c,704,e,a,percent,2021,18.05
+isic4_c,704,e,a,percent,2021,18.03
 isic4_c,705,ca,a,percent,2000,18.33
 isic4_c,705,ca,a,percent,2001,18.68
 isic4_c,705,ca,a,percent,2002,19.02
@@ -4595,7 +4595,7 @@ isic4_c,705,ca,a,percent,2017,20.97
 isic4_c,705,ca,a,percent,2018,20.68
 isic4_c,705,ca,a,percent,2019,21.69
 isic4_c,705,ca,a,percent,2020,22.02
-isic4_c,705,e,a,percent,2021,22.47
+isic4_c,705,e,a,percent,2021,22.6
 isic4_c,706,ca,a,percent,2000,2.16
 isic4_c,706,ca,a,percent,2001,1.89
 isic4_c,706,ca,a,percent,2002,2.02
@@ -4661,7 +4661,7 @@ isic4_c,716,ca,a,percent,2017,11.48
 isic4_c,716,ca,a,percent,2018,11.09
 isic4_c,716,ca,a,percent,2019,11.48
 isic4_c,716,ca,a,percent,2020,11.35
-isic4_c,716,e,a,percent,2021,10.85
+isic4_c,716,e,a,percent,2021,10.8
 isic4_c,722,ca,a,percent,2000,22.92
 isic4_c,722,ca,a,percent,2001,23.1
 isic4_c,722,ca,a,percent,2002,23.33
@@ -4683,7 +4683,7 @@ isic4_c,722,ca,a,percent,2017,19.26
 isic4_c,722,ca,a,percent,2018,19.27
 isic4_c,722,ca,a,percent,2019,18.78
 isic4_c,722,ca,a,percent,2020,20.45
-isic4_c,722,e,a,percent,2021,20.28
+isic4_c,722,e,a,percent,2021,20.33
 isic4_c,724,ca,a,percent,2000,14.94
 isic4_c,724,ca,a,percent,2001,14.87
 isic4_c,724,ca,a,percent,2002,14.49
@@ -4705,7 +4705,7 @@ isic4_c,724,ca,a,percent,2017,11.52
 isic4_c,724,ca,a,percent,2018,11.13
 isic4_c,724,ca,a,percent,2019,10.97
 isic4_c,724,ca,a,percent,2020,10.82
-isic4_c,724,e,a,percent,2021,10.79
+isic4_c,724,e,a,percent,2021,10.78
 isic4_c,728,ca,a,percent,2011,2.78
 isic4_c,728,ca,a,percent,2012,2.67
 isic4_c,728,ca,a,percent,2013,2.26
@@ -4727,7 +4727,7 @@ isic4_c,729,ca,a,percent,2017,6.76
 isic4_c,729,ca,a,percent,2018,6.76
 isic4_c,729,ca,a,percent,2019,6.7
 isic4_c,729,ca,a,percent,2020,7.14
-isic4_c,729,e,a,percent,2021,7.32
+isic4_c,729,e,a,percent,2021,7.35
 isic4_c,740,ca,a,percent,2000,13.04
 isic4_c,740,ca,a,percent,2001,14.06
 isic4_c,740,ca,a,percent,2002,13.2
@@ -4749,7 +4749,7 @@ isic4_c,740,ca,a,percent,2017,15.16
 isic4_c,740,ca,a,percent,2018,15.29
 isic4_c,740,ca,a,percent,2019,13.95
 isic4_c,740,ca,a,percent,2020,16.89
-isic4_c,740,e,a,percent,2021,17.05
+isic4_c,740,e,a,percent,2021,17.35
 isic4_c,747,ca,a,percent,2000,11.5
 isic4_c,747,ca,a,percent,2001,11.37
 isic4_c,747,ca,a,percent,2002,11.46
@@ -4771,7 +4771,7 @@ isic4_c,747,ca,a,percent,2017,12.2
 isic4_c,747,ca,a,percent,2018,12.16
 isic4_c,747,ca,a,percent,2019,11.96
 isic4_c,747,ca,a,percent,2020,12.19
-isic4_c,747,e,a,percent,2021,12.31
+isic4_c,747,e,a,percent,2021,12.32
 isic4_c,748,ca,a,percent,2000,31.84
 isic4_c,748,ca,a,percent,2001,31.75
 isic4_c,748,ca,a,percent,2002,32.3
@@ -4793,7 +4793,7 @@ isic4_c,748,ca,a,percent,2017,32.19
 isic4_c,748,ca,a,percent,2018,31.25
 isic4_c,748,ca,a,percent,2019,32.14
 isic4_c,748,ca,a,percent,2020,30.62
-isic4_c,748,e,a,percent,2021,30.36
+isic4_c,748,e,a,percent,2021,30.54
 isic4_c,752,ca,a,percent,2000,16.3
 isic4_c,752,ca,a,percent,2001,15.93
 isic4_c,752,ca,a,percent,2002,16.31
@@ -4815,11 +4815,11 @@ isic4_c,752,ca,a,percent,2017,13.55
 isic4_c,752,ca,a,percent,2018,13.6
 isic4_c,752,ca,a,percent,2019,13.38
 isic4_c,752,ca,a,percent,2020,12.62
-isic4_c,752,e,a,percent,2021,13.06
-isic4_c,753,ca,a,percent,2000,21.87
-isic4_c,753,ca,a,percent,2001,21.4
-isic4_c,753,ca,a,percent,2002,21.56
-isic4_c,753,ca,a,percent,2003,22.04
+isic4_c,752,e,a,percent,2021,13.22
+isic4_c,753,ca,a,percent,2000,19.03
+isic4_c,753,ca,a,percent,2001,18.62
+isic4_c,753,ca,a,percent,2002,19.14
+isic4_c,753,ca,a,percent,2003,20.87
 isic4_c,753,ca,a,percent,2004,22.56
 isic4_c,753,ca,a,percent,2005,22.75
 isic4_c,753,ca,a,percent,2006,23.14
@@ -4837,7 +4837,7 @@ isic4_c,753,ca,a,percent,2017,25.52
 isic4_c,753,ca,a,percent,2018,25.62
 isic4_c,753,ca,a,percent,2019,25.34
 isic4_c,753,ca,a,percent,2020,25.87
-isic4_c,753,e,a,percent,2021,26.13
+isic4_c,753,e,a,percent,2021,26.11
 isic4_c,756,ca,a,percent,2000,16.57
 isic4_c,756,ca,a,percent,2001,17.24
 isic4_c,756,ca,a,percent,2002,17.63
@@ -4903,7 +4903,7 @@ isic4_c,762,ca,a,percent,2017,13.86
 isic4_c,762,ca,a,percent,2018,14.56
 isic4_c,762,ca,a,percent,2019,15.17
 isic4_c,762,ca,a,percent,2020,15.55
-isic4_c,762,e,a,percent,2021,15.35
+isic4_c,762,e,a,percent,2021,15.38
 isic4_c,764,ca,a,percent,2000,27.53
 isic4_c,764,ca,a,percent,2001,27.14
 isic4_c,764,ca,a,percent,2002,27.83
@@ -4925,7 +4925,7 @@ isic4_c,764,ca,a,percent,2017,26.73
 isic4_c,764,ca,a,percent,2018,26.54
 isic4_c,764,ca,a,percent,2019,25.77
 isic4_c,764,ca,a,percent,2020,25.89
-isic4_c,764,e,a,percent,2021,25.81
+isic4_c,764,e,a,percent,2021,25.84
 isic4_c,768,ca,a,percent,2000,10.69
 isic4_c,768,ca,a,percent,2001,10.95
 isic4_c,768,ca,a,percent,2002,10.83
@@ -4947,7 +4947,7 @@ isic4_c,768,ca,a,percent,2017,12.63
 isic4_c,768,ca,a,percent,2018,12.86
 isic4_c,768,ca,a,percent,2019,13.26
 isic4_c,768,ca,a,percent,2020,13.7
-isic4_c,768,e,a,percent,2021,13.92
+isic4_c,768,e,a,percent,2021,13.94
 isic4_c,776,ca,a,percent,2000,6.75
 isic4_c,776,ca,a,percent,2001,6.68
 isic4_c,776,ca,a,percent,2002,6.52
@@ -4969,7 +4969,7 @@ isic4_c,776,ca,a,percent,2017,5.97
 isic4_c,776,ca,a,percent,2018,5.91
 isic4_c,776,ca,a,percent,2019,5.58
 isic4_c,776,ca,a,percent,2020,5.74
-isic4_c,776,e,a,percent,2021,5.83
+isic4_c,776,e,a,percent,2021,5.77
 isic4_c,780,ca,a,percent,2000,12.6
 isic4_c,780,ca,a,percent,2001,12.83
 isic4_c,780,ca,a,percent,2002,13.39
@@ -4991,7 +4991,7 @@ isic4_c,780,ca,a,percent,2017,16.38
 isic4_c,780,ca,a,percent,2018,16.53
 isic4_c,780,ca,a,percent,2019,16.27
 isic4_c,780,ca,a,percent,2020,15.74
-isic4_c,780,e,a,percent,2021,15.69
+isic4_c,780,e,a,percent,2021,15.7
 isic4_c,784,ca,a,percent,2000,9.81
 isic4_c,784,ca,a,percent,2001,9.76
 isic4_c,784,ca,a,percent,2002,9.81
@@ -5057,7 +5057,7 @@ isic4_c,792,ca,a,percent,2017,17.08
 isic4_c,792,ca,a,percent,2018,16.79
 isic4_c,792,ca,a,percent,2019,16.25
 isic4_c,792,ca,a,percent,2020,16.48
-isic4_c,792,e,a,percent,2021,16.81
+isic4_c,792,e,a,percent,2021,16.92
 isic4_c,795,ca,a,percent,2000,33.01
 isic4_c,795,ca,a,percent,2001,33.2
 isic4_c,795,ca,a,percent,2002,30.76
@@ -5079,7 +5079,7 @@ isic4_c,795,ca,a,percent,2017,36.01
 isic4_c,795,ca,a,percent,2018,37.51
 isic4_c,795,ca,a,percent,2019,34.31
 isic4_c,795,ca,a,percent,2020,35.95
-isic4_c,795,e,a,percent,2021,35.56
+isic4_c,795,e,a,percent,2021,35.61
 isic4_c,796,ca,a,percent,2000,3.13
 isic4_c,796,ca,a,percent,2001,2.61
 isic4_c,796,ca,a,percent,2002,2.2
@@ -5101,7 +5101,7 @@ isic4_c,796,ca,a,percent,2017,0.65
 isic4_c,796,ca,a,percent,2018,0.6
 isic4_c,796,ca,a,percent,2019,0.55
 isic4_c,796,ca,a,percent,2020,0.73
-isic4_c,796,e,a,percent,2021,0.71
+isic4_c,796,e,a,percent,2021,0.7
 isic4_c,798,ca,a,percent,2000,0.74
 isic4_c,798,ca,a,percent,2001,0.79
 isic4_c,798,ca,a,percent,2002,0.87
@@ -5145,7 +5145,7 @@ isic4_c,800,ca,a,percent,2017,17.15
 isic4_c,800,ca,a,percent,2018,17.43
 isic4_c,800,ca,a,percent,2019,17.17
 isic4_c,800,ca,a,percent,2020,17.24
-isic4_c,800,e,a,percent,2021,17.19
+isic4_c,800,e,a,percent,2021,17.24
 isic4_c,804,ca,a,percent,2000,15
 isic4_c,804,ca,a,percent,2001,15.46
 isic4_c,804,ca,a,percent,2002,16.25
@@ -5255,7 +5255,7 @@ isic4_c,834,ca,a,percent,2017,8.25
 isic4_c,834,ca,a,percent,2018,8.33
 isic4_c,834,ca,a,percent,2019,8.27
 isic4_c,834,ca,a,percent,2020,8.26
-isic4_c,834,e,a,percent,2021,8.29
+isic4_c,834,e,a,percent,2021,8.31
 isic4_c,840,ca,a,percent,2000,12.67
 isic4_c,840,ca,a,percent,2001,12.05
 isic4_c,840,ca,a,percent,2002,11.96
@@ -5277,7 +5277,7 @@ isic4_c,840,ca,a,percent,2017,11.6
 isic4_c,840,ca,a,percent,2018,11.73
 isic4_c,840,ca,a,percent,2019,11.68
 isic4_c,840,ca,a,percent,2020,11.73
-isic4_c,840,e,a,percent,2021,12.04
+isic4_c,840,e,a,percent,2021,12.02
 isic4_c,854,ca,a,percent,2000,12.44
 isic4_c,854,ca,a,percent,2001,12.45
 isic4_c,854,ca,a,percent,2002,12.66
@@ -5299,7 +5299,7 @@ isic4_c,854,ca,a,percent,2017,10.15
 isic4_c,854,ca,a,percent,2018,9.41
 isic4_c,854,ca,a,percent,2019,9.23
 isic4_c,854,ca,a,percent,2020,9.43
-isic4_c,854,e,a,percent,2021,9.14
+isic4_c,854,e,a,percent,2021,9.12
 isic4_c,858,ca,a,percent,2000,12.98
 isic4_c,858,ca,a,percent,2001,12.58
 isic4_c,858,ca,a,percent,2002,12.86
@@ -5321,7 +5321,7 @@ isic4_c,858,ca,a,percent,2017,10.58
 isic4_c,858,ca,a,percent,2018,11.14
 isic4_c,858,ca,a,percent,2019,10.69
 isic4_c,858,ca,a,percent,2020,10.72
-isic4_c,858,e,a,percent,2021,10.53
+isic4_c,858,e,a,percent,2021,10.5
 isic4_c,860,ca,a,percent,2000,16.47
 isic4_c,860,ca,a,percent,2001,16.19
 isic4_c,860,ca,a,percent,2002,16.06
@@ -5343,7 +5343,7 @@ isic4_c,860,ca,a,percent,2017,13.53
 isic4_c,860,ca,a,percent,2018,13.85
 isic4_c,860,ca,a,percent,2019,13.96
 isic4_c,860,ca,a,percent,2020,14.7
-isic4_c,860,e,a,percent,2021,14.53
+isic4_c,860,e,a,percent,2021,14.58
 isic4_c,862,ca,a,percent,2000,17.87
 isic4_c,862,ca,a,percent,2001,17.33
 isic4_c,862,ca,a,percent,2002,16.4
@@ -5365,7 +5365,7 @@ isic4_c,862,ca,a,percent,2017,10.46
 isic4_c,862,ca,a,percent,2018,8.32
 isic4_c,862,ca,a,percent,2019,5.83
 isic4_c,862,ca,a,percent,2020,5.84
-isic4_c,862,e,a,percent,2021,5.61
+isic4_c,862,e,a,percent,2021,5.67
 isic4_c,882,ca,a,percent,2000,15
 isic4_c,882,ca,a,percent,2001,16.62
 isic4_c,882,ca,a,percent,2002,16.91
@@ -5387,7 +5387,7 @@ isic4_c,882,ca,a,percent,2017,7.32
 isic4_c,882,ca,a,percent,2018,5.79
 isic4_c,882,ca,a,percent,2019,6.35
 isic4_c,882,ca,a,percent,2020,6.19
-isic4_c,882,e,a,percent,2021,5.67
+isic4_c,882,e,a,percent,2021,5.63
 isic4_c,887,ca,a,percent,2000,7.19
 isic4_c,887,ca,a,percent,2001,7
 isic4_c,887,ca,a,percent,2002,6.71
@@ -5431,4 +5431,4 @@ isic4_c,894,ca,a,percent,2017,7.58
 isic4_c,894,ca,a,percent,2018,7.58
 isic4_c,894,ca,a,percent,2019,7.65
 isic4_c,894,ca,a,percent,2020,7.95
-isic4_c,894,e,a,percent,2021,8.04
+isic4_c,894,e,a,percent,2021,7.91

@@ -1,6 +1,6 @@
 geo_area,nature,observation_status,units,year,sg_haz_cmrmntrl
 1,c,a,percent,2015,100
-1,c,a,percent,2020,99.79695
+1,c,a,percent,2020,100
 2,c,a,percent,2015,100
 2,c,a,percent,2020,100
 4,c,a,percent,2015,100
@@ -50,7 +50,7 @@ geo_area,nature,observation_status,units,year,sg_haz_cmrmntrl
 36,c,a,percent,2015,100
 36,c,a,percent,2020,100
 39,c,a,percent,2015,100
-39,c,a,percent,2020,98.66667
+39,c,a,percent,2020,100
 40,c,a,percent,2015,100
 40,c,a,percent,2020,100
 44,c,a,percent,2015,100
@@ -110,17 +110,17 @@ geo_area,nature,observation_status,units,year,sg_haz_cmrmntrl
 140,c,a,percent,2015,100
 140,c,a,percent,2020,100
 142,c,a,percent,2015,100
-142,c,a,percent,2020,99.58333
+142,c,a,percent,2020,100
 143,c,a,percent,2015,100
 143,c,a,percent,2020,100
 144,c,a,percent,2015,100
 144,c,a,percent,2020,100
 145,c,a,percent,2015,100
-145,c,a,percent,2020,98.88889
+145,c,a,percent,2020,100
 148,c,a,percent,2015,100
 148,c,a,percent,2020,100
 150,c,a,percent,2015,100
-150,c,a,percent,2020,99.54545
+150,c,a,percent,2020,100
 151,c,a,percent,2015,100
 151,c,a,percent,2020,100
 152,c,a,percent,2015,100
@@ -150,7 +150,7 @@ geo_area,nature,observation_status,units,year,sg_haz_cmrmntrl
 196,c,a,percent,2015,100
 196,c,a,percent,2020,100
 199,c,a,percent,2015,100
-199,c,a,percent,2020,99.58333
+199,c,a,percent,2020,100
 202,c,a,percent,2015,100
 202,c,a,percent,2020,100
 203,c,a,percent,2015,100
@@ -305,7 +305,7 @@ geo_area,nature,observation_status,units,year,sg_haz_cmrmntrl
 512,c,a,percent,2015,100
 512,c,a,percent,2020,100
 513,c,a,percent,2015,100
-513,c,a,percent,2020,99.56522
+513,c,a,percent,2020,100
 516,c,a,percent,2015,100
 516,c,a,percent,2020,100
 520,c,a,percent,2015,100
@@ -371,7 +371,7 @@ geo_area,nature,observation_status,units,year,sg_haz_cmrmntrl
 670,c,a,percent,2015,100
 670,c,a,percent,2020,100
 674,c,a,percent,2015,100
-674,c,a,percent,2020,80
+674,c,a,percent,2020,100
 678,c,a,percent,2015,100
 678,c,a,percent,2020,100
 682,c,a,percent,2015,100
@@ -409,7 +409,7 @@ geo_area,nature,observation_status,units,year,sg_haz_cmrmntrl
 740,c,a,percent,2015,100
 740,c,a,percent,2020,100
 747,c,a,percent,2015,100
-747,c,a,percent,2020,99.16667
+747,c,a,percent,2020,100
 748,c,a,percent,2015,100
 748,c,a,percent,2020,100
 752,c,a,percent,2015,100
@@ -465,6 +465,6 @@ geo_area,nature,observation_status,units,year,sg_haz_cmrmntrl
 882,c,a,percent,2015,100
 882,c,a,percent,2020,100
 887,c,a,percent,2015,100
-887,c,a,percent,2020,80
+887,c,a,percent,2020,100
 894,c,a,percent,2015,100
 894,c,a,percent,2020,100

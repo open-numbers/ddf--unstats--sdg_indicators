@@ -1511,8 +1511,8 @@ geo_area,nature,units,year,ag_lnd_frstprct
 860,c,percent,2018,96.7487
 860,c,percent,2019,96.9178
 860,c,percent,2020,99.7352
-862,c,percent,2000,103.9464
-862,c,percent,2010,100.4205
+862,c,percent,2000,100
+862,c,percent,2010,100
 862,c,percent,2015,98.6597
 862,c,percent,2016,98.6597
 862,c,percent,2017,98.6597

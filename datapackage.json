@@ -8,7 +8,7 @@
     "description": "SDG indicators",
     "author": "Gapminder",
     "license": "CC-BY-4.0",
-    "created": "2022-04-24T02:36:26.585035+00:00",
+    "created": "2022-05-29T01:26:33.190808+00:00",
     "translations": [],
     "version": "0.0.1",
     "resources": [
@@ -3883,8 +3883,8 @@
             }
         },
         {
-            "name": "ddf--datapoints--en_mar_bealitsq--by--geo_area--nature--units--year",
-            "path": "ddf--datapoints--en_mar_bealitsq--by--geo_area--nature--units--year.csv",
+            "name": "ddf--datapoints--en_mar_bealitsq--by--geo_area--nature--observation_status--units--year",
+            "path": "ddf--datapoints--en_mar_bealitsq--by--geo_area--nature--observation_status--units--year.csv",
             "schema": {
                 "fields": [
                     {
@@ -3892,6 +3892,9 @@
                     },
                     {
                         "name": "nature"
+                    },
+                    {
+                        "name": "observation_status"
                     },
                     {
                         "name": "units"
@@ -3906,6 +3909,7 @@
                 "primaryKey": [
                     "geo_area",
                     "nature",
+                    "observation_status",
                     "units",
                     "year"
                 ]
@@ -22712,12 +22716,13 @@
                 "primaryKey": [
                     "geo_area",
                     "nature",
+                    "observation_status",
                     "units",
                     "year"
                 ],
                 "value": "en_mar_bealitsq",
                 "resources": [
-                    "ddf--datapoints--en_mar_bealitsq--by--geo_area--nature--units--year"
+                    "ddf--datapoints--en_mar_bealitsq--by--geo_area--nature--observation_status--units--year"
                 ]
             },
             {
