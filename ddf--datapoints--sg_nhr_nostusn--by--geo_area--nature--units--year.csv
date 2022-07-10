@@ -7,6 +7,7 @@ geo_area,nature,units,year,sg_nhr_nostusn
 28,c,number,2018,1
 28,c,number,2019,1
 28,c,number,2020,1
+28,c,number,2021,1
 52,c,number,2005,1
 52,c,number,2010,1
 52,c,number,2015,1
@@ -15,6 +16,7 @@ geo_area,nature,units,year,sg_nhr_nostusn
 52,c,number,2018,1
 52,c,number,2019,1
 52,c,number,2020,1
+52,c,number,2021,1
 204,c,number,2005,1
 204,c,number,2010,1
 204,c,number,2015,1
@@ -23,6 +25,7 @@ geo_area,nature,units,year,sg_nhr_nostusn
 204,c,number,2018,1
 204,c,number,2019,1
 204,c,number,2020,1
+204,c,number,2021,1
 344,c,number,2000,1
 344,c,number,2005,1
 344,c,number,2010,1
@@ -32,6 +35,7 @@ geo_area,nature,units,year,sg_nhr_nostusn
 344,c,number,2018,1
 344,c,number,2019,1
 344,c,number,2020,1
+344,c,number,2021,1
 364,c,number,2000,1
 364,c,number,2005,1
 364,c,number,2010,1
@@ -41,6 +45,7 @@ geo_area,nature,units,year,sg_nhr_nostusn
 364,c,number,2018,1
 364,c,number,2019,1
 364,c,number,2020,1
+364,c,number,2021,1
 450,c,number,2010,1
 450,c,number,2015,1
 450,c,number,2016,1
@@ -53,6 +58,7 @@ geo_area,nature,units,year,sg_nhr_nostusn
 630,c,number,2018,1
 630,c,number,2019,1
 630,c,number,2020,1
+630,c,number,2021,1
 642,c,number,2010,1
 642,c,number,2015,1
 642,c,number,2016,1
@@ -60,6 +66,7 @@ geo_area,nature,units,year,sg_nhr_nostusn
 642,c,number,2018,1
 642,c,number,2019,1
 642,c,number,2020,1
+642,c,number,2021,1
 703,c,number,2005,1
 756,c,number,2010,1
 756,c,number,2015,1
@@ -68,3 +75,4 @@ geo_area,nature,units,year,sg_nhr_nostusn
 756,c,number,2018,1
 756,c,number,2019,1
 756,c,number,2020,1
+756,c,number,2021,1

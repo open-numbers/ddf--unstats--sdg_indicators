@@ -8,7 +8,10 @@ inst,INST
 lite,LITE
 nume,NUME
 pcpr,PCPR
+prvcy,PRVCY
+scrty,SCRTY
 skill_math,SKILL_MATH
 skill_read,SKILL_READ
 soft,SOFT
 traf,TRAF
+vrfy,VRFY

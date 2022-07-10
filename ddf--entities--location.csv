@@ -1,5 +1,7 @@
 location,name
 allarea,ALLAREA
+city,CITY
 notspec,NOTSPEC
 rural,RURAL
+tsub,TSUB
 urban,URBAN

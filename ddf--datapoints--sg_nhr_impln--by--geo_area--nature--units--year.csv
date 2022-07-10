@@ -6,6 +6,7 @@ geo_area,nature,units,year,sg_nhr_impln
 4,c,number,2018,1
 4,c,number,2019,1
 4,c,number,2020,1
+4,c,number,2021,1
 8,c,number,2005,1
 8,c,number,2010,1
 8,c,number,2015,1
@@ -14,6 +15,7 @@ geo_area,nature,units,year,sg_nhr_impln
 8,c,number,2018,1
 8,c,number,2019,1
 8,c,number,2020,1
+8,c,number,2021,1
 12,c,number,2000,1
 12,c,number,2005,1
 31,c,number,2010,1
@@ -29,6 +31,7 @@ geo_area,nature,units,year,sg_nhr_impln
 32,c,number,2018,1
 32,c,number,2019,1
 32,c,number,2020,1
+32,c,number,2021,1
 36,c,number,2000,1
 36,c,number,2005,1
 36,c,number,2010,1
@@ -38,6 +41,7 @@ geo_area,nature,units,year,sg_nhr_impln
 36,c,number,2018,1
 36,c,number,2019,1
 36,c,number,2020,1
+36,c,number,2021,1
 51,c,number,2010,1
 51,c,number,2015,1
 51,c,number,2016,1
@@ -45,6 +49,7 @@ geo_area,nature,units,year,sg_nhr_impln
 51,c,number,2018,1
 51,c,number,2019,1
 51,c,number,2020,1
+51,c,number,2021,1
 68,c,number,2000,1
 68,c,number,2005,1
 68,c,number,2010,1
@@ -54,6 +59,7 @@ geo_area,nature,units,year,sg_nhr_impln
 68,c,number,2018,1
 68,c,number,2019,1
 68,c,number,2020,1
+68,c,number,2021,1
 70,c,number,2005,1
 70,c,number,2010,1
 70,c,number,2015,1
@@ -62,10 +68,13 @@ geo_area,nature,units,year,sg_nhr_impln
 70,c,number,2018,1
 70,c,number,2019,1
 70,c,number,2020,1
+70,c,number,2021,1
 100,c,number,2019,1
 100,c,number,2020,1
+100,c,number,2021,1
 108,c,number,2015,1
 108,c,number,2016,1
+108,c,number,2021,1
 120,c,number,2000,1
 120,c,number,2005,1
 120,c,number,2010,1
@@ -75,6 +84,7 @@ geo_area,nature,units,year,sg_nhr_impln
 120,c,number,2018,1
 120,c,number,2019,1
 120,c,number,2020,1
+120,c,number,2021,1
 124,c,number,2000,1
 124,c,number,2005,1
 124,c,number,2010,1
@@ -84,9 +94,11 @@ geo_area,nature,units,year,sg_nhr_impln
 124,c,number,2018,1
 124,c,number,2019,1
 124,c,number,2020,1
+124,c,number,2021,1
 144,c,number,2018,1
 144,c,number,2019,1
 144,c,number,2020,1
+144,c,number,2021,1
 148,c,number,2000,1
 148,c,number,2005,1
 152,c,number,2015,1
@@ -95,6 +107,7 @@ geo_area,nature,units,year,sg_nhr_impln
 152,c,number,2018,1
 152,c,number,2019,1
 152,c,number,2020,1
+152,c,number,2021,1
 170,c,number,2005,1
 170,c,number,2010,1
 170,c,number,2015,1
@@ -103,9 +116,11 @@ geo_area,nature,units,year,sg_nhr_impln
 170,c,number,2018,1
 170,c,number,2019,1
 170,c,number,2020,1
+170,c,number,2021,1
 180,c,number,2018,1
 180,c,number,2019,1
 180,c,number,2020,1
+180,c,number,2021,1
 188,c,number,2000,1
 188,c,number,2005,1
 188,c,number,2010,1
@@ -115,6 +130,7 @@ geo_area,nature,units,year,sg_nhr_impln
 188,c,number,2018,1
 188,c,number,2019,1
 188,c,number,2020,1
+188,c,number,2021,1
 191,c,number,2010,1
 191,c,number,2015,1
 191,c,number,2016,1
@@ -122,6 +138,7 @@ geo_area,nature,units,year,sg_nhr_impln
 191,c,number,2018,1
 191,c,number,2019,1
 191,c,number,2020,1
+191,c,number,2021,1
 208,c,number,2005,1
 208,c,number,2010,1
 208,c,number,2015,1
@@ -130,6 +147,7 @@ geo_area,nature,units,year,sg_nhr_impln
 208,c,number,2018,1
 208,c,number,2019,1
 208,c,number,2020,1
+208,c,number,2021,1
 218,c,number,2000,1
 218,c,number,2005,1
 218,c,number,2010,1
@@ -139,6 +157,7 @@ geo_area,nature,units,year,sg_nhr_impln
 218,c,number,2018,1
 218,c,number,2019,1
 218,c,number,2020,1
+218,c,number,2021,1
 222,c,number,2010,1
 222,c,number,2015,1
 222,c,number,2016,1
@@ -146,7 +165,10 @@ geo_area,nature,units,year,sg_nhr_impln
 222,c,number,2018,1
 222,c,number,2019,1
 222,c,number,2020,1
+222,c,number,2021,1
+231,c,number,2021,1
 233,c,number,2020,1
+233,c,number,2021,1
 242,c,number,2000,1
 242,c,number,2005,1
 246,c,number,2015,1
@@ -155,6 +177,7 @@ geo_area,nature,units,year,sg_nhr_impln
 246,c,number,2018,1
 246,c,number,2019,1
 246,c,number,2020,1
+246,c,number,2021,1
 250,c,number,2000,1
 250,c,number,2005,1
 250,c,number,2010,1
@@ -164,6 +187,7 @@ geo_area,nature,units,year,sg_nhr_impln
 250,c,number,2018,1
 250,c,number,2019,1
 250,c,number,2020,1
+250,c,number,2021,1
 268,c,number,2010,1
 268,c,number,2015,1
 268,c,number,2016,1
@@ -171,6 +195,7 @@ geo_area,nature,units,year,sg_nhr_impln
 268,c,number,2018,1
 268,c,number,2019,1
 268,c,number,2020,1
+268,c,number,2021,1
 275,c,number,2005,1
 275,c,number,2010,1
 275,c,number,2015,1
@@ -179,6 +204,7 @@ geo_area,nature,units,year,sg_nhr_impln
 275,c,number,2018,1
 275,c,number,2019,1
 275,c,number,2020,1
+275,c,number,2021,1
 276,c,number,2005,1
 276,c,number,2010,1
 276,c,number,2015,1
@@ -187,6 +213,7 @@ geo_area,nature,units,year,sg_nhr_impln
 276,c,number,2018,1
 276,c,number,2019,1
 276,c,number,2020,1
+276,c,number,2021,1
 288,c,number,2005,1
 288,c,number,2010,1
 288,c,number,2015,1
@@ -195,6 +222,7 @@ geo_area,nature,units,year,sg_nhr_impln
 288,c,number,2018,1
 288,c,number,2019,1
 288,c,number,2020,1
+288,c,number,2021,1
 300,c,number,2000,1
 300,c,number,2005,1
 300,c,number,2010,1
@@ -204,6 +232,7 @@ geo_area,nature,units,year,sg_nhr_impln
 300,c,number,2018,1
 300,c,number,2019,1
 300,c,number,2020,1
+300,c,number,2021,1
 320,c,number,2000,1
 320,c,number,2005,1
 320,c,number,2010,1
@@ -213,21 +242,25 @@ geo_area,nature,units,year,sg_nhr_impln
 320,c,number,2018,1
 320,c,number,2019,1
 320,c,number,2020,1
+320,c,number,2021,1
 332,c,number,2015,1
 332,c,number,2016,1
 332,c,number,2017,1
 332,c,number,2018,1
 332,c,number,2019,1
 332,c,number,2020,1
+332,c,number,2021,1
 340,c,number,2010,1
 340,c,number,2019,1
 340,c,number,2020,1
+340,c,number,2021,1
 348,c,number,2015,1
 348,c,number,2016,1
 348,c,number,2017,1
 348,c,number,2018,1
 348,c,number,2019,1
 348,c,number,2020,1
+348,c,number,2021,1
 356,c,number,2000,1
 356,c,number,2005,1
 356,c,number,2010,1
@@ -237,6 +270,7 @@ geo_area,nature,units,year,sg_nhr_impln
 356,c,number,2018,1
 356,c,number,2019,1
 356,c,number,2020,1
+356,c,number,2021,1
 360,c,number,2000,1
 360,c,number,2005,1
 360,c,number,2010,1
@@ -246,6 +280,8 @@ geo_area,nature,units,year,sg_nhr_impln
 360,c,number,2018,1
 360,c,number,2019,1
 360,c,number,2020,1
+360,c,number,2021,1
+368,c,number,2021,1
 372,c,number,2010,1
 372,c,number,2015,1
 372,c,number,2016,1
@@ -253,6 +289,9 @@ geo_area,nature,units,year,sg_nhr_impln
 372,c,number,2018,1
 372,c,number,2019,1
 372,c,number,2020,1
+372,c,number,2021,1
+384,c,number,2020,1
+384,c,number,2021,1
 400,c,number,2010,1
 400,c,number,2015,1
 400,c,number,2016,1
@@ -260,6 +299,7 @@ geo_area,nature,units,year,sg_nhr_impln
 400,c,number,2018,1
 400,c,number,2019,1
 400,c,number,2020,1
+400,c,number,2021,1
 404,c,number,2005,1
 404,c,number,2010,1
 404,c,number,2015,1
@@ -268,6 +308,7 @@ geo_area,nature,units,year,sg_nhr_impln
 404,c,number,2018,1
 404,c,number,2019,1
 404,c,number,2020,1
+404,c,number,2021,1
 410,c,number,2005,1
 410,c,number,2010,1
 410,c,number,2015,1
@@ -276,20 +317,24 @@ geo_area,nature,units,year,sg_nhr_impln
 410,c,number,2018,1
 410,c,number,2019,1
 410,c,number,2020,1
+410,c,number,2021,1
 428,c,number,2015,1
 428,c,number,2016,1
 428,c,number,2017,1
 428,c,number,2018,1
 428,c,number,2019,1
 428,c,number,2020,1
+428,c,number,2021,1
 430,c,number,2017,1
 430,c,number,2018,1
 430,c,number,2019,1
 430,c,number,2020,1
+430,c,number,2021,1
 440,c,number,2017,1
 440,c,number,2018,1
 440,c,number,2019,1
 440,c,number,2020,1
+440,c,number,2021,1
 442,c,number,2005,1
 442,c,number,2010,1
 442,c,number,2015,1
@@ -298,10 +343,12 @@ geo_area,nature,units,year,sg_nhr_impln
 442,c,number,2018,1
 442,c,number,2019,1
 442,c,number,2020,1
+442,c,number,2021,1
 450,c,number,2000,1
 450,c,number,2005,1
 450,c,number,2019,1
 450,c,number,2020,1
+450,c,number,2021,1
 454,c,number,2000,1
 454,c,number,2005,1
 454,c,number,2010,1
@@ -311,6 +358,7 @@ geo_area,nature,units,year,sg_nhr_impln
 454,c,number,2018,1
 454,c,number,2019,1
 454,c,number,2020,1
+454,c,number,2021,1
 458,c,number,2005,1
 458,c,number,2010,1
 458,c,number,2015,1
@@ -319,11 +367,13 @@ geo_area,nature,units,year,sg_nhr_impln
 458,c,number,2018,1
 458,c,number,2019,1
 458,c,number,2020,1
+458,c,number,2021,1
 478,c,number,2015,1
 478,c,number,2016,1
 478,c,number,2017,1
 478,c,number,2018,1
 478,c,number,2020,1
+478,c,number,2021,1
 480,c,number,2005,1
 480,c,number,2010,1
 480,c,number,2015,1
@@ -332,6 +382,7 @@ geo_area,nature,units,year,sg_nhr_impln
 480,c,number,2018,1
 480,c,number,2019,1
 480,c,number,2020,1
+480,c,number,2021,1
 484,c,number,2000,1
 484,c,number,2005,1
 484,c,number,2010,1
@@ -341,6 +392,7 @@ geo_area,nature,units,year,sg_nhr_impln
 484,c,number,2018,1
 484,c,number,2019,1
 484,c,number,2020,1
+484,c,number,2021,1
 496,c,number,2005,1
 496,c,number,2010,1
 496,c,number,2015,1
@@ -349,9 +401,11 @@ geo_area,nature,units,year,sg_nhr_impln
 496,c,number,2018,1
 496,c,number,2019,1
 496,c,number,2020,1
+496,c,number,2021,1
 498,c,number,2018,1
 498,c,number,2019,1
 498,c,number,2020,1
+498,c,number,2021,1
 504,c,number,2000,1
 504,c,number,2005,1
 504,c,number,2010,1
@@ -361,6 +415,7 @@ geo_area,nature,units,year,sg_nhr_impln
 504,c,number,2018,1
 504,c,number,2019,1
 504,c,number,2020,1
+504,c,number,2021,1
 516,c,number,2005,1
 516,c,number,2010,1
 516,c,number,2015,1
@@ -369,6 +424,7 @@ geo_area,nature,units,year,sg_nhr_impln
 516,c,number,2018,1
 516,c,number,2019,1
 516,c,number,2020,1
+516,c,number,2021,1
 524,c,number,2005,1
 524,c,number,2010,1
 524,c,number,2015,1
@@ -377,12 +433,14 @@ geo_area,nature,units,year,sg_nhr_impln
 524,c,number,2018,1
 524,c,number,2019,1
 524,c,number,2020,1
+524,c,number,2021,1
 528,c,number,2015,1
 528,c,number,2016,1
 528,c,number,2017,1
 528,c,number,2018,1
 528,c,number,2019,1
 528,c,number,2020,1
+528,c,number,2021,1
 554,c,number,2000,1
 554,c,number,2005,1
 554,c,number,2010,1
@@ -392,6 +450,7 @@ geo_area,nature,units,year,sg_nhr_impln
 554,c,number,2018,1
 554,c,number,2019,1
 554,c,number,2020,1
+554,c,number,2021,1
 558,c,number,2010,1
 558,c,number,2015,1
 558,c,number,2016,1
@@ -402,6 +461,7 @@ geo_area,nature,units,year,sg_nhr_impln
 562,c,number,2018,1
 562,c,number,2019,1
 562,c,number,2020,1
+562,c,number,2021,1
 566,c,number,2000,1
 566,c,number,2005,1
 566,c,number,2015,1
@@ -410,12 +470,14 @@ geo_area,nature,units,year,sg_nhr_impln
 566,c,number,2018,1
 566,c,number,2019,1
 566,c,number,2020,1
+566,c,number,2021,1
 578,c,number,2005,1
 578,c,number,2010,1
 578,c,number,2017,1
 578,c,number,2018,1
 578,c,number,2019,1
 578,c,number,2020,1
+578,c,number,2021,1
 591,c,number,2000,1
 591,c,number,2005,1
 591,c,number,2010,1
@@ -436,6 +498,7 @@ geo_area,nature,units,year,sg_nhr_impln
 604,c,number,2018,1
 604,c,number,2019,1
 604,c,number,2020,1
+604,c,number,2021,1
 608,c,number,2000,1
 608,c,number,2005,1
 608,c,number,2010,1
@@ -445,6 +508,7 @@ geo_area,nature,units,year,sg_nhr_impln
 608,c,number,2018,1
 608,c,number,2019,1
 608,c,number,2020,1
+608,c,number,2021,1
 616,c,number,2000,1
 616,c,number,2005,1
 616,c,number,2010,1
@@ -454,6 +518,7 @@ geo_area,nature,units,year,sg_nhr_impln
 616,c,number,2018,1
 616,c,number,2019,1
 616,c,number,2020,1
+616,c,number,2021,1
 620,c,number,2000,1
 620,c,number,2005,1
 620,c,number,2010,1
@@ -463,6 +528,7 @@ geo_area,nature,units,year,sg_nhr_impln
 620,c,number,2018,1
 620,c,number,2019,1
 620,c,number,2020,1
+620,c,number,2021,1
 626,c,number,2010,1
 626,c,number,2015,1
 626,c,number,2016,1
@@ -470,6 +536,7 @@ geo_area,nature,units,year,sg_nhr_impln
 626,c,number,2018,1
 626,c,number,2019,1
 626,c,number,2020,1
+626,c,number,2021,1
 634,c,number,2010,1
 634,c,number,2015,1
 634,c,number,2016,1
@@ -477,6 +544,7 @@ geo_area,nature,units,year,sg_nhr_impln
 634,c,number,2018,1
 634,c,number,2019,1
 634,c,number,2020,1
+634,c,number,2021,1
 643,c,number,2010,1
 643,c,number,2015,1
 643,c,number,2016,1
@@ -484,6 +552,7 @@ geo_area,nature,units,year,sg_nhr_impln
 643,c,number,2018,1
 643,c,number,2019,1
 643,c,number,2020,1
+643,c,number,2021,1
 646,c,number,2005,1
 646,c,number,2010,1
 646,c,number,2015,1
@@ -492,6 +561,7 @@ geo_area,nature,units,year,sg_nhr_impln
 646,c,number,2018,1
 646,c,number,2019,1
 646,c,number,2020,1
+646,c,number,2021,1
 686,c,number,2000,1
 686,c,number,2005,1
 686,c,number,2010,1
@@ -502,13 +572,16 @@ geo_area,nature,units,year,sg_nhr_impln
 688,c,number,2018,1
 688,c,number,2019,1
 688,c,number,2020,1
+688,c,number,2021,1
 694,c,number,2015,1
 694,c,number,2016,1
 694,c,number,2017,1
 694,c,number,2018,1
 694,c,number,2019,1
 694,c,number,2020,1
+694,c,number,2021,1
 705,c,number,2020,1
+705,c,number,2021,1
 710,c,number,2000,1
 710,c,number,2005,1
 710,c,number,2010,1
@@ -518,11 +591,13 @@ geo_area,nature,units,year,sg_nhr_impln
 710,c,number,2018,1
 710,c,number,2019,1
 710,c,number,2020,1
+710,c,number,2021,1
 716,c,number,2016,1
 716,c,number,2017,1
 716,c,number,2018,1
 716,c,number,2019,1
 716,c,number,2020,1
+716,c,number,2021,1
 724,c,number,2000,1
 724,c,number,2005,1
 724,c,number,2010,1
@@ -532,6 +607,7 @@ geo_area,nature,units,year,sg_nhr_impln
 724,c,number,2018,1
 724,c,number,2019,1
 724,c,number,2020,1
+724,c,number,2021,1
 752,c,number,2000,1
 752,c,number,2005,1
 764,c,number,2005,1
@@ -545,6 +621,7 @@ geo_area,nature,units,year,sg_nhr_impln
 768,c,number,2018,1
 768,c,number,2019,1
 768,c,number,2020,1
+768,c,number,2021,1
 800,c,number,2000,1
 800,c,number,2005,1
 800,c,number,2010,1
@@ -554,6 +631,7 @@ geo_area,nature,units,year,sg_nhr_impln
 800,c,number,2018,1
 800,c,number,2019,1
 800,c,number,2020,1
+800,c,number,2021,1
 804,c,number,2010,1
 804,c,number,2015,1
 804,c,number,2016,1
@@ -561,6 +639,7 @@ geo_area,nature,units,year,sg_nhr_impln
 804,c,number,2018,1
 804,c,number,2019,1
 804,c,number,2020,1
+804,c,number,2021,1
 818,c,number,2010,1
 818,c,number,2015,1
 818,c,number,2016,1
@@ -568,6 +647,7 @@ geo_area,nature,units,year,sg_nhr_impln
 818,c,number,2018,1
 818,c,number,2019,1
 818,c,number,2020,1
+818,c,number,2021,1
 826,c,number,2010,1
 826,c,number,2015,1
 826,c,number,2016,1
@@ -575,6 +655,7 @@ geo_area,nature,units,year,sg_nhr_impln
 826,c,number,2018,1
 826,c,number,2019,1
 826,c,number,2020,1
+826,c,number,2021,1
 834,c,number,2005,1
 834,c,number,2010,1
 834,c,number,2015,1
@@ -583,11 +664,13 @@ geo_area,nature,units,year,sg_nhr_impln
 834,c,number,2018,1
 834,c,number,2019,1
 834,c,number,2020,1
+834,c,number,2021,1
 858,c,number,2016,1
 858,c,number,2017,1
 858,c,number,2018,1
 858,c,number,2019,1
 858,c,number,2020,1
+858,c,number,2021,1
 862,c,number,2005,1
 862,c,number,2010,1
 862,c,number,2015,1
@@ -596,6 +679,7 @@ geo_area,nature,units,year,sg_nhr_impln
 882,c,number,2018,1
 882,c,number,2019,1
 882,c,number,2020,1
+882,c,number,2021,1
 894,c,number,2005,1
 894,c,number,2010,1
 894,c,number,2015,1
@@ -604,3 +688,4 @@ geo_area,nature,units,year,sg_nhr_impln
 894,c,number,2018,1
 894,c,number,2019,1
 894,c,number,2020,1
+894,c,number,2021,1

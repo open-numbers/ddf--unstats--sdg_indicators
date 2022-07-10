@@ -4,6 +4,7 @@ age,entity_domain,Age
 cause_of_death,entity_domain,Cause Of Death
 cities,entity_domain,Cities
 counterpart,entity_domain,Counterpart
+custom_breakdown,entity_domain,Custom Breakdown
 description,string,Description
 deviation_level,entity_domain,Deviation Level
 disability_status,entity_domain,Disability Status

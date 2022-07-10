@@ -1,5 +1,6 @@
 concept,concept_type,description,goal,indicator,name,target
-ag_fls_idx,measure,Food loss percentage (%),12,12.3.1,AG_FLS_IDX,12.3
+ag_fls_index,measure,Global food loss index,12,12.3.1,AG_FLS_INDEX,12.3
+ag_fls_pct,measure,Food loss percentage (%),12,12.3.1,AG_FLS_PCT,12.3
 ag_food_wst,measure,Food waste (Tonnes),12,12.3.1,AG_FOOD_WST,12.3
 ag_food_wst_pc,measure,Food waste per capita (KG),12,12.3.1,AG_FOOD_WST_PC,12.3
 ag_fpa_cfpi,measure,"Indicator of Food Price Anomalies (IFPA), by Consumer Food Price Index",2,2.c.1,AG_FPA_CFPI,2.c
@@ -35,32 +36,32 @@ dc_fin_climm,measure,"Climate-specific financial support provided via multilater
 dc_fin_climt,measure,Total climate-specific financial support provided (Billions of current United States dollars),13,13.a.1,DC_FIN_CLIMT,13.a
 dc_fin_gen,measure,Core/general contributions provided to multilateral institutions (Billions of current United States dollars),13,13.a.1,DC_FIN_GEN,13.a
 dc_fin_tot,measure,Total financial support provided (Billions of current United States dollars),13,13.a.1,DC_FIN_TOT,13.a
-dc_fta_total,measure,Total official development assistance (gross disbursement) for technical cooperation (millions of 2019 United States dollars),17,17.9.1,DC_FTA_TOTAL,17.9
-dc_oda_bdvdl,measure,"Total official development assistance for biodiversity, by donor countries (millions of constant 2018 United States dollars)","15, 15","15.a.1, 15.b.1",DC_ODA_BDVDL,"15.a, 15.b"
-dc_oda_bdvl,measure,"Total official development assistance for biodiversity, by recipient countries (millions of constant 2018 United States dollars)","15, 15","15.a.1, 15.b.1",DC_ODA_BDVL,"15.a, 15.b"
+dc_fta_total,measure,Total official development assistance (gross disbursement) for technical cooperation (millions of 2020 United States dollars),17,17.9.1,DC_FTA_TOTAL,17.9
+dc_oda_bdvdl,measure,"Total official development assistance for biodiversity, by donor countries (millions of constant 2020 United States dollars)","15, 15","15.a.1, 15.b.1",DC_ODA_BDVDL,"15.a, 15.b"
+dc_oda_bdvl,measure,"Total official development assistance for biodiversity, by recipient countries (millions of constant 2020 United States dollars)","15, 15","15.a.1, 15.b.1",DC_ODA_BDVL,"15.a, 15.b"
 dc_oda_ldcg,measure,"Net official development assistance (ODA) to LDCs as a percentage of OECD-DAC donors' GNI, by donor countries (%)",17,17.2.1,DC_ODA_LDCG,17.2
-dc_oda_ldcs,measure,"Net official development assistance (ODA) to LDCs from OECD-DAC countries, by donor countries (millions of constant 2019 United States dollars)",17,17.2.1,DC_ODA_LDCS,17.2
-dc_oda_lldc,measure,"Net official development assistance (ODA) to landlocked developing countries from OECD-DAC countries, by donor countries (millions of constant 2019 United States dollars)",17,17.2.1,DC_ODA_LLDC,17.2
+dc_oda_ldcs,measure,"Net official development assistance (ODA) to LDCs from OECD-DAC countries, by donor countries (millions of constant 2020 United States dollars)",17,17.2.1,DC_ODA_LDCS,17.2
+dc_oda_lldc,measure,"Net official development assistance (ODA) to landlocked developing countries from OECD-DAC countries, by donor countries (millions of constant 2020 United States dollars)",17,17.2.1,DC_ODA_LLDC,17.2
 dc_oda_lldcg,measure,"Net official development assistance (ODA) to landlocked developing countries as a percentage of OECD-DAC donors' GNI, by donor countries (%)",17,17.2.1,DC_ODA_LLDCG,17.2
 dc_oda_povdlg,measure,"Official development assistance grants for poverty reduction, by donor countries (percentage of GNI)",1,1.a.1,DC_ODA_POVDLG,1.a
 dc_oda_povg,measure,Official development assistance grants for poverty reduction (percentage of GNI),1,1.a.1,DC_ODA_POVG,1.a
 dc_oda_povlg,measure,"Official development assistance grants for poverty reduction, by recipient countries (percentage of GNI)",1,1.a.1,DC_ODA_POVLG,1.a
-dc_oda_sids,measure,"Net official development assistance (ODA) to small island states (SIDS) from OECD-DAC countries, by donor countries (millions of constant 2019 United States dollars)",17,17.2.1,DC_ODA_SIDS,17.2
+dc_oda_sids,measure,"Net official development assistance (ODA) to small island states (SIDS) from OECD-DAC countries, by donor countries (millions of constant 2020 United States dollars)",17,17.2.1,DC_ODA_SIDS,17.2
 dc_oda_sidsg,measure,"Net official development assistance (ODA) to small island states (SIDS) as a percentage of OECD-DAC donors' GNI, by donor countries (%)",17,17.2.1,DC_ODA_SIDSG,17.2
 dc_oda_totg,measure,"Net official development assistance (ODA) as a percentage of OECD-DAC donors' GNI, by donor countries (%)",17,17.2.1,DC_ODA_TOTG,17.2
 dc_oda_totgge,measure,"Official development assistance (ODA) as a percentage of OECD-DAC donors' GNI on grant equivalent basis, by donor countries (%)",17,17.2.1,DC_ODA_TOTGGE,17.2
-dc_oda_totl,measure,"Net official development assistance (ODA) from OECD-DAC countries, by donor countries (millions of constant 2019 United States dollars)",17,17.2.1,DC_ODA_TOTL,17.2
-dc_oda_totlge,measure,"Official development assistance (ODA) from OECD-DAC countries on grant equivalent basis, by donor countries (millions of constant 2019 United States dollars)",17,17.2.1,DC_ODA_TOTLGE,17.2
-dc_tof_agrl,measure,"Total official flows (disbursements) for agriculture, by recipient countries (millions of constant 2019 United States dollars)",2,2.a.2,DC_TOF_AGRL,2.a
-dc_tof_hlthl,measure,"Total official development assistance to medical research and basic heath sectors, gross disbursement, by recipient countries (millions of constant 2019 United States dollars)",3,3.b.2,DC_TOF_HLTHL,3.b
-dc_tof_hlthnt,measure,"Total official development assistance to medical research and basic heath sectors, net disbursement, by recipient countries (millions of constant 2019 United States dollars)",3,3.b.2,DC_TOF_HLTHNT,3.b
-dc_tof_infral,measure,"Total official flows for infrastructure, by recipient countries (millions of constant 2019 United States dollars)",9,9.a.1,DC_TOF_INFRAL,9.a
-dc_tof_schipsl,measure,"Total official flows for scholarships, by recipient countries (millions of constant 2019 United States dollars)",4,4.b.1,DC_TOF_SCHIPSL,4.b
-dc_tof_trdcmdl,measure,"Total official flows (commitments) for Aid for Trade, by donor countries (millions of constant 2019 United States dollars)",8,8.a.1,DC_TOF_TRDCMDL,8.a
-dc_tof_trdcml,measure,"Total official flows (commitments) for Aid for Trade, by recipient countries (millions of constant 2019 United States dollars)",8,8.a.1,DC_TOF_TRDCML,8.a
-dc_tof_trddbmdl,measure,"Total official flows (disbursement) for Aid for Trade, by donor countries (millions of constant 2019 United States dollars)",8,8.a.1,DC_TOF_TRDDBMDL,8.a
-dc_tof_trddbml,measure,"Total official flows (disbursement) for Aid for Trade, by recipient countries (millions of constant 2019 United States dollars)",8,8.a.1,DC_TOF_TRDDBML,8.a
-dc_tof_washl,measure,"Total official development assistance (gross disbursement) for water supply and sanitation, by recipient countries (millions of constant 2019 United States dollars)",6,6.a.1,DC_TOF_WASHL,6.a
+dc_oda_totl,measure,"Net official development assistance (ODA) from OECD-DAC countries, by donor countries (millions of constant 2020 United States dollars)",17,17.2.1,DC_ODA_TOTL,17.2
+dc_oda_totlge,measure,"Official development assistance (ODA) from OECD-DAC countries on grant equivalent basis, by donor countries (millions of constant 2020 United States dollars)",17,17.2.1,DC_ODA_TOTLGE,17.2
+dc_tof_agrl,measure,"Total official flows (disbursements) for agriculture, by recipient countries (millions of constant 2020 United States dollars)",2,2.a.2,DC_TOF_AGRL,2.a
+dc_tof_hlthl,measure,"Total official development assistance to medical research and basic heath sectors, gross disbursement, by recipient countries (millions of constant 2020 United States dollars)",3,3.b.2,DC_TOF_HLTHL,3.b
+dc_tof_hlthnt,measure,"Total official development assistance to medical research and basic heath sectors, net disbursement, by recipient countries (millions of constant 2020 United States dollars)",3,3.b.2,DC_TOF_HLTHNT,3.b
+dc_tof_infral,measure,"Total official flows for infrastructure, by recipient countries (millions of constant 2020 United States dollars)",9,9.a.1,DC_TOF_INFRAL,9.a
+dc_tof_schipsl,measure,"Total official flows for scholarships, by recipient countries (millions of constant 2020 United States dollars)",4,4.b.1,DC_TOF_SCHIPSL,4.b
+dc_tof_trdcmdl,measure,"Total official flows (commitments) for Aid for Trade, by donor countries (millions of constant 2020 United States dollars)",8,8.a.1,DC_TOF_TRDCMDL,8.a
+dc_tof_trdcml,measure,"Total official flows (commitments) for Aid for Trade, by recipient countries (millions of constant 2020 United States dollars)",8,8.a.1,DC_TOF_TRDCML,8.a
+dc_tof_trddbmdl,measure,"Total official flows (disbursement) for Aid for Trade, by donor countries (millions of constant 2020 United States dollars)",8,8.a.1,DC_TOF_TRDDBMDL,8.a
+dc_tof_trddbml,measure,"Total official flows (disbursement) for Aid for Trade, by recipient countries (millions of constant 2020 United States dollars)",8,8.a.1,DC_TOF_TRDDBML,8.a
+dc_tof_washl,measure,"Total official development assistance (gross disbursement) for water supply and sanitation, by recipient countries (millions of constant 2020 United States dollars)",6,6.a.1,DC_TOF_WASHL,6.a
 dc_trf_tfdv,measure,"Total resource flows for development, by recipient and donor countries (millions of current United States dollars)",10,10.b.1,DC_TRF_TFDV,10.b
 dc_trf_totdl,measure,"Total assistance for development, by donor countries (millions of current United States dollars)",10,10.b.1,DC_TRF_TOTDL,10.b
 dc_trf_totl,measure,"Total assistance for development, by recipient countries (millions of current United States dollars)",10,10.b.1,DC_TRF_TOTL,10.b
@@ -151,6 +152,7 @@ en_scp_ecsyba,measure,Number of countries using ecosystem-based approaches to ma
 en_scp_frmn,measure,"Number of companies publishing sustainability reports with disclosure by dimension, by level of requirement (Number)",12,12.6.1,EN_SCP_FRMN,12.6
 en_scp_fshgdp,measure,Sustainable fisheries as a proportion of GDP,14,14.7.1,EN_SCP_FSHGDP,14.7
 en_twt_genv,measure,"Total waste generation, by activity (Tonnes)",12,12.4.2,EN_TWT_GENV,12.4
+en_urb_opensp,measure,Average share of the built-up area of cities that is open space for public use for all (%),11,11.7.1,EN_URB_OPENSP,11.7
 en_wbe_hmwtl,measure,Extent of human made wetlands (square kilometres),6,6.6.1,EN_WBE_HMWTL,6.6
 en_wbe_inwtl,measure,Extent of inland wetlands (square kilometres),6,6.6.1,EN_WBE_INWTL,6.6
 en_wbe_mangbn,measure,Mangrove area baseline (square kilometres),6,6.6.1,EN_WBE_MANGBN,6.6
@@ -322,11 +324,11 @@ se_tot_rupi,measure,Adjusted rural to urban parity index for achieving a minimum
 se_tot_sespi,measure,Adjusted low to high socio-economic parity index for achieving a minimum proficiency level in reading and mathematics (ratio),4,4.5.1,SE_TOT_SESPI,4.5
 se_tot_sespi_fs,measure,"Adjusted low to high socio-economic parity status index for achieving at least a fixed level of proficiency in functional skills, by numeracy/literacy skills (ratio)",4,4.5.1,SE_TOT_SESPI_FS,4.5
 se_tra_grdl,measure,"Proportion of teachers with the minimum required qualifications, by education level and sex (%)",4,4.c.1,SE_TRA_GRDL,4.c
-sg_cpa_inforce_bit,measure,Number of countries with an inforce bilateral investment treaty (BIT) (Number),17,17.5.1,SG_CPA_INFORCE_BIT,17.5
+sg_cpa_inforce_bit,measure,Number of countries with an in-force bilateral investment treaty (BIT) with least developed countries and developing countries (Number),17,17.5.1,SG_CPA_INFORCE_BIT,17.5
 sg_cpa_migrp,measure,"Proportion of countries with migration policies to facilitate orderly, safe, regular and responsible migration and mobility of people, by policy domain (%)",10,10.7.2,SG_CPA_MIGRP,10.7
 sg_cpa_migrs,measure,"Countries with migration policies to facilitate orderly, safe, regular and responsible migration and mobility of people, by policy domain (1 = Requires further progress; 2 = Partially meets; 3 = Meets; 4 = Fully meets)",10,10.7.2,SG_CPA_MIGRS,10.7
 sg_cpa_sdevp,measure,Mechanisms in place to enhance policy coherence for sustainable development (%),17,17.14.1,SG_CPA_SDEVP,17.14
-sg_cpa_sign_bit,measure,Number of countries with a signed bilateral investment treaty (BIT) (Number),17,17.5.1,SG_CPA_SIGN_BIT,17.5
+sg_cpa_sign_bit,measure,Number of countries with a signed bilateral investment treaty (BIT) with least developed countries and developing countries (Number),17,17.5.1,SG_CPA_SIGN_BIT,17.5
 sg_dmk_jdc,measure,Proportions of positions in the judiciary compared to national distributions (ratio),16,16.7.1,SG_DMK_JDC,16.7
 sg_dmk_jdc_cns,measure,"Proportions of positions in the judiciary compared to national distributions, Constitutional Court (ratio)",16,16.7.1,SG_DMK_JDC_CNS,16.7
 sg_dmk_jdc_hgr,measure,"Proportions of positions in the judiciary compared to national distributions, Higher Courts (ratio)",16,16.7.1,SG_DMK_JDC_HGR,16.7
@@ -405,7 +407,6 @@ sg_stt_nsdsfdothr,measure,Countries with national statistical plans with funding
 sg_stt_nsdsfnd,measure,Countries with national statistical plans that are fully funded (1 = YES; 0 = NO),17,17.18.3,SG_STT_NSDSFND,17.18
 sg_stt_nsdsimpl,measure,Countries with national statistical plans that are under implementation (1 = YES; 0 = NO),17,17.18.3,SG_STT_NSDSIMPL,17.18
 sh_aap_asmort,measure,"Age-standardized mortality rate attributed to ambient air pollution (deaths per 100,000 population)",3,3.9.1,SH_AAP_ASMORT,3.9
-sh_aap_mort,measure,"Crude death rate attributed to ambient air pollution (deaths per 100,000 population)",3,3.9.1,SH_AAP_MORT,3.9
 sh_acs_dtp3,measure,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3) (%),3,3.b.1,SH_ACS_DTP3,3.b
 sh_acs_hpv,measure,"Proportion of the target population with access to affordable medicines and vaccines on a sustainable basis, human papillomavirus (HPV) (%)",3,3.b.1,SH_ACS_HPV,3.b
 sh_acs_mcv2,measure,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2) (%),3,3.b.1,SH_ACS_MCV2,3.b
@@ -430,7 +431,6 @@ sh_fpl_mtmm,measure,Proportion of women of reproductive age (aged 15-49 years) w
 sh_h2o_safe,measure,"Proportion of population using safely managed drinking water services, by urban/rural (%)",6,6.1.1,SH_H2O_SAFE,6.1
 sh_hap_asmort,measure,"Age-standardized mortality rate attributed to household air pollution (deaths per 100,000 population)",3,3.9.1,SH_HAP_ASMORT,3.9
 sh_hap_hbsag,measure,Prevalence of hepatitis B surface antigen (HBsAg) (%),3,3.3.4,SH_HAP_HBSAG,3.3
-sh_hap_mort,measure,"Crude death rate attributed to household air pollution (deaths per 100,000 population)",3,3.9.1,SH_HAP_MORT,3.9
 sh_hiv_incd,measure,"Number of new HIV infections per 1,000 uninfected population, by sex and age (per 1,000 uninfected population)",3,3.3.1,SH_HIV_INCD,3.3
 sh_hlf_emed,measure,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis (%),3,3.b.3,SH_HLF_EMED,3.b
 sh_ihr_caps,measure,"International Health Regulations (IHR) capacity, by type of IHR capacity (%)",3,3.d.1,SH_IHR_CAPS,3.d
@@ -458,7 +458,6 @@ sh_prv_smok,measure,"Age-standardized prevalence of current tobacco use among pe
 sh_san_defect,measure,"Proportion of population practicing open defecation, by urban/rural (%)",6,6.2.1,SH_SAN_DEFECT,6.2
 sh_san_hndwsh,measure,"Proportion of population with basic handwashing facilities on premises, by urban/rural (%)",6,6.2.1,SH_SAN_HNDWSH,6.2
 sh_san_safe,measure,"Proportion of population using safely managed sanitation services, by urban/rural (%)",6,6.2.1,SH_SAN_SAFE,6.2
-sh_sta_airp,measure,"Crude death rate attributed to household and ambient air pollution (deaths per 100,000 population)",3,3.9.1,SH_STA_AIRP,3.9
 sh_sta_anem,measure,Proportion of women aged 15-49 years with anaemia (%),2,2.2.3,SH_STA_ANEM,2.2
 sh_sta_anem_nprg,measure,"Proportion of women aged 15-49 years with anaemia, non-pregnant (%)",2,2.2.3,SH_STA_ANEM_NPRG,2.2
 sh_sta_anem_preg,measure,"Proportion of women aged 15-49 years with anaemia, pregnant (%)",2,2.2.3,SH_STA_ANEM_PREG,2.2
@@ -473,7 +472,7 @@ sh_sta_sciden,measure,"Number of deaths attributed to suicide, by sex (number)",
 sh_sta_stnt,measure,Proportion of children moderately or severely stunted (%),2,2.2.1,SH_STA_STNT,2.2
 sh_sta_stntn,measure,Children moderately or severely stunted (thousands),2,2.2.1,SH_STA_STNTN,2.2
 sh_sta_traf,measure,"Death rate due to road traffic injuries, by sex (per 100,000 population)",3,3.6.1,SH_STA_TRAF,3.6
-sh_sta_wash,measure,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (deaths per 100,000 population)",3,3.9.2,SH_STA_WASH,3.9
+sh_sta_washari,measure,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene from diarrhoea, intestinal nematode infections, malnutrition and acute respiratory infections (deaths per 100,000 population)",3,3.9.2,SH_STA_WASHARI,3.9
 sh_sta_wast,measure,Proportion of children moderately or severely wasted (%),2,2.2.2,SH_STA_WAST,2.2
 sh_sta_wastn,measure,Children moderately or severely wasted (thousands),2,2.2.2,SH_STA_WASTN,2.2
 sh_sud_alcol,measure,"Alcohol use disorders, 12-month prevalence (%)",3,3.5.1,SH_SUD_ALCOL,3.5
@@ -541,6 +540,7 @@ sp_lgl_lnddoc,measure,"Proportion of people with legally recognized documentatio
 sp_lgl_lndsec,measure,"Proportion of people who perceive their rights to land as secure out of total adult population, by sex (%)",1,1.4.2,SP_LGL_LNDSEC,1.4
 sp_lgl_lndstr,measure,"Proportion of people with secure tenure rights to land out of total adult population, by sex (%)",1,1.4.2,SP_LGL_LNDSTR,1.4
 sp_rod_r2km,measure,Proportion of the rural population who live within 2 km of an all-season road,9,9.1.1,SP_ROD_R2KM,9.1
+sp_trn_publ,measure,Proportion of population that has convenient access to public transport (%),11,11.2.1,SP_TRN_PUBL,11.2
 st_eev_accseea,measure,Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (SEEA tables),12,12.b.1,ST_EEV_ACCSEEA,12.b
 st_eev_acctsa,measure,Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (Tourism Satellite Account tables),12,12.b.1,ST_EEV_ACCTSA,12.b
 st_eev_stdacct,measure,Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (number of tables),12,12.b.1,ST_EEV_STDACCT,12.b
@@ -581,9 +581,12 @@ vc_dsr_obdn,measure,Number of disruptions to other basic services attributed to 
 vc_dsr_pdan,measure,Number of people whose damaged dwellings were attributed to disasters (number),"1, 11, 13","1.5.1, 11.5.1, 13.1.1",VC_DSR_PDAN,"1.5, 11.5, 13.1"
 vc_dsr_pdln,measure,"Number of people whose livelihoods were disrupted or destroyed, attributed to disasters (number)","1, 11, 13","1.5.1, 11.5.1, 13.1.1",VC_DSR_PDLN,"1.5, 11.5, 13.1"
 vc_dsr_pdyn,measure,Number of people whose destroyed dwellings were attributed to disasters (number),"1, 11, 13","1.5.1, 11.5.1, 13.1.1",VC_DSR_PDYN,"1.5, 11.5, 13.1"
-vc_dth_tocv,measure,"Number of conflict-related deaths (civilians) per 100,000 population (Per 100,000 population)",16,16.1.2,VC_DTH_TOCV,16.1
 vc_dth_tocvn,measure,"Number of conflict-related deaths (civilians), by sex, age and cause of death (Number)",16,16.1.2,VC_DTH_TOCVN,16.1
-vc_dth_tocvr,measure,"Conflict-related death rate (civilians), by sex, age and cause of death (%)",16,16.1.2,VC_DTH_TOCVR,16.1
+vc_dth_toncvn,measure,"Number of conflict-related deaths (non-civilians), by sex, age and cause of death (Number)",16,16.1.2,VC_DTH_TONCVN,16.1
+vc_dth_totn,measure,"Number of total conflict-related deaths, by sex, age and cause of death (Number)",16,16.1.2,VC_DTH_TOTN,16.1
+vc_dth_totpt,measure,"Conflict-related total death rate, by sex, age and cause of death (%)",16,16.1.2,VC_DTH_TOTPT,16.1
+vc_dth_totr,measure,"Number of total conflict-related deaths per 100,000 population (Per 100,000 population)",16,16.1.2,VC_DTH_TOTR,16.1
+vc_dth_tounn,measure,"Number of conflict-related deaths (unknown), by sex, age and cause of death (Number)",16,16.1.2,VC_DTH_TOUNN,16.1
 vc_htf_detv,measure,"Detected victims of human trafficking, by age and sex (number)",16,16.2.2,VC_HTF_DETV,16.2
 vc_htf_detvfl,measure,"Detected victims of human trafficking for forced labour, servitude and slavery, by age and sex (number)",16,16.2.2,VC_HTF_DETVFL,16.2
 vc_htf_detvog,measure,"Detected victims of human trafficking for removal of organ, by age and sex (number)",16,16.2.2,VC_HTF_DETVOG,16.2
@@ -595,7 +598,7 @@ vc_prr_phyv,measure,"Police reporting rate for physical assault, by sex (%)",16,
 vc_prr_robb,measure,"Police reporting rate for robbery, by sex (%)",16,16.3.1,VC_PRR_ROBB,16.3
 vc_prr_sexv,measure,"Police reporting rate for sexual assault, by sex (%)",16,16.3.1,VC_PRR_SEXV,16.3
 vc_prs_unsnt,measure,Unsentenced detainees as a proportion of overall prison population (%),16,16.3.2,VC_PRS_UNSNT,16.3
-vc_sns_waln,measure,Proportion of population that feel safe walking alone around the area they live (%),16,16.1.4,VC_SNS_WALN,16.1
+vc_sns_waln_drk,measure,Proportion of population that feel safe walking alone around the area they live after dark (%),16,16.1.4,VC_SNS_WALN_DRK,16.1
 vc_vaw_marr,measure,"Proportion of ever-partnered women and girls subjected to physical and/or sexual violence by a current or former intimate partner in the previous 12 months, by age (%)",5,5.2.1,VC_VAW_MARR,5.2
 vc_vaw_mtuhra,measure,"Number of cases of killings of human rights defenders, journalists and trade unionists",16,16.10.1,VC_VAW_MTUHRA,16.10
 vc_vaw_phypyv,measure,Proportion of children aged 1-14 years who experienced physical punishment and/or psychological aggression by caregivers in last month (% of children aged 1-14 years),16,16.2.1,VC_VAW_PHYPYV,16.2
