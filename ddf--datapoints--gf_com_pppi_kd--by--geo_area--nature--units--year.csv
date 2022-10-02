@@ -263,7 +263,7 @@ geo_area,nature,units,year,gf_com_pppi_kd
 76,g,con_usd_m,2017,6671.0719
 76,g,con_usd_m,2018,6155.2912
 76,g,con_usd_m,2019,18623.8201
-76,g,con_usd_m,2020,7732.57
+76,g,con_usd_m,2020,8324.07
 84,g,con_usd_m,2000,0
 84,g,con_usd_m,2001,71.6149
 84,g,con_usd_m,2002,53.4411
@@ -324,7 +324,7 @@ geo_area,nature,units,year,gf_com_pppi_kd
 100,g,con_usd_m,2017,0
 100,g,con_usd_m,2018,5.0702
 100,g,con_usd_m,2019,66.58
-100,g,con_usd_m,2020,911.96
+100,g,con_usd_m,2020,221.96
 104,g,con_usd_m,2000,0
 104,g,con_usd_m,2001,0
 104,g,con_usd_m,2002,0
@@ -1077,7 +1077,7 @@ geo_area,nature,units,year,gf_com_pppi_kd
 356,g,con_usd_m,2017,5110.8728
 356,g,con_usd_m,2018,11040.0679
 356,g,con_usd_m,2019,7368.28
-356,g,con_usd_m,2020,5250.86
+356,g,con_usd_m,2020,5182.86
 360,g,con_usd_m,2000,0
 360,g,con_usd_m,2001,52.9892
 360,g,con_usd_m,2002,273.2316
@@ -1543,7 +1543,7 @@ geo_area,nature,units,year,gf_com_pppi_kd
 484,g,con_usd_m,2017,8935.613
 484,g,con_usd_m,2018,4825.9152
 484,g,con_usd_m,2019,2977.21
-484,g,con_usd_m,2020,4269.5
+484,g,con_usd_m,2020,4363.9
 496,g,con_usd_m,2000,0
 496,g,con_usd_m,2001,0
 496,g,con_usd_m,2002,0
@@ -2215,7 +2215,7 @@ geo_area,nature,units,year,gf_com_pppi_kd
 716,g,con_usd_m,2017,68.5245
 716,g,con_usd_m,2018,0
 716,g,con_usd_m,2019,0
-716,g,con_usd_m,2020,1229.0257
+716,g,con_usd_m,2020,0
 729,g,con_usd_m,2000,0
 729,g,con_usd_m,2001,0
 729,g,con_usd_m,2002,0
@@ -2543,7 +2543,7 @@ geo_area,nature,units,year,gf_com_pppi_kd
 860,g,con_usd_m,2017,0
 860,g,con_usd_m,2018,0
 860,g,con_usd_m,2019,12
-860,g,con_usd_m,2020,395.73
+860,g,con_usd_m,2020,279.73
 862,g,con_usd_m,2000,0
 862,g,con_usd_m,2001,166.4757
 862,g,con_usd_m,2002,0

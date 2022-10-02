@@ -82,6 +82,7 @@ geo_area,nature,observation_status,type_of_waste_treatment,units,year,en_mwt_tre
 20,c,a,landfilctl,percent,2017,0
 20,c,a,landfilctl,percent,2018,0
 20,c,a,landfilctl,percent,2019,0
+20,c,a,otherwm,percent,2017,0
 28,c,a,landfil,percent,2005,100
 28,c,a,landfil,percent,2006,100
 28,c,a,landfil,percent,2007,100
@@ -160,6 +161,7 @@ geo_area,nature,observation_status,type_of_waste_treatment,units,year,en_mwt_tre
 50,c,a,landfil,percent,2005,85.00013
 50,c,a,landfil,percent,2009,84.03536
 50,c,a,landfil,percent,2014,84.24644
+50,c,a,otherwm,percent,2014,0
 51,c,a,landfil,percent,2000,100
 51,c,a,landfil,percent,2001,100
 51,c,a,landfil,percent,2002,100
@@ -377,6 +379,7 @@ geo_area,nature,observation_status,type_of_waste_treatment,units,year,en_mwt_tre
 132,c,a,landfilctl,percent,2012,5.14336
 132,c,a,landfilctl,percent,2013,5.53012
 132,c,a,landfilctl,percent,2015,8.29027
+132,c,a,otherwm,percent,2015,0
 156,c,a,compost,percent,2001,8.84184
 156,c,a,compost,percent,2002,6.98271
 156,c,a,compost,percent,2003,9.50033
@@ -986,6 +989,7 @@ geo_area,nature,observation_status,type_of_waste_treatment,units,year,en_mwt_tre
 422,c,a,landfilctl,percent,2004,44.93671
 422,c,a,landfilctl,percent,2009,49.12791
 422,c,a,landfilctl,percent,2012,48.96907
+422,c,a,otherwm,percent,2012,0
 438,c,a,compost,percent,2000,100
 438,c,a,compost,percent,2001,100
 438,c,a,compost,percent,2002,100
@@ -1086,6 +1090,7 @@ geo_area,nature,observation_status,type_of_waste_treatment,units,year,en_mwt_tre
 438,c,a,landfilctl,percent,2017,0
 438,c,a,landfilctl,percent,2018,0
 438,c,a,landfilctl,percent,2019,0
+438,c,a,otherwm,percent,2017,0
 446,c,a,incinrt,percent,2000,99.64821
 446,c,a,incinrt,percent,2001,99.6233
 446,c,a,incinrt,percent,2002,99.60265
@@ -1159,6 +1164,7 @@ geo_area,nature,observation_status,type_of_waste_treatment,units,year,en_mwt_tre
 450,c,a,landfil,percent,2004,100
 450,c,a,landfil,percent,2007,96.52477
 450,c,a,landfilctl,percent,2004,74.86083
+450,c,a,otherwm,percent,2007,0
 458,c,a,incinrt,percent,2015,0.19459
 458,c,a,incinrt,percent,2016,0.20059
 458,c,a,incinrt,percent,2017,0.21423
@@ -1366,6 +1372,7 @@ geo_area,nature,observation_status,type_of_waste_treatment,units,year,en_mwt_tre
 492,c,a,landfilctl,percent,2015,0
 492,c,a,landfilctl,percent,2016,0
 492,c,a,landfilctl,percent,2017,0
+492,c,a,otherwm,percent,2017,0
 498,c,a,landfil,percent,2000,100
 498,c,a,landfil,percent,2001,100
 498,c,a,landfil,percent,2002,100
@@ -1659,8 +1666,11 @@ geo_area,nature,observation_status,type_of_waste_treatment,units,year,en_mwt_tre
 662,c,a,landfilctl,percent,2017,0
 662,c,a,landfilctl,percent,2018,0
 662,c,a,landfilctl,percent,2019,0
+662,c,a,otherwm,percent,2017,0
 670,c,a,incinrt,percent,2002,0
 670,c,a,landfil,percent,2002,84.92063
+670,c,a,otherwm,percent,2002,0
+688,c,a,otherwm,percent,2015,0
 702,c,a,compost,percent,2000,0
 702,c,a,compost,percent,2001,0
 702,c,a,compost,percent,2002,0
@@ -1761,6 +1771,7 @@ geo_area,nature,observation_status,type_of_waste_treatment,units,year,en_mwt_tre
 702,c,a,landfilctl,percent,2017,2.92056
 702,c,a,landfilctl,percent,2018,2.96296
 702,c,a,landfilctl,percent,2019,3.31767
+702,c,a,otherwm,percent,2017,0
 716,c,a,compost,percent,2016,0.36396
 716,c,a,compost,percent,2017,0.46644
 716,c,a,incinrt,percent,2016,0.44026

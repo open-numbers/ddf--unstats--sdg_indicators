@@ -19,7 +19,7 @@ geo_area,nature,units,year,gf_com_pppi
 4,g,cu_usd_m,2017,19
 4,g,cu_usd_m,2018,0
 4,g,cu_usd_m,2019,190.49
-4,g,cu_usd_m,2020,259.47
+4,g,cu_usd_m,2020,0
 8,g,cu_usd_m,2000,102.2
 8,g,cu_usd_m,2001,0
 8,g,cu_usd_m,2002,16
@@ -40,7 +40,7 @@ geo_area,nature,units,year,gf_com_pppi
 8,g,cu_usd_m,2017,284.6
 8,g,cu_usd_m,2018,178.9
 8,g,cu_usd_m,2019,0
-8,g,cu_usd_m,2020,3514.66
+8,g,cu_usd_m,2020,0
 12,g,cu_usd_m,2000,0
 12,g,cu_usd_m,2001,368.5
 12,g,cu_usd_m,2002,0
@@ -61,7 +61,7 @@ geo_area,nature,units,year,gf_com_pppi
 12,g,cu_usd_m,2017,21.71
 12,g,cu_usd_m,2018,0
 12,g,cu_usd_m,2019,0
-12,g,cu_usd_m,2020,8035.51
+12,g,cu_usd_m,2020,0
 24,g,cu_usd_m,2000,0
 24,g,cu_usd_m,2001,68
 24,g,cu_usd_m,2002,0
@@ -82,7 +82,7 @@ geo_area,nature,units,year,gf_com_pppi
 24,g,cu_usd_m,2017,0
 24,g,cu_usd_m,2018,0
 24,g,cu_usd_m,2019,0
-24,g,cu_usd_m,2020,607.4
+24,g,cu_usd_m,2020,0
 31,g,cu_usd_m,2000,0
 31,g,cu_usd_m,2001,230
 31,g,cu_usd_m,2002,145.2
@@ -103,7 +103,7 @@ geo_area,nature,units,year,gf_com_pppi
 31,g,cu_usd_m,2017,0
 31,g,cu_usd_m,2018,0
 31,g,cu_usd_m,2019,0
-31,g,cu_usd_m,2020,389.2
+31,g,cu_usd_m,2020,0
 32,g,cu_usd_m,2000,1296
 32,g,cu_usd_m,2001,70.4
 32,g,cu_usd_m,2002,67
@@ -124,7 +124,7 @@ geo_area,nature,units,year,gf_com_pppi
 32,g,cu_usd_m,2017,1826.1
 32,g,cu_usd_m,2018,1151.82
 32,g,cu_usd_m,2019,2060.4
-32,g,cu_usd_m,2020,58990.2
+32,g,cu_usd_m,2020,160
 50,g,cu_usd_m,2000,50.3
 50,g,cu_usd_m,2001,493
 50,g,cu_usd_m,2002,0
@@ -145,7 +145,7 @@ geo_area,nature,units,year,gf_com_pppi
 50,g,cu_usd_m,2017,617.58
 50,g,cu_usd_m,2018,596
 50,g,cu_usd_m,2019,1016.97
-50,g,cu_usd_m,2020,9712.967
+50,g,cu_usd_m,2020,2948
 51,g,cu_usd_m,2000,0
 51,g,cu_usd_m,2001,294
 51,g,cu_usd_m,2002,361.1
@@ -166,7 +166,7 @@ geo_area,nature,units,year,gf_com_pppi
 51,g,cu_usd_m,2017,0
 51,g,cu_usd_m,2018,0
 51,g,cu_usd_m,2019,321.4
-51,g,cu_usd_m,2020,2619.7
+51,g,cu_usd_m,2020,0
 64,g,cu_usd_m,2000,0
 64,g,cu_usd_m,2001,0
 64,g,cu_usd_m,2002,0
@@ -187,7 +187,7 @@ geo_area,nature,units,year,gf_com_pppi
 64,g,cu_usd_m,2017,0
 64,g,cu_usd_m,2018,0
 64,g,cu_usd_m,2019,0
-64,g,cu_usd_m,2020,420
+64,g,cu_usd_m,2020,0
 68,g,cu_usd_m,2000,147.4
 68,g,cu_usd_m,2001,40
 68,g,cu_usd_m,2002,419
@@ -208,7 +208,7 @@ geo_area,nature,units,year,gf_com_pppi
 68,g,cu_usd_m,2017,0
 68,g,cu_usd_m,2018,0
 68,g,cu_usd_m,2019,0
-68,g,cu_usd_m,2020,3594.4
+68,g,cu_usd_m,2020,0
 70,g,cu_usd_m,2000,0
 70,g,cu_usd_m,2001,0
 70,g,cu_usd_m,2002,0
@@ -229,7 +229,7 @@ geo_area,nature,units,year,gf_com_pppi
 70,g,cu_usd_m,2017,0
 70,g,cu_usd_m,2018,0
 70,g,cu_usd_m,2019,59.95
-70,g,cu_usd_m,2020,1702.13
+70,g,cu_usd_m,2020,78.78
 72,g,cu_usd_m,2000,0
 72,g,cu_usd_m,2001,0
 72,g,cu_usd_m,2002,0
@@ -250,7 +250,7 @@ geo_area,nature,units,year,gf_com_pppi
 72,g,cu_usd_m,2017,0
 72,g,cu_usd_m,2018,0
 72,g,cu_usd_m,2019,0
-72,g,cu_usd_m,2020,104
+72,g,cu_usd_m,2020,0
 76,g,cu_usd_m,2000,13044.81
 76,g,cu_usd_m,2001,7579.14
 76,g,cu_usd_m,2002,4048.36
@@ -271,7 +271,7 @@ geo_area,nature,units,year,gf_com_pppi
 76,g,cu_usd_m,2017,6396.1
 76,g,cu_usd_m,2018,6045.73
 76,g,cu_usd_m,2019,18623.82
-76,g,cu_usd_m,2020,429131.504
+76,g,cu_usd_m,2020,8324.07
 84,g,cu_usd_m,2000,0
 84,g,cu_usd_m,2001,49.6
 84,g,cu_usd_m,2002,37.6
@@ -292,7 +292,7 @@ geo_area,nature,units,year,gf_com_pppi
 84,g,cu_usd_m,2017,0
 84,g,cu_usd_m,2018,0
 84,g,cu_usd_m,2019,8.6
-84,g,cu_usd_m,2020,544.9
+84,g,cu_usd_m,2020,0
 90,g,cu_usd_m,2000,0
 90,g,cu_usd_m,2001,0
 90,g,cu_usd_m,2002,0
@@ -313,7 +313,7 @@ geo_area,nature,units,year,gf_com_pppi
 90,g,cu_usd_m,2017,0
 90,g,cu_usd_m,2018,0
 90,g,cu_usd_m,2019,233.37
-90,g,cu_usd_m,2020,233.37
+90,g,cu_usd_m,2020,0
 100,g,cu_usd_m,2000,152
 100,g,cu_usd_m,2001,0
 100,g,cu_usd_m,2002,0
@@ -334,7 +334,7 @@ geo_area,nature,units,year,gf_com_pppi
 100,g,cu_usd_m,2017,0
 100,g,cu_usd_m,2018,4.98
 100,g,cu_usd_m,2019,66.58
-100,g,cu_usd_m,2020,9459.45
+100,g,cu_usd_m,2020,221.96
 104,g,cu_usd_m,2000,0
 104,g,cu_usd_m,2001,0
 104,g,cu_usd_m,2002,0
@@ -355,7 +355,7 @@ geo_area,nature,units,year,gf_com_pppi
 104,g,cu_usd_m,2017,1933.6
 104,g,cu_usd_m,2018,516
 104,g,cu_usd_m,2019,0
-104,g,cu_usd_m,2020,3601.4
+104,g,cu_usd_m,2020,0
 108,g,cu_usd_m,2000,0
 108,g,cu_usd_m,2001,0
 108,g,cu_usd_m,2002,0
@@ -397,7 +397,7 @@ geo_area,nature,units,year,gf_com_pppi
 112,g,cu_usd_m,2017,0
 112,g,cu_usd_m,2018,0
 112,g,cu_usd_m,2019,11.3
-112,g,cu_usd_m,2020,6373.76
+112,g,cu_usd_m,2020,0
 116,g,cu_usd_m,2000,0
 116,g,cu_usd_m,2001,164
 116,g,cu_usd_m,2002,7.2
@@ -418,7 +418,7 @@ geo_area,nature,units,year,gf_com_pppi
 116,g,cu_usd_m,2017,1012.5
 116,g,cu_usd_m,2018,100.21
 116,g,cu_usd_m,2019,75
-116,g,cu_usd_m,2020,4377.94
+116,g,cu_usd_m,2020,100
 120,g,cu_usd_m,2000,95
 120,g,cu_usd_m,2001,531.8
 120,g,cu_usd_m,2002,0
@@ -439,7 +439,7 @@ geo_area,nature,units,year,gf_com_pppi
 120,g,cu_usd_m,2017,0
 120,g,cu_usd_m,2018,1437.42
 120,g,cu_usd_m,2019,0
-120,g,cu_usd_m,2020,2683.75
+120,g,cu_usd_m,2020,30.73
 132,g,cu_usd_m,2000,0
 132,g,cu_usd_m,2001,0
 132,g,cu_usd_m,2002,0
@@ -460,7 +460,7 @@ geo_area,nature,units,year,gf_com_pppi
 132,g,cu_usd_m,2017,0
 132,g,cu_usd_m,2018,0
 132,g,cu_usd_m,2019,25
-132,g,cu_usd_m,2020,125
+132,g,cu_usd_m,2020,0
 140,g,cu_usd_m,2000,0
 140,g,cu_usd_m,2001,0
 140,g,cu_usd_m,2002,0
@@ -501,7 +501,7 @@ geo_area,nature,units,year,gf_com_pppi
 144,g,cu_usd_m,2017,225
 144,g,cu_usd_m,2018,81.94
 144,g,cu_usd_m,2019,0
-144,g,cu_usd_m,2020,3175.065
+144,g,cu_usd_m,2020,0
 148,g,cu_usd_m,2000,0
 148,g,cu_usd_m,2001,0
 148,g,cu_usd_m,2002,0
@@ -522,7 +522,7 @@ geo_area,nature,units,year,gf_com_pppi
 148,g,cu_usd_m,2017,0
 148,g,cu_usd_m,2018,0
 148,g,cu_usd_m,2019,70
-148,g,cu_usd_m,2020,523
+148,g,cu_usd_m,2020,150
 156,g,cu_usd_m,2000,9000.5
 156,g,cu_usd_m,2001,4475.11
 156,g,cu_usd_m,2002,5597.28
@@ -543,7 +543,7 @@ geo_area,nature,units,year,gf_com_pppi
 156,g,cu_usd_m,2017,19604.93
 156,g,cu_usd_m,2018,30661.12
 156,g,cu_usd_m,2019,26434.08
-156,g,cu_usd_m,2020,241520.4651
+156,g,cu_usd_m,2020,6285.35
 170,g,cu_usd_m,2000,1164.2
 170,g,cu_usd_m,2001,153.5
 170,g,cu_usd_m,2002,161.5
@@ -564,7 +564,7 @@ geo_area,nature,units,year,gf_com_pppi
 170,g,cu_usd_m,2017,368.5
 170,g,cu_usd_m,2018,2140.74
 170,g,cu_usd_m,2019,2810.2
-170,g,cu_usd_m,2020,49117.092
+170,g,cu_usd_m,2020,1205.23
 174,g,cu_usd_m,2000,0
 174,g,cu_usd_m,2001,0
 174,g,cu_usd_m,2002,0
@@ -585,7 +585,7 @@ geo_area,nature,units,year,gf_com_pppi
 174,g,cu_usd_m,2017,0
 174,g,cu_usd_m,2018,0
 174,g,cu_usd_m,2019,74
-174,g,cu_usd_m,2020,74.5
+174,g,cu_usd_m,2020,0
 178,g,cu_usd_m,2000,0
 178,g,cu_usd_m,2001,0
 178,g,cu_usd_m,2002,0
@@ -606,7 +606,7 @@ geo_area,nature,units,year,gf_com_pppi
 178,g,cu_usd_m,2017,0
 178,g,cu_usd_m,2018,0
 178,g,cu_usd_m,2019,0
-178,g,cu_usd_m,2020,1163.1
+178,g,cu_usd_m,2020,0
 180,g,cu_usd_m,2000,20
 180,g,cu_usd_m,2001,0
 180,g,cu_usd_m,2002,0
@@ -627,7 +627,7 @@ geo_area,nature,units,year,gf_com_pppi
 180,g,cu_usd_m,2017,0
 180,g,cu_usd_m,2018,0
 180,g,cu_usd_m,2019,0
-180,g,cu_usd_m,2020,620
+180,g,cu_usd_m,2020,600
 188,g,cu_usd_m,2000,161
 188,g,cu_usd_m,2001,0
 188,g,cu_usd_m,2002,0
@@ -648,7 +648,7 @@ geo_area,nature,units,year,gf_com_pppi
 188,g,cu_usd_m,2017,0
 188,g,cu_usd_m,2018,0
 188,g,cu_usd_m,2019,0
-188,g,cu_usd_m,2020,3167.2
+188,g,cu_usd_m,2020,0
 192,g,cu_usd_m,2000,600
 192,g,cu_usd_m,2001,0
 192,g,cu_usd_m,2002,0
@@ -669,7 +669,7 @@ geo_area,nature,units,year,gf_com_pppi
 192,g,cu_usd_m,2017,0
 192,g,cu_usd_m,2018,0
 192,g,cu_usd_m,2019,1880
-192,g,cu_usd_m,2020,3192
+192,g,cu_usd_m,2020,0
 204,g,cu_usd_m,2000,60
 204,g,cu_usd_m,2001,0
 204,g,cu_usd_m,2002,0
@@ -690,7 +690,7 @@ geo_area,nature,units,year,gf_com_pppi
 204,g,cu_usd_m,2017,0
 204,g,cu_usd_m,2018,0
 204,g,cu_usd_m,2019,0
-204,g,cu_usd_m,2020,696.5
+204,g,cu_usd_m,2020,0
 212,g,cu_usd_m,2000,0
 212,g,cu_usd_m,2001,0
 212,g,cu_usd_m,2002,0
@@ -711,7 +711,7 @@ geo_area,nature,units,year,gf_com_pppi
 212,g,cu_usd_m,2017,0
 212,g,cu_usd_m,2018,0
 212,g,cu_usd_m,2019,0
-212,g,cu_usd_m,2020,26.3
+212,g,cu_usd_m,2020,0
 214,g,cu_usd_m,2000,856.9
 214,g,cu_usd_m,2001,200
 214,g,cu_usd_m,2002,400
@@ -732,7 +732,7 @@ geo_area,nature,units,year,gf_com_pppi
 214,g,cu_usd_m,2017,125
 214,g,cu_usd_m,2018,166.05
 214,g,cu_usd_m,2019,78
-214,g,cu_usd_m,2020,5825.55
+214,g,cu_usd_m,2020,0
 218,g,cu_usd_m,2000,0
 218,g,cu_usd_m,2001,500
 218,g,cu_usd_m,2002,0
@@ -753,7 +753,7 @@ geo_area,nature,units,year,gf_com_pppi
 218,g,cu_usd_m,2017,111.4
 218,g,cu_usd_m,2018,403.49
 218,g,cu_usd_m,2019,100
-218,g,cu_usd_m,2020,4708.29
+218,g,cu_usd_m,2020,500
 222,g,cu_usd_m,2000,0
 222,g,cu_usd_m,2001,0
 222,g,cu_usd_m,2002,127.4
@@ -774,7 +774,7 @@ geo_area,nature,units,year,gf_com_pppi
 222,g,cu_usd_m,2017,160
 222,g,cu_usd_m,2018,143
 222,g,cu_usd_m,2019,877
-222,g,cu_usd_m,2020,2840.64
+222,g,cu_usd_m,2020,7.8
 231,g,cu_usd_m,2000,0
 231,g,cu_usd_m,2001,0
 231,g,cu_usd_m,2002,0
@@ -795,7 +795,7 @@ geo_area,nature,units,year,gf_com_pppi
 231,g,cu_usd_m,2017,0
 231,g,cu_usd_m,2018,0
 231,g,cu_usd_m,2019,0
-231,g,cu_usd_m,2020,124
+231,g,cu_usd_m,2020,0
 242,g,cu_usd_m,2000,0
 242,g,cu_usd_m,2001,0
 242,g,cu_usd_m,2002,0
@@ -816,7 +816,7 @@ geo_area,nature,units,year,gf_com_pppi
 242,g,cu_usd_m,2017,28.705
 242,g,cu_usd_m,2018,0
 242,g,cu_usd_m,2019,0
-242,g,cu_usd_m,2020,58.605
+242,g,cu_usd_m,2020,0
 262,g,cu_usd_m,2000,50
 262,g,cu_usd_m,2001,0
 262,g,cu_usd_m,2002,0
@@ -837,7 +837,7 @@ geo_area,nature,units,year,gf_com_pppi
 262,g,cu_usd_m,2017,0
 262,g,cu_usd_m,2018,0
 262,g,cu_usd_m,2019,0
-262,g,cu_usd_m,2020,705.1
+262,g,cu_usd_m,2020,123.5
 266,g,cu_usd_m,2000,0
 266,g,cu_usd_m,2001,0
 266,g,cu_usd_m,2002,0
@@ -858,7 +858,7 @@ geo_area,nature,units,year,gf_com_pppi
 266,g,cu_usd_m,2017,0
 266,g,cu_usd_m,2018,0
 266,g,cu_usd_m,2019,507
-266,g,cu_usd_m,2020,2149.6
+266,g,cu_usd_m,2020,222.03
 268,g,cu_usd_m,2000,11.5
 268,g,cu_usd_m,2001,0
 268,g,cu_usd_m,2002,0
@@ -879,7 +879,7 @@ geo_area,nature,units,year,gf_com_pppi
 268,g,cu_usd_m,2017,90
 268,g,cu_usd_m,2018,0
 268,g,cu_usd_m,2019,107.4
-268,g,cu_usd_m,2020,2929.15
+268,g,cu_usd_m,2020,0
 270,g,cu_usd_m,2000,0
 270,g,cu_usd_m,2001,6.6
 270,g,cu_usd_m,2002,0
@@ -900,7 +900,7 @@ geo_area,nature,units,year,gf_com_pppi
 270,g,cu_usd_m,2017,0
 270,g,cu_usd_m,2018,0
 270,g,cu_usd_m,2019,0
-270,g,cu_usd_m,2020,129.1
+270,g,cu_usd_m,2020,0
 275,g,cu_usd_m,2000,173.8
 275,g,cu_usd_m,2001,0
 275,g,cu_usd_m,2002,0
@@ -921,7 +921,7 @@ geo_area,nature,units,year,gf_com_pppi
 275,g,cu_usd_m,2017,0
 275,g,cu_usd_m,2018,0
 275,g,cu_usd_m,2019,0
-275,g,cu_usd_m,2020,238.8
+275,g,cu_usd_m,2020,0
 288,g,cu_usd_m,2000,10
 288,g,cu_usd_m,2001,0
 288,g,cu_usd_m,2002,0
@@ -942,7 +942,7 @@ geo_area,nature,units,year,gf_com_pppi
 288,g,cu_usd_m,2017,550
 288,g,cu_usd_m,2018,42
 288,g,cu_usd_m,2019,580
-288,g,cu_usd_m,2020,8938.1
+288,g,cu_usd_m,2020,0
 296,g,cu_usd_m,2000,0
 296,g,cu_usd_m,2001,0
 296,g,cu_usd_m,2002,0
@@ -983,7 +983,7 @@ geo_area,nature,units,year,gf_com_pppi
 308,g,cu_usd_m,2017,0
 308,g,cu_usd_m,2018,0
 308,g,cu_usd_m,2019,0
-308,g,cu_usd_m,2020,38.9
+308,g,cu_usd_m,2020,0
 320,g,cu_usd_m,2000,50
 320,g,cu_usd_m,2001,0
 320,g,cu_usd_m,2002,60
@@ -1004,7 +1004,7 @@ geo_area,nature,units,year,gf_com_pppi
 320,g,cu_usd_m,2017,0
 320,g,cu_usd_m,2018,0
 320,g,cu_usd_m,2019,56.4
-320,g,cu_usd_m,2020,5194.5
+320,g,cu_usd_m,2020,0
 324,g,cu_usd_m,2000,0
 324,g,cu_usd_m,2001,0
 324,g,cu_usd_m,2002,0
@@ -1025,7 +1025,7 @@ geo_area,nature,units,year,gf_com_pppi
 324,g,cu_usd_m,2017,0
 324,g,cu_usd_m,2018,121
 324,g,cu_usd_m,2019,0
-324,g,cu_usd_m,2020,658.4
+324,g,cu_usd_m,2020,209.5
 328,g,cu_usd_m,2000,0
 328,g,cu_usd_m,2001,0
 328,g,cu_usd_m,2002,0
@@ -1046,7 +1046,7 @@ geo_area,nature,units,year,gf_com_pppi
 328,g,cu_usd_m,2017,0
 328,g,cu_usd_m,2018,0
 328,g,cu_usd_m,2019,0
-328,g,cu_usd_m,2020,66.5
+328,g,cu_usd_m,2020,0
 332,g,cu_usd_m,2000,0
 332,g,cu_usd_m,2001,0
 332,g,cu_usd_m,2002,0
@@ -1067,7 +1067,7 @@ geo_area,nature,units,year,gf_com_pppi
 332,g,cu_usd_m,2017,0
 332,g,cu_usd_m,2018,0
 332,g,cu_usd_m,2019,0
-332,g,cu_usd_m,2020,126.43
+332,g,cu_usd_m,2020,0
 340,g,cu_usd_m,2000,120
 340,g,cu_usd_m,2001,207.9
 340,g,cu_usd_m,2002,0
@@ -1088,7 +1088,7 @@ geo_area,nature,units,year,gf_com_pppi
 340,g,cu_usd_m,2017,259.6
 340,g,cu_usd_m,2018,0
 340,g,cu_usd_m,2019,0
-340,g,cu_usd_m,2020,4794.2
+340,g,cu_usd_m,2020,284.6
 356,g,cu_usd_m,2000,2003.18
 356,g,cu_usd_m,2001,2064.79
 356,g,cu_usd_m,2002,2323.32
@@ -1109,7 +1109,7 @@ geo_area,nature,units,year,gf_com_pppi
 356,g,cu_usd_m,2017,4900.21
 356,g,cu_usd_m,2018,10843.56
 356,g,cu_usd_m,2019,7368.28
-356,g,cu_usd_m,2020,278447.82
+356,g,cu_usd_m,2020,5182.86
 360,g,cu_usd_m,2000,0
 360,g,cu_usd_m,2001,36.7
 360,g,cu_usd_m,2002,192.8
@@ -1130,7 +1130,7 @@ geo_area,nature,units,year,gf_com_pppi
 360,g,cu_usd_m,2017,15381.99
 360,g,cu_usd_m,2018,6638.15
 360,g,cu_usd_m,2019,372.38
-360,g,cu_usd_m,2020,67273.92
+360,g,cu_usd_m,2020,0
 364,g,cu_usd_m,2000,0
 364,g,cu_usd_m,2001,0
 364,g,cu_usd_m,2002,0
@@ -1151,7 +1151,7 @@ geo_area,nature,units,year,gf_com_pppi
 364,g,cu_usd_m,2017,94.5
 364,g,cu_usd_m,2018,0
 364,g,cu_usd_m,2019,0
-364,g,cu_usd_m,2020,1880.7
+364,g,cu_usd_m,2020,0
 368,g,cu_usd_m,2000,0
 368,g,cu_usd_m,2001,0
 368,g,cu_usd_m,2002,0
@@ -1172,7 +1172,7 @@ geo_area,nature,units,year,gf_com_pppi
 368,g,cu_usd_m,2017,0
 368,g,cu_usd_m,2018,0
 368,g,cu_usd_m,2019,0
-368,g,cu_usd_m,2020,3200
+368,g,cu_usd_m,2020,0
 384,g,cu_usd_m,2000,140
 384,g,cu_usd_m,2001,0
 384,g,cu_usd_m,2002,0
@@ -1193,7 +1193,7 @@ geo_area,nature,units,year,gf_com_pppi
 384,g,cu_usd_m,2017,235.65
 384,g,cu_usd_m,2018,0
 384,g,cu_usd_m,2019,216.04
-384,g,cu_usd_m,2020,4160.59
+384,g,cu_usd_m,2020,0
 388,g,cu_usd_m,2000,0
 388,g,cu_usd_m,2001,201
 388,g,cu_usd_m,2002,727
@@ -1214,7 +1214,7 @@ geo_area,nature,units,year,gf_com_pppi
 388,g,cu_usd_m,2017,390
 388,g,cu_usd_m,2018,64
 388,g,cu_usd_m,2019,110
-388,g,cu_usd_m,2020,3457.8
+388,g,cu_usd_m,2020,0
 398,g,cu_usd_m,2000,300
 398,g,cu_usd_m,2001,0
 398,g,cu_usd_m,2002,0
@@ -1235,7 +1235,7 @@ geo_area,nature,units,year,gf_com_pppi
 398,g,cu_usd_m,2017,89.18
 398,g,cu_usd_m,2018,792.4
 398,g,cu_usd_m,2019,553.6
-398,g,cu_usd_m,2020,6221.1218
+398,g,cu_usd_m,2020,850.48
 400,g,cu_usd_m,2000,558
 400,g,cu_usd_m,2001,0
 400,g,cu_usd_m,2002,0
@@ -1256,7 +1256,7 @@ geo_area,nature,units,year,gf_com_pppi
 400,g,cu_usd_m,2017,2753.7
 400,g,cu_usd_m,2018,165
 400,g,cu_usd_m,2019,74
-400,g,cu_usd_m,2020,10562.6
+400,g,cu_usd_m,2020,0
 404,g,cu_usd_m,2000,0
 404,g,cu_usd_m,2001,0
 404,g,cu_usd_m,2002,0
@@ -1277,7 +1277,7 @@ geo_area,nature,units,year,gf_com_pppi
 404,g,cu_usd_m,2017,96.89
 404,g,cu_usd_m,2018,513.92
 404,g,cu_usd_m,2019,220.2
-404,g,cu_usd_m,2020,4885.25
+404,g,cu_usd_m,2020,723.13
 408,g,cu_usd_m,2000,0
 408,g,cu_usd_m,2001,0
 408,g,cu_usd_m,2002,0
@@ -1298,7 +1298,7 @@ geo_area,nature,units,year,gf_com_pppi
 408,g,cu_usd_m,2017,0
 408,g,cu_usd_m,2018,0
 408,g,cu_usd_m,2019,0
-408,g,cu_usd_m,2020,400
+408,g,cu_usd_m,2020,0
 412,g,cu_usd_m,2000,0
 412,g,cu_usd_m,2001,0
 412,g,cu_usd_m,2002,0
@@ -1319,7 +1319,7 @@ geo_area,nature,units,year,gf_com_pppi
 412,g,cu_usd_m,2017,0
 412,g,cu_usd_m,2018,0
 412,g,cu_usd_m,2019,211.73
-412,g,cu_usd_m,2020,887.93
+412,g,cu_usd_m,2020,0
 417,g,cu_usd_m,2000,0
 417,g,cu_usd_m,2001,0
 417,g,cu_usd_m,2002,0
@@ -1340,7 +1340,7 @@ geo_area,nature,units,year,gf_com_pppi
 417,g,cu_usd_m,2017,0
 417,g,cu_usd_m,2018,0
 417,g,cu_usd_m,2019,0
-417,g,cu_usd_m,2020,140
+417,g,cu_usd_m,2020,0
 418,g,cu_usd_m,2000,3
 418,g,cu_usd_m,2001,0
 418,g,cu_usd_m,2002,9.1
@@ -1361,7 +1361,7 @@ geo_area,nature,units,year,gf_com_pppi
 418,g,cu_usd_m,2017,1850
 418,g,cu_usd_m,2018,0
 418,g,cu_usd_m,2019,2899
-418,g,cu_usd_m,2020,20207.37
+418,g,cu_usd_m,2020,0
 422,g,cu_usd_m,2000,150
 422,g,cu_usd_m,2001,0
 422,g,cu_usd_m,2002,0
@@ -1382,7 +1382,7 @@ geo_area,nature,units,year,gf_com_pppi
 422,g,cu_usd_m,2017,0
 422,g,cu_usd_m,2018,0
 422,g,cu_usd_m,2019,0
-422,g,cu_usd_m,2020,383
+422,g,cu_usd_m,2020,0
 426,g,cu_usd_m,2000,0
 426,g,cu_usd_m,2001,27
 426,g,cu_usd_m,2002,0
@@ -1403,7 +1403,7 @@ geo_area,nature,units,year,gf_com_pppi
 426,g,cu_usd_m,2017,0
 426,g,cu_usd_m,2018,0
 426,g,cu_usd_m,2019,0
-426,g,cu_usd_m,2020,27
+426,g,cu_usd_m,2020,0
 430,g,cu_usd_m,2000,0
 430,g,cu_usd_m,2001,0
 430,g,cu_usd_m,2002,0
@@ -1424,7 +1424,7 @@ geo_area,nature,units,year,gf_com_pppi
 430,g,cu_usd_m,2017,0
 430,g,cu_usd_m,2018,0
 430,g,cu_usd_m,2019,0
-430,g,cu_usd_m,2020,572.5
+430,g,cu_usd_m,2020,0
 450,g,cu_usd_m,2000,0
 450,g,cu_usd_m,2001,0
 450,g,cu_usd_m,2002,0
@@ -1445,7 +1445,7 @@ geo_area,nature,units,year,gf_com_pppi
 450,g,cu_usd_m,2017,245.1
 450,g,cu_usd_m,2018,0
 450,g,cu_usd_m,2019,0
-450,g,cu_usd_m,2020,398
+450,g,cu_usd_m,2020,19
 454,g,cu_usd_m,2000,0
 454,g,cu_usd_m,2001,0
 454,g,cu_usd_m,2002,25
@@ -1466,7 +1466,7 @@ geo_area,nature,units,year,gf_com_pppi
 454,g,cu_usd_m,2017,0
 454,g,cu_usd_m,2018,0
 454,g,cu_usd_m,2019,67
-454,g,cu_usd_m,2020,141.2
+454,g,cu_usd_m,2020,0
 458,g,cu_usd_m,2000,5044.5
 458,g,cu_usd_m,2001,2264.6
 458,g,cu_usd_m,2002,28.7
@@ -1487,7 +1487,7 @@ geo_area,nature,units,year,gf_com_pppi
 458,g,cu_usd_m,2017,1913.3
 458,g,cu_usd_m,2018,387.35
 458,g,cu_usd_m,2019,95.03
-458,g,cu_usd_m,2020,52386.93
+458,g,cu_usd_m,2020,0
 462,g,cu_usd_m,2000,0
 462,g,cu_usd_m,2001,0
 462,g,cu_usd_m,2002,0
@@ -1508,7 +1508,7 @@ geo_area,nature,units,year,gf_com_pppi
 462,g,cu_usd_m,2017,0
 462,g,cu_usd_m,2018,0
 462,g,cu_usd_m,2019,0
-462,g,cu_usd_m,2020,518
+462,g,cu_usd_m,2020,0
 466,g,cu_usd_m,2000,0
 466,g,cu_usd_m,2001,0
 466,g,cu_usd_m,2002,0
@@ -1529,7 +1529,7 @@ geo_area,nature,units,year,gf_com_pppi
 466,g,cu_usd_m,2017,136.44
 466,g,cu_usd_m,2018,104.5
 466,g,cu_usd_m,2019,0
-466,g,cu_usd_m,2020,779.64
+466,g,cu_usd_m,2020,128
 478,g,cu_usd_m,2000,0
 478,g,cu_usd_m,2001,48
 478,g,cu_usd_m,2002,0
@@ -1550,7 +1550,7 @@ geo_area,nature,units,year,gf_com_pppi
 478,g,cu_usd_m,2017,0
 478,g,cu_usd_m,2018,0
 478,g,cu_usd_m,2019,310
-478,g,cu_usd_m,2020,445.5
+478,g,cu_usd_m,2020,0
 480,g,cu_usd_m,2000,0
 480,g,cu_usd_m,2001,338.2
 480,g,cu_usd_m,2002,0
@@ -1591,7 +1591,7 @@ geo_area,nature,units,year,gf_com_pppi
 484,g,cu_usd_m,2017,8567.3
 484,g,cu_usd_m,2018,4740.0162
 484,g,cu_usd_m,2019,2977.21
-484,g,cu_usd_m,2020,95254.411
+484,g,cu_usd_m,2020,4363.9
 496,g,cu_usd_m,2000,0
 496,g,cu_usd_m,2001,0
 496,g,cu_usd_m,2002,0
@@ -1612,7 +1612,7 @@ geo_area,nature,units,year,gf_com_pppi
 496,g,cu_usd_m,2017,120
 496,g,cu_usd_m,2018,54
 496,g,cu_usd_m,2019,18.7
-496,g,cu_usd_m,2020,445.2
+496,g,cu_usd_m,2020,0
 498,g,cu_usd_m,2000,193.2
 498,g,cu_usd_m,2001,0
 498,g,cu_usd_m,2002,0
@@ -1633,7 +1633,7 @@ geo_area,nature,units,year,gf_com_pppi
 498,g,cu_usd_m,2017,0
 498,g,cu_usd_m,2018,0
 498,g,cu_usd_m,2019,0
-498,g,cu_usd_m,2020,351.2
+498,g,cu_usd_m,2020,0
 499,g,cu_usd_m,2000,0
 499,g,cu_usd_m,2001,0
 499,g,cu_usd_m,2002,268
@@ -1654,7 +1654,7 @@ geo_area,nature,units,year,gf_com_pppi
 499,g,cu_usd_m,2017,0
 499,g,cu_usd_m,2018,99.75
 499,g,cu_usd_m,2019,0
-499,g,cu_usd_m,2020,669.35
+499,g,cu_usd_m,2020,0
 504,g,cu_usd_m,2000,2110
 504,g,cu_usd_m,2001,689
 504,g,cu_usd_m,2002,0
@@ -1675,7 +1675,7 @@ geo_area,nature,units,year,gf_com_pppi
 504,g,cu_usd_m,2017,220
 504,g,cu_usd_m,2018,501.39
 504,g,cu_usd_m,2019,256.94
-504,g,cu_usd_m,2020,21139.72
+504,g,cu_usd_m,2020,1038.77
 508,g,cu_usd_m,2000,0
 508,g,cu_usd_m,2001,0
 508,g,cu_usd_m,2002,77.7
@@ -1696,7 +1696,7 @@ geo_area,nature,units,year,gf_com_pppi
 508,g,cu_usd_m,2017,357
 508,g,cu_usd_m,2018,0
 508,g,cu_usd_m,2019,56
-508,g,cu_usd_m,2020,2305.57
+508,g,cu_usd_m,2020,320
 516,g,cu_usd_m,2000,1
 516,g,cu_usd_m,2001,0
 516,g,cu_usd_m,2002,0
@@ -1717,7 +1717,7 @@ geo_area,nature,units,year,gf_com_pppi
 516,g,cu_usd_m,2017,51.37
 516,g,cu_usd_m,2018,77
 516,g,cu_usd_m,2019,0
-516,g,cu_usd_m,2020,153.37
+516,g,cu_usd_m,2020,0
 524,g,cu_usd_m,2000,15.1
 524,g,cu_usd_m,2001,0
 524,g,cu_usd_m,2002,4.9
@@ -1738,7 +1738,7 @@ geo_area,nature,units,year,gf_com_pppi
 524,g,cu_usd_m,2017,151.1
 524,g,cu_usd_m,2018,21.4
 524,g,cu_usd_m,2019,647.2
-524,g,cu_usd_m,2020,2871.82
+524,g,cu_usd_m,2020,0
 548,g,cu_usd_m,2000,0
 548,g,cu_usd_m,2001,0
 548,g,cu_usd_m,2002,0
@@ -1759,7 +1759,7 @@ geo_area,nature,units,year,gf_com_pppi
 548,g,cu_usd_m,2017,0
 548,g,cu_usd_m,2018,0
 548,g,cu_usd_m,2019,0
-548,g,cu_usd_m,2020,43.1
+548,g,cu_usd_m,2020,0
 558,g,cu_usd_m,2000,219
 558,g,cu_usd_m,2001,33
 558,g,cu_usd_m,2002,60.44
@@ -1780,7 +1780,7 @@ geo_area,nature,units,year,gf_com_pppi
 558,g,cu_usd_m,2017,0
 558,g,cu_usd_m,2018,0
 558,g,cu_usd_m,2019,0
-558,g,cu_usd_m,2020,1733.84
+558,g,cu_usd_m,2020,0
 562,g,cu_usd_m,2000,0
 562,g,cu_usd_m,2001,19.2
 562,g,cu_usd_m,2002,0
@@ -1801,7 +1801,7 @@ geo_area,nature,units,year,gf_com_pppi
 562,g,cu_usd_m,2017,0
 562,g,cu_usd_m,2018,0
 562,g,cu_usd_m,2019,0
-562,g,cu_usd_m,2020,19.2
+562,g,cu_usd_m,2020,0
 566,g,cu_usd_m,2000,27
 566,g,cu_usd_m,2001,295
 566,g,cu_usd_m,2002,462
@@ -1822,7 +1822,7 @@ geo_area,nature,units,year,gf_com_pppi
 566,g,cu_usd_m,2017,70
 566,g,cu_usd_m,2018,16
 566,g,cu_usd_m,2019,1050
-566,g,cu_usd_m,2020,13834.43
+566,g,cu_usd_m,2020,2600
 586,g,cu_usd_m,2000,0
 586,g,cu_usd_m,2001,0
 586,g,cu_usd_m,2002,103.5
@@ -1843,7 +1843,7 @@ geo_area,nature,units,year,gf_com_pppi
 586,g,cu_usd_m,2017,6097.65
 586,g,cu_usd_m,2018,1182.2
 586,g,cu_usd_m,2019,3216.61
-586,g,cu_usd_m,2020,32975.11
+586,g,cu_usd_m,2020,1951.75
 598,g,cu_usd_m,2000,0
 598,g,cu_usd_m,2001,0
 598,g,cu_usd_m,2002,0
@@ -1864,7 +1864,7 @@ geo_area,nature,units,year,gf_com_pppi
 598,g,cu_usd_m,2017,0
 598,g,cu_usd_m,2018,0
 598,g,cu_usd_m,2019,0
-598,g,cu_usd_m,2020,136
+598,g,cu_usd_m,2020,0
 600,g,cu_usd_m,2000,0
 600,g,cu_usd_m,2001,0
 600,g,cu_usd_m,2002,0
@@ -1885,7 +1885,7 @@ geo_area,nature,units,year,gf_com_pppi
 600,g,cu_usd_m,2017,0
 600,g,cu_usd_m,2018,0
 600,g,cu_usd_m,2019,738
-600,g,cu_usd_m,2020,796
+600,g,cu_usd_m,2020,0
 604,g,cu_usd_m,2000,9.8
 604,g,cu_usd_m,2001,600.3
 604,g,cu_usd_m,2002,353.2
@@ -1906,7 +1906,7 @@ geo_area,nature,units,year,gf_com_pppi
 604,g,cu_usd_m,2017,1133.6
 604,g,cu_usd_m,2018,647.6
 604,g,cu_usd_m,2019,54
-604,g,cu_usd_m,2020,38509.79
+604,g,cu_usd_m,2020,329
 608,g,cu_usd_m,2000,1646.9
 608,g,cu_usd_m,2001,1438.5
 608,g,cu_usd_m,2002,30.1
@@ -1927,7 +1927,7 @@ geo_area,nature,units,year,gf_com_pppi
 608,g,cu_usd_m,2017,1753.55
 608,g,cu_usd_m,2018,48.58
 608,g,cu_usd_m,2019,1817.82
-608,g,cu_usd_m,2020,57558.34
+608,g,cu_usd_m,2020,147.86
 624,g,cu_usd_m,2000,0
 624,g,cu_usd_m,2001,0
 624,g,cu_usd_m,2002,0
@@ -1968,7 +1968,7 @@ geo_area,nature,units,year,gf_com_pppi
 626,g,cu_usd_m,2017,0
 626,g,cu_usd_m,2018,490
 626,g,cu_usd_m,2019,0
-626,g,cu_usd_m,2020,490
+626,g,cu_usd_m,2020,0
 642,g,cu_usd_m,2000,157
 642,g,cu_usd_m,2001,0
 642,g,cu_usd_m,2002,0
@@ -2009,7 +2009,7 @@ geo_area,nature,units,year,gf_com_pppi
 643,g,cu_usd_m,2017,2238
 643,g,cu_usd_m,2018,4428.12
 643,g,cu_usd_m,2019,4055.95
-643,g,cu_usd_m,2020,80971.272
+643,g,cu_usd_m,2020,1412.66
 646,g,cu_usd_m,2000,0
 646,g,cu_usd_m,2001,0
 646,g,cu_usd_m,2002,0
@@ -2030,7 +2030,7 @@ geo_area,nature,units,year,gf_com_pppi
 646,g,cu_usd_m,2017,422
 646,g,cu_usd_m,2018,0
 646,g,cu_usd_m,2019,0
-646,g,cu_usd_m,2020,850.81
+646,g,cu_usd_m,2020,0
 659,g,cu_usd_m,2000,0
 659,g,cu_usd_m,2001,0
 659,g,cu_usd_m,2002,0
@@ -2072,7 +2072,7 @@ geo_area,nature,units,year,gf_com_pppi
 662,g,cu_usd_m,2017,20
 662,g,cu_usd_m,2018,0
 662,g,cu_usd_m,2019,0
-662,g,cu_usd_m,2020,130.2
+662,g,cu_usd_m,2020,0
 670,g,cu_usd_m,2000,0
 670,g,cu_usd_m,2001,0
 670,g,cu_usd_m,2002,0
@@ -2093,7 +2093,7 @@ geo_area,nature,units,year,gf_com_pppi
 670,g,cu_usd_m,2017,0
 670,g,cu_usd_m,2018,0
 670,g,cu_usd_m,2019,82
-670,g,cu_usd_m,2020,82
+670,g,cu_usd_m,2020,0
 678,g,cu_usd_m,2000,0
 678,g,cu_usd_m,2001,0
 678,g,cu_usd_m,2002,0
@@ -2114,7 +2114,7 @@ geo_area,nature,units,year,gf_com_pppi
 678,g,cu_usd_m,2017,0
 678,g,cu_usd_m,2018,0
 678,g,cu_usd_m,2019,0
-678,g,cu_usd_m,2020,50
+678,g,cu_usd_m,2020,0
 686,g,cu_usd_m,2000,0
 686,g,cu_usd_m,2001,0
 686,g,cu_usd_m,2002,0
@@ -2135,7 +2135,7 @@ geo_area,nature,units,year,gf_com_pppi
 686,g,cu_usd_m,2017,113.9
 686,g,cu_usd_m,2018,493.6
 686,g,cu_usd_m,2019,53.9
-686,g,cu_usd_m,2020,3147.87
+686,g,cu_usd_m,2020,0
 688,g,cu_usd_m,2000,0
 688,g,cu_usd_m,2001,0
 688,g,cu_usd_m,2002,0
@@ -2156,7 +2156,7 @@ geo_area,nature,units,year,gf_com_pppi
 688,g,cu_usd_m,2017,818
 688,g,cu_usd_m,2018,1118.47
 688,g,cu_usd_m,2019,42.56
-688,g,cu_usd_m,2020,6020.07
+688,g,cu_usd_m,2020,416.35
 690,g,cu_usd_m,2000,0
 690,g,cu_usd_m,2001,0
 690,g,cu_usd_m,2002,0
@@ -2177,7 +2177,7 @@ geo_area,nature,units,year,gf_com_pppi
 690,g,cu_usd_m,2017,0
 690,g,cu_usd_m,2018,0
 690,g,cu_usd_m,2019,0
-690,g,cu_usd_m,2020,63.26
+690,g,cu_usd_m,2020,0
 694,g,cu_usd_m,2000,0
 694,g,cu_usd_m,2001,0
 694,g,cu_usd_m,2002,0
@@ -2198,7 +2198,7 @@ geo_area,nature,units,year,gf_com_pppi
 694,g,cu_usd_m,2017,0
 694,g,cu_usd_m,2018,40
 694,g,cu_usd_m,2019,0
-694,g,cu_usd_m,2020,201.18
+694,g,cu_usd_m,2020,0
 704,g,cu_usd_m,2000,0
 704,g,cu_usd_m,2001,241
 704,g,cu_usd_m,2002,1780
@@ -2219,7 +2219,7 @@ geo_area,nature,units,year,gf_com_pppi
 704,g,cu_usd_m,2017,2479
 704,g,cu_usd_m,2018,3645.7
 704,g,cu_usd_m,2019,4471.87
-704,g,cu_usd_m,2020,25605.36
+704,g,cu_usd_m,2020,2686.91
 706,g,cu_usd_m,2000,0
 706,g,cu_usd_m,2001,0
 706,g,cu_usd_m,2002,0
@@ -2240,7 +2240,7 @@ geo_area,nature,units,year,gf_com_pppi
 706,g,cu_usd_m,2017,0
 706,g,cu_usd_m,2018,442
 706,g,cu_usd_m,2019,0
-706,g,cu_usd_m,2020,507.6
+706,g,cu_usd_m,2020,50
 710,g,cu_usd_m,2000,50.9
 710,g,cu_usd_m,2001,512.4
 710,g,cu_usd_m,2002,0
@@ -2261,7 +2261,7 @@ geo_area,nature,units,year,gf_com_pppi
 710,g,cu_usd_m,2017,0
 710,g,cu_usd_m,2018,4313.24
 710,g,cu_usd_m,2019,972.5
-710,g,cu_usd_m,2020,26653.366
+710,g,cu_usd_m,2020,0
 716,g,cu_usd_m,2000,0
 716,g,cu_usd_m,2001,0
 716,g,cu_usd_m,2002,0
@@ -2282,7 +2282,7 @@ geo_area,nature,units,year,gf_com_pppi
 716,g,cu_usd_m,2017,65.7
 716,g,cu_usd_m,2018,0
 716,g,cu_usd_m,2019,0
-716,g,cu_usd_m,2020,817.2
+716,g,cu_usd_m,2020,0
 729,g,cu_usd_m,2000,0
 729,g,cu_usd_m,2001,0
 729,g,cu_usd_m,2002,0
@@ -2303,7 +2303,7 @@ geo_area,nature,units,year,gf_com_pppi
 729,g,cu_usd_m,2017,0
 729,g,cu_usd_m,2018,0
 729,g,cu_usd_m,2019,604.37
-729,g,cu_usd_m,2020,1091.07
+729,g,cu_usd_m,2020,0
 748,g,cu_usd_m,2000,0
 748,g,cu_usd_m,2001,0
 748,g,cu_usd_m,2002,0
@@ -2324,7 +2324,7 @@ geo_area,nature,units,year,gf_com_pppi
 748,g,cu_usd_m,2017,0
 748,g,cu_usd_m,2018,0
 748,g,cu_usd_m,2019,0
-748,g,cu_usd_m,2020,17.2
+748,g,cu_usd_m,2020,0
 760,g,cu_usd_m,2000,0
 760,g,cu_usd_m,2001,161
 760,g,cu_usd_m,2002,0
@@ -2345,7 +2345,7 @@ geo_area,nature,units,year,gf_com_pppi
 760,g,cu_usd_m,2017,0
 760,g,cu_usd_m,2018,0
 760,g,cu_usd_m,2019,0
-760,g,cu_usd_m,2020,519
+760,g,cu_usd_m,2020,0
 762,g,cu_usd_m,2000,0
 762,g,cu_usd_m,2001,5
 762,g,cu_usd_m,2002,16
@@ -2366,7 +2366,7 @@ geo_area,nature,units,year,gf_com_pppi
 762,g,cu_usd_m,2017,0
 762,g,cu_usd_m,2018,0
 762,g,cu_usd_m,2019,0
-762,g,cu_usd_m,2020,961
+762,g,cu_usd_m,2020,0
 764,g,cu_usd_m,2000,1156.6
 764,g,cu_usd_m,2001,1245.4
 764,g,cu_usd_m,2002,0
@@ -2387,7 +2387,7 @@ geo_area,nature,units,year,gf_com_pppi
 764,g,cu_usd_m,2017,4823.57
 764,g,cu_usd_m,2018,1999.02
 764,g,cu_usd_m,2019,1653.34
-764,g,cu_usd_m,2020,43116.356
+764,g,cu_usd_m,2020,254.8
 768,g,cu_usd_m,2000,67.7
 768,g,cu_usd_m,2001,0
 768,g,cu_usd_m,2002,0
@@ -2408,7 +2408,7 @@ geo_area,nature,units,year,gf_com_pppi
 768,g,cu_usd_m,2017,0
 768,g,cu_usd_m,2018,0
 768,g,cu_usd_m,2019,0
-768,g,cu_usd_m,2020,1070
+768,g,cu_usd_m,2020,139.9
 776,g,cu_usd_m,2000,7
 776,g,cu_usd_m,2001,0
 776,g,cu_usd_m,2002,0
@@ -2429,7 +2429,7 @@ geo_area,nature,units,year,gf_com_pppi
 776,g,cu_usd_m,2017,0
 776,g,cu_usd_m,2018,0
 776,g,cu_usd_m,2019,0
-776,g,cu_usd_m,2020,13.4
+776,g,cu_usd_m,2020,0
 788,g,cu_usd_m,2000,0
 788,g,cu_usd_m,2001,0
 788,g,cu_usd_m,2002,307
@@ -2450,7 +2450,7 @@ geo_area,nature,units,year,gf_com_pppi
 788,g,cu_usd_m,2017,0
 788,g,cu_usd_m,2018,0
 788,g,cu_usd_m,2019,10
-788,g,cu_usd_m,2020,4460
+788,g,cu_usd_m,2020,40
 792,g,cu_usd_m,2000,3575
 792,g,cu_usd_m,2001,850
 792,g,cu_usd_m,2002,360
@@ -2471,7 +2471,7 @@ geo_area,nature,units,year,gf_com_pppi
 792,g,cu_usd_m,2017,1801.38
 792,g,cu_usd_m,2018,8019.41
 792,g,cu_usd_m,2019,1037.35
-792,g,cu_usd_m,2020,145263.63
+792,g,cu_usd_m,2020,408.97
 800,g,cu_usd_m,2000,0
 800,g,cu_usd_m,2001,0
 800,g,cu_usd_m,2002,0
@@ -2492,7 +2492,7 @@ geo_area,nature,units,year,gf_com_pppi
 800,g,cu_usd_m,2017,19.3
 800,g,cu_usd_m,2018,0
 800,g,cu_usd_m,2019,87
-800,g,cu_usd_m,2020,1833.77
+800,g,cu_usd_m,2020,0
 804,g,cu_usd_m,2000,0
 804,g,cu_usd_m,2001,167.49
 804,g,cu_usd_m,2002,167.53
@@ -2513,7 +2513,7 @@ geo_area,nature,units,year,gf_com_pppi
 804,g,cu_usd_m,2017,174.5
 804,g,cu_usd_m,2018,669.22
 804,g,cu_usd_m,2019,1409.01
-804,g,cu_usd_m,2020,6903.17
+804,g,cu_usd_m,2020,30
 807,g,cu_usd_m,2000,0
 807,g,cu_usd_m,2001,403.5
 807,g,cu_usd_m,2002,0
@@ -2534,7 +2534,7 @@ geo_area,nature,units,year,gf_com_pppi
 807,g,cu_usd_m,2017,0
 807,g,cu_usd_m,2018,0
 807,g,cu_usd_m,2019,0
-807,g,cu_usd_m,2020,1379.73
+807,g,cu_usd_m,2020,0
 818,g,cu_usd_m,2000,1195.3
 818,g,cu_usd_m,2001,948
 818,g,cu_usd_m,2002,0
@@ -2555,7 +2555,7 @@ geo_area,nature,units,year,gf_com_pppi
 818,g,cu_usd_m,2017,2898.03
 818,g,cu_usd_m,2018,0
 818,g,cu_usd_m,2019,485
-818,g,cu_usd_m,2020,10314.42
+818,g,cu_usd_m,2020,5018.85
 834,g,cu_usd_m,2000,27.69
 834,g,cu_usd_m,2001,438.5
 834,g,cu_usd_m,2002,0
@@ -2576,7 +2576,7 @@ geo_area,nature,units,year,gf_com_pppi
 834,g,cu_usd_m,2017,0
 834,g,cu_usd_m,2018,0
 834,g,cu_usd_m,2019,8.5
-834,g,cu_usd_m,2020,1051.19
+834,g,cu_usd_m,2020,0
 854,g,cu_usd_m,2000,0
 854,g,cu_usd_m,2001,0
 854,g,cu_usd_m,2002,0
@@ -2597,7 +2597,7 @@ geo_area,nature,units,year,gf_com_pppi
 854,g,cu_usd_m,2017,280.95
 854,g,cu_usd_m,2018,0
 854,g,cu_usd_m,2019,0
-854,g,cu_usd_m,2020,674.42
+854,g,cu_usd_m,2020,66.22
 860,g,cu_usd_m,2000,0
 860,g,cu_usd_m,2001,0
 860,g,cu_usd_m,2002,0
@@ -2618,7 +2618,7 @@ geo_area,nature,units,year,gf_com_pppi
 860,g,cu_usd_m,2017,0
 860,g,cu_usd_m,2018,0
 860,g,cu_usd_m,2019,12
-860,g,cu_usd_m,2020,765.23
+860,g,cu_usd_m,2020,279.73
 862,g,cu_usd_m,2000,0
 862,g,cu_usd_m,2001,115.3
 862,g,cu_usd_m,2002,0
@@ -2639,7 +2639,7 @@ geo_area,nature,units,year,gf_com_pppi
 862,g,cu_usd_m,2017,0
 862,g,cu_usd_m,2018,0
 862,g,cu_usd_m,2019,0
-862,g,cu_usd_m,2020,2716.77
+862,g,cu_usd_m,2020,0
 882,g,cu_usd_m,2000,0
 882,g,cu_usd_m,2001,0
 882,g,cu_usd_m,2002,0
@@ -2660,7 +2660,7 @@ geo_area,nature,units,year,gf_com_pppi
 882,g,cu_usd_m,2017,28.705
 882,g,cu_usd_m,2018,0
 882,g,cu_usd_m,2019,0
-882,g,cu_usd_m,2020,38.705
+882,g,cu_usd_m,2020,0
 887,g,cu_usd_m,2000,0
 887,g,cu_usd_m,2001,0
 887,g,cu_usd_m,2002,0
@@ -2681,7 +2681,7 @@ geo_area,nature,units,year,gf_com_pppi
 887,g,cu_usd_m,2017,0
 887,g,cu_usd_m,2018,0
 887,g,cu_usd_m,2019,0
-887,g,cu_usd_m,2020,654.99
+887,g,cu_usd_m,2020,0
 894,g,cu_usd_m,2000,0
 894,g,cu_usd_m,2001,3
 894,g,cu_usd_m,2002,0
@@ -2702,4 +2702,4 @@ geo_area,nature,units,year,gf_com_pppi
 894,g,cu_usd_m,2017,59
 894,g,cu_usd_m,2018,45
 894,g,cu_usd_m,2019,0
-894,g,cu_usd_m,2020,3564.55
+894,g,cu_usd_m,2020,0

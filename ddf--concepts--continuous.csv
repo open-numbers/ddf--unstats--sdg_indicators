@@ -29,6 +29,7 @@ bx_klt_dinv_wd_gd_zs,measure,"Foreign direct investment, net inflows, as a propo
 bx_trf_pwkr,measure,Volume of remittances (in United States dollars) as a proportion of total GDP (%),17,17.3.2,BX_TRF_PWKR,17.3
 dc_envtech_exp,measure,Amount of tracked exported Environmentally Sound Technologies (current United States dollars),17,17.7.1,DC_ENVTECH_EXP,17.7
 dc_envtech_imp,measure,Amount of tracked imported Environmentally Sound Technologies (current United States dollars),17,17.7.1,DC_ENVTECH_IMP,17.7
+dc_envtech_inv,measure,"Total investment in Environment Sound Technologies, by sector (current United States dollars)",17,17.7.1,DC_ENVTECH_INV,17.7
 dc_envtech_rexp,measure,Amount of tracked re-exported Environmentally Sound Technologies (current United States dollars),17,17.7.1,DC_ENVTECH_REXP,17.7
 dc_envtech_rimp,measure,Amount of tracked re-imported Environmentally Sound Technologies (current United States dollars),17,17.7.1,DC_ENVTECH_RIMP,17.7
 dc_fin_climb,measure,"Climate-specific financial support provided via bilateral, regional and other channels, by type of support (Billions of current United States dollars)",13,13.a.1,DC_FIN_CLIMB,13.a
@@ -223,6 +224,8 @@ er_wat_prdu,measure,"Countries with procedures in law or policy for participatio
 er_wat_proced,measure,Proportion of countries with clearly defined procedures in law or policy for participation by service users/communities in planning program in water resources planning and management (%),6,6.b.1,ER_WAT_PROCED,6.b
 fb_atm_totl,measure,"Number of automated teller machines (ATMs) per 100,000 adults",8,8.10.1,FB_ATM_TOTL,8.10
 fb_bnk_accss,measure,"Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",8,8.10.2,FB_BNK_ACCSS,8.10
+fb_bnk_accss_ilf,measure,Proportion of adults (15 years and older) active in labor force with an account at a financial institution or mobile-money-service provider (% of adults aged 15 years and older),8,8.10.2,FB_BNK_ACCSS_ILF,8.10
+fb_bnk_accss_olf,measure,Proportion of adults (15 years and older) out of labor force with an account at a financial institution or mobile-money-service provider (% of adults aged 15 years and older),8,8.10.2,FB_BNK_ACCSS_OLF,8.10
 fb_bnk_capa_zs,measure,Bank capital to assets ratio (%),17,17.13.1,FB_BNK_CAPA_ZS,17.13
 fb_cbk_brch,measure,"Number of commercial bank branches per 100,000 adults",8,8.10.1,FB_CBK_BRCH,8.10
 fc_acc_ssid,measure,Proportion of small-scale industries with a loan or line of credit (%),9,9.3.2,FC_ACC_SSID,9.3
@@ -561,7 +564,7 @@ vc_dsr_aglh,measure,Direct agriculture loss attributed to disasters (current Uni
 vc_dsr_bsdn,measure,Number of disruptions to basic services attributed to disasters (number),11,11.5.3,VC_DSR_BSDN,11.5
 vc_dsr_cdan,measure,Number of damaged critical infrastructure attributed to disasters (number),11,11.5.3,VC_DSR_CDAN,11.5
 vc_dsr_cdyn,measure,Number of other destroyed or damaged critical infrastructure units and facilities attributed to disasters (number),11,11.5.3,VC_DSR_CDYN,11.5
-vc_dsr_chln,measure,Direct economic loss to cultural heritage damaged or destroyed attributed to disasters (millions of current United States dollars),"1, 11","1.5.2, 11.5.2",VC_DSR_CHLN,"1.5, 11.5"
+vc_dsr_chln,measure,Direct economic loss to cultural heritage damaged or destroyed attributed to disasters (current United States dollars),"1, 11","1.5.2, 11.5.2",VC_DSR_CHLN,"1.5, 11.5"
 vc_dsr_ciln,measure,Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters (current United States dollars),"1, 11","1.5.2, 11.5.2",VC_DSR_CILN,"1.5, 11.5"
 vc_dsr_daff,measure,"Number of directly affected persons attributed to disasters per 100,000 population (number)","1, 11, 13","1.5.1, 11.5.1, 13.1.1",VC_DSR_DAFF,"1.5, 11.5, 13.1"
 vc_dsr_ddpa,measure,Direct economic loss to other damaged or destroyed productive assets attributed to disasters (current United States dollars),"1, 11","1.5.2, 11.5.2",VC_DSR_DDPA,"1.5, 11.5"

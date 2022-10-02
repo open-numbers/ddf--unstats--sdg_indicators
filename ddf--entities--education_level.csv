@@ -1,7 +1,11 @@
 education_level,name
+agg_0_1,AGG_0_1
+agg_ge2,AGG_GE2
 grad23,GRAD23
 lowsec,LOWSEC
+notspec,NOTSPEC
 prepri,PREPRI
 primar,PRIMAR
 second,SECOND
+t,_T
 uppsec,UPPSEC

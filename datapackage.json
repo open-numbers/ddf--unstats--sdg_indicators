@@ -8,7 +8,7 @@
     "description": "SDG indicators",
     "author": "Gapminder",
     "license": "CC-BY-4.0",
-    "created": "2022-08-14T01:16:31.425082+00:00",
+    "created": "2022-10-02T01:51:17.415349+00:00",
     "translations": [],
     "version": "0.0.1",
     "resources": [
@@ -1035,6 +1035,39 @@
                     }
                 ],
                 "primaryKey": [
+                    "geo_area",
+                    "nature",
+                    "units",
+                    "year"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--dc_envtech_inv--by--activity--geo_area--nature--units--year",
+            "path": "ddf--datapoints--dc_envtech_inv--by--activity--geo_area--nature--units--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "activity"
+                    },
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "nature"
+                    },
+                    {
+                        "name": "units"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "dc_envtech_inv"
+                    }
+                ],
+                "primaryKey": [
+                    "activity",
                     "geo_area",
                     "nature",
                     "units",
@@ -2975,8 +3008,8 @@
             }
         },
         {
-            "name": "ddf--datapoints--en_ewt_rcypcap--by--geo_area--nature--units--year",
-            "path": "ddf--datapoints--en_ewt_rcypcap--by--geo_area--nature--units--year.csv",
+            "name": "ddf--datapoints--en_ewt_rcypcap--by--geo_area--nature--observation_status--units--year",
+            "path": "ddf--datapoints--en_ewt_rcypcap--by--geo_area--nature--observation_status--units--year.csv",
             "schema": {
                 "fields": [
                     {
@@ -2984,6 +3017,9 @@
                     },
                     {
                         "name": "nature"
+                    },
+                    {
+                        "name": "observation_status"
                     },
                     {
                         "name": "units"
@@ -2998,6 +3034,7 @@
                 "primaryKey": [
                     "geo_area",
                     "nature",
+                    "observation_status",
                     "units",
                     "year"
                 ]
@@ -3033,8 +3070,8 @@
             }
         },
         {
-            "name": "ddf--datapoints--en_ewt_rcyv--by--geo_area--nature--units--year",
-            "path": "ddf--datapoints--en_ewt_rcyv--by--geo_area--nature--units--year.csv",
+            "name": "ddf--datapoints--en_ewt_rcyv--by--geo_area--nature--observation_status--units--year",
+            "path": "ddf--datapoints--en_ewt_rcyv--by--geo_area--nature--observation_status--units--year.csv",
             "schema": {
                 "fields": [
                     {
@@ -3042,6 +3079,9 @@
                     },
                     {
                         "name": "nature"
+                    },
+                    {
+                        "name": "observation_status"
                     },
                     {
                         "name": "units"
@@ -3056,6 +3096,7 @@
                 "primaryKey": [
                     "geo_area",
                     "nature",
+                    "observation_status",
                     "units",
                     "year"
                 ]
@@ -7224,15 +7265,21 @@
             }
         },
         {
-            "name": "ddf--datapoints--fb_bnk_accss--by--age--geo_area--nature--quantile--sex--units--year",
-            "path": "ddf--datapoints--fb_bnk_accss--by--age--geo_area--nature--quantile--sex--units--year.csv",
+            "name": "ddf--datapoints--fb_bnk_accss--by--age--education_level--geo_area--location--nature--quantile--sex--units--year",
+            "path": "ddf--datapoints--fb_bnk_accss--by--age--education_level--geo_area--location--nature--quantile--sex--units--year.csv",
             "schema": {
                 "fields": [
                     {
                         "name": "age"
                     },
                     {
+                        "name": "education_level"
+                    },
+                    {
                         "name": "geo_area"
+                    },
+                    {
+                        "name": "location"
                     },
                     {
                         "name": "nature"
@@ -7255,9 +7302,89 @@
                 ],
                 "primaryKey": [
                     "age",
+                    "education_level",
                     "geo_area",
+                    "location",
                     "nature",
                     "quantile",
+                    "sex",
+                    "units",
+                    "year"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--fb_bnk_accss_ilf--by--age--geo_area--nature--sex--units--year",
+            "path": "ddf--datapoints--fb_bnk_accss_ilf--by--age--geo_area--nature--sex--units--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "age"
+                    },
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "nature"
+                    },
+                    {
+                        "name": "sex"
+                    },
+                    {
+                        "name": "units"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "fb_bnk_accss_ilf"
+                    }
+                ],
+                "primaryKey": [
+                    "age",
+                    "geo_area",
+                    "nature",
+                    "sex",
+                    "units",
+                    "year"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--fb_bnk_accss_olf--by--age--education_level--geo_area--nature--sex--units--year",
+            "path": "ddf--datapoints--fb_bnk_accss_olf--by--age--education_level--geo_area--nature--sex--units--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "age"
+                    },
+                    {
+                        "name": "education_level"
+                    },
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "nature"
+                    },
+                    {
+                        "name": "sex"
+                    },
+                    {
+                        "name": "units"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "fb_bnk_accss_olf"
+                    }
+                ],
+                "primaryKey": [
+                    "age",
+                    "education_level",
+                    "geo_area",
+                    "nature",
                     "sex",
                     "units",
                     "year"
@@ -21734,6 +21861,19 @@
             },
             {
                 "primaryKey": [
+                    "activity",
+                    "geo_area",
+                    "nature",
+                    "units",
+                    "year"
+                ],
+                "value": "dc_envtech_inv",
+                "resources": [
+                    "ddf--datapoints--dc_envtech_inv--by--activity--geo_area--nature--units--year"
+                ]
+            },
+            {
+                "primaryKey": [
                     "geo_area",
                     "nature",
                     "units",
@@ -22523,12 +22663,13 @@
                 "primaryKey": [
                     "geo_area",
                     "nature",
+                    "observation_status",
                     "units",
                     "year"
                 ],
                 "value": "en_ewt_rcypcap",
                 "resources": [
-                    "ddf--datapoints--en_ewt_rcypcap--by--geo_area--nature--units--year"
+                    "ddf--datapoints--en_ewt_rcypcap--by--geo_area--nature--observation_status--units--year"
                 ]
             },
             {
@@ -22547,12 +22688,13 @@
                 "primaryKey": [
                     "geo_area",
                     "nature",
+                    "observation_status",
                     "units",
                     "year"
                 ],
                 "value": "en_ewt_rcyv",
                 "resources": [
-                    "ddf--datapoints--en_ewt_rcyv--by--geo_area--nature--units--year"
+                    "ddf--datapoints--en_ewt_rcyv--by--geo_area--nature--observation_status--units--year"
                 ]
             },
             {
@@ -24197,7 +24339,9 @@
             {
                 "primaryKey": [
                     "age",
+                    "education_level",
                     "geo_area",
+                    "location",
                     "nature",
                     "quantile",
                     "sex",
@@ -24206,7 +24350,36 @@
                 ],
                 "value": "fb_bnk_accss",
                 "resources": [
-                    "ddf--datapoints--fb_bnk_accss--by--age--geo_area--nature--quantile--sex--units--year"
+                    "ddf--datapoints--fb_bnk_accss--by--age--education_level--geo_area--location--nature--quantile--sex--units--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "age",
+                    "geo_area",
+                    "nature",
+                    "sex",
+                    "units",
+                    "year"
+                ],
+                "value": "fb_bnk_accss_ilf",
+                "resources": [
+                    "ddf--datapoints--fb_bnk_accss_ilf--by--age--geo_area--nature--sex--units--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "age",
+                    "education_level",
+                    "geo_area",
+                    "nature",
+                    "sex",
+                    "units",
+                    "year"
+                ],
+                "value": "fb_bnk_accss_olf",
+                "resources": [
+                    "ddf--datapoints--fb_bnk_accss_olf--by--age--education_level--geo_area--nature--sex--units--year"
                 ]
             },
             {
