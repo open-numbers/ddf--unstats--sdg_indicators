@@ -529,7 +529,7 @@ sl_tlf_uemdis,measure,"Unemployment rate, by sex and disability (%)",8,8.5.2,SL_
 sm_dth_migr,measure,Total deaths and disappearances recorded during migration (number),10,10.7.3,SM_DTH_MIGR,10.7
 sm_pop_refg_or,measure,"Number of refugees per 100,000 population, by country of origin (per 100,000 population)",10,10.7.4,SM_POP_REFG_OR,10.7
 sn_itk_defc,measure,Prevalence of undernourishment (%),2,2.1.1,SN_ITK_DEFC,2.1
-sn_itk_defcn,measure,Number of undernourish people (millions),2,2.1.1,SN_ITK_DEFCN,2.1
+sn_itk_defcn,measure,Number of undernourished people (millions),2,2.1.1,SN_ITK_DEFCN,2.1
 sn_sta_ovwgt,measure,Proportion of children moderately or severely overweight (%),2,2.2.2,SN_STA_OVWGT,2.2
 sn_sta_ovwgtn,measure,Children moderately or severely overweight (thousands),2,2.2.2,SN_STA_OVWGTN,2.2
 sp_acs_bsrvh2o,measure,"Proportion of population using basic drinking water services, by location (%)",1,1.4.1,SP_ACS_BSRVH2O,1.4
