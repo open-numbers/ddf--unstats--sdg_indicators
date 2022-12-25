@@ -16,10 +16,10 @@ ag_lnd_frstn,measure,Forest area (thousands of hectares),15,15.1.1,AG_LND_FRSTN,
 ag_lnd_frstprct,measure,Proportion of forest area within legally established protected areas (%),15,15.2.1,AG_LND_FRSTPRCT,15.2
 ag_lnd_totl,measure,Land area (thousands of hectares),15,15.1.1,AG_LND_TOTL,15.1
 ag_prd_agvas,measure,Agriculture value added share of GDP (%),2,2.a.1,AG_PRD_AGVAS,2.a
-ag_prd_fiesms,measure,Prevalence of moderate or severe food insecurity in the adult population (%),2,2.1.2,AG_PRD_FIESMS,2.1
-ag_prd_fiesmsn,measure,Total population in moderate or severe food insecurity (thousands of people),2,2.1.2,AG_PRD_FIESMSN,2.1
-ag_prd_fiess,measure,Prevalence of severe food insecurity in the adult population (%),2,2.1.2,AG_PRD_FIESS,2.1
-ag_prd_fiessn,measure,Total population in severe food insecurity (thousands of people),2,2.1.2,AG_PRD_FIESSN,2.1
+ag_prd_fiesms,measure,Prevalence of moderate or severe food insecurity (%),2,2.1.2,AG_PRD_FIESMS,2.1
+ag_prd_fiesmsn,measure,Number of moderately or severely food insecure people (thousands of people),2,2.1.2,AG_PRD_FIESMSN,2.1
+ag_prd_fiess,measure,Prevalence of severe food insecurity (%),2,2.1.2,AG_PRD_FIESS,2.1
+ag_prd_fiessn,measure,Number of severely food insecure people (thousands of people),2,2.1.2,AG_PRD_FIESSN,2.1
 ag_prd_ortind,measure,Agriculture orientation index for government expenditures,2,2.a.1,AG_PRD_ORTIND,2.a
 ag_prd_xsubdy,measure,Agricultural export subsidies (millions of current United States dollars),2,2.b.1,AG_PRD_XSUBDY,2.b
 ag_xpd_agsgb,measure,Agriculture share of Government Expenditure (%),2,2.a.1,AG_XPD_AGSGB,2.a
@@ -182,6 +182,7 @@ er_ffs_cmpt_cd,measure,Fossil-fuel subsidies (consumption and production) (billi
 er_ffs_cmpt_gdp,measure,Fossil-fuel subsidies (consumption and production) as a proportion of total GDP (%),12,12.c.1,ER_FFS_CMPT_GDP,12.c
 er_ffs_cmpt_pc_cd,measure,Fossil-fuel subsidies (consumption and production) per capita (nominal United States dollars),12,12.c.1,ER_FFS_CMPT_PC_CD,12.c
 er_grf_animrcntn,measure,Number of local breeds for which sufficient genetic resources are stored for reconstitution,2,2.5.1,ER_GRF_ANIMRCNTN,2.5
+er_grf_animrcntn_trb,measure,Number of transboundary breeds for which sufficient genetic resources are stored for reconstitution,2,2.5.1,ER_GRF_ANIMRCNTN_TRB,2.5
 er_grf_plntstor,measure,Plant genetic resources accessions stored ex situ (number),2,2.5.1,ER_GRF_PLNTSTOR,2.5
 er_h2o_fwtl,measure,Proportion of fish stocks within biologically sustainable levels (not overexploited) (%),14,14.4.1,ER_H2O_FWTL,14.4
 er_h2o_iwrmd,measure,Degree of integrated water resources management implementation (%),6,6.5.1,ER_H2O_IWRMD,6.5
@@ -271,6 +272,9 @@ it_net_bbnd,measure,"Fixed Internet broadband subscriptions per 100 inhabitants
 it_net_bbndn,measure,"Number of fixed Internet broadband subscriptions, by speed (number)",17,17.6.1,IT_NET_BBNDN,17.6
 it_use_ii99,measure,Internet users per 100 inhabitants,17,17.8.1,IT_USE_ii99,17.8
 iu_cor_brib,measure,"Prevalence rate of bribery, by sex (%)",16,16.5.1,IU_COR_BRIB,16.5
+iu_dmk_icrs,measure,Proportion of population who believe decision-making is inclusive and responsive (%),16,16.7.2,IU_DMK_ICRS,16.7
+iu_dmk_incl,measure,Proportion of population who believe decision-making is inclusive (%),16,16.7.2,IU_DMK_INCL,16.7
+iu_dmk_resp,measure,Proportion of population who believe decision-making is responsive (%),16,16.7.2,IU_DMK_RESP,16.7
 ne_con_govt_kd_zg,measure,Annual growth of the general government final consumption expenditure (%),17,17.13.1,NE_CON_GOVT_KD_ZG,17.13
 ne_con_prvt_kd_zg,measure,Annual growth of households and NPISHs final consumption expenditure (%),17,17.13.1,NE_CON_PRVT_KD_ZG,17.13
 ne_exp_gnfs_kd_zg,measure,Annual growth of exports of goods and services (%),17,17.13.1,NE_EXP_GNFS_KD_ZG,17.13
@@ -381,14 +385,14 @@ sg_nhr_noappln,measure,"Countries with no application for accreditation with the
 sg_nhr_nostusn,measure,"Countries with National Human Rights Institutions and no status with the Paris Principles, C status (1 = YES; 0 = NO)",16,16.a.1,SG_NHR_NOSTUSN,16.a
 sg_pln_mstksdg_p,measure,"Number of countries reporting progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals, Provider (1 = YES; 0 = NO)",17,17.16.1,SG_PLN_MSTKSDG_P,17.16
 sg_pln_mstksdg_r,measure,"Number of countries reporting progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals, Recipient (1 = YES; 0 = NO)",17,17.16.1,SG_PLN_MSTKSDG_R,17.16
-sg_pln_prpolres,measure,Extent of use of country-owned results frameworks and planning tools by providers of development cooperation - data by provider (%) ,17,17.15.1,SG_PLN_PRPOLRES,17.15
+sg_pln_prpolres,measure,Extent of use of country-owned results frameworks and planning tools by providers of development cooperation - data by provider (%),17,17.15.1,SG_PLN_PRPOLRES,17.15
 sg_pln_prvndi,measure,Proportion of project objectives of new development interventions drawn from country-led result frameworks - data by provider (%),17,17.15.1,SG_PLN_PRVNDI,17.15
 sg_pln_prvrictry,measure,Proportion of results indicators drawn from country-led results frameworks - data by provider (%),17,17.15.1,SG_PLN_PRVRICTRY,17.15
 sg_pln_prvrimon,measure,Proportion of results indicators which will be monitored using government sources and monitoring systems - data by provider (%),17,17.15.1,SG_PLN_PRVRIMON,17.15
 sg_pln_recndi,measure,Proportion of project objectives in new development interventions drawn from country-led result frameworks - data by recipient (%),17,17.15.1,SG_PLN_RECNDI,17.15
 sg_pln_recrictry,measure,Proportion of results indicators drawn from country-led results frameworks - data by recipient (%),17,17.15.1,SG_PLN_RECRICTRY,17.15
 sg_pln_recrimon,measure,Proportion of results indicators which will be monitored using government sources and monitoring systems - data by recipient (%),17,17.15.1,SG_PLN_RECRIMON,17.15
-sg_pln_repolres,measure,Extent of use of country-owned results frameworks and planning tools by providers of development cooperation - data by recipient (%) ,17,17.15.1,SG_PLN_REPOLRES,17.15
+sg_pln_repolres,measure,Extent of use of country-owned results frameworks and planning tools by providers of development cooperation - data by recipient (%),17,17.15.1,SG_PLN_REPOLRES,17.15
 sg_reg_brth,measure,Proportion of children under 5 years of age whose births have been registered with a civil authority (% of children under 5 years of age),16,16.9.1,SG_REG_BRTH,16.9
 sg_reg_brth90,measure,Proportion of countries with birth registration data that are at least 90 percent complete (%),17,17.19.2,SG_REG_BRTH90,17.19
 sg_reg_brth90n,measure,Countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO),17,17.19.2,SG_REG_BRTH90N,17.19
@@ -534,6 +538,7 @@ sn_sta_ovwgt,measure,Proportion of children moderately or severely overweight (%
 sn_sta_ovwgtn,measure,Children moderately or severely overweight (thousands),2,2.2.2,SN_STA_OVWGTN,2.2
 sp_acs_bsrvh2o,measure,"Proportion of population using basic drinking water services, by location (%)",1,1.4.1,SP_ACS_BSRVH2O,1.4
 sp_acs_bsrvsan,measure,"Proportion of population using basic sanitation services, by location (%)",1,1.4.1,SP_ACS_BSRVSAN,1.4
+sp_disp_resol,measure,Proportion of the population who have experienced a dispute in the past two years who accessed a formal or informal dispute resolution mechanism (%),16,16.3.3,SP_DISP_RESOL,16.3
 sp_dyn_adkl,measure,"Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years)",3,3.7.2,SP_DYN_ADKL,3.7
 sp_dyn_mrbf15,measure,Proportion of women aged 20-24 years who were married or in a union before age 15 (%),5,5.3.1,SP_DYN_MRBF15,5.3
 sp_dyn_mrbf18,measure,Proportion of women aged 20-24 years who were married or in a union before age 18 (%),5,5.3.1,SP_DYN_MRBF18,5.3
@@ -542,6 +547,14 @@ sp_lgl_lndagsec,measure,"Proportion of people with ownership or secure rights ov
 sp_lgl_lnddoc,measure,"Proportion of people with legally recognized documentation of their rights to land out of total adult population, by sex (%)",1,1.4.2,SP_LGL_LNDDOC,1.4
 sp_lgl_lndsec,measure,"Proportion of people who perceive their rights to land as secure out of total adult population, by sex (%)",1,1.4.2,SP_LGL_LNDSEC,1.4
 sp_lgl_lndstr,measure,"Proportion of people with secure tenure rights to land out of total adult population, by sex (%)",1,1.4.2,SP_LGL_LNDSTR,1.4
+sp_psr_osatis_gov,measure,Proportion of population who say that overall they are satisfied with the quality of government services (%),16,16.6.2,SP_PSR_OSATIS_GOV,16.6
+sp_psr_osatis_hlth,measure,Proportion of population who say that overall they are satisfied with the quality of healthcare services (%),16,16.6.2,SP_PSR_OSATIS_HLTH,16.6
+sp_psr_osatis_prm,measure,Proportion of population who say that overall they are satisfied with the quality of primary education services (%),16,16.6.2,SP_PSR_OSATIS_PRM,16.6
+sp_psr_osatis_sec,measure,Proportion of population who say that overall they are satisfied with the quality of secondary education services (%),16,16.6.2,SP_PSR_OSATIS_SEC,16.6
+sp_psr_satis_gov,measure,"Proportion of population satisfied with their last experience of public services, government services (%)",16,16.6.2,SP_PSR_SATIS_GOV,16.6
+sp_psr_satis_hlth,measure,"Proportion of population satisfied with their last experience of public services, healthcare services (%)",16,16.6.2,SP_PSR_SATIS_HLTH,16.6
+sp_psr_satis_prm,measure,"Proportion of population satisfied with their last experience of public services, primary education services (%)",16,16.6.2,SP_PSR_SATIS_PRM,16.6
+sp_psr_satis_sec,measure,"Proportion of population satisfied with their last experience of public services, secondary education services (%)",16,16.6.2,SP_PSR_SATIS_SEC,16.6
 sp_rod_r2km,measure,Proportion of the rural population who live within 2 km of an all-season road,9,9.1.1,SP_ROD_R2KM,9.1
 sp_trn_publ,measure,Proportion of population that has convenient access to public transport (%),11,11.2.1,SP_TRN_PUBL,11.2
 st_eev_accseea,measure,Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (SEEA tables),12,12.b.1,ST_EEV_ACCSEEA,12.b

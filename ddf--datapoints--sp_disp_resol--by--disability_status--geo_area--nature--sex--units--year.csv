@@ -1,0 +1,16 @@
+disability_status,geo_area,nature,sex,units,year,sp_disp_resol
+pd,270,c,bothsex,percent,2021,1.17
+pwd,270,c,bothsex,percent,2021,46.64
+t,124,c,bothsex,percent,2022,65.89
+t,170,c,bothsex,percent,2022,46.57
+t,170,c,female,percent,2022,46.42
+t,170,c,male,percent,2022,46.71
+t,270,c,bothsex,percent,2021,46.36
+t,270,c,female,percent,2021,41.92
+t,270,c,male,percent,2021,52.02
+t,275,c,bothsex,percent,2022,94.41
+t,275,c,female,percent,2022,91.24
+t,275,c,male,percent,2022,95.97
+t,604,c,bothsex,percent,2021,71.9
+t,604,c,female,percent,2021,73.1
+t,604,c,male,percent,2021,69.1

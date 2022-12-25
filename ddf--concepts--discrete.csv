@@ -39,6 +39,7 @@ population_group,entity_domain,Population Group
 quantile,entity_domain,Quantile
 report_ordinal,entity_domain,Report Ordinal
 sampling_stations,entity_domain,Sampling Stations
+service_attribute,entity_domain,Service Attribute
 severity_of_price_levels,entity_domain,Severity Of Price Levels
 sex,entity_domain,Sex
 substance_use_disorders,entity_domain,Substance Use Disorders

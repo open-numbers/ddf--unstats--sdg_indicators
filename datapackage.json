@@ -8,7 +8,7 @@
     "description": "SDG indicators",
     "author": "Gapminder",
     "license": "CC-BY-4.0",
-    "created": "2022-10-30T01:43:29.759005+00:00",
+    "created": "2022-12-25T01:23:16.410259+00:00",
     "translations": [],
     "version": "0.0.1",
     "resources": [
@@ -5760,8 +5760,8 @@
             }
         },
         {
-            "name": "ddf--datapoints--er_ffs_cmpt_cd--by--geo_area--nature--units--year",
-            "path": "ddf--datapoints--er_ffs_cmpt_cd--by--geo_area--nature--units--year.csv",
+            "name": "ddf--datapoints--er_ffs_cmpt_cd--by--geo_area--nature--observation_status--units--year",
+            "path": "ddf--datapoints--er_ffs_cmpt_cd--by--geo_area--nature--observation_status--units--year.csv",
             "schema": {
                 "fields": [
                     {
@@ -5769,6 +5769,9 @@
                     },
                     {
                         "name": "nature"
+                    },
+                    {
+                        "name": "observation_status"
                     },
                     {
                         "name": "units"
@@ -5783,14 +5786,15 @@
                 "primaryKey": [
                     "geo_area",
                     "nature",
+                    "observation_status",
                     "units",
                     "year"
                 ]
             }
         },
         {
-            "name": "ddf--datapoints--er_ffs_cmpt_gdp--by--geo_area--nature--units--year",
-            "path": "ddf--datapoints--er_ffs_cmpt_gdp--by--geo_area--nature--units--year.csv",
+            "name": "ddf--datapoints--er_ffs_cmpt_gdp--by--geo_area--nature--observation_status--units--year",
+            "path": "ddf--datapoints--er_ffs_cmpt_gdp--by--geo_area--nature--observation_status--units--year.csv",
             "schema": {
                 "fields": [
                     {
@@ -5798,6 +5802,9 @@
                     },
                     {
                         "name": "nature"
+                    },
+                    {
+                        "name": "observation_status"
                     },
                     {
                         "name": "units"
@@ -5812,14 +5819,15 @@
                 "primaryKey": [
                     "geo_area",
                     "nature",
+                    "observation_status",
                     "units",
                     "year"
                 ]
             }
         },
         {
-            "name": "ddf--datapoints--er_ffs_cmpt_pc_cd--by--geo_area--nature--units--year",
-            "path": "ddf--datapoints--er_ffs_cmpt_pc_cd--by--geo_area--nature--units--year.csv",
+            "name": "ddf--datapoints--er_ffs_cmpt_pc_cd--by--geo_area--nature--observation_status--units--year",
+            "path": "ddf--datapoints--er_ffs_cmpt_pc_cd--by--geo_area--nature--observation_status--units--year.csv",
             "schema": {
                 "fields": [
                     {
@@ -5827,6 +5835,9 @@
                     },
                     {
                         "name": "nature"
+                    },
+                    {
+                        "name": "observation_status"
                     },
                     {
                         "name": "units"
@@ -5841,6 +5852,7 @@
                 "primaryKey": [
                     "geo_area",
                     "nature",
+                    "observation_status",
                     "units",
                     "year"
                 ]
@@ -5865,6 +5877,35 @@
                     },
                     {
                         "name": "er_grf_animrcntn"
+                    }
+                ],
+                "primaryKey": [
+                    "geo_area",
+                    "nature",
+                    "units",
+                    "year"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--er_grf_animrcntn_trb--by--geo_area--nature--units--year",
+            "path": "ddf--datapoints--er_grf_animrcntn_trb--by--geo_area--nature--units--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "nature"
+                    },
+                    {
+                        "name": "units"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "er_grf_animrcntn_trb"
                     }
                 ],
                 "primaryKey": [
@@ -8854,6 +8895,177 @@
                 "primaryKey": [
                     "geo_area",
                     "nature",
+                    "sex",
+                    "units",
+                    "year"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--iu_dmk_icrs--by--age--disability_status--education_level--geo_area--location--nature--population_group--quantile--sex--units--year",
+            "path": "ddf--datapoints--iu_dmk_icrs--by--age--disability_status--education_level--geo_area--location--nature--population_group--quantile--sex--units--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "age"
+                    },
+                    {
+                        "name": "disability_status"
+                    },
+                    {
+                        "name": "education_level"
+                    },
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "location"
+                    },
+                    {
+                        "name": "nature"
+                    },
+                    {
+                        "name": "population_group"
+                    },
+                    {
+                        "name": "quantile"
+                    },
+                    {
+                        "name": "sex"
+                    },
+                    {
+                        "name": "units"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "iu_dmk_icrs"
+                    }
+                ],
+                "primaryKey": [
+                    "age",
+                    "disability_status",
+                    "education_level",
+                    "geo_area",
+                    "location",
+                    "nature",
+                    "population_group",
+                    "quantile",
+                    "sex",
+                    "units",
+                    "year"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--iu_dmk_incl--by--age--disability_status--education_level--geo_area--location--nature--population_group--quantile--sex--units--year",
+            "path": "ddf--datapoints--iu_dmk_incl--by--age--disability_status--education_level--geo_area--location--nature--population_group--quantile--sex--units--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "age"
+                    },
+                    {
+                        "name": "disability_status"
+                    },
+                    {
+                        "name": "education_level"
+                    },
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "location"
+                    },
+                    {
+                        "name": "nature"
+                    },
+                    {
+                        "name": "population_group"
+                    },
+                    {
+                        "name": "quantile"
+                    },
+                    {
+                        "name": "sex"
+                    },
+                    {
+                        "name": "units"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "iu_dmk_incl"
+                    }
+                ],
+                "primaryKey": [
+                    "age",
+                    "disability_status",
+                    "education_level",
+                    "geo_area",
+                    "location",
+                    "nature",
+                    "population_group",
+                    "quantile",
+                    "sex",
+                    "units",
+                    "year"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--iu_dmk_resp--by--age--disability_status--education_level--geo_area--location--nature--population_group--quantile--sex--units--year",
+            "path": "ddf--datapoints--iu_dmk_resp--by--age--disability_status--education_level--geo_area--location--nature--population_group--quantile--sex--units--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "age"
+                    },
+                    {
+                        "name": "disability_status"
+                    },
+                    {
+                        "name": "education_level"
+                    },
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "location"
+                    },
+                    {
+                        "name": "nature"
+                    },
+                    {
+                        "name": "population_group"
+                    },
+                    {
+                        "name": "quantile"
+                    },
+                    {
+                        "name": "sex"
+                    },
+                    {
+                        "name": "units"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "iu_dmk_resp"
+                    }
+                ],
+                "primaryKey": [
+                    "age",
+                    "disability_status",
+                    "education_level",
+                    "geo_area",
+                    "location",
+                    "nature",
+                    "population_group",
+                    "quantile",
                     "sex",
                     "units",
                     "year"
@@ -17756,6 +17968,43 @@
             }
         },
         {
+            "name": "ddf--datapoints--sp_disp_resol--by--disability_status--geo_area--nature--sex--units--year",
+            "path": "ddf--datapoints--sp_disp_resol--by--disability_status--geo_area--nature--sex--units--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "disability_status"
+                    },
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "nature"
+                    },
+                    {
+                        "name": "sex"
+                    },
+                    {
+                        "name": "units"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "sp_disp_resol"
+                    }
+                ],
+                "primaryKey": [
+                    "disability_status",
+                    "geo_area",
+                    "nature",
+                    "sex",
+                    "units",
+                    "year"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--sp_dyn_adkl--by--age--geo_area--location--nature--sex--units--year",
             "path": "ddf--datapoints--sp_dyn_adkl--by--age--geo_area--location--nature--sex--units--year.csv",
             "schema": {
@@ -18025,6 +18274,442 @@
                 "primaryKey": [
                     "geo_area",
                     "nature",
+                    "sex",
+                    "units",
+                    "year"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--sp_psr_osatis_gov--by--age--disability_status--geo_area--location--nature--population_group--quantile--sex--units--year",
+            "path": "ddf--datapoints--sp_psr_osatis_gov--by--age--disability_status--geo_area--location--nature--population_group--quantile--sex--units--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "age"
+                    },
+                    {
+                        "name": "disability_status"
+                    },
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "location"
+                    },
+                    {
+                        "name": "nature"
+                    },
+                    {
+                        "name": "population_group"
+                    },
+                    {
+                        "name": "quantile"
+                    },
+                    {
+                        "name": "sex"
+                    },
+                    {
+                        "name": "units"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "sp_psr_osatis_gov"
+                    }
+                ],
+                "primaryKey": [
+                    "age",
+                    "disability_status",
+                    "geo_area",
+                    "location",
+                    "nature",
+                    "population_group",
+                    "quantile",
+                    "sex",
+                    "units",
+                    "year"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--sp_psr_osatis_hlth--by--age--disability_status--geo_area--location--nature--population_group--quantile--sex--units--year",
+            "path": "ddf--datapoints--sp_psr_osatis_hlth--by--age--disability_status--geo_area--location--nature--population_group--quantile--sex--units--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "age"
+                    },
+                    {
+                        "name": "disability_status"
+                    },
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "location"
+                    },
+                    {
+                        "name": "nature"
+                    },
+                    {
+                        "name": "population_group"
+                    },
+                    {
+                        "name": "quantile"
+                    },
+                    {
+                        "name": "sex"
+                    },
+                    {
+                        "name": "units"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "sp_psr_osatis_hlth"
+                    }
+                ],
+                "primaryKey": [
+                    "age",
+                    "disability_status",
+                    "geo_area",
+                    "location",
+                    "nature",
+                    "population_group",
+                    "quantile",
+                    "sex",
+                    "units",
+                    "year"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--sp_psr_osatis_prm--by--age--disability_status--geo_area--location--nature--population_group--quantile--sex--units--year",
+            "path": "ddf--datapoints--sp_psr_osatis_prm--by--age--disability_status--geo_area--location--nature--population_group--quantile--sex--units--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "age"
+                    },
+                    {
+                        "name": "disability_status"
+                    },
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "location"
+                    },
+                    {
+                        "name": "nature"
+                    },
+                    {
+                        "name": "population_group"
+                    },
+                    {
+                        "name": "quantile"
+                    },
+                    {
+                        "name": "sex"
+                    },
+                    {
+                        "name": "units"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "sp_psr_osatis_prm"
+                    }
+                ],
+                "primaryKey": [
+                    "age",
+                    "disability_status",
+                    "geo_area",
+                    "location",
+                    "nature",
+                    "population_group",
+                    "quantile",
+                    "sex",
+                    "units",
+                    "year"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--sp_psr_osatis_sec--by--age--disability_status--geo_area--location--nature--population_group--quantile--sex--units--year",
+            "path": "ddf--datapoints--sp_psr_osatis_sec--by--age--disability_status--geo_area--location--nature--population_group--quantile--sex--units--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "age"
+                    },
+                    {
+                        "name": "disability_status"
+                    },
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "location"
+                    },
+                    {
+                        "name": "nature"
+                    },
+                    {
+                        "name": "population_group"
+                    },
+                    {
+                        "name": "quantile"
+                    },
+                    {
+                        "name": "sex"
+                    },
+                    {
+                        "name": "units"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "sp_psr_osatis_sec"
+                    }
+                ],
+                "primaryKey": [
+                    "age",
+                    "disability_status",
+                    "geo_area",
+                    "location",
+                    "nature",
+                    "population_group",
+                    "quantile",
+                    "sex",
+                    "units",
+                    "year"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--sp_psr_satis_gov--by--age--disability_status--geo_area--location--nature--population_group--quantile--service_attribute--sex--units--year",
+            "path": "ddf--datapoints--sp_psr_satis_gov--by--age--disability_status--geo_area--location--nature--population_group--quantile--service_attribute--sex--units--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "age"
+                    },
+                    {
+                        "name": "disability_status"
+                    },
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "location"
+                    },
+                    {
+                        "name": "nature"
+                    },
+                    {
+                        "name": "population_group"
+                    },
+                    {
+                        "name": "quantile"
+                    },
+                    {
+                        "name": "service_attribute"
+                    },
+                    {
+                        "name": "sex"
+                    },
+                    {
+                        "name": "units"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "sp_psr_satis_gov"
+                    }
+                ],
+                "primaryKey": [
+                    "age",
+                    "disability_status",
+                    "geo_area",
+                    "location",
+                    "nature",
+                    "population_group",
+                    "quantile",
+                    "service_attribute",
+                    "sex",
+                    "units",
+                    "year"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--sp_psr_satis_hlth--by--age--disability_status--geo_area--location--nature--population_group--quantile--service_attribute--sex--units--year",
+            "path": "ddf--datapoints--sp_psr_satis_hlth--by--age--disability_status--geo_area--location--nature--population_group--quantile--service_attribute--sex--units--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "age"
+                    },
+                    {
+                        "name": "disability_status"
+                    },
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "location"
+                    },
+                    {
+                        "name": "nature"
+                    },
+                    {
+                        "name": "population_group"
+                    },
+                    {
+                        "name": "quantile"
+                    },
+                    {
+                        "name": "service_attribute"
+                    },
+                    {
+                        "name": "sex"
+                    },
+                    {
+                        "name": "units"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "sp_psr_satis_hlth"
+                    }
+                ],
+                "primaryKey": [
+                    "age",
+                    "disability_status",
+                    "geo_area",
+                    "location",
+                    "nature",
+                    "population_group",
+                    "quantile",
+                    "service_attribute",
+                    "sex",
+                    "units",
+                    "year"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--sp_psr_satis_prm--by--age--disability_status--geo_area--location--nature--population_group--quantile--service_attribute--sex--units--year",
+            "path": "ddf--datapoints--sp_psr_satis_prm--by--age--disability_status--geo_area--location--nature--population_group--quantile--service_attribute--sex--units--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "age"
+                    },
+                    {
+                        "name": "disability_status"
+                    },
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "location"
+                    },
+                    {
+                        "name": "nature"
+                    },
+                    {
+                        "name": "population_group"
+                    },
+                    {
+                        "name": "quantile"
+                    },
+                    {
+                        "name": "service_attribute"
+                    },
+                    {
+                        "name": "sex"
+                    },
+                    {
+                        "name": "units"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "sp_psr_satis_prm"
+                    }
+                ],
+                "primaryKey": [
+                    "age",
+                    "disability_status",
+                    "geo_area",
+                    "location",
+                    "nature",
+                    "population_group",
+                    "quantile",
+                    "service_attribute",
+                    "sex",
+                    "units",
+                    "year"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--sp_psr_satis_sec--by--age--disability_status--geo_area--location--nature--population_group--service_attribute--sex--units--year",
+            "path": "ddf--datapoints--sp_psr_satis_sec--by--age--disability_status--geo_area--location--nature--population_group--service_attribute--sex--units--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "age"
+                    },
+                    {
+                        "name": "disability_status"
+                    },
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "location"
+                    },
+                    {
+                        "name": "nature"
+                    },
+                    {
+                        "name": "population_group"
+                    },
+                    {
+                        "name": "service_attribute"
+                    },
+                    {
+                        "name": "sex"
+                    },
+                    {
+                        "name": "units"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "sp_psr_satis_sec"
+                    }
+                ],
+                "primaryKey": [
+                    "age",
+                    "disability_status",
+                    "geo_area",
+                    "location",
+                    "nature",
+                    "population_group",
+                    "service_attribute",
                     "sex",
                     "units",
                     "year"
@@ -20821,6 +21506,21 @@
             }
         },
         {
+            "name": "ddf--entities--service_attribute",
+            "path": "ddf--entities--service_attribute.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "service_attribute"
+                    },
+                    {
+                        "name": "name"
+                    }
+                ],
+                "primaryKey": "service_attribute"
+            }
+        },
+        {
             "name": "ddf--entities--severity_of_price_levels",
             "path": "ddf--entities--severity_of_price_levels.csv",
             "schema": {
@@ -21368,6 +22068,15 @@
                 "value": "name",
                 "resources": [
                     "ddf--entities--sampling_stations"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "service_attribute"
+                ],
+                "value": "name",
+                "resources": [
+                    "ddf--entities--service_attribute"
                 ]
             },
             {
@@ -23750,36 +24459,39 @@
                 "primaryKey": [
                     "geo_area",
                     "nature",
+                    "observation_status",
                     "units",
                     "year"
                 ],
                 "value": "er_ffs_cmpt_cd",
                 "resources": [
-                    "ddf--datapoints--er_ffs_cmpt_cd--by--geo_area--nature--units--year"
+                    "ddf--datapoints--er_ffs_cmpt_cd--by--geo_area--nature--observation_status--units--year"
                 ]
             },
             {
                 "primaryKey": [
                     "geo_area",
                     "nature",
+                    "observation_status",
                     "units",
                     "year"
                 ],
                 "value": "er_ffs_cmpt_gdp",
                 "resources": [
-                    "ddf--datapoints--er_ffs_cmpt_gdp--by--geo_area--nature--units--year"
+                    "ddf--datapoints--er_ffs_cmpt_gdp--by--geo_area--nature--observation_status--units--year"
                 ]
             },
             {
                 "primaryKey": [
                     "geo_area",
                     "nature",
+                    "observation_status",
                     "units",
                     "year"
                 ],
                 "value": "er_ffs_cmpt_pc_cd",
                 "resources": [
-                    "ddf--datapoints--er_ffs_cmpt_pc_cd--by--geo_area--nature--units--year"
+                    "ddf--datapoints--er_ffs_cmpt_pc_cd--by--geo_area--nature--observation_status--units--year"
                 ]
             },
             {
@@ -23792,6 +24504,18 @@
                 "value": "er_grf_animrcntn",
                 "resources": [
                     "ddf--datapoints--er_grf_animrcntn--by--geo_area--nature--units--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo_area",
+                    "nature",
+                    "units",
+                    "year"
+                ],
+                "value": "er_grf_animrcntn_trb",
+                "resources": [
+                    "ddf--datapoints--er_grf_animrcntn_trb--by--geo_area--nature--units--year"
                 ]
             },
             {
@@ -24961,6 +25685,63 @@
                 "value": "iu_cor_brib",
                 "resources": [
                     "ddf--datapoints--iu_cor_brib--by--geo_area--nature--sex--units--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "age",
+                    "disability_status",
+                    "education_level",
+                    "geo_area",
+                    "location",
+                    "nature",
+                    "population_group",
+                    "quantile",
+                    "sex",
+                    "units",
+                    "year"
+                ],
+                "value": "iu_dmk_icrs",
+                "resources": [
+                    "ddf--datapoints--iu_dmk_icrs--by--age--disability_status--education_level--geo_area--location--nature--population_group--quantile--sex--units--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "age",
+                    "disability_status",
+                    "education_level",
+                    "geo_area",
+                    "location",
+                    "nature",
+                    "population_group",
+                    "quantile",
+                    "sex",
+                    "units",
+                    "year"
+                ],
+                "value": "iu_dmk_incl",
+                "resources": [
+                    "ddf--datapoints--iu_dmk_incl--by--age--disability_status--education_level--geo_area--location--nature--population_group--quantile--sex--units--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "age",
+                    "disability_status",
+                    "education_level",
+                    "geo_area",
+                    "location",
+                    "nature",
+                    "population_group",
+                    "quantile",
+                    "sex",
+                    "units",
+                    "year"
+                ],
+                "value": "iu_dmk_resp",
+                "resources": [
+                    "ddf--datapoints--iu_dmk_resp--by--age--disability_status--education_level--geo_area--location--nature--population_group--quantile--sex--units--year"
                 ]
             },
             {
@@ -28438,6 +29219,20 @@
             },
             {
                 "primaryKey": [
+                    "disability_status",
+                    "geo_area",
+                    "nature",
+                    "sex",
+                    "units",
+                    "year"
+                ],
+                "value": "sp_disp_resol",
+                "resources": [
+                    "ddf--datapoints--sp_disp_resol--by--disability_status--geo_area--nature--sex--units--year"
+                ]
+            },
+            {
+                "primaryKey": [
                     "age",
                     "geo_area",
                     "location",
@@ -28541,6 +29336,153 @@
                 "value": "sp_lgl_lndstr",
                 "resources": [
                     "ddf--datapoints--sp_lgl_lndstr--by--geo_area--nature--sex--units--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "age",
+                    "disability_status",
+                    "geo_area",
+                    "location",
+                    "nature",
+                    "population_group",
+                    "quantile",
+                    "sex",
+                    "units",
+                    "year"
+                ],
+                "value": "sp_psr_osatis_gov",
+                "resources": [
+                    "ddf--datapoints--sp_psr_osatis_gov--by--age--disability_status--geo_area--location--nature--population_group--quantile--sex--units--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "age",
+                    "disability_status",
+                    "geo_area",
+                    "location",
+                    "nature",
+                    "population_group",
+                    "quantile",
+                    "sex",
+                    "units",
+                    "year"
+                ],
+                "value": "sp_psr_osatis_hlth",
+                "resources": [
+                    "ddf--datapoints--sp_psr_osatis_hlth--by--age--disability_status--geo_area--location--nature--population_group--quantile--sex--units--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "age",
+                    "disability_status",
+                    "geo_area",
+                    "location",
+                    "nature",
+                    "population_group",
+                    "quantile",
+                    "sex",
+                    "units",
+                    "year"
+                ],
+                "value": "sp_psr_osatis_prm",
+                "resources": [
+                    "ddf--datapoints--sp_psr_osatis_prm--by--age--disability_status--geo_area--location--nature--population_group--quantile--sex--units--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "age",
+                    "disability_status",
+                    "geo_area",
+                    "location",
+                    "nature",
+                    "population_group",
+                    "quantile",
+                    "sex",
+                    "units",
+                    "year"
+                ],
+                "value": "sp_psr_osatis_sec",
+                "resources": [
+                    "ddf--datapoints--sp_psr_osatis_sec--by--age--disability_status--geo_area--location--nature--population_group--quantile--sex--units--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "age",
+                    "disability_status",
+                    "geo_area",
+                    "location",
+                    "nature",
+                    "population_group",
+                    "quantile",
+                    "service_attribute",
+                    "sex",
+                    "units",
+                    "year"
+                ],
+                "value": "sp_psr_satis_gov",
+                "resources": [
+                    "ddf--datapoints--sp_psr_satis_gov--by--age--disability_status--geo_area--location--nature--population_group--quantile--service_attribute--sex--units--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "age",
+                    "disability_status",
+                    "geo_area",
+                    "location",
+                    "nature",
+                    "population_group",
+                    "quantile",
+                    "service_attribute",
+                    "sex",
+                    "units",
+                    "year"
+                ],
+                "value": "sp_psr_satis_hlth",
+                "resources": [
+                    "ddf--datapoints--sp_psr_satis_hlth--by--age--disability_status--geo_area--location--nature--population_group--quantile--service_attribute--sex--units--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "age",
+                    "disability_status",
+                    "geo_area",
+                    "location",
+                    "nature",
+                    "population_group",
+                    "quantile",
+                    "service_attribute",
+                    "sex",
+                    "units",
+                    "year"
+                ],
+                "value": "sp_psr_satis_prm",
+                "resources": [
+                    "ddf--datapoints--sp_psr_satis_prm--by--age--disability_status--geo_area--location--nature--population_group--quantile--service_attribute--sex--units--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "age",
+                    "disability_status",
+                    "geo_area",
+                    "location",
+                    "nature",
+                    "population_group",
+                    "service_attribute",
+                    "sex",
+                    "units",
+                    "year"
+                ],
+                "value": "sp_psr_satis_sec",
+                "resources": [
+                    "ddf--datapoints--sp_psr_satis_sec--by--age--disability_status--geo_area--location--nature--population_group--service_attribute--sex--units--year"
                 ]
             },
             {
