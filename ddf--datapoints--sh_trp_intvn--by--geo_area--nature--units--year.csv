@@ -1,15 +1,16 @@
 geo_area,nature,units,year,sh_trp_intvn
-1,e,number,2010,2190414971
-1,e,number,2011,2174525334
-1,e,number,2012,2126650431
-1,e,number,2013,2039570504
-1,e,number,2014,1927720677
-1,e,number,2015,1801358718
-1,e,number,2016,1765257744
-1,e,number,2017,1756650873
-1,e,number,2018,1755346706
-1,e,number,2019,1743078885
-1,e,number,2020,1733624366
+1,n,number,2010,2190414971
+1,n,number,2011,2174525334
+1,n,number,2012,2126650431
+1,n,number,2013,2039570504
+1,n,number,2014,1927720677
+1,n,number,2015,1800668176
+1,n,number,2016,1764543232
+1,n,number,2017,1755929737
+1,n,number,2018,1754635513
+1,n,number,2019,1742372618
+1,n,number,2020,1734013520
+1,n,number,2021,1653289348
 4,ca,number,2010,12246738
 4,ca,number,2011,12600642
 4,ca,number,2012,14045789
@@ -21,6 +22,7 @@ geo_area,nature,units,year,sh_trp_intvn
 4,ca,number,2018,14834701
 4,ca,number,2019,16222053
 4,ca,number,2020,14367281
+4,ca,number,2021,14367281
 8,ca,number,2010,61
 8,ca,number,2011,53
 8,ca,number,2012,53
@@ -32,6 +34,7 @@ geo_area,nature,units,year,sh_trp_intvn
 8,ca,number,2018,47
 8,ca,number,2019,9
 8,ca,number,2020,6
+8,ca,number,2021,21
 12,ca,number,2010,10260
 12,ca,number,2011,11831
 12,ca,number,2012,7471
@@ -43,6 +46,7 @@ geo_area,nature,units,year,sh_trp_intvn
 12,ca,number,2018,10950
 12,ca,number,2019,10339
 12,ca,number,2020,11599
+12,ca,number,2021,7081
 20,ca,number,2010,0
 20,ca,number,2011,0
 20,ca,number,2012,0
@@ -54,6 +58,7 @@ geo_area,nature,units,year,sh_trp_intvn
 20,ca,number,2018,0
 20,ca,number,2019,0
 20,ca,number,2020,0
+20,ca,number,2021,0
 24,ca,number,2010,15879207
 24,ca,number,2011,16066272
 24,ca,number,2012,16421331
@@ -65,6 +70,7 @@ geo_area,nature,units,year,sh_trp_intvn
 24,ca,number,2018,15220708
 24,ca,number,2019,15362008
 24,ca,number,2020,7698802
+24,ca,number,2021,8558522
 28,ca,number,2010,134
 28,ca,number,2011,133
 28,ca,number,2012,117
@@ -76,6 +82,7 @@ geo_area,nature,units,year,sh_trp_intvn
 28,ca,number,2018,1201
 28,ca,number,2019,1223
 28,ca,number,2020,1207
+28,ca,number,2021,1000
 31,ca,number,2010,1080371
 31,ca,number,2011,1087125
 31,ca,number,2012,1010915
@@ -87,6 +94,7 @@ geo_area,nature,units,year,sh_trp_intvn
 31,ca,number,2018,1655112
 31,ca,number,2019,686000
 31,ca,number,2020,686000
+31,ca,number,2021,0
 32,ca,number,2010,953102
 32,ca,number,2011,952894
 32,ca,number,2012,938732
@@ -98,6 +106,7 @@ geo_area,nature,units,year,sh_trp_intvn
 32,ca,number,2018,162233
 32,ca,number,2019,160777
 32,ca,number,2020,161306
+32,ca,number,2021,151847
 36,ca,number,2010,89732
 36,ca,number,2011,72560
 36,ca,number,2012,60279
@@ -109,6 +118,7 @@ geo_area,nature,units,year,sh_trp_intvn
 36,ca,number,2018,20123
 36,ca,number,2019,13700
 36,ca,number,2020,20401
+36,ca,number,2021,18286
 40,ca,number,2010,31
 40,ca,number,2011,7
 40,ca,number,2012,5
@@ -120,6 +130,7 @@ geo_area,nature,units,year,sh_trp_intvn
 40,ca,number,2018,41
 40,ca,number,2019,29
 40,ca,number,2020,22
+40,ca,number,2021,31
 44,ca,number,2010,10
 44,ca,number,2011,7000
 44,ca,number,2012,5
@@ -131,6 +142,7 @@ geo_area,nature,units,year,sh_trp_intvn
 44,ca,number,2018,10
 44,ca,number,2019,27
 44,ca,number,2020,3
+44,ca,number,2021,0
 48,ca,number,2010,3
 48,ca,number,2011,4
 48,ca,number,2012,0
@@ -142,6 +154,7 @@ geo_area,nature,units,year,sh_trp_intvn
 48,ca,number,2018,1
 48,ca,number,2019,0
 48,ca,number,2020,2
+48,ca,number,2021,3
 50,ca,number,2010,102279713
 50,ca,number,2011,103328969
 50,ca,number,2012,99041038
@@ -153,6 +166,7 @@ geo_area,nature,units,year,sh_trp_intvn
 50,ca,number,2018,56339394
 50,ca,number,2019,56339394
 50,ca,number,2020,56339394
+50,ca,number,2021,56381566
 51,ca,number,2010,41986
 51,ca,number,2011,42243
 51,ca,number,2012,42437
@@ -164,6 +178,7 @@ geo_area,nature,units,year,sh_trp_intvn
 51,ca,number,2018,39149
 51,ca,number,2019,18
 51,ca,number,2020,70
+51,ca,number,2021,10
 52,ca,number,2010,2917
 52,ca,number,2011,746
 52,ca,number,2012,1445
@@ -175,17 +190,19 @@ geo_area,nature,units,year,sh_trp_intvn
 52,ca,number,2018,67
 52,ca,number,2019,44
 52,ca,number,2020,301
-53,e,number,2010,89786
-53,e,number,2011,72603
-53,e,number,2012,60280
-53,e,number,2013,145958
-53,e,number,2014,57073
-53,e,number,2015,20769
-53,e,number,2016,24156
-53,e,number,2017,23255
-53,e,number,2018,20126
-53,e,number,2019,13706
-53,e,number,2020,20404
+52,ca,number,2021,448
+53,n,number,2010,89786
+53,n,number,2011,72603
+53,n,number,2012,60280
+53,n,number,2013,145958
+53,n,number,2014,57073
+53,n,number,2015,20769
+53,n,number,2016,24156
+53,n,number,2017,23255
+53,n,number,2018,20126
+53,n,number,2019,13706
+53,n,number,2020,20404
+53,n,number,2021,18291
 56,ca,number,2010,1
 56,ca,number,2011,1
 56,ca,number,2012,6
@@ -197,17 +214,19 @@ geo_area,nature,units,year,sh_trp_intvn
 56,ca,number,2018,1
 56,ca,number,2019,22
 56,ca,number,2020,18
-62,e,number,2010,1049222256
-62,e,number,2011,1059355434
-62,e,number,2012,1006694799
-62,e,number,2013,896643065
-62,e,number,2014,866085959
-62,e,number,2015,794689566
-62,e,number,2016,801565506
-62,e,number,2017,812432550
-62,e,number,2018,818362160
-62,e,number,2019,851666180
-62,e,number,2020,867435964
+56,ca,number,2021,18
+62,n,number,2010,1049222256
+62,n,number,2011,1059355434
+62,n,number,2012,1006694799
+62,n,number,2013,896643065
+62,n,number,2014,866085959
+62,n,number,2015,794689566
+62,n,number,2016,801565506
+62,n,number,2017,812432550
+62,n,number,2018,818362160
+62,n,number,2019,851666180
+62,n,number,2020,867446198
+62,n,number,2021,792634892
 64,ca,number,2010,69529
 64,ca,number,2011,69283
 64,ca,number,2012,69535
@@ -219,6 +238,7 @@ geo_area,nature,units,year,sh_trp_intvn
 64,ca,number,2018,222639
 64,ca,number,2019,229846
 64,ca,number,2020,229837
+64,ca,number,2021,181040
 68,ca,number,2010,3340916
 68,ca,number,2011,3354782
 68,ca,number,2012,3361575
@@ -230,6 +250,7 @@ geo_area,nature,units,year,sh_trp_intvn
 68,ca,number,2018,194759
 68,ca,number,2019,190910
 68,ca,number,2020,189597
+68,ca,number,2021,194638
 70,ca,number,2010,1
 70,ca,number,2011,0
 70,ca,number,2012,0
@@ -241,6 +262,7 @@ geo_area,nature,units,year,sh_trp_intvn
 70,ca,number,2018,0
 70,ca,number,2019,0
 70,ca,number,2020,0
+70,ca,number,2021,0
 72,ca,number,2010,264669
 72,ca,number,2011,266032
 72,ca,number,2012,268521
@@ -252,6 +274,7 @@ geo_area,nature,units,year,sh_trp_intvn
 72,ca,number,2018,238203
 72,ca,number,2019,238203
 72,ca,number,2020,1461240
+72,ca,number,2021,1430711
 76,ca,number,2010,27000000
 76,ca,number,2011,13137591
 76,ca,number,2012,13260415
@@ -263,6 +286,7 @@ geo_area,nature,units,year,sh_trp_intvn
 76,ca,number,2018,9489512
 76,ca,number,2019,9560959
 76,ca,number,2020,9629923
+76,ca,number,2021,9710068
 84,ca,number,2010,10456
 84,ca,number,2011,10471
 84,ca,number,2012,10514
@@ -274,6 +298,7 @@ geo_area,nature,units,year,sh_trp_intvn
 84,ca,number,2018,2158
 84,ca,number,2019,13317
 84,ca,number,2020,2785
+84,ca,number,2021,1251
 90,ca,number,2010,191840
 90,ca,number,2011,194300
 90,ca,number,2012,404985
@@ -285,6 +310,7 @@ geo_area,nature,units,year,sh_trp_intvn
 90,ca,number,2018,542215
 90,ca,number,2019,493611
 90,ca,number,2020,503483
+90,ca,number,2021,598343
 96,ca,number,2010,15000
 96,ca,number,2011,15000
 96,ca,number,2012,15000
@@ -296,6 +322,7 @@ geo_area,nature,units,year,sh_trp_intvn
 96,ca,number,2018,1
 96,ca,number,2019,0
 96,ca,number,2020,1
+96,ca,number,2021,2
 100,ca,number,2010,295
 100,ca,number,2011,310
 100,ca,number,2012,322
@@ -307,6 +334,7 @@ geo_area,nature,units,year,sh_trp_intvn
 100,ca,number,2018,207
 100,ca,number,2019,196
 100,ca,number,2020,96
+100,ca,number,2021,90
 104,ca,number,2010,48309747
 104,ca,number,2011,44558743
 104,ca,number,2012,43673271
@@ -318,6 +346,7 @@ geo_area,nature,units,year,sh_trp_intvn
 104,ca,number,2018,41778536
 104,ca,number,2019,23748613
 104,ca,number,2020,23748613
+104,ca,number,2021,24075083
 108,ca,number,2010,4018578
 108,ca,number,2011,4076023
 108,ca,number,2012,4101923
@@ -329,6 +358,7 @@ geo_area,nature,units,year,sh_trp_intvn
 108,ca,number,2018,5484235
 108,ca,number,2019,3418124
 108,ca,number,2020,3575616
+108,ca,number,2021,3187928
 112,ca,number,2010,0
 112,ca,number,2011,2
 112,ca,number,2012,1
@@ -340,6 +370,7 @@ geo_area,nature,units,year,sh_trp_intvn
 112,ca,number,2018,0
 112,ca,number,2019,0
 112,ca,number,2020,7
+112,ca,number,2021,0
 116,ca,number,2010,4533102
 116,ca,number,2011,4517044
 116,ca,number,2012,4134227
@@ -351,6 +382,7 @@ geo_area,nature,units,year,sh_trp_intvn
 116,ca,number,2018,4182394
 116,ca,number,2019,5068956
 116,ca,number,2020,5194507
+116,ca,number,2021,4500729
 120,ca,number,2010,19286214
 120,ca,number,2011,19339400
 120,ca,number,2012,19647096
@@ -362,6 +394,7 @@ geo_area,nature,units,year,sh_trp_intvn
 120,ca,number,2018,16537416
 120,ca,number,2019,16891418
 120,ca,number,2020,11348320
+120,ca,number,2021,11465695
 124,ca,number,2010,0
 124,ca,number,2011,0
 124,ca,number,2012,0
@@ -373,6 +406,7 @@ geo_area,nature,units,year,sh_trp_intvn
 124,ca,number,2018,0
 124,ca,number,2019,1
 124,ca,number,2020,0
+124,ca,number,2021,1
 132,ca,number,2010,170442
 132,ca,number,2011,169326
 132,ca,number,2012,142687
@@ -384,6 +418,7 @@ geo_area,nature,units,year,sh_trp_intvn
 132,ca,number,2018,125137
 132,ca,number,2019,137073
 132,ca,number,2020,150015
+132,ca,number,2021,150015
 140,ca,number,2010,3987855
 140,ca,number,2011,4013319
 140,ca,number,2012,4005821
@@ -395,6 +430,7 @@ geo_area,nature,units,year,sh_trp_intvn
 140,ca,number,2018,3300000
 140,ca,number,2019,4442825
 140,ca,number,2020,4442825
+140,ca,number,2021,6389657
 144,ca,number,2010,36329
 144,ca,number,2011,30692
 144,ca,number,2012,46690
@@ -405,7 +441,8 @@ geo_area,nature,units,year,sh_trp_intvn
 144,ca,number,2017,187588
 144,ca,number,2018,55489
 144,ca,number,2019,109612
-144,ca,number,2020,34498
+144,ca,number,2020,34529
+144,ca,number,2021,26092
 148,ca,number,2010,9620369
 148,ca,number,2011,9741519
 148,ca,number,2012,9738244
@@ -417,6 +454,7 @@ geo_area,nature,units,year,sh_trp_intvn
 148,ca,number,2018,6233571
 148,ca,number,2019,6270047
 148,ca,number,2020,6562501
+148,ca,number,2021,6592702
 152,ca,number,2010,132541
 152,ca,number,2011,131544
 152,ca,number,2012,125478
@@ -426,8 +464,9 @@ geo_area,nature,units,year,sh_trp_intvn
 152,ca,number,2016,44
 152,ca,number,2017,444
 152,ca,number,2018,361
-152,ca,number,2019,33
-152,ca,number,2020,16
+152,ca,number,2019,437
+152,ca,number,2020,228
+152,ca,number,2021,208
 156,ca,number,2010,52000000
 156,ca,number,2011,25548140
 156,ca,number,2012,25663107
@@ -439,6 +478,7 @@ geo_area,nature,units,year,sh_trp_intvn
 156,ca,number,2018,26378300
 156,ca,number,2019,22841
 156,ca,number,2020,621
+156,ca,number,2021,418
 170,ca,number,2010,4921126
 170,ca,number,2011,4924261
 170,ca,number,2012,4722872
@@ -450,6 +490,7 @@ geo_area,nature,units,year,sh_trp_intvn
 170,ca,number,2018,3350646
 170,ca,number,2019,3186736
 170,ca,number,2020,3237824
+170,ca,number,2021,3272079
 174,ca,number,2010,517852
 174,ca,number,2011,518985
 174,ca,number,2012,524706
@@ -461,6 +502,7 @@ geo_area,nature,units,year,sh_trp_intvn
 174,ca,number,2018,828148
 174,ca,number,2019,788813
 174,ca,number,2020,503090
+174,ca,number,2021,524334
 178,ca,number,2010,3223012
 178,ca,number,2011,3249179
 178,ca,number,2012,3404680
@@ -472,6 +514,7 @@ geo_area,nature,units,year,sh_trp_intvn
 178,ca,number,2018,1323442
 178,ca,number,2019,1407153
 178,ca,number,2020,1438750
+178,ca,number,2021,1486475
 180,ca,number,2010,60983338
 180,ca,number,2011,61690568
 180,ca,number,2012,61568637
@@ -483,6 +526,7 @@ geo_area,nature,units,year,sh_trp_intvn
 180,ca,number,2018,52756552
 180,ca,number,2019,53320501
 180,ca,number,2020,54963277
+180,ca,number,2021,52044663
 184,ca,number,2010,0
 184,ca,number,2011,0
 184,ca,number,2012,0
@@ -494,6 +538,7 @@ geo_area,nature,units,year,sh_trp_intvn
 184,ca,number,2018,0
 184,ca,number,2019,0
 184,ca,number,2020,0
+184,ca,number,2021,317
 188,ca,number,2010,51178
 188,ca,number,2011,50827
 188,ca,number,2012,49995
@@ -505,6 +550,7 @@ geo_area,nature,units,year,sh_trp_intvn
 188,ca,number,2018,4017
 188,ca,number,2019,10011
 188,ca,number,2020,10590
+188,ca,number,2021,5746
 191,ca,number,2010,0
 191,ca,number,2011,1
 191,ca,number,2012,2
@@ -516,6 +562,7 @@ geo_area,nature,units,year,sh_trp_intvn
 191,ca,number,2018,1
 191,ca,number,2019,1
 191,ca,number,2020,0
+191,ca,number,2021,1
 192,ca,number,2010,167722
 192,ca,number,2011,164093
 192,ca,number,2012,162007
@@ -527,6 +574,7 @@ geo_area,nature,units,year,sh_trp_intvn
 192,ca,number,2018,2348
 192,ca,number,2019,3445
 192,ca,number,2020,48144
+192,ca,number,2021,46982
 196,ca,number,2010,1
 196,ca,number,2011,3
 196,ca,number,2012,5
@@ -538,28 +586,31 @@ geo_area,nature,units,year,sh_trp_intvn
 196,ca,number,2018,2
 196,ca,number,2019,0
 196,ca,number,2020,1
-199,e,number,2010,662782809
-199,e,number,2011,671913255
-199,e,number,2012,670364013
-199,e,number,2013,677575792
-199,e,number,2014,603800244
-199,e,number,2015,583843018
-199,e,number,2016,559845169
-199,e,number,2017,523262863
-199,e,number,2018,530056149
-199,e,number,2019,508305102
-199,e,number,2020,502245424
-202,e,number,2010,632128842
-202,e,number,2011,659400251
-202,e,number,2012,669933806
-202,e,number,2013,708442023
-202,e,number,2014,650285759
-202,e,number,2015,645415908
-202,e,number,2016,611579234
-202,e,number,2017,596855406
-202,e,number,2018,594845191
-202,e,number,2019,592766947
-202,e,number,2020,582230180
+196,ca,number,2021,1
+199,n,number,2010,662782809
+199,n,number,2011,671913255
+199,n,number,2012,670364013
+199,n,number,2013,677575792
+199,n,number,2014,603800244
+199,n,number,2015,583843018
+199,n,number,2016,559845169
+199,n,number,2017,523262863
+199,n,number,2018,530056149
+199,n,number,2019,508305102
+199,n,number,2020,501330146
+199,n,number,2021,505050408
+202,n,number,2010,632128842
+202,n,number,2011,659400251
+202,n,number,2012,669933806
+202,n,number,2013,708442023
+202,n,number,2014,650285759
+202,n,number,2015,644725366
+202,n,number,2016,610864722
+202,n,number,2017,596134224
+202,n,number,2018,594133892
+202,n,number,2019,592060074
+202,n,number,2020,582297340
+202,n,number,2021,588149461
 203,ca,number,2010,5
 203,ca,number,2011,0
 203,ca,number,2012,0
@@ -571,6 +622,7 @@ geo_area,nature,units,year,sh_trp_intvn
 203,ca,number,2018,3
 203,ca,number,2019,0
 203,ca,number,2020,3
+203,ca,number,2021,1
 204,ca,number,2010,7239210
 204,ca,number,2011,7706956
 204,ca,number,2012,6277773
@@ -582,6 +634,7 @@ geo_area,nature,units,year,sh_trp_intvn
 204,ca,number,2018,5685180
 204,ca,number,2019,6070676
 204,ca,number,2020,5599018
+204,ca,number,2021,6005261
 208,ca,number,2010,0
 208,ca,number,2011,0
 208,ca,number,2012,0
@@ -593,6 +646,7 @@ geo_area,nature,units,year,sh_trp_intvn
 208,ca,number,2018,0
 208,ca,number,2019,0
 208,ca,number,2020,0
+208,ca,number,2021,0
 212,ca,number,2010,3121
 212,ca,number,2011,3080
 212,ca,number,2012,2723
@@ -604,6 +658,7 @@ geo_area,nature,units,year,sh_trp_intvn
 212,ca,number,2018,562
 212,ca,number,2019,1066
 212,ca,number,2020,399
+212,ca,number,2021,418
 214,ca,number,2010,1193533
 214,ca,number,2011,1365512
 214,ca,number,2012,1303776
@@ -615,6 +670,7 @@ geo_area,nature,units,year,sh_trp_intvn
 214,ca,number,2018,2700201
 214,ca,number,2019,2749409
 214,ca,number,2020,2612634
+214,ca,number,2021,2612634
 218,ca,number,2010,340067
 218,ca,number,2011,318717
 218,ca,number,2012,321415
@@ -626,6 +682,7 @@ geo_area,nature,units,year,sh_trp_intvn
 218,ca,number,2018,5060
 218,ca,number,2019,9544
 218,ca,number,2020,17609
+218,ca,number,2021,22080
 222,ca,number,2010,242858
 222,ca,number,2011,238045
 222,ca,number,2012,233387
@@ -637,6 +694,7 @@ geo_area,nature,units,year,sh_trp_intvn
 222,ca,number,2018,1443743
 222,ca,number,2019,1443743
 222,ca,number,2020,1416732
+222,ca,number,2021,1483962
 226,ca,number,2010,461503
 226,ca,number,2011,462546
 226,ca,number,2012,463562
@@ -648,6 +706,7 @@ geo_area,nature,units,year,sh_trp_intvn
 226,ca,number,2018,429326
 226,ca,number,2019,429326
 226,ca,number,2020,429326
+226,ca,number,2021,668511
 231,ca,number,2010,65000000
 231,ca,number,2011,65000000
 231,ca,number,2012,55026689
@@ -659,6 +718,7 @@ geo_area,nature,units,year,sh_trp_intvn
 231,ca,number,2018,77653029
 231,ca,number,2019,76238251
 231,ca,number,2020,75731040
+231,ca,number,2021,71787220
 232,ca,number,2010,3577000
 232,ca,number,2011,3577000
 232,ca,number,2012,3577000
@@ -670,6 +730,7 @@ geo_area,nature,units,year,sh_trp_intvn
 232,ca,number,2018,956062
 232,ca,number,2019,427112
 232,ca,number,2020,296052
+232,ca,number,2021,462141
 233,ca,number,2010,0
 233,ca,number,2011,0
 233,ca,number,2012,3
@@ -681,6 +742,7 @@ geo_area,nature,units,year,sh_trp_intvn
 233,ca,number,2018,0
 233,ca,number,2019,0
 233,ca,number,2020,1
+233,ca,number,2021,0
 242,ca,number,2010,879985
 242,ca,number,2011,529984
 242,ca,number,2012,637852
@@ -692,6 +754,7 @@ geo_area,nature,units,year,sh_trp_intvn
 242,ca,number,2018,917552
 242,ca,number,2019,919387
 242,ca,number,2020,921225
+242,ca,number,2021,923067
 246,ca,number,2010,1
 246,ca,number,2011,1
 246,ca,number,2012,4
@@ -703,6 +766,7 @@ geo_area,nature,units,year,sh_trp_intvn
 246,ca,number,2018,1
 246,ca,number,2019,8
 246,ca,number,2020,3
+246,ca,number,2021,5
 250,ca,number,2010,640
 250,ca,number,2011,131
 250,ca,number,2012,174
@@ -714,6 +778,7 @@ geo_area,nature,units,year,sh_trp_intvn
 250,ca,number,2018,93
 250,ca,number,2019,91
 250,ca,number,2020,120
+250,ca,number,2021,88
 262,ca,number,2010,127766
 262,ca,number,2011,128196
 262,ca,number,2012,131879
@@ -725,6 +790,7 @@ geo_area,nature,units,year,sh_trp_intvn
 262,ca,number,2018,110561
 262,ca,number,2019,110561
 262,ca,number,2020,110561
+262,ca,number,2021,110561
 266,ca,number,2010,1444093
 266,ca,number,2011,1451759
 266,ca,number,2012,1462559
@@ -736,6 +802,7 @@ geo_area,nature,units,year,sh_trp_intvn
 266,ca,number,2018,937923
 266,ca,number,2019,937923
 266,ca,number,2020,870003
+266,ca,number,2021,914073
 268,ca,number,2010,147
 268,ca,number,2011,130
 268,ca,number,2012,114
@@ -747,6 +814,7 @@ geo_area,nature,units,year,sh_trp_intvn
 268,ca,number,2018,412310
 268,ca,number,2019,48
 268,ca,number,2020,81
+268,ca,number,2021,16
 270,ca,number,2010,1200000
 270,ca,number,2011,1200000
 270,ca,number,2012,1200000
@@ -758,6 +826,7 @@ geo_area,nature,units,year,sh_trp_intvn
 270,ca,number,2018,171391
 270,ca,number,2019,168211
 270,ca,number,2020,168211
+270,ca,number,2021,478578
 276,ca,number,2010,712
 276,ca,number,2011,434
 276,ca,number,2012,735
@@ -769,6 +838,7 @@ geo_area,nature,units,year,sh_trp_intvn
 276,ca,number,2018,141
 276,ca,number,2019,113
 276,ca,number,2020,116
+276,ca,number,2021,131
 288,ca,number,2010,12030074
 288,ca,number,2011,12254998
 288,ca,number,2012,12030074
@@ -780,6 +850,7 @@ geo_area,nature,units,year,sh_trp_intvn
 288,ca,number,2018,16582444
 288,ca,number,2019,17220101
 288,ca,number,2020,17220101
+288,ca,number,2021,12500340
 296,ca,number,2010,93236
 296,ca,number,2011,103058
 296,ca,number,2012,103058
@@ -791,6 +862,7 @@ geo_area,nature,units,year,sh_trp_intvn
 296,ca,number,2018,121374
 296,ca,number,2019,122769
 296,ca,number,2020,124250
+296,ca,number,2021,125740
 300,ca,number,2010,41
 300,ca,number,2011,60
 300,ca,number,2012,71
@@ -802,6 +874,7 @@ geo_area,nature,units,year,sh_trp_intvn
 300,ca,number,2018,51
 300,ca,number,2019,22
 300,ca,number,2020,41
+300,ca,number,2021,24
 308,ca,number,2010,878
 308,ca,number,2011,873
 308,ca,number,2012,896
@@ -813,6 +886,7 @@ geo_area,nature,units,year,sh_trp_intvn
 308,ca,number,2018,463
 308,ca,number,2019,106
 308,ca,number,2020,253
+308,ca,number,2021,230
 320,ca,number,2010,2718785
 320,ca,number,2011,3298737
 320,ca,number,2012,3216909
@@ -824,6 +898,7 @@ geo_area,nature,units,year,sh_trp_intvn
 320,ca,number,2018,4957871
 320,ca,number,2019,4957871
 320,ca,number,2020,5052069
+320,ca,number,2021,4965477
 324,ca,number,2010,8203062
 324,ca,number,2011,8303988
 324,ca,number,2012,8268055
@@ -835,6 +910,7 @@ geo_area,nature,units,year,sh_trp_intvn
 324,ca,number,2018,7480197
 324,ca,number,2019,7480197
 324,ca,number,2020,8180533
+324,ca,number,2021,8407131
 328,ca,number,2010,690869
 328,ca,number,2011,690869
 328,ca,number,2012,690869
@@ -846,6 +922,7 @@ geo_area,nature,units,year,sh_trp_intvn
 328,ca,number,2018,719312
 328,ca,number,2019,685176
 328,ca,number,2020,685741
+328,ca,number,2021,685968
 332,ca,number,2010,9603682
 332,ca,number,2011,10018427
 332,ca,number,2012,10905822
@@ -857,6 +934,7 @@ geo_area,nature,units,year,sh_trp_intvn
 332,ca,number,2018,5771386
 332,ca,number,2019,5921717
 332,ca,number,2020,4363545
+332,ca,number,2021,4447036
 340,ca,number,2010,2601881
 340,ca,number,2011,2612618
 340,ca,number,2012,2621397
@@ -868,6 +946,7 @@ geo_area,nature,units,year,sh_trp_intvn
 340,ca,number,2018,2721691
 340,ca,number,2019,2214843
 340,ca,number,2020,2210111
+340,ca,number,2021,2363251
 348,ca,number,2010,16
 348,ca,number,2011,13
 348,ca,number,2012,9
@@ -879,6 +958,7 @@ geo_area,nature,units,year,sh_trp_intvn
 348,ca,number,2018,0
 348,ca,number,2019,0
 348,ca,number,2020,1
+348,ca,number,2021,0
 352,ca,number,2010,0
 352,ca,number,2011,0
 352,ca,number,2012,0
@@ -890,6 +970,7 @@ geo_area,nature,units,year,sh_trp_intvn
 352,ca,number,2018,0
 352,ca,number,2019,0
 352,ca,number,2020,0
+352,ca,number,2021,0
 356,ca,number,2010,837413970
 356,ca,number,2011,846009271
 356,ca,number,2012,840500519
@@ -901,6 +982,7 @@ geo_area,nature,units,year,sh_trp_intvn
 356,ca,number,2018,696937272
 356,ca,number,2019,733660997
 356,ca,number,2020,751758629
+356,ca,number,2021,677290119
 360,ca,number,2010,157192592
 360,ca,number,2011,152147527
 360,ca,number,2012,146815201
@@ -912,6 +994,7 @@ geo_area,nature,units,year,sh_trp_intvn
 360,ca,number,2018,100847287
 360,ca,number,2019,98728063
 360,ca,number,2020,86492939
+360,ca,number,2021,79889047
 364,ca,number,2010,23062
 364,ca,number,2011,19560
 364,ca,number,2012,21068
@@ -922,7 +1005,8 @@ geo_area,nature,units,year,sh_trp_intvn
 364,ca,number,2017,12299
 364,ca,number,2018,15581
 364,ca,number,2019,8251
-364,ca,number,2020,5
+364,ca,number,2020,10208
+364,ca,number,2021,14729
 368,ca,number,2010,3203400
 368,ca,number,2011,3243291
 368,ca,number,2012,3574492
@@ -934,6 +1018,7 @@ geo_area,nature,units,year,sh_trp_intvn
 368,ca,number,2018,2170486
 368,ca,number,2019,2170486
 368,ca,number,2020,2170486
+368,ca,number,2021,2170486
 372,ca,number,2010,1
 372,ca,number,2011,0
 372,ca,number,2012,5
@@ -945,6 +1030,7 @@ geo_area,nature,units,year,sh_trp_intvn
 372,ca,number,2018,0
 372,ca,number,2019,0
 372,ca,number,2020,1
+372,ca,number,2021,1
 376,ca,number,2010,234
 376,ca,number,2011,310
 376,ca,number,2012,354
@@ -956,6 +1042,7 @@ geo_area,nature,units,year,sh_trp_intvn
 376,ca,number,2018,277
 376,ca,number,2019,122
 376,ca,number,2020,88
+376,ca,number,2021,0
 380,ca,number,2010,149
 380,ca,number,2011,131
 380,ca,number,2012,181
@@ -963,10 +1050,11 @@ geo_area,nature,units,year,sh_trp_intvn
 380,ca,number,2014,222
 380,ca,number,2015,234
 380,ca,number,2016,214
-380,ca,number,2017,103
+380,ca,number,2017,143
 380,ca,number,2018,147
-380,ca,number,2019,1
-380,ca,number,2020,35
+380,ca,number,2019,48
+380,ca,number,2020,47
+380,ca,number,2021,100
 384,ca,number,2010,17858797
 384,ca,number,2011,18024926
 384,ca,number,2012,17470746
@@ -978,6 +1066,7 @@ geo_area,nature,units,year,sh_trp_intvn
 384,ca,number,2018,21002613
 384,ca,number,2019,21713670
 384,ca,number,2020,21966154
+384,ca,number,2021,19558880
 388,ca,number,2010,125663
 388,ca,number,2011,124004
 388,ca,number,2012,144481
@@ -989,6 +1078,7 @@ geo_area,nature,units,year,sh_trp_intvn
 388,ca,number,2018,988
 388,ca,number,2019,7560
 388,ca,number,2020,824
+388,ca,number,2021,96
 392,ca,number,2010,256
 392,ca,number,2011,114
 392,ca,number,2012,7
@@ -1000,6 +1090,7 @@ geo_area,nature,units,year,sh_trp_intvn
 392,ca,number,2018,5
 392,ca,number,2019,8
 392,ca,number,2020,5
+392,ca,number,2021,3
 398,ca,number,2010,8
 398,ca,number,2011,36
 398,ca,number,2012,17
@@ -1011,6 +1102,7 @@ geo_area,nature,units,year,sh_trp_intvn
 398,ca,number,2018,39
 398,ca,number,2019,58
 398,ca,number,2020,664
+398,ca,number,2021,0
 400,ca,number,2010,155
 400,ca,number,2011,136
 400,ca,number,2012,103
@@ -1022,6 +1114,7 @@ geo_area,nature,units,year,sh_trp_intvn
 400,ca,number,2018,151
 400,ca,number,2019,71
 400,ca,number,2020,23
+400,ca,number,2021,58
 404,ca,number,2010,21811703
 404,ca,number,2011,22415224
 404,ca,number,2012,22763712
@@ -1032,7 +1125,8 @@ geo_area,nature,units,year,sh_trp_intvn
 404,ca,number,2017,11626062
 404,ca,number,2018,11645569
 404,ca,number,2019,8321398
-404,ca,number,2020,8596922
+404,ca,number,2020,10597676
+404,ca,number,2021,10649944
 408,ca,number,2010,1949632
 408,ca,number,2011,1911883
 408,ca,number,2012,2076931
@@ -1044,6 +1138,7 @@ geo_area,nature,units,year,sh_trp_intvn
 408,ca,number,2018,5459159
 408,ca,number,2019,5418928
 408,ca,number,2020,5337343
+408,ca,number,2021,5337343
 410,ca,number,2010,131
 410,ca,number,2011,79
 410,ca,number,2012,154
@@ -1055,6 +1150,7 @@ geo_area,nature,units,year,sh_trp_intvn
 410,ca,number,2018,6
 410,ca,number,2019,4
 410,ca,number,2020,0
+410,ca,number,2021,5
 414,ca,number,2010,33
 414,ca,number,2011,23
 414,ca,number,2012,20
@@ -1064,8 +1160,9 @@ geo_area,nature,units,year,sh_trp_intvn
 414,ca,number,2016,12
 414,ca,number,2017,7
 414,ca,number,2018,13
-414,ca,number,2019,0
+414,ca,number,2019,5
 414,ca,number,2020,16
+414,ca,number,2021,17
 417,ca,number,2010,103793
 417,ca,number,2011,104139
 417,ca,number,2012,104587
@@ -1077,6 +1174,7 @@ geo_area,nature,units,year,sh_trp_intvn
 417,ca,number,2018,113625
 417,ca,number,2019,2169854
 417,ca,number,2020,2169854
+417,ca,number,2021,2169854
 418,ca,number,2010,2274114
 418,ca,number,2011,2274371
 418,ca,number,2012,2053933
@@ -1088,17 +1186,19 @@ geo_area,nature,units,year,sh_trp_intvn
 418,ca,number,2018,2031804
 418,ca,number,2019,2256885
 418,ca,number,2020,2052528
-419,e,number,2010,88382477
-419,e,number,2011,75990531
-419,e,number,2012,76516186
-419,e,number,2013,72241768
-419,e,number,2014,73849664
-419,e,number,2015,70756727
-419,e,number,2016,68483975
-419,e,number,2017,75503184
-419,e,number,2018,62905919
-419,e,number,2019,63061600
-419,e,number,2020,61742815
+418,ca,number,2021,2150290
+419,n,number,2010,88382477
+419,n,number,2011,75990531
+419,n,number,2012,76516186
+419,n,number,2013,72241768
+419,n,number,2014,73849664
+419,n,number,2015,70756727
+419,n,number,2016,68483975
+419,n,number,2017,75503184
+419,n,number,2018,62905919
+419,n,number,2019,63062004
+419,n,number,2020,61743027
+419,n,number,2021,61656380
 422,ca,number,2010,6
 422,ca,number,2011,8
 422,ca,number,2012,3
@@ -1110,6 +1210,7 @@ geo_area,nature,units,year,sh_trp_intvn
 422,ca,number,2018,0
 422,ca,number,2019,2
 422,ca,number,2020,0
+422,ca,number,2021,0
 426,ca,number,2010,530231
 426,ca,number,2011,529678
 426,ca,number,2012,534996
@@ -1121,6 +1222,7 @@ geo_area,nature,units,year,sh_trp_intvn
 426,ca,number,2018,382336
 426,ca,number,2019,382336
 426,ca,number,2020,387421
+426,ca,number,2021,387421
 428,ca,number,2010,22
 428,ca,number,2011,12
 428,ca,number,2012,15
@@ -1132,6 +1234,7 @@ geo_area,nature,units,year,sh_trp_intvn
 428,ca,number,2018,6
 428,ca,number,2019,5
 428,ca,number,2020,2
+428,ca,number,2021,6
 430,ca,number,2010,4118393
 430,ca,number,2011,4129824
 430,ca,number,2012,4163214
@@ -1143,17 +1246,19 @@ geo_area,nature,units,year,sh_trp_intvn
 430,ca,number,2018,3094538
 430,ca,number,2019,3175460
 430,ca,number,2020,3180960
-432,e,number,2010,249364741
-432,e,number,2011,253228592
-432,e,number,2012,255697027
-432,e,number,2013,263012580
-432,e,number,2014,254699400
-432,e,number,2015,249666308
-432,e,number,2016,247306655
-432,e,number,2017,228081815
-432,e,number,2018,233500652
-432,e,number,2019,231462068
-432,e,number,2020,226674805
+430,ca,number,2021,3272582
+432,n,number,2010,249364741
+432,n,number,2011,253228592
+432,n,number,2012,255697027
+432,n,number,2013,263012580
+432,n,number,2014,254699400
+432,n,number,2015,249666308
+432,n,number,2016,247306655
+432,n,number,2017,228081815
+432,n,number,2018,233500652
+432,n,number,2019,231462068
+432,n,number,2020,225448084
+432,n,number,2021,228892285
 434,ca,number,2010,2280
 434,ca,number,2011,1330
 434,ca,number,2012,1504
@@ -1165,6 +1270,7 @@ geo_area,nature,units,year,sh_trp_intvn
 434,ca,number,2018,3016
 434,ca,number,2019,6774
 434,ca,number,2020,4026
+434,ca,number,2021,1096
 440,ca,number,2010,23
 440,ca,number,2011,25
 440,ca,number,2012,23
@@ -1176,6 +1282,7 @@ geo_area,nature,units,year,sh_trp_intvn
 440,ca,number,2018,28
 440,ca,number,2019,51
 440,ca,number,2020,0
+440,ca,number,2021,16
 442,ca,number,2010,3
 442,ca,number,2011,2
 442,ca,number,2012,0
@@ -1187,6 +1294,7 @@ geo_area,nature,units,year,sh_trp_intvn
 442,ca,number,2018,0
 442,ca,number,2019,1
 442,ca,number,2020,3
+442,ca,number,2021,0
 450,ca,number,2010,19324091
 450,ca,number,2011,19526890
 450,ca,number,2012,20020745
@@ -1198,6 +1306,7 @@ geo_area,nature,units,year,sh_trp_intvn
 450,ca,number,2018,20224527
 450,ca,number,2019,21125732
 450,ca,number,2020,21390404
+450,ca,number,2021,21634839
 454,ca,number,2010,15182245
 454,ca,number,2011,16258408
 454,ca,number,2012,17100807
@@ -1209,6 +1318,7 @@ geo_area,nature,units,year,sh_trp_intvn
 454,ca,number,2018,12423068
 454,ca,number,2019,12393153
 454,ca,number,2020,12761253
+454,ca,number,2021,13100699
 458,ca,number,2010,589140
 458,ca,number,2011,652692
 458,ca,number,2012,1266123
@@ -1220,6 +1330,7 @@ geo_area,nature,units,year,sh_trp_intvn
 458,ca,number,2018,80797
 458,ca,number,2019,127602
 458,ca,number,2020,19110
+458,ca,number,2021,26507
 462,ca,number,2010,927
 462,ca,number,2011,2923
 462,ca,number,2012,1090
@@ -1231,6 +1342,7 @@ geo_area,nature,units,year,sh_trp_intvn
 462,ca,number,2018,3411
 462,ca,number,2019,5013
 462,ca,number,2020,330
+462,ca,number,2021,24589
 466,ca,number,2010,16842943
 466,ca,number,2011,18008936
 466,ca,number,2012,18569896
@@ -1242,6 +1354,7 @@ geo_area,nature,units,year,sh_trp_intvn
 466,ca,number,2018,7535901
 466,ca,number,2019,7735946
 466,ca,number,2020,7946641
+466,ca,number,2021,10144929
 470,ca,number,2010,12
 470,ca,number,2011,3
 470,ca,number,2012,3
@@ -1253,6 +1366,7 @@ geo_area,nature,units,year,sh_trp_intvn
 470,ca,number,2018,6
 470,ca,number,2019,1
 470,ca,number,2020,2
+470,ca,number,2021,0
 478,ca,number,2010,661691
 478,ca,number,2011,661691
 478,ca,number,2012,662208
@@ -1264,6 +1378,7 @@ geo_area,nature,units,year,sh_trp_intvn
 478,ca,number,2018,916692
 478,ca,number,2019,826827
 478,ca,number,2020,844271
+478,ca,number,2021,931435
 480,ca,number,2010,24322
 480,ca,number,2011,23990
 480,ca,number,2012,23296
@@ -1275,6 +1390,7 @@ geo_area,nature,units,year,sh_trp_intvn
 480,ca,number,2018,1
 480,ca,number,2019,0
 480,ca,number,2020,0
+480,ca,number,2021,0
 484,ca,number,2010,8969431
 484,ca,number,2011,8885336
 484,ca,number,2012,9777048
@@ -1286,6 +1402,7 @@ geo_area,nature,units,year,sh_trp_intvn
 484,ca,number,2018,19900177
 484,ca,number,2019,19900177
 484,ca,number,2020,20016375
+484,ca,number,2021,19825655
 492,ca,number,2010,0
 492,ca,number,2011,0
 492,ca,number,2012,0
@@ -1297,6 +1414,7 @@ geo_area,nature,units,year,sh_trp_intvn
 492,ca,number,2018,1
 492,ca,number,2019,0
 492,ca,number,2020,0
+492,ca,number,2021,0
 496,ca,number,2010,25
 496,ca,number,2011,32
 496,ca,number,2012,25
@@ -1308,6 +1426,7 @@ geo_area,nature,units,year,sh_trp_intvn
 496,ca,number,2018,1810
 496,ca,number,2019,0
 496,ca,number,2020,0
+496,ca,number,2021,0
 498,ca,number,2010,114591
 498,ca,number,2011,113116
 498,ca,number,2012,0
@@ -1319,6 +1438,7 @@ geo_area,nature,units,year,sh_trp_intvn
 498,ca,number,2018,0
 498,ca,number,2019,1
 498,ca,number,2020,30
+498,ca,number,2021,0
 499,ca,number,2010,6309
 499,ca,number,2011,6244
 499,ca,number,2012,6272
@@ -1330,6 +1450,7 @@ geo_area,nature,units,year,sh_trp_intvn
 499,ca,number,2018,0
 499,ca,number,2019,0
 499,ca,number,2020,0
+499,ca,number,2021,0
 504,ca,number,2010,8900
 504,ca,number,2011,4482
 504,ca,number,2012,3034
@@ -1341,6 +1462,7 @@ geo_area,nature,units,year,sh_trp_intvn
 504,ca,number,2018,12038
 504,ca,number,2019,5576
 504,ca,number,2020,3868
+504,ca,number,2021,3209
 508,ca,number,2010,20995373
 508,ca,number,2011,21173259
 508,ca,number,2012,21361840
@@ -1352,6 +1474,7 @@ geo_area,nature,units,year,sh_trp_intvn
 508,ca,number,2018,23023478
 508,ca,number,2019,21517399
 508,ca,number,2020,22969482
+508,ca,number,2021,23902902
 512,ca,number,2010,6
 512,ca,number,2011,3
 512,ca,number,2012,10
@@ -1363,28 +1486,31 @@ geo_area,nature,units,year,sh_trp_intvn
 512,ca,number,2018,79
 512,ca,number,2019,80
 512,ca,number,2020,233
-513,e,number,2010,1084009
-513,e,number,2011,1075724
-513,e,number,2012,126073
-513,e,number,2013,63045
-513,e,number,2014,7083
-513,e,number,2015,4433
-513,e,number,2016,5083
-513,e,number,2017,4375
-513,e,number,2018,1421
-513,e,number,2019,1824
-513,e,number,2020,1313
+512,ca,number,2021,259
+513,n,number,2010,1084009
+513,n,number,2011,1075724
+513,n,number,2012,126073
+513,n,number,2013,63045
+513,n,number,2014,7083
+513,n,number,2015,4433
+513,n,number,2016,5083
+513,n,number,2017,4421
+513,n,number,2018,1527
+513,n,number,2019,2021
+513,n,number,2020,1413
+513,n,number,2021,800
 516,ca,number,2010,999049
 516,ca,number,2011,1010305
 516,ca,number,2012,1044687
 516,ca,number,2013,1040483
 516,ca,number,2014,1048837
-516,ca,number,2015,1073269
-516,ca,number,2016,1097233
-516,ca,number,2017,1103903
-516,ca,number,2018,1094020
-516,ca,number,2019,1094020
-516,ca,number,2020,1094020
+516,ca,number,2015,382721
+516,ca,number,2016,382721
+516,ca,number,2017,382721
+516,ca,number,2018,382721
+516,ca,number,2019,387146.6
+516,ca,number,2020,387146.6
+516,ca,number,2021,387147
 520,ca,number,2010,2894
 520,ca,number,2011,2874
 520,ca,number,2012,2837
@@ -1396,6 +1522,7 @@ geo_area,nature,units,year,sh_trp_intvn
 520,ca,number,2018,2844
 520,ca,number,2019,10774
 520,ca,number,2020,10774
+520,ca,number,2021,12300
 524,ca,number,2010,26834231
 524,ca,number,2011,26975315
 524,ca,number,2012,20852506
@@ -1407,6 +1534,7 @@ geo_area,nature,units,year,sh_trp_intvn
 524,ca,number,2018,14520580
 524,ca,number,2019,14118850
 524,ca,number,2020,13519533
+524,ca,number,2021,13163981
 528,ca,number,2010,35
 528,ca,number,2011,45
 528,ca,number,2012,50
@@ -1418,17 +1546,19 @@ geo_area,nature,units,year,sh_trp_intvn
 528,ca,number,2018,2
 528,ca,number,2019,0
 528,ca,number,2020,4
-543,e,number,2010,10536459
-543,e,number,2011,9698398
-543,e,number,2012,8962012
-543,e,number,2013,8214371
-543,e,number,2014,12306215
-543,e,number,2015,8439657
-543,e,number,2016,8543298
-543,e,number,2017,8588353
-543,e,number,2018,8460790
-543,e,number,2019,9150292
-543,e,number,2020,9171058
+528,ca,number,2021,0
+543,n,number,2010,10536459
+543,n,number,2011,9698398
+543,n,number,2012,8962012
+543,n,number,2013,8214371
+543,n,number,2014,12306215
+543,n,number,2015,8439657
+543,n,number,2016,8543298
+543,n,number,2017,8588353
+543,n,number,2018,8460790
+543,n,number,2019,9150292
+543,n,number,2020,9171058
+543,n,number,2021,9316682
 548,ca,number,2010,86888
 548,ca,number,2011,88267
 548,ca,number,2012,87594
@@ -1440,6 +1570,7 @@ geo_area,nature,units,year,sh_trp_intvn
 548,ca,number,2018,284095
 548,ca,number,2019,291481
 548,ca,number,2020,299059
+548,ca,number,2021,305040
 554,ca,number,2010,54
 554,ca,number,2011,43
 554,ca,number,2012,1
@@ -1451,6 +1582,7 @@ geo_area,nature,units,year,sh_trp_intvn
 554,ca,number,2018,3
 554,ca,number,2019,6
 554,ca,number,2020,3
+554,ca,number,2021,5
 558,ca,number,2010,1866501
 558,ca,number,2011,1861892
 558,ca,number,2012,1846947
@@ -1462,6 +1594,7 @@ geo_area,nature,units,year,sh_trp_intvn
 558,ca,number,2018,1611101
 558,ca,number,2019,1611101
 558,ca,number,2020,1595366
+558,ca,number,2021,1335721
 562,ca,number,2010,14458887
 562,ca,number,2011,14837111
 562,ca,number,2012,15366099
@@ -1473,6 +1606,7 @@ geo_area,nature,units,year,sh_trp_intvn
 562,ca,number,2018,14338992
 562,ca,number,2019,14046246
 562,ca,number,2020,10993882
+562,ca,number,2021,11426103
 566,ca,number,2010,122768724
 566,ca,number,2011,135828252
 566,ca,number,2012,139891007
@@ -1484,6 +1618,7 @@ geo_area,nature,units,year,sh_trp_intvn
 566,ca,number,2018,131361930
 566,ca,number,2019,134545208
 566,ca,number,2020,136378141
+566,ca,number,2021,139910337
 570,ca,number,2010,0
 570,ca,number,2011,0
 570,ca,number,2012,0
@@ -1495,6 +1630,7 @@ geo_area,nature,units,year,sh_trp_intvn
 570,ca,number,2018,0
 570,ca,number,2019,0
 570,ca,number,2020,0
+570,ca,number,2021,0
 578,ca,number,2010,2
 578,ca,number,2011,3
 578,ca,number,2012,30
@@ -1506,6 +1642,7 @@ geo_area,nature,units,year,sh_trp_intvn
 578,ca,number,2018,5
 578,ca,number,2019,3
 578,ca,number,2020,2
+578,ca,number,2021,5
 583,ca,number,2010,35187
 583,ca,number,2011,35002
 583,ca,number,2012,34797
@@ -1517,6 +1654,7 @@ geo_area,nature,units,year,sh_trp_intvn
 583,ca,number,2018,70736
 583,ca,number,2019,70736
 583,ca,number,2020,70736
+583,ca,number,2021,70736
 584,ca,number,2010,17892
 584,ca,number,2011,18044
 584,ca,number,2012,15244
@@ -1528,6 +1666,7 @@ geo_area,nature,units,year,sh_trp_intvn
 584,ca,number,2018,19594
 584,ca,number,2019,19594
 584,ca,number,2020,19594
+584,ca,number,2021,19594
 585,ca,number,2010,20044
 585,ca,number,2011,20044
 585,ca,number,2012,20044
@@ -1539,6 +1678,7 @@ geo_area,nature,units,year,sh_trp_intvn
 585,ca,number,2018,1
 585,ca,number,2019,3
 585,ca,number,2020,0
+585,ca,number,2021,0
 586,ca,number,2010,69714319
 586,ca,number,2011,69714319
 586,ca,number,2012,31511018
@@ -1550,6 +1690,7 @@ geo_area,nature,units,year,sh_trp_intvn
 586,ca,number,2018,31683212
 586,ca,number,2019,25234450
 586,ca,number,2020,25234450
+586,ca,number,2021,25234450
 591,ca,number,2010,426760
 591,ca,number,2011,428668
 591,ca,number,2012,413140
@@ -1561,6 +1702,7 @@ geo_area,nature,units,year,sh_trp_intvn
 591,ca,number,2018,50833
 591,ca,number,2019,51175
 591,ca,number,2020,64414
+591,ca,number,2021,62635
 598,ca,number,2010,6113938
 598,ca,number,2011,6167038
 598,ca,number,2012,6205145
@@ -1572,6 +1714,7 @@ geo_area,nature,units,year,sh_trp_intvn
 598,ca,number,2018,6261977
 598,ca,number,2019,6982087
 598,ca,number,2020,6982087
+598,ca,number,2021,7021695
 600,ca,number,2010,922422
 600,ca,number,2011,926211
 600,ca,number,2012,892188
@@ -1583,6 +1726,7 @@ geo_area,nature,units,year,sh_trp_intvn
 600,ca,number,2018,1974836
 600,ca,number,2019,1974836
 600,ca,number,2020,1999482
+600,ca,number,2021,2085302
 604,ca,number,2010,3470149
 604,ca,number,2011,3463562
 604,ca,number,2012,3003504
@@ -1594,6 +1738,7 @@ geo_area,nature,units,year,sh_trp_intvn
 604,ca,number,2018,346737
 604,ca,number,2019,342185
 604,ca,number,2020,359011
+604,ca,number,2021,384895
 608,ca,number,2010,52756155
 608,ca,number,2011,49871718
 608,ca,number,2012,51303271
@@ -1605,6 +1750,7 @@ geo_area,nature,units,year,sh_trp_intvn
 608,ca,number,2018,47078380
 608,ca,number,2019,47496283
 608,ca,number,2020,48539291
+608,ca,number,2021,47533799
 616,ca,number,2010,42
 616,ca,number,2011,24
 616,ca,number,2012,33
@@ -1616,6 +1762,7 @@ geo_area,nature,units,year,sh_trp_intvn
 616,ca,number,2018,36
 616,ca,number,2019,46
 616,ca,number,2020,14
+616,ca,number,2021,23
 620,ca,number,2010,35
 620,ca,number,2011,17
 620,ca,number,2012,8
@@ -1623,10 +1770,11 @@ geo_area,nature,units,year,sh_trp_intvn
 620,ca,number,2014,4
 620,ca,number,2015,20
 620,ca,number,2016,27
-620,ca,number,2017,13
-620,ca,number,2018,19
-620,ca,number,2019,11
-620,ca,number,2020,1
+620,ca,number,2017,19
+620,ca,number,2018,21
+620,ca,number,2019,13
+620,ca,number,2020,3
+620,ca,number,2021,5
 624,ca,number,2010,1545580
 624,ca,number,2011,1746320
 624,ca,number,2012,1777561
@@ -1638,6 +1786,7 @@ geo_area,nature,units,year,sh_trp_intvn
 624,ca,number,2018,1206042
 624,ca,number,2019,1232549
 624,ca,number,2020,1892353
+624,ca,number,2021,1941909
 626,ca,number,2010,1101449
 626,ca,number,2011,1128972
 626,ca,number,2012,1211898
@@ -1649,6 +1798,7 @@ geo_area,nature,units,year,sh_trp_intvn
 626,ca,number,2018,1293316
 626,ca,number,2019,1327038
 626,ca,number,2020,1361778
+626,ca,number,2021,464413
 634,ca,number,2010,35
 634,ca,number,2011,25
 634,ca,number,2012,24
@@ -1660,6 +1810,7 @@ geo_area,nature,units,year,sh_trp_intvn
 634,ca,number,2018,0
 634,ca,number,2019,22
 634,ca,number,2020,28
+634,ca,number,2021,23
 642,ca,number,2010,843154
 642,ca,number,2011,837232
 642,ca,number,2012,100
@@ -1671,6 +1822,7 @@ geo_area,nature,units,year,sh_trp_intvn
 642,ca,number,2018,0
 642,ca,number,2019,0
 642,ca,number,2020,0
+642,ca,number,2021,0
 643,ca,number,2010,15
 643,ca,number,2011,9
 643,ca,number,2012,4
@@ -1682,6 +1834,7 @@ geo_area,nature,units,year,sh_trp_intvn
 643,ca,number,2018,5
 643,ca,number,2019,2
 643,ca,number,2020,278
+643,ca,number,2021,0
 646,ca,number,2010,4270858
 646,ca,number,2011,4395476
 646,ca,number,2012,4721856
@@ -1693,6 +1846,7 @@ geo_area,nature,units,year,sh_trp_intvn
 646,ca,number,2018,4717934
 646,ca,number,2019,5015979
 646,ca,number,2020,5011488
+646,ca,number,2021,6184262
 659,ca,number,2010,518
 659,ca,number,2011,518
 659,ca,number,2012,463
@@ -1704,6 +1858,7 @@ geo_area,nature,units,year,sh_trp_intvn
 659,ca,number,2018,6
 659,ca,number,2019,46
 659,ca,number,2020,20
+659,ca,number,2021,0
 662,ca,number,2010,41619
 662,ca,number,2011,41363
 662,ca,number,2012,41542
@@ -1715,6 +1870,7 @@ geo_area,nature,units,year,sh_trp_intvn
 662,ca,number,2018,98
 662,ca,number,2019,26
 662,ca,number,2020,1318
+662,ca,number,2021,48
 670,ca,number,2010,573
 670,ca,number,2011,565
 670,ca,number,2012,529
@@ -1726,6 +1882,7 @@ geo_area,nature,units,year,sh_trp_intvn
 670,ca,number,2018,4
 670,ca,number,2019,702
 670,ca,number,2020,1790
+670,ca,number,2021,654
 674,ca,number,2010,0
 674,ca,number,2011,0
 674,ca,number,2012,0
@@ -1737,6 +1894,7 @@ geo_area,nature,units,year,sh_trp_intvn
 674,ca,number,2018,0
 674,ca,number,2019,0
 674,ca,number,2020,0
+674,ca,number,2021,0
 678,ca,number,2010,410000
 678,ca,number,2011,410000
 678,ca,number,2012,410000
@@ -1748,6 +1906,7 @@ geo_area,nature,units,year,sh_trp_intvn
 678,ca,number,2018,201784
 678,ca,number,2019,201114
 678,ca,number,2020,210238
+678,ca,number,2021,98337
 682,ca,number,2010,4142
 682,ca,number,2011,1964
 682,ca,number,2012,1476
@@ -1759,6 +1918,7 @@ geo_area,nature,units,year,sh_trp_intvn
 682,ca,number,2018,940
 682,ca,number,2019,1113
 682,ca,number,2020,1051
+682,ca,number,2021,625
 686,ca,number,2010,8721204
 686,ca,number,2011,8837088
 686,ca,number,2012,8836568
@@ -1770,6 +1930,7 @@ geo_area,nature,units,year,sh_trp_intvn
 686,ca,number,2018,9061189
 686,ca,number,2019,8815619
 686,ca,number,2020,5590970
+686,ca,number,2021,5764573
 688,ca,number,2010,93886
 688,ca,number,2011,93503
 688,ca,number,2012,92677
@@ -1781,6 +1942,7 @@ geo_area,nature,units,year,sh_trp_intvn
 688,ca,number,2018,0
 688,ca,number,2019,0
 688,ca,number,2020,0
+688,ca,number,2021,0
 690,ca,number,2010,1
 690,ca,number,2011,1
 690,ca,number,2012,0
@@ -1792,6 +1954,7 @@ geo_area,nature,units,year,sh_trp_intvn
 690,ca,number,2018,0
 690,ca,number,2019,0
 690,ca,number,2020,1
+690,ca,number,2021,1
 694,ca,number,2010,6903386
 694,ca,number,2011,7101947
 694,ca,number,2012,7452567
@@ -1803,6 +1966,7 @@ geo_area,nature,units,year,sh_trp_intvn
 694,ca,number,2018,6498480
 694,ca,number,2019,6910107
 694,ca,number,2020,7617601
+694,ca,number,2021,7315339
 702,ca,number,2010,5375
 702,ca,number,2011,5341
 702,ca,number,2012,4078
@@ -1814,6 +1978,7 @@ geo_area,nature,units,year,sh_trp_intvn
 702,ca,number,2018,6
 702,ca,number,2019,15998
 702,ca,number,2020,35315
+702,ca,number,2021,5268
 703,ca,number,2010,9
 703,ca,number,2011,2
 703,ca,number,2012,6
@@ -1825,6 +1990,7 @@ geo_area,nature,units,year,sh_trp_intvn
 703,ca,number,2018,6
 703,ca,number,2019,11
 703,ca,number,2020,3
+703,ca,number,2021,2
 704,ca,number,2010,8608402
 704,ca,number,2011,8608402
 704,ca,number,2012,8608402
@@ -1836,6 +2002,7 @@ geo_area,nature,units,year,sh_trp_intvn
 704,ca,number,2018,6147296
 704,ca,number,2019,7368702
 704,ca,number,2020,7844098
+704,ca,number,2021,8820515
 705,ca,number,2010,16
 705,ca,number,2011,16
 705,ca,number,2012,16
@@ -1847,6 +2014,7 @@ geo_area,nature,units,year,sh_trp_intvn
 705,ca,number,2018,1
 705,ca,number,2019,1
 705,ca,number,2020,2
+705,ca,number,2021,4
 706,ca,number,2010,4061459
 706,ca,number,2011,4166609
 706,ca,number,2012,4259261
@@ -1858,6 +2026,7 @@ geo_area,nature,units,year,sh_trp_intvn
 706,ca,number,2018,2286299
 706,ca,number,2019,2286299
 706,ca,number,2020,3698691
+706,ca,number,2021,3698691
 710,ca,number,2010,6144429
 710,ca,number,2011,6171372
 710,ca,number,2012,6164232
@@ -1869,6 +2038,7 @@ geo_area,nature,units,year,sh_trp_intvn
 710,ca,number,2018,18807465
 710,ca,number,2019,18807465
 710,ca,number,2020,16502598
+710,ca,number,2021,16502598
 716,ca,number,2010,6437391
 716,ca,number,2011,6472357
 716,ca,number,2012,6496297
@@ -1880,17 +2050,19 @@ geo_area,nature,units,year,sh_trp_intvn
 716,ca,number,2018,10660813
 716,ca,number,2019,10660813
 716,ca,number,2020,8029929
-722,e,number,2010,26175055
-722,e,number,2011,26153283
-722,e,number,2012,26344384
-722,e,number,2013,25873021
-722,e,number,2014,30017781
-722,e,number,2015,24301964
-722,e,number,2016,21957510
-722,e,number,2017,22415792
-722,e,number,2018,21317860
-722,e,number,2019,22242437
-722,e,number,2020,21043818
+716,ca,number,2021,8147168
+722,n,number,2010,26175055
+722,n,number,2011,26153283
+722,n,number,2012,26344384
+722,n,number,2013,25873021
+722,n,number,2014,30017781
+722,n,number,2015,24301964
+722,n,number,2016,21957510
+722,n,number,2017,22415792
+722,n,number,2018,21317860
+722,n,number,2019,22242437
+722,n,number,2020,21043818
+722,n,number,2021,20322516
 724,ca,number,2010,255
 724,ca,number,2011,298
 724,ca,number,2012,327
@@ -1899,9 +2071,10 @@ geo_area,nature,units,year,sh_trp_intvn
 724,ca,number,2015,299
 724,ca,number,2016,700
 724,ca,number,2017,572
-724,ca,number,2018,19
-724,ca,number,2019,7
-724,ca,number,2020,1
+724,ca,number,2018,123
+724,ca,number,2019,155
+724,ca,number,2020,87
+724,ca,number,2021,96
 728,ca,number,2010,5263538
 728,ca,number,2011,2559354
 728,ca,number,2012,5707037
@@ -1913,6 +2086,7 @@ geo_area,nature,units,year,sh_trp_intvn
 728,ca,number,2018,7467149
 728,ca,number,2019,8472338
 728,ca,number,2020,8571203
+728,ca,number,2021,8758494
 729,ca,number,2010,32064553
 729,ca,number,2011,29819813
 729,ca,number,2012,30750805
@@ -1923,7 +2097,8 @@ geo_area,nature,units,year,sh_trp_intvn
 729,ca,number,2017,11031353
 729,ca,number,2018,11930091
 729,ca,number,2019,12015065
-729,ca,number,2020,12458017
+729,ca,number,2020,12769465
+729,ca,number,2021,12728564
 740,ca,number,2010,432
 740,ca,number,2011,450
 740,ca,number,2012,1284
@@ -1935,17 +2110,19 @@ geo_area,nature,units,year,sh_trp_intvn
 740,ca,number,2018,261
 740,ca,number,2019,241
 740,ca,number,2020,617
-747,e,number,2010,79518653
-747,e,number,2011,77608878
-747,e,number,2012,77451822
-747,e,number,2013,80486609
-747,e,number,2014,62148950
-747,e,number,2015,39840824
-747,e,number,2016,37813838
-747,e,number,2017,29628880
-747,e,number,2018,35416927
-747,e,number,2019,34709313
-747,e,number,2020,32346352
+740,ca,number,2021,165
+747,n,number,2010,79518653
+747,n,number,2011,77608878
+747,n,number,2012,77451822
+747,n,number,2013,80486609
+747,n,number,2014,62148950
+747,n,number,2015,39840824
+747,n,number,2016,37813838
+747,n,number,2017,29628880
+747,n,number,2018,35416927
+747,n,number,2019,34709318
+747,n,number,2020,32657800
+747,n,number,2021,28702176
 748,ca,number,2010,580187
 748,ca,number,2011,584020
 748,ca,number,2012,577163
@@ -1957,6 +2134,7 @@ geo_area,nature,units,year,sh_trp_intvn
 748,ca,number,2018,247084
 748,ca,number,2019,406184
 748,ca,number,2020,406184
+748,ca,number,2021,406184
 752,ca,number,2010,30
 752,ca,number,2011,118
 752,ca,number,2012,191
@@ -1968,17 +2146,19 @@ geo_area,nature,units,year,sh_trp_intvn
 752,ca,number,2018,18
 752,ca,number,2019,28
 752,ca,number,2020,18
-753,e,number,2010,329452489
-753,e,number,2011,291323514
-753,e,number,2012,286905452
-753,e,number,2013,273333665
-753,e,number,2014,262979973
-753,e,number,2015,242190834
-753,e,number,2016,237242654
-753,e,number,2017,233614870
-753,e,number,2018,235334172
-753,e,number,2019,191709023
-753,e,number,2020,180676280
+752,ca,number,2021,12
+753,n,number,2010,329452489
+753,n,number,2011,291323514
+753,n,number,2012,286905452
+753,n,number,2013,273333665
+753,n,number,2014,262979973
+753,n,number,2015,242190834
+753,n,number,2016,237242654
+753,n,number,2017,233614870
+753,n,number,2018,235334172
+753,n,number,2019,191709023
+753,n,number,2020,180676280
+753,n,number,2021,172810666
 756,ca,number,2010,0
 756,ca,number,2011,0
 756,ca,number,2012,1
@@ -1990,6 +2170,7 @@ geo_area,nature,units,year,sh_trp_intvn
 756,ca,number,2018,0
 756,ca,number,2019,0
 756,ca,number,2020,0
+756,ca,number,2021,0
 760,ca,number,2010,42193
 760,ca,number,2011,58178
 760,ca,number,2012,55916
@@ -2001,6 +2182,7 @@ geo_area,nature,units,year,sh_trp_intvn
 760,ca,number,2018,1767108
 760,ca,number,2019,2440286
 760,ca,number,2020,2440286
+760,ca,number,2021,2971666
 762,ca,number,2010,105377
 762,ca,number,2011,105686
 762,ca,number,2012,104685
@@ -2012,6 +2194,7 @@ geo_area,nature,units,year,sh_trp_intvn
 762,ca,number,2018,3230054
 762,ca,number,2019,3161746
 762,ca,number,2020,3375143
+762,ca,number,2021,3375143
 764,ca,number,2010,117369
 764,ca,number,2011,83105
 764,ca,number,2012,79824
@@ -2023,6 +2206,7 @@ geo_area,nature,units,year,sh_trp_intvn
 764,ca,number,2018,55075
 764,ca,number,2019,129102
 764,ca,number,2020,50131
+764,ca,number,2021,7244
 768,ca,number,2010,4323967
 768,ca,number,2011,4642943
 768,ca,number,2012,4470369
@@ -2034,6 +2218,7 @@ geo_area,nature,units,year,sh_trp_intvn
 768,ca,number,2018,4292784
 768,ca,number,2019,4311460
 768,ca,number,2020,4603985
+768,ca,number,2021,5128595
 776,ca,number,2010,30
 776,ca,number,2011,0
 776,ca,number,2012,36483
@@ -2045,6 +2230,7 @@ geo_area,nature,units,year,sh_trp_intvn
 776,ca,number,2018,37131
 776,ca,number,2019,37131
 776,ca,number,2020,37131
+776,ca,number,2021,37131
 780,ca,number,2010,20521
 780,ca,number,2011,20526
 780,ca,number,2012,20583
@@ -2056,6 +2242,7 @@ geo_area,nature,units,year,sh_trp_intvn
 780,ca,number,2018,160
 780,ca,number,2019,442
 780,ca,number,2020,59
+780,ca,number,2021,38
 784,ca,number,2010,10
 784,ca,number,2011,0
 784,ca,number,2012,0
@@ -2067,6 +2254,7 @@ geo_area,nature,units,year,sh_trp_intvn
 784,ca,number,2018,0
 784,ca,number,2019,0
 784,ca,number,2020,78
+784,ca,number,2021,41
 788,ca,number,2010,265913
 788,ca,number,2011,264843
 788,ca,number,2012,277152
@@ -2078,6 +2266,7 @@ geo_area,nature,units,year,sh_trp_intvn
 788,ca,number,2018,7490
 788,ca,number,2019,7087
 788,ca,number,2020,4902
+788,ca,number,2021,2746
 792,ca,number,2010,1456801
 792,ca,number,2011,1450427
 792,ca,number,2012,1912
@@ -2089,6 +2278,7 @@ geo_area,nature,units,year,sh_trp_intvn
 792,ca,number,2018,1554
 792,ca,number,2019,0
 792,ca,number,2020,0
+792,ca,number,2021,0
 795,ca,number,2010,0
 795,ca,number,2011,81
 795,ca,number,2012,158
@@ -2100,6 +2290,7 @@ geo_area,nature,units,year,sh_trp_intvn
 795,ca,number,2018,212
 795,ca,number,2019,105
 795,ca,number,2020,395
+795,ca,number,2021,97
 798,ca,number,2010,9777
 798,ca,number,2011,10534
 798,ca,number,2012,10513
@@ -2111,6 +2302,7 @@ geo_area,nature,units,year,sh_trp_intvn
 798,ca,number,2018,12052
 798,ca,number,2019,11500
 798,ca,number,2020,11500
+798,ca,number,2021,11500
 800,ca,number,2010,24395478
 800,ca,number,2011,24551372
 800,ca,number,2012,24988968
@@ -2121,7 +2313,8 @@ geo_area,nature,units,year,sh_trp_intvn
 800,ca,number,2017,22879141
 800,ca,number,2018,21407858
 800,ca,number,2019,24639995
-800,ca,number,2020,23171373
+800,ca,number,2020,21944652
+800,ca,number,2021,25961432
 804,ca,number,2010,4
 804,ca,number,2011,7
 804,ca,number,2012,4
@@ -2133,6 +2326,7 @@ geo_area,nature,units,year,sh_trp_intvn
 804,ca,number,2018,0
 804,ca,number,2019,0
 804,ca,number,2020,17
+804,ca,number,2021,0
 807,ca,number,2010,20145
 807,ca,number,2011,19742
 807,ca,number,2012,19611
@@ -2144,6 +2338,7 @@ geo_area,nature,units,year,sh_trp_intvn
 807,ca,number,2018,12
 807,ca,number,2019,0
 807,ca,number,2020,0
+807,ca,number,2021,0
 818,ca,number,2010,24000000
 818,ca,number,2011,24000000
 818,ca,number,2012,24000000
@@ -2155,6 +2350,7 @@ geo_area,nature,units,year,sh_trp_intvn
 818,ca,number,2018,5066393
 818,ca,number,2019,6894411
 818,ca,number,2020,2932815
+818,ca,number,2021,2932815
 826,ca,number,2010,12
 826,ca,number,2011,31
 826,ca,number,2012,27
@@ -2166,6 +2362,7 @@ geo_area,nature,units,year,sh_trp_intvn
 826,ca,number,2018,8
 826,ca,number,2019,5
 826,ca,number,2020,0
+826,ca,number,2021,0
 834,ca,number,2010,43656348
 834,ca,number,2011,50421052
 834,ca,number,2012,51864011
@@ -2177,6 +2374,7 @@ geo_area,nature,units,year,sh_trp_intvn
 834,ca,number,2018,26707925
 834,ca,number,2019,27086592
 834,ca,number,2020,29038890
+834,ca,number,2021,32876354
 840,ca,number,2010,236
 840,ca,number,2011,184
 840,ca,number,2012,355
@@ -2188,6 +2386,7 @@ geo_area,nature,units,year,sh_trp_intvn
 840,ca,number,2018,516
 840,ca,number,2019,1158
 840,ca,number,2020,466
+840,ca,number,2021,119
 854,ca,number,2010,17860380
 854,ca,number,2011,19099726
 854,ca,number,2012,19229686
@@ -2199,6 +2398,7 @@ geo_area,nature,units,year,sh_trp_intvn
 854,ca,number,2018,10152760
 854,ca,number,2019,3652080
 854,ca,number,2020,5815599
+854,ca,number,2021,3708202
 858,ca,number,2010,546
 858,ca,number,2011,542
 858,ca,number,2012,511
@@ -2210,6 +2410,7 @@ geo_area,nature,units,year,sh_trp_intvn
 858,ca,number,2018,11
 858,ca,number,2019,10
 858,ca,number,2020,10
+858,ca,number,2021,52
 860,ca,number,2010,394207
 860,ca,number,2011,394207
 860,ca,number,2012,394207
@@ -2221,6 +2422,7 @@ geo_area,nature,units,year,sh_trp_intvn
 860,ca,number,2018,405951
 860,ca,number,2019,405951
 860,ca,number,2020,405951
+860,ca,number,2021,405951
 862,ca,number,2010,1064133
 862,ca,number,2011,1069085
 862,ca,number,2012,1050992
@@ -2232,6 +2434,7 @@ geo_area,nature,units,year,sh_trp_intvn
 862,ca,number,2018,7493106
 862,ca,number,2019,8062142
 862,ca,number,2020,8062740
+862,ca,number,2021,7995796
 882,ca,number,2010,186649
 882,ca,number,2011,186649
 882,ca,number,2012,186649
@@ -2243,6 +2446,7 @@ geo_area,nature,units,year,sh_trp_intvn
 882,ca,number,2018,191219
 882,ca,number,2019,191219
 882,ca,number,2020,191219
+882,ca,number,2021,191219
 887,ca,number,2010,15328780
 887,ca,number,2011,15671810
 887,ca,number,2012,16286837
@@ -2254,6 +2458,7 @@ geo_area,nature,units,year,sh_trp_intvn
 887,ca,number,2018,12339767
 887,ca,number,2019,10471813
 887,ca,number,2020,11632682
+887,ca,number,2021,7883460
 894,ca,number,2010,10713944
 894,ca,number,2011,10850875
 894,ca,number,2012,10978024
@@ -2265,3 +2470,4 @@ geo_area,nature,units,year,sh_trp_intvn
 894,ca,number,2018,12032435
 894,ca,number,2019,12032435
 894,ca,number,2020,12810245
+894,ca,number,2021,13185586

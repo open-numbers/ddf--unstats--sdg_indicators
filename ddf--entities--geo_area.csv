@@ -356,6 +356,7 @@ geo_area,name
 937,World (total) by MDG regions
 938,Member States
 951,Other Africa (IEA)
+952,Unallocated by country
 96,Brunei Darussalam
 97,European Union
 99018,"FAO Major Fishing Area: Pacific, Eastern Central"
@@ -390,3 +391,4 @@ geo_area,name
 99047,WHO Western Pacific
 99048,WHO Global
 99049,"Residual/unallocated ODA: Unspecified, developing countries"
+99050,Residual/unallocated ODA: Northern America and Europe

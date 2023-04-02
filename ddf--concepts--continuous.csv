@@ -6,7 +6,12 @@ ag_food_wst_pc,measure,Food waste per capita (KG),12,12.3.1,AG_FOOD_WST_PC,12.3
 ag_fpa_cfpi,measure,"Indicator of Food Price Anomalies (IFPA), by Consumer Food Price Index",2,2.c.1,AG_FPA_CFPI,2.c
 ag_fpa_comm,measure,"Indicator of Food Price Anomalies (IFPA), by type of product",2,2.c.1,AG_FPA_COMM,2.c
 ag_fpa_hmfp,measure,"Proportion of countries recording abnormally high or moderately high food prices, according to the Indicator of Food Price Anomalies (%)",2,2.c.1,AG_FPA_HMFP,2.c
+ag_lnd_agrbio,measure,Proportion of agricultural land area that has achieved an acceptable or desirable level of use of agro-biodiversity supportive practices (%),2,2.4.1,AG_LND_AGRBIO,2.4
+ag_lnd_agrwag,measure,Proportion of agricultural land area that has achieved an acceptable or desirable level of wage rate in agriculture (%),2,2.4.1,AG_LND_AGRWAG,2.4
 ag_lnd_dgrd,measure,Proportion of land that is degraded over total land area (%),15,15.3.1,AG_LND_DGRD,15.3
+ag_lnd_fertmg,measure,Proportion of agricultural land area that has achieved an acceptable or desirable level of management of fertilizers (%),2,2.4.1,AG_LND_FERTMG,2.4
+ag_lnd_fies,measure,Proportion of agricultural land area that has achieved an acceptable or desirable level of food security (%),2,2.4.1,AG_LND_FIES,2.4
+ag_lnd_fovh,measure,Proportion of agricultural land area that has achieved an acceptable or desirable level of farm output value per hectare (%),2,2.4.1,AG_LND_FOVH,2.4
 ag_lnd_frst,measure,Forest area as a proportion of total land area (%),15,15.1.1,AG_LND_FRST,15.1
 ag_lnd_frstbiopha,measure,Above-ground biomass in forest (tonnes per hectare),15,15.2.1,AG_LND_FRSTBIOPHA,15.2
 ag_lnd_frstcert,measure,Forest area under an independently verified forest management certification scheme (thousands of hectares),15,15.2.1,AG_LND_FRSTCERT,15.2
@@ -14,6 +19,13 @@ ag_lnd_frstchg,measure,Annual forest area change rate (%),15,15.2.1,AG_LND_FRSTC
 ag_lnd_frstmgt,measure,Proportion of forest area with a long-term management plan (%),15,15.2.1,AG_LND_FRSTMGT,15.2
 ag_lnd_frstn,measure,Forest area (thousands of hectares),15,15.1.1,AG_LND_FRSTN,15.1
 ag_lnd_frstprct,measure,Proportion of forest area within legally established protected areas (%),15,15.2.1,AG_LND_FRSTPRCT,15.2
+ag_lnd_h2oavail,measure,Proportion of agricultural land area that has achieved an acceptable or desirable level of variation in water availability (%),2,2.4.1,AG_LND_H2OAVAIL,2.4
+ag_lnd_lndstr,measure,Proportion of agricultural land area that has achieved an acceptable or desirable level of secure tenure rights to agricultural land (%),2,2.4.1,AG_LND_LNDSTR,2.4
+ag_lnd_nfi,measure,Proportion of agricultural land area that has achieved an acceptable or desirable level of net farm income (%),2,2.4.1,AG_LND_NFI,2.4
+ag_lnd_pstcdsmg,measure,Proportion of agricultural land area that has achieved an acceptable or desirable level of management of pesticides (%),2,2.4.1,AG_LND_PSTCDSMG,2.4
+ag_lnd_rmm,measure,Proportion of agricultural land area that has achieved an acceptable or desirable level of risk mitigation mechanisms (%),2,2.4.1,AG_LND_RMM,2.4
+ag_lnd_sdgrd,measure,Proportion of agricultural land area that has achieved an acceptable or desirable level of soil degradation (%),2,2.4.1,AG_LND_SDGRD,2.4
+ag_lnd_sust,measure,Proportion of agricultural area under productive and sustainable agriculture (%),2,2.4.1,AG_LND_SUST,2.4
 ag_lnd_totl,measure,Land area (thousands of hectares),15,15.1.1,AG_LND_TOTL,15.1
 ag_prd_agvas,measure,Agriculture value added share of GDP (%),2,2.a.1,AG_PRD_AGVAS,2.a
 ag_prd_fiesms,measure,Prevalence of moderate or severe food insecurity (%),2,2.1.2,AG_PRD_FIESMS,2.1
@@ -32,6 +44,7 @@ dc_envtech_imp,measure,Amount of tracked imported Environmentally Sound Technolo
 dc_envtech_inv,measure,"Total investment in Environment Sound Technologies, by sector (current United States dollars)",17,17.7.1,DC_ENVTECH_INV,17.7
 dc_envtech_rexp,measure,Amount of tracked re-exported Environmentally Sound Technologies (current United States dollars),17,17.7.1,DC_ENVTECH_REXP,17.7
 dc_envtech_rimp,measure,Amount of tracked re-imported Environmentally Sound Technologies (current United States dollars),17,17.7.1,DC_ENVTECH_RIMP,17.7
+dc_envtech_tt,measure,Total trade of tracked Environmentally Sound Technologies (current United States dollars),17,17.7.1,DC_ENVTECH_TT,17.7
 dc_fin_climb,measure,"Climate-specific financial support provided via bilateral, regional and other channels, by type of support (Billions of current United States dollars)",13,13.a.1,DC_FIN_CLIMB,13.a
 dc_fin_climm,measure,"Climate-specific financial support provided via multilateral channels, by type of support (Billions of current United States dollars)",13,13.a.1,DC_FIN_CLIMM,13.a
 dc_fin_climt,measure,Total climate-specific financial support provided (Billions of current United States dollars),13,13.a.1,DC_FIN_CLIMT,13.a
@@ -66,6 +79,8 @@ dc_tof_washl,measure,"Total official development assistance (gross disbursement)
 dc_trf_tfdv,measure,"Total resource flows for development, by recipient and donor countries (millions of current United States dollars)",10,10.b.1,DC_TRF_TFDV,10.b
 dc_trf_totdl,measure,"Total assistance for development, by donor countries (millions of current United States dollars)",10,10.b.1,DC_TRF_TOTDL,10.b
 dc_trf_totl,measure,"Total assistance for development, by recipient countries (millions of current United States dollars)",10,10.b.1,DC_TRF_TOTL,10.b
+di_ill_in,measure,Total value of inward illicit financial flows,16,16.4.1,DI_ILL_IN,16.4
+di_ill_out,measure,Total value of outward illicit financial flows,16,16.4.1,DI_ILL_OUT,16.4
 dp_dod_dld2_cr_cg_z1,measure,"Gross public sector debt, Central Government, as a proportion of GDP (%)",17,17.13.1,DP_DOD_DLD2_CR_CG_Z1,17.13
 dt_dod_dect_gn_zs,measure,External debt stocks as a proportion of GNI (%),17,17.13.1,DT_DOD_DECT_GN_ZS,17.13
 dt_tds_dect,measure,Debt service as a proportion of exports of goods and services (%),17,17.4.1,DT_TDS_DECT,17.4
@@ -74,7 +89,7 @@ eg_egy_clean,measure,Proportion of population with primary reliance on clean fue
 eg_egy_prim,measure,Energy intensity level of primary energy (megajoules per constant 2017 purchasing power parity GDP),7,7.3.1,EG_EGY_PRIM,7.3
 eg_egy_rnew,measure,Installed renewable electricity-generating capacity (watts per capita),"7, 12","7.b.1, 12.a.1",EG_EGY_RNEW,"7.b, 12.a"
 eg_fec_rnew,measure,Renewable energy share in the total final energy consumption (%),7,7.2.1,EG_FEC_RNEW,7.2
-eg_iff_randn,measure,"International financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems (millions of constant United States dollars)",7,7.a.1,EG_IFF_RANDN,7.a
+eg_iff_randn,measure,"International financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems (millions of constant 2020 United States dollars)",7,7.a.1,EG_IFF_RANDN,7.a
 eg_tba_h2co,measure,Proportion of transboundary basins (river and lake basins and aquifers) with an operational arrangement for water cooperation (%),6,6.5.2,EG_TBA_H2CO,6.5
 eg_tba_h2coaq,measure,Proportion of transboundary aquifers with an operational arrangement for water cooperation (%),6,6.5.2,EG_TBA_H2COAQ,6.5
 eg_tba_h2corl,measure,Proportion of transboundary river and lake basins with an operational arrangement for water cooperation (%),6,6.5.2,EG_TBA_H2CORL,6.5
@@ -90,13 +105,13 @@ en_biurep_aip,measure,"Number of countries with biennial reports, Annex I Partie
 en_biurep_naip,measure,"Number of countries with biennial update reports, non-Annex I Parties (Number)",13,13.2.1,EN_BIUREP_NAIP,13.2
 en_biurep_naip_dv,measure,"Number of least developed countries and small island developing States with biennial update reports, non-Annex I Parties (Number)",13,13.b.1,EN_BIUREP_NAIP_DV,13.b
 en_ewt_collpcap,measure,"Electronic waste collected, per capita (KG)",12,12.4.2,EN_EWT_COLLPCAP,12.4
-en_ewt_collr,measure,Electronic waste collection rate (%),12,12.4.2,EN_EWT_COLLR,12.4
+en_ewt_collr,measure,Proportion of electronic waste collected (%),12,12.4.2,EN_EWT_COLLR,12.4
 en_ewt_collv,measure,Electronic waste collected (Tonnes),12,12.4.2,EN_EWT_COLLV,12.4
 en_ewt_genpcap,measure,"Electronic waste generated, per capita (Kg)",12,12.4.2,EN_EWT_GENPCAP,12.4
 en_ewt_genv,measure,Electronic waste generated (Tonnes),12,12.4.2,EN_EWT_GENV,12.4
-en_ewt_rcypcap,measure,"Electronic waste recycling, per capita (Kg)",12,12.5.1,EN_EWT_RCYPCAP,12.5
-en_ewt_rcyr,measure,"Electronic waste recycling, rate (%)",12,12.5.1,EN_EWT_RCYR,12.5
-en_ewt_rcyv,measure,Electronic waste recycling (Tonnes),12,12.5.1,EN_EWT_RCYV,12.5
+en_ewt_rcypcap,measure,"Electronic waste recycled, per capita (Kg)",12,12.5.1,EN_EWT_RCYPCAP,12.5
+en_ewt_rcyr,measure,Proportion of electronic waste recycled (%),12,12.5.1,EN_EWT_RCYR,12.5
+en_ewt_rcyv,measure,Electronic waste recycled (Tonnes),12,12.5.1,EN_EWT_RCYV,12.5
 en_h2o_grambq,measure,Proportion of groundwater bodies with good ambient water quality (%),6,6.3.2,EN_H2O_GRAMBQ,6.3
 en_h2o_opambq,measure,Proportion of open water bodies with good ambient water quality (%),6,6.3.2,EN_H2O_OPAMBQ,6.3
 en_h2o_rvambq,measure,Proportion of river water bodies with good ambient water quality (%),6,6.3.2,EN_H2O_RVAMBQ,6.3
@@ -107,7 +122,7 @@ en_haz_genv,measure,Hazardous waste generated (Tonnes),12,12.4.2,EN_HAZ_GENV,12.
 en_haz_imp,measure,"Hazardous waste imported, (Tonnes)",12,12.4.2,EN_HAZ_IMP,12.4
 en_haz_pcap,measure,"Hazardous waste generated, per capita (Kg)",12,12.4.2,EN_HAZ_PCAP,12.4
 en_haz_treatv,measure,"Hazardous waste treated, by type of treatment (Tonnes)",12,12.4.2,EN_HAZ_TREATV,12.4
-en_haz_trtdisr,measure,"Hazardous waste treated or disposed, rate (%)",12,12.4.2,EN_HAZ_TRTDISR,12.4
+en_haz_trtdisr,measure,Proportion of hazardous waste treated or disposed (%),12,12.4.2,EN_HAZ_TRTDISR,12.4
 en_haz_trtdisv,measure,Hazardous waste treated or disposed (Tonnes),12,12.4.2,EN_HAZ_TRTDISV,12.4
 en_lkrv_pwac,measure,Lakes and rivers permanent water area change (%),6,6.6.1,EN_LKRV_PWAC,6.6
 en_lkrv_pwan,measure,Lakes and rivers permanent water area (square kilometres),6,6.6.1,EN_LKRV_PWAN,6.6
@@ -134,9 +149,13 @@ en_mat_ftprpc,measure,"Material footprint per capita, by type of raw material (t
 en_mat_ftprpg,measure,"Material footprint per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollar)","12, 8","12.2.1, 8.4.1",EN_MAT_FTPRPG,"12.2, 8.4"
 en_mat_ftprtn,measure,"Material footprint, by type of raw material (tonnes)","12, 8","12.2.1, 8.4.1",EN_MAT_FTPRTN,"12.2, 8.4"
 en_mwt_collv,measure,Municipal waste collected (Tonnes),12,12.4.2,EN_MWT_COLLV,12.4
+en_mwt_exp,measure,Municipal waste exported (Tonnes),12,12.4.2,EN_MWT_EXP,12.4
 en_mwt_genv,measure,Municipal waste generated (Tonnes),12,12.4.2,EN_MWT_GENV,12.4
+en_mwt_imp,measure,Municipal waste imported (Tonnes),12,12.4.2,EN_MWT_IMP,12.4
+en_mwt_rcyr,measure,Proportion of municipal waste recycled (%),12,12.5.1,EN_MWT_RCYR,12.5
 en_mwt_rcyv,measure,Municipal waste recycled (Tonnes),12,12.5.1,EN_MWT_RCYV,12.5
-en_mwt_treatr,measure,"Municipal waste treated, by type of treatment (%)",12,12.4.2,EN_MWT_TREATR,12.4
+en_mwt_treatr,measure,"Proportion of municipal waste treated, by type of treatment (%)",12,12.4.2,EN_MWT_TREATR,12.4
+en_mwt_treatv,measure,Municipal waste treated by type of treatment (Tonnes),12,12.4.2,EN_MWT_TREATV,12.4
 en_naa_plan,measure,Number of countries with national adaptation plans (Number),13,13.2.1,EN_NAA_PLAN,13.2
 en_naa_plan_dv,measure,Number of least developed countries and small island developing States with national adaptation plans (Number),13,13.b.1,EN_NAA_PLAN_DV,13.b
 en_nacom_aip,measure,"Number of countries with national communications, Annex I Parties (Number)",13,13.2.1,EN_NACOM_AIP,13.2
@@ -156,12 +175,7 @@ en_twt_genv,measure,"Total waste generation, by activity (Tonnes)",12,12.4.2,EN_
 en_urb_opensp,measure,Average share of the built-up area of cities that is open space for public use for all (%),11,11.7.1,EN_URB_OPENSP,11.7
 en_wbe_hmwtl,measure,Extent of human made wetlands (square kilometres),6,6.6.1,EN_WBE_HMWTL,6.6
 en_wbe_inwtl,measure,Extent of inland wetlands (square kilometres),6,6.6.1,EN_WBE_INWTL,6.6
-en_wbe_mangbn,measure,Mangrove area baseline (square kilometres),6,6.6.1,EN_WBE_MANGBN,6.6
 en_wbe_mangc,measure,Mangrove total area change (%),6,6.6.1,EN_WBE_MANGC,6.6
-en_wbe_manggn,measure,Mangrove area gain (square kilometres),6,6.6.1,EN_WBE_MANGGN,6.6
-en_wbe_manggp,measure,Mangrove area gain (%),6,6.6.1,EN_WBE_MANGGP,6.6
-en_wbe_mangln,measure,Mangrove area loss (square kilometres),6,6.6.1,EN_WBE_MANGLN,6.6
-en_wbe_manglp,measure,Mangrove area loss (%),6,6.6.1,EN_WBE_MANGLP,6.6
 en_wbe_mangn,measure,Mangrove area (square kilometres),6,6.6.1,EN_WBE_MANGN,6.6
 en_wbe_ndqtgrw,measure,Nationally derived quantity of groundwater (millions of cubic metres per annum),6,6.6.1,EN_WBE_NDQTGRW,6.6
 en_wbe_ndqtrvr,measure,Nationally derived quantity of rivers (million of cubic metres per annum),6,6.6.1,EN_WBE_NDQTRVR,6.6
@@ -181,6 +195,7 @@ er_cbd_smta,measure,Total reported number of Standard Material Transfer Agreemen
 er_ffs_cmpt_cd,measure,Fossil-fuel subsidies (consumption and production) (billions of nominal United States dollars),12,12.c.1,ER_FFS_CMPT_CD,12.c
 er_ffs_cmpt_gdp,measure,Fossil-fuel subsidies (consumption and production) as a proportion of total GDP (%),12,12.c.1,ER_FFS_CMPT_GDP,12.c
 er_ffs_cmpt_pc_cd,measure,Fossil-fuel subsidies (consumption and production) per capita (nominal United States dollars),12,12.c.1,ER_FFS_CMPT_PC_CD,12.c
+er_grf_animkpt,measure,Number of local breeds kept in the country,2,2.5.1,ER_GRF_ANIMKPT,2.5
 er_grf_animrcntn,measure,Number of local breeds for which sufficient genetic resources are stored for reconstitution,2,2.5.1,ER_GRF_ANIMRCNTN,2.5
 er_grf_animrcntn_trb,measure,Number of transboundary breeds for which sufficient genetic resources are stored for reconstitution,2,2.5.1,ER_GRF_ANIMRCNTN_TRB,2.5
 er_grf_plntstor,measure,Plant genetic resources accessions stored ex situ (number),2,2.5.1,ER_GRF_PLNTSTOR,2.5
@@ -191,9 +206,7 @@ er_h2o_iwrmd_fi,measure,"Degree of integrated water resources management impleme
 er_h2o_iwrmd_ip,measure,"Degree of integrated water resources management implementation, institutions and participation (%)",6,6.5.1,ER_H2O_IWRMD_IP,6.5
 er_h2o_iwrmd_mi,measure,"Degree of integrated water resources management implementation, management instruments (%)",6,6.5.1,ER_H2O_IWRMD_MI,6.5
 er_h2o_iwrmp,measure,Proportion of countries by IWRM implementation category (%),6,6.5.1,ER_H2O_IWRMP,6.5
-er_h2o_partic,measure,Proportion of countries with high level of users/communities participating in planning programs in rural drinking-water supply (%),6,6.b.1,ER_H2O_PARTIC,6.b
 er_h2o_prdu,measure,"Countries with procedures in law or policy for participation by service users/communities in planning program in rural drinking-water supply, by level of definition in procedures (10 = Clearly defined; 5 = Not clearly defined ; 0 = NA)",6,6.b.1,ER_H2O_PRDU,6.b
-er_h2o_proced,measure,Proportion of countries with clearly defined procedures in law or policy for participation by service users/communities in planning program in rural drinking-water supply (%),6,6.b.1,ER_H2O_PROCED,6.b
 er_h2o_rurp,measure,"Countries with users/communities participating in planning programs in rural drinking-water supply, by level of participation (3 = High; 2 = Moderate; 1 = Low; 0 = NA)",6,6.b.1,ER_H2O_RURP,6.b
 er_h2o_stress,measure,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources (%),6,6.4.2,ER_H2O_STRESS,6.4
 er_h2o_wueyst,measure,Water Use Efficiency (United States dollars per cubic meter),6,6.4.1,ER_H2O_WUEYST,6.4
@@ -204,10 +217,13 @@ er_ias_natbud,measure,"Countries with an allocation from the national budget to 
 er_ias_natbudp,measure,Proportion of countries with allocation from the national budget to manage the threat of invasive alien species (%),15,15.8.1,ER_IAS_NATBUDP,15.8
 er_ias_nbsap,measure,"National Biodiversity Strategy and Action Plan (NBSAP) targets alignment to Aichi Biodiversity target 9 set out in the Strategic Plan for Biodiversity 2011-2020 (1 = YES, 0 = NO)",15,15.8.1,ER_IAS_NBSAP,15.8
 er_ias_nbsapp,measure,Proportion of countries with National Biodiversity Strategy and Action Plan (NBSAP) targets alignment to Aichi Biodiversity target 9 set out in the Strategic Plan for Biodiversity 2011-2020 (%),15,15.8.1,ER_IAS_NBSAPP,15.8
-er_mrn_marin,measure,Coverage of protected areas in relation to marine areas (Exclusive Economic Zones) (%),14,14.5.1,ER_MRN_MARIN,14.5
-er_mrn_marint,measure,Protected marine area (Exclusive Economic Zones) (square kilometres),14,14.5.1,ER_MRN_MARINT,14.5
 er_mrn_mpa,measure,Average proportion of Marine Key Biodiversity Areas (KBAs) covered by protected areas (%),14,14.5.1,ER_MRN_MPA,14.5
+er_mtn_dgrda,measure,Area of degraded mountain land (square kilometres),15,15.4.2,ER_MTN_DGRDA,15.4
+er_mtn_dgrdp,measure,Proportion of degraded mountain land (%),15,15.4.2,ER_MTN_DGRDP,15.4
+er_mtn_grncov,measure,Mountain green cover area (square kilometres),15,15.4.2,ER_MTN_GRNCOV,15.4
 er_mtn_grncvi,measure,Mountain Green Cover Index,15,15.4.2,ER_MTN_GRNCVI,15.4
+er_mtn_totl,measure,Mountain area (square kilometres),15,15.4.2,ER_MTN_TOTL,15.4
+er_noex_lbredn,measure,Number of local breeds (not extinct) (number),2,2.5.2,ER_NOEX_LBREDN,2.5
 er_oaw_mnacd,measure,Average marine acidity (pH) measured at agreed suite of representative sampling stations,14,14.3.1,ER_OAW_MNACD,14.3
 er_ptd_frhwtr,measure,Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas (%),15,15.1.2,ER_PTD_FRHWTR,15.1
 er_ptd_mtn,measure,Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas (%),15,15.4.1,ER_PTD_MTN,15.4
@@ -219,10 +235,9 @@ er_rsk_lbreds,measure,Proportion of local breeds classified as being at risk as 
 er_rsk_lst,measure,Red List Index,15,15.5.1,ER_RSK_LST,15.5
 er_unclos_imple,measure,Score for the implementation of UNCLOS and its two implementing agreements (%),14,14.c.1,ER_UNCLOS_IMPLE,14.c
 er_unclos_ratacc,measure,Score for the ratification of and accession to UNCLOS and its two implementing agreements (%),14,14.c.1,ER_UNCLOS_RATACC,14.c
+er_unk_lbredn,measure,Number of local breeds with unknown risk status (number),2,2.5.2,ER_UNK_LBREDN,2.5
 er_wat_part,measure,"Countries with users/communities participating in planning programs in water resources planning and management, by level of participation (3 = High; 2 = Moderate; 1 = Low; 0 = NA)",6,6.b.1,ER_WAT_PART,6.b
-er_wat_partic,measure,Proportion of countries with high level of users/communities participating in planning programs in water resources planning and management (%),6,6.b.1,ER_WAT_PARTIC,6.b
 er_wat_prdu,measure,"Countries with procedures in law or policy for participation by service users/communities in planning program in water resources planning and management, by level of definition in procedures (10 = Clearly defined; 5 = Not clearly defined ; 0 = NA)",6,6.b.1,ER_WAT_PRDU,6.b
-er_wat_proced,measure,Proportion of countries with clearly defined procedures in law or policy for participation by service users/communities in planning program in water resources planning and management (%),6,6.b.1,ER_WAT_PROCED,6.b
 fb_atm_totl,measure,"Number of automated teller machines (ATMs) per 100,000 adults",8,8.10.1,FB_ATM_TOTL,8.10
 fb_bnk_accss,measure,"Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",8,8.10.2,FB_BNK_ACCSS,8.10
 fb_bnk_accss_ilf,measure,Proportion of adults (15 years and older) active in labor force with an account at a financial institution or mobile-money-service provider (% of adults aged 15 years and older),8,8.10.2,FB_BNK_ACCSS_ILF,8.10
@@ -253,13 +268,15 @@ gc_gob_taxd,measure,Proportion of domestic budget funded by domestic taxes (% of
 gc_tax_totl_gd_zs,measure,Tax revenue as a proportion of GDP (%),17,17.13.1,GC_TAX_TOTL_GD_ZS,17.13
 gf_com_pppi,measure,"Amount of United States dollars committed to public-private partnerships for infrastructure, million USD nominal",17,17.17.1,GF_COM_PPPI,17.17
 gf_com_pppi_kd,measure,"Amount of United States dollars committed to public-private partnerships for infrastructure, million USD real",17,17.17.1,GF_COM_PPPI_KD,17.17
-gf_frn_fdi,measure,Foreign direct investment (FDI) inflows (millions of US dollars),17,17.3.1,GF_FRN_FDI,17.3
+gf_frn_fdi,measure,Foreign direct investment (FDI) inflows (millions of United States dollars),17,17.3.1,GF_FRN_FDI,17.3
 gf_xpd_gbpc,measure,Primary government expenditures as a proportion of original approved budget (%),16,16.6.1,GF_XPD_GBPC,16.6
 gr_g14_gdp,measure,Total government revenue (budgetary central government) as a proportion of GDP (%),17,17.1.1,GR_G14_GDP,17.1
 gr_g14_xdc,measure,"Total government revenue, in local currency",17,17.1.1,GR_G14_XDC,17.1
 ic_frm_brib,measure,Bribery incidence (% of firms experiencing at least one bribe payment request),16,16.5.2,IC_FRM_BRIB,16.5
-ic_gen_mgtl,measure,Proportion of women in managerial positions (%),5,5.5.2,IC_GEN_MGTL,5.5
-ic_gen_mgtn,measure,Proportion of women in senior and middle management positions (%),5,5.5.2,IC_GEN_MGTN,5.5
+ic_gen_mgtl,measure,Proportion of women in managerial positions - 13th ICLS (%),5,5.5.2,IC_GEN_MGTL,5.5
+ic_gen_mgtl_19icls,measure,Proportion of women in managerial positions - 19th ICLS (%),5,5.5.2,IC_GEN_MGTL_19ICLS,5.5
+ic_gen_mgtn,measure,Proportion of women in senior and middle management positions - 13th ICLS (%),5,5.5.2,IC_GEN_MGTN,5.5
+ic_gen_mgtn_19icls,measure,Proportion of women in senior and middle management positions - 19th ICLS (%),5,5.5.2,IC_GEN_MGTN_19ICLS,5.5
 is_rdp_frgvol,measure,"Freight volume, by mode of transport (tonne kilometres)",9,9.1.2,IS_RDP_FRGVOL,9.1
 is_rdp_lulfrg,measure,"Freight loaded and unloaded, maritime transport (metric tons)",9,9.1.2,IS_RDP_LULFRG,9.1
 is_rdp_pfvol,measure,"Passenger volume (passenger kilometres), by mode of transport",9,9.1.2,IS_RDP_PFVOL,9.1
@@ -268,9 +285,9 @@ it_mob_2gntwk,measure,Proportion of population covered by at least a 2G mobile n
 it_mob_3gntwk,measure,Proportion of population covered by at least a 3G mobile network (%),9,9.c.1,IT_MOB_3GNTWK,9.c
 it_mob_4gntwk,measure,Proportion of population covered by at least a 4G mobile network (%),9,9.c.1,IT_MOB_4GNTWK,9.c
 it_mob_own,measure,"Proportion of individuals who own a mobile telephone, by sex (%)",5,5.b.1,IT_MOB_OWN,5.b
-it_net_bbnd,measure,"Fixed Internet broadband subscriptions per 100 inhabitants, by speed (per 100 inhabitants)",17,17.6.1,IT_NET_BBND,17.6
-it_net_bbndn,measure,"Number of fixed Internet broadband subscriptions, by speed (number)",17,17.6.1,IT_NET_BBNDN,17.6
-it_use_ii99,measure,Internet users per 100 inhabitants,17,17.8.1,IT_USE_ii99,17.8
+it_net_bbnd,measure,"Fixed broadband subscriptions per 100 inhabitants, by speed (per 100 inhabitants)",17,17.6.1,IT_NET_BBND,17.6
+it_net_bbndn,measure,"Number of fixed broadband subscriptions, by speed (number)",17,17.6.1,IT_NET_BBNDN,17.6
+it_use_ii99,measure,Proportion of individuals using the Internet (%),17,17.8.1,IT_USE_ii99,17.8
 iu_cor_brib,measure,"Prevalence rate of bribery, by sex (%)",16,16.5.1,IU_COR_BRIB,16.5
 iu_dmk_icrs,measure,Proportion of population who believe decision-making is inclusive and responsive (%),16,16.7.2,IU_DMK_ICRS,16.7
 iu_dmk_incl,measure,Proportion of population who believe decision-making is inclusive (%),16,16.7.2,IU_DMK_INCL,16.7
@@ -283,13 +300,13 @@ ne_imp_gnfs_kd_zg,measure,Annual growth of imports of goods and services (%),17,
 nv_ind_manf,measure,Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%),9,9.2.1,NV_IND_MANF,9.2
 nv_ind_manf_cd,measure,Manufacturing value added (current United States dollars) as a proportion of GDP (%),9,9.2.1,NV_IND_MANF_CD,9.2
 nv_ind_manfpc,measure,Manufacturing value added per capita (constant 2015 United States dollars),9,9.2.1,NV_IND_MANFPC,9.2
-nv_ind_ssis,measure,Proportion of small-scale industries in total industry value added (%),9,9.3.1,NV_IND_SSIS,9.3
+nv_ind_ssis,measure,Proportion of small-scale manufacturing industries in total manufacturing value added (%),9,9.3.1,NV_IND_SSIS,9.3
 nv_ind_tech,measure,Proportion of medium and high-tech manufacturing value added in total value added (%),9,9.b.1,NV_IND_TECH,9.b
 ny_gdp_mktp_kd_zg,measure,Annual GDP growth (%),17,17.13.1,NY_GDP_MKTP_KD_ZG,17.13
 ny_gdp_pcap,measure,Annual growth rate of real GDP per capita (%),8,8.1.1,NY_GDP_PCAP,8.1
 pa_nus_atls,measure,DEC alternative conversion factor (in local currency unit per United States dollar),17,17.13.1,PA_NUS_ATLS,17.13
-pd_agr_lsfp,measure,"Productivity of large-scale food producers (agricultural output per labour day, PPP) (constant 2011 international $)",2,2.3.1,PD_AGR_LSFP,2.3
-pd_agr_ssfp,measure,"Productivity of small-scale food producers (agricultural output per labour day, PPP) (constant 2011 international $)",2,2.3.1,PD_AGR_SSFP,2.3
+pd_agr_lsfp,measure,"Productivity of large-scale food producers (agricultural output per labour day, PPP) (constant 2017 international $)",2,2.3.1,PD_AGR_LSFP,2.3
+pd_agr_ssfp,measure,"Productivity of small-scale food producers (agricultural output per labour day, PPP) (constant 2017 international $)",2,2.3.1,PD_AGR_SSFP,2.3
 sd_cpa_uprdp,measure,Countries that have national urban policies or regional development plans that respond to population dynamics; ensure balanced territorial development; and increase local fiscal space (1 = YES; 0 = NO),11,11.a.1,SD_CPA_UPRDP,11.a
 sd_mdp_andi,measure,Average proportion of deprivations for people multidimensionally poor (%),1,1.2.2,SD_MDP_ANDI,1.2
 sd_mdp_andihh,measure,Average share of weighted deprivations of total households (intensity) (%),1,1.2.2,SD_MDP_ANDIHH,1.2
@@ -470,7 +487,7 @@ sh_sta_anem_nprg,measure,"Proportion of women aged 15-49 years with anaemia, non
 sh_sta_anem_preg,measure,"Proportion of women aged 15-49 years with anaemia, pregnant (%)",2,2.2.3,SH_STA_ANEM_PREG,2.2
 sh_sta_asairp,measure,"Age-standardized mortality rate attributed to household and ambient air pollution (deaths per 100,000 population)",3,3.9.1,SH_STA_ASAIRP,3.9
 sh_sta_brtc,measure,Proportion of births attended by skilled health personnel (%),3,3.1.2,SH_STA_BRTC,3.1
-sh_sta_fgms,measure,"Proportion of girls and women aged 15-49 years who have undergone female genital mutilation/cutting, by age (%)",5,5.3.2,SH_STA_FGMS,5.3
+sh_sta_fgms,measure,"Proportion of girls and women aged 15-49 years who have undergone female genital mutilation, by age (%)",5,5.3.2,SH_STA_FGMS,5.3
 sh_sta_malr,measure,"Malaria incidence per 1,000 population at risk (per 1,000 population)",3,3.3.3,SH_STA_MALR,3.3
 sh_sta_mort,measure,Maternal mortality ratio,3,3.1.1,SH_STA_MORT,3.1
 sh_sta_poisn,measure,"Mortality rate attributed to unintentional poisonings, by sex (deaths per 100,000 population)",3,3.9.3,SH_STA_POISN,3.9
@@ -488,8 +505,8 @@ sh_tbs_incd,measure,"Tuberculosis incidence (per 100,000 population)",3,3.3.2,SH
 sh_trp_intvn,measure,Number of people requiring interventions against neglected tropical diseases (number),3,3.3.5,SH_TRP_INTVN,3.3
 sh_xpd_earn10,measure,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income (%),3,3.8.2,SH_XPD_EARN10,3.8
 sh_xpd_earn25,measure,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income (%),3,3.8.2,SH_XPD_EARN25,3.8
-si_agr_lsfp,measure,"Average income of large-scale food producers, PPP (constant 2011 international $)",2,2.3.2,SI_AGR_LSFP,2.3
-si_agr_ssfp,measure,"Average income of small-scale food producers, PPP (constant 2011 international $)",2,2.3.2,SI_AGR_SSFP,2.3
+si_agr_lsfp,measure,"Average income of large-scale food producers, PPP (constant 2017 international $)",2,2.3.2,SI_AGR_LSFP,2.3
+si_agr_ssfp,measure,"Average income of small-scale food producers, PPP (constant 2017 international $)",2,2.3.2,SI_AGR_SSFP,2.3
 si_cov_benfts,measure,"[ILO] Proportion of population covered by at least one social protection benefit, by sex (%)",1,1.3.1,SI_COV_BENFTS,1.3
 si_cov_chld,measure,"[ILO] Proportion of children/households receiving child/family cash benefit, by sex (%)",1,1.3.1,SI_COV_CHLD,1.3
 si_cov_disab,measure,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",1,1.3.1,SI_COV_DISAB,1.3
@@ -522,14 +539,19 @@ sl_emp_gtotl,measure,Labour share of GDP (%),10,10.4.1,SL_EMP_GTOTL,10.4
 sl_emp_injur,measure,"Non-fatal occupational injuries among employees, by sex and migrant status (per 100,000 employees)",8,8.8.1,SL_EMP_INJUR,8.8
 sl_emp_pcap,measure,Annual growth rate of real GDP per employed person (%),8,8.2.1,SL_EMP_PCAP,8.2
 sl_emp_rcost_mo,measure,Migrant recruitment costs (number of months of earnings),10,10.7.1,SL_EMP_RCOST_MO,10.7
-sl_isv_ifem,measure,"Proportion of informal employment, by sector and sex (ILO harmonized estimates) (%)",8,8.3.1,SL_ISV_IFEM,8.3
+sl_isv_ifem,measure,"Proportion of informal employment, by sector and sex (ILO harmonized estimates) - 13th ICLS (%)",8,8.3.1,SL_ISV_IFEM,8.3
+sl_isv_ifem_19icls,measure,"Proportion of informal employment, by sector and sex (ILO harmonized estimates) - 19th ICLS (%)",8,8.3.1,SL_ISV_IFEM_19ICLS,8.3
 sl_lbr_ntlcpl,measure,Level of national compliance with labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation,8,8.8.2,SL_LBR_NTLCPL,8.8
 sl_tlf_chldea,measure,"Proportion of children engaged in economic activity, by sex and age  (%)",8,8.7.1,SL_TLF_CHLDEA,8.7
 sl_tlf_chldec,measure,"Proportion of children engaged in economic activity and household chores, by sex and age (%)",8,8.7.1,SL_TLF_CHLDEC,8.7
-sl_tlf_manf,measure,Manufacturing employment as a proportion of total employment (%),9,9.2.2,SL_TLF_MANF,9.2
-sl_tlf_neet,measure,"Proportion of youth not in education, employment or training, by sex and age (%)",8,8.6.1,SL_TLF_NEET,8.6
-sl_tlf_uem,measure,"Unemployment rate, by sex and age (%)",8,8.5.2,SL_TLF_UEM,8.5
-sl_tlf_uemdis,measure,"Unemployment rate, by sex and disability (%)",8,8.5.2,SL_TLF_UEMDIS,8.5
+sl_tlf_manf,measure,Manufacturing employment as a proportion of total employment - 13th ICLS (%),9,9.2.2,SL_TLF_MANF,9.2
+sl_tlf_manf_19icls,measure,Manufacturing employment as a proportion of total employment - 19th ICLS(%),9,9.2.2,SL_TLF_MANF_19ICLS,9.2
+sl_tlf_neet,measure,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%)",8,8.6.1,SL_TLF_NEET,8.6
+sl_tlf_neet_19icls,measure,"Proportion of youth not in education, employment or training, by sex and age - 19th ICLS (%)",8,8.6.1,SL_TLF_NEET_19ICLS,8.6
+sl_tlf_uem,measure,"Unemployment rate, by sex and age - 13th ICLS (%)",8,8.5.2,SL_TLF_UEM,8.5
+sl_tlf_uem_19icls,measure,"Unemployment rate, by sex and age - 19th ICLS (%)",8,8.5.2,SL_TLF_UEM_19ICLS,8.5
+sl_tlf_uemdis,measure,"Unemployment rate, by sex and disability - 13th ICLS (%)",8,8.5.2,SL_TLF_UEMDIS,8.5
+sl_tlf_uemdis_19icls,measure,"Unemployment rate, by sex and disability - 19th ICLS (%)",8,8.5.2,SL_TLF_UEMDIS_19ICLS,8.5
 sm_dth_migr,measure,Total deaths and disappearances recorded during migration (number),10,10.7.3,SM_DTH_MIGR,10.7
 sm_pop_refg_or,measure,"Number of refugees per 100,000 population, by country of origin (per 100,000 population)",10,10.7.4,SM_POP_REFG_OR,10.7
 sn_itk_defc,measure,Prevalence of undernourishment (%),2,2.1.1,SN_ITK_DEFC,2.1
@@ -605,9 +627,14 @@ vc_dth_totr,measure,"Number of total conflict-related deaths per 100,000 populat
 vc_dth_tounn,measure,"Number of conflict-related deaths (unknown), by sex, age and cause of death (Number)",16,16.1.2,VC_DTH_TOUNN,16.1
 vc_htf_detv,measure,"Detected victims of human trafficking, by age and sex (number)",16,16.2.2,VC_HTF_DETV,16.2
 vc_htf_detvfl,measure,"Detected victims of human trafficking for forced labour, servitude and slavery, by age and sex (number)",16,16.2.2,VC_HTF_DETVFL,16.2
+vc_htf_detvflr,measure,"Detected victims of human trafficking for forced labour, servitude and slavery, by age and sex (per 100,000 population)",16,16.2.2,VC_HTF_DETVFLR,16.2
 vc_htf_detvog,measure,"Detected victims of human trafficking for removal of organ, by age and sex (number)",16,16.2.2,VC_HTF_DETVOG,16.2
+vc_htf_detvogr,measure,"Detected victims of human trafficking for removal of organ, by age and sex (per 100,000 population)",16,16.2.2,VC_HTF_DETVOGR,16.2
 vc_htf_detvop,measure,"Detected victims of human trafficking for other purposes, by age and sex (number)",16,16.2.2,VC_HTF_DETVOP,16.2
-vc_htf_detvsx,measure,"Detected victims of human trafficking for sexual exploitaton, by age and sex (number)",16,16.2.2,VC_HTF_DETVSX,16.2
+vc_htf_detvopr,measure,"Detected victims of human trafficking for other purposes, by age and sex (per 100,000 population)",16,16.2.2,VC_HTF_DETVOPR,16.2
+vc_htf_detvr,measure,"Detected victims of human trafficking, by age and sex (per 100,000 population)",16,16.2.2,VC_HTF_DETVR,16.2
+vc_htf_detvsx,measure,"Detected victims of human trafficking for sexual exploitation, by age and sex (number)",16,16.2.2,VC_HTF_DETVSX,16.2
+vc_htf_detvsxr,measure,"Detected victims of human trafficking for sexual exploitation, by age and sex (per 100,000 population)",16,16.2.2,VC_HTF_DETVSXR,16.2
 vc_ihr_psrc,measure,"Number of victims of intentional homicide per 100,000 population, by sex (victims per 100,000 population)",16,16.1.1,VC_IHR_PSRC,16.1
 vc_ihr_psrcn,measure,"Number of victims of intentional homicide, by sex (number)",16,16.1.1,VC_IHR_PSRCN,16.1
 vc_prr_phyv,measure,"Police reporting rate for physical assault, by sex (%)",16,16.3.1,VC_PRR_PHYV,16.3
@@ -620,6 +647,7 @@ vc_vaw_mtuhra,measure,"Number of cases of killings of human rights defenders, jo
 vc_vaw_phypyv,measure,Proportion of children aged 1-14 years who experienced physical punishment and/or psychological aggression by caregivers in last month (% of children aged 1-14 years),16,16.2.1,VC_VAW_PHYPYV,16.2
 vc_vaw_sxvln,measure,"Proportion of population aged 18-29 years who experienced sexual violence by age 18, by sex (% of population aged 18-29)",16,16.2.3,VC_VAW_SXVLN,16.2
 vc_voc_enfdis,measure,"Number of cases of enforced disappearance of human rights defenders, journalists and trade unionists (Number)",16,16.10.1,VC_VOC_ENFDIS,16.10
+vc_voh_sxph,measure,"Proportion of persons victim of physical or sexual harassment, in the previous 12 months (%)",11,11.7.2,VC_VOH_SXPH,11.7
 vc_vov_gdsd,measure,"Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)","10, 16","10.3.1, 16.b.1",VC_VOV_GDSD,"10.3, 16.b"
 vc_vov_phyl,measure,"Proportion of population subjected to physical violence in the previous 12 months, by sex (%)",16,16.1.3,VC_VOV_PHYL,16.1
 vc_vov_robb,measure,"Proportion of population subjected to robbery in the previous 12 months, by sex (%)",16,16.1.3,VC_VOV_ROBB,16.1

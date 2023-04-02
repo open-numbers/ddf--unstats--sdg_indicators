@@ -1,0 +1,12 @@
+land_cover,name
+artificial,ARTIFICIAL
+cropland,CROPLAND
+glaciers,GLACIERS
+grassland,GRASSLAND
+herb_aqua_flood,HERB_AQUA_FLOOD
+inland_water,INLAND_WATER
+mgci,MGCI
+shrub_covered,SHRUB_COVERED
+sparse_nat_veg,SPARSE_NAT_VEG
+terrestrial_barren,TERRESTRIAL_BARREN
+tree_covered,TREE_COVERED

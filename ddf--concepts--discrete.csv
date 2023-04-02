@@ -1,6 +1,7 @@
 concept,concept_type,name
 activity,entity_domain,Activity
 age,entity_domain,Age
+bioclimatic_belt,entity_domain,Bioclimatic Belt
 cause_of_death,entity_domain,Cause Of Death
 cities,entity_domain,Cities
 counterpart,entity_domain,Counterpart
@@ -19,7 +20,9 @@ government_name,entity_domain,Government Name
 grounds_of_discrimination,entity_domain,Grounds Of Discrimination
 hazard_type,entity_domain,Hazard Type
 ihr_capacity,entity_domain,Ihr Capacity
+illicit_financial_flows,entity_domain,Illicit Financial Flows
 indicator,string,Indicator
+land_cover,entity_domain,Land Cover
 level_of_government,entity_domain,Level Of Government
 level_of_requirement,entity_domain,Level Of Requirement
 level_status,entity_domain,Level Status

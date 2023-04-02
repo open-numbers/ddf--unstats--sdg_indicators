@@ -5,6 +5,7 @@ geo_area,nature,units,year,sg_dsr_lgrgsr
 8,c,index,2018,0.05
 12,c,index,2019,0.15
 12,c,index,2020,1
+12,c,index,2021,0.65
 24,c,index,2014,0.525
 24,c,index,2015,0.3
 24,c,index,2016,0.325
@@ -21,7 +22,9 @@ geo_area,nature,units,year,sg_dsr_lgrgsr
 36,c,index,2018,0.625
 36,c,index,2019,0.7
 36,c,index,2020,0.7
+36,c,index,2021,0.7
 40,c,index,2018,0.55
+48,c,index,2021,0.65
 50,c,index,2016,0.875
 50,c,index,2017,0.9
 50,c,index,2018,0.9
@@ -32,6 +35,7 @@ geo_area,nature,units,year,sg_dsr_lgrgsr
 51,c,index,2018,0.75
 51,c,index,2019,0.75
 51,c,index,2020,0.7
+51,c,index,2021,0.925
 52,c,index,2018,0.975
 52,c,index,2019,1
 64,c,index,2017,0.7
@@ -42,6 +46,7 @@ geo_area,nature,units,year,sg_dsr_lgrgsr
 68,c,index,2018,0.6
 68,c,index,2019,0.6
 68,c,index,2020,0.6
+68,c,index,2021,0.3
 72,c,index,2017,0.125
 72,c,index,2018,0.525
 90,c,index,2014,0.35
@@ -51,14 +56,23 @@ geo_area,nature,units,year,sg_dsr_lgrgsr
 90,c,index,2018,0.525
 90,c,index,2019,0.05
 90,c,index,2020,0.775
-90,c,index,2021,0.025
+90,c,index,2021,0.725
+96,c,index,2018,0.05
 100,c,index,2015,0.375
 100,c,index,2016,0.375
 100,c,index,2017,0.2
 100,c,index,2018,0.9
 100,c,index,2019,0.9
 100,c,index,2020,0.9
+100,c,index,2021,0.9
 104,c,index,2005,0
+104,c,index,2006,0.05
+104,c,index,2009,0.025
+104,c,index,2010,0.1
+104,c,index,2011,0.175
+104,c,index,2012,0.175
+104,c,index,2013,0.175
+104,c,index,2014,0.2
 104,c,index,2015,0.475
 104,c,index,2016,0.55
 104,c,index,2017,0.7
@@ -72,6 +86,7 @@ geo_area,nature,units,year,sg_dsr_lgrgsr
 112,c,index,2018,0.55
 112,c,index,2019,0.8
 112,c,index,2020,0.8
+112,c,index,2021,0.8
 116,c,index,2019,0.65
 120,c,index,2017,0
 120,c,index,2018,0
@@ -87,6 +102,7 @@ geo_area,nature,units,year,sg_dsr_lgrgsr
 152,c,index,2018,0.5
 152,c,index,2019,0.9
 152,c,index,2020,0.9
+152,c,index,2021,0.9
 156,c,index,2020,1
 170,c,index,2005,0.35
 170,c,index,2006,0.35
@@ -104,6 +120,7 @@ geo_area,nature,units,year,sg_dsr_lgrgsr
 170,c,index,2018,0.65
 170,c,index,2019,1
 170,c,index,2020,1
+170,c,index,2021,1
 174,c,index,2017,0.325
 174,c,index,2020,0
 188,c,index,2005,0.25
@@ -122,6 +139,7 @@ geo_area,nature,units,year,sg_dsr_lgrgsr
 188,c,index,2018,0.925
 188,c,index,2019,0.925
 188,c,index,2020,0.925
+188,c,index,2021,0.925
 203,c,index,2015,0.875
 203,c,index,2016,0.9
 203,c,index,2017,0.925
@@ -146,6 +164,8 @@ geo_area,nature,units,year,sg_dsr_lgrgsr
 218,c,index,2016,0.175
 218,c,index,2017,0.55
 218,c,index,2019,0.675
+218,c,index,2020,0.25
+218,c,index,2021,0.55
 231,c,index,2005,0
 231,c,index,2006,0
 231,c,index,2007,0
@@ -180,6 +200,7 @@ geo_area,nature,units,year,sg_dsr_lgrgsr
 242,c,index,2018,0
 242,c,index,2019,0.95
 242,c,index,2020,0.975
+242,c,index,2021,0.975
 246,c,index,2015,0.75
 246,c,index,2016,0.75
 246,c,index,2017,0.75
@@ -191,10 +212,12 @@ geo_area,nature,units,year,sg_dsr_lgrgsr
 250,c,index,2018,0.65
 268,c,index,2014,0
 268,c,index,2015,0
-268,c,index,2016,0.825
+268,c,index,2016,0
 268,c,index,2017,0.975
 268,c,index,2018,0.975
+268,c,index,2019,0.1
 268,c,index,2020,0.975
+268,c,index,2021,0.975
 270,c,index,2017,0.45
 270,c,index,2018,0.375
 275,c,index,2015,0.075
@@ -215,6 +238,7 @@ geo_area,nature,units,year,sg_dsr_lgrgsr
 296,c,index,2018,0.4
 296,c,index,2019,0.9
 296,c,index,2020,0.925
+296,c,index,2021,0.925
 308,c,index,2019,0.925
 320,c,index,2005,0.05
 320,c,index,2006,0
@@ -224,9 +248,11 @@ geo_area,nature,units,year,sg_dsr_lgrgsr
 320,c,index,2017,0.8
 320,c,index,2018,0.9
 320,c,index,2020,0.375
+320,c,index,2021,0.45
 328,c,index,2019,0.6
 332,c,index,2019,0.5
 348,c,index,2020,0.75
+348,c,index,2021,0.875
 356,c,index,2015,0.25
 356,c,index,2018,0.925
 356,c,index,2019,1
@@ -252,10 +278,12 @@ geo_area,nature,units,year,sg_dsr_lgrgsr
 392,c,index,2018,1
 392,c,index,2019,1
 392,c,index,2020,1
+392,c,index,2021,1
 398,c,index,2017,0.875
 398,c,index,2018,0.85
 398,c,index,2019,0.825
 398,c,index,2020,0.775
+398,c,index,2021,0.775
 400,c,index,2005,0
 400,c,index,2007,0
 400,c,index,2008,0
@@ -268,6 +296,8 @@ geo_area,nature,units,year,sg_dsr_lgrgsr
 400,c,index,2015,0
 400,c,index,2018,0
 400,c,index,2019,0.875
+400,c,index,2021,0.775
+400,c,index,2022,0.175
 410,c,index,2015,0.95
 410,c,index,2016,0.95
 410,c,index,2017,0.95
@@ -288,12 +318,14 @@ geo_area,nature,units,year,sg_dsr_lgrgsr
 417,c,index,2017,0.825
 417,c,index,2018,0.925
 417,c,index,2019,0.9
+418,c,index,2021,0.025
 422,c,index,2012,0.35
 422,c,index,2017,0
 422,c,index,2018,0.225
 422,c,index,2019,0.65
 430,c,index,2020,0.975
 440,c,index,2020,0.625
+440,c,index,2021,0.7
 454,c,index,2015,0.85
 454,c,index,2016,0.825
 454,c,index,2017,0.825
@@ -306,6 +338,7 @@ geo_area,nature,units,year,sg_dsr_lgrgsr
 458,c,index,2018,0.25
 458,c,index,2019,0.5
 458,c,index,2020,0.65
+458,c,index,2021,0.7
 462,c,index,2017,0
 480,c,index,2020,0.975
 484,c,index,2015,0.9
@@ -314,6 +347,7 @@ geo_area,nature,units,year,sg_dsr_lgrgsr
 484,c,index,2018,0.925
 484,c,index,2019,0.925
 484,c,index,2020,0.925
+484,c,index,2021,0.75
 492,c,index,2017,0.6
 492,c,index,2018,0.6
 496,c,index,2016,0
@@ -328,6 +362,7 @@ geo_area,nature,units,year,sg_dsr_lgrgsr
 504,c,index,2018,0.6
 504,c,index,2019,0.7
 504,c,index,2020,0.725
+504,c,index,2021,0.75
 508,c,index,2017,0.675
 516,c,index,2015,0.25
 516,c,index,2016,0.5
@@ -341,11 +376,13 @@ geo_area,nature,units,year,sg_dsr_lgrgsr
 520,c,index,2018,0.55
 520,c,index,2019,0.55
 520,c,index,2020,0.6
+520,c,index,2021,0.6
 524,c,index,2015,0.05
 524,c,index,2016,0.05
 524,c,index,2017,0.05
 524,c,index,2018,0.375
 524,c,index,2019,0.75
+524,c,index,2022,0.075
 528,c,index,2017,0.9
 548,c,index,2015,0
 548,c,index,2016,0.25
@@ -353,12 +390,14 @@ geo_area,nature,units,year,sg_dsr_lgrgsr
 548,c,index,2018,0.05
 548,c,index,2019,0.225
 548,c,index,2020,0.65
+548,c,index,2021,0.6
 554,c,index,2015,0.875
 554,c,index,2016,0.875
 554,c,index,2017,0.875
 554,c,index,2018,0.875
 554,c,index,2019,0.875
 554,c,index,2020,0.875
+554,c,index,2021,0.9
 562,c,index,2015,0.25
 562,c,index,2016,0.25
 562,c,index,2017,0.25
@@ -376,6 +415,7 @@ geo_area,nature,units,year,sg_dsr_lgrgsr
 583,c,index,2018,0.675
 583,c,index,2019,0.65
 583,c,index,2020,0.575
+583,c,index,2021,0.425
 584,c,index,2014,0.775
 584,c,index,2015,0.775
 584,c,index,2016,0.775
@@ -384,6 +424,7 @@ geo_area,nature,units,year,sg_dsr_lgrgsr
 584,c,index,2019,0
 584,c,index,2020,0
 585,c,index,2020,0.725
+585,c,index,2021,0.725
 586,c,index,2015,0.425
 586,c,index,2016,0.425
 586,c,index,2017,0.425
@@ -405,6 +446,7 @@ geo_area,nature,units,year,sg_dsr_lgrgsr
 608,c,index,2018,0.45
 608,c,index,2019,0.65
 608,c,index,2020,0.725
+608,c,index,2021,1
 616,c,index,2015,0.8
 616,c,index,2016,0.8
 616,c,index,2017,0.8
@@ -434,6 +476,7 @@ geo_area,nature,units,year,sg_dsr_lgrgsr
 634,c,index,2019,1
 634,c,index,2020,1
 634,c,index,2021,1
+634,c,index,2022,1
 642,c,index,2019,0
 643,c,index,2014,0.7
 643,c,index,2015,0.725
@@ -442,6 +485,7 @@ geo_area,nature,units,year,sg_dsr_lgrgsr
 643,c,index,2018,0.8
 643,c,index,2019,0.825
 643,c,index,2020,0.825
+643,c,index,2021,0.85
 662,c,index,2019,0.825
 670,c,index,2019,0.525
 682,c,index,2015,0
@@ -450,6 +494,7 @@ geo_area,nature,units,year,sg_dsr_lgrgsr
 682,c,index,2018,0
 682,c,index,2019,1
 682,c,index,2020,1
+682,c,index,2021,0.05
 688,c,index,2011,0.15
 688,c,index,2014,0.5
 688,c,index,2017,0.675
@@ -458,6 +503,7 @@ geo_area,nature,units,year,sg_dsr_lgrgsr
 705,c,index,2018,0.65
 705,c,index,2019,0.65
 705,c,index,2020,0.65
+705,c,index,2021,0.65
 706,c,index,2017,0.75
 706,c,index,2018,0.75
 710,c,index,2015,0.425
@@ -500,6 +546,7 @@ geo_area,nature,units,year,sg_dsr_lgrgsr
 768,c,index,2020,0.55
 776,c,index,2019,0.275
 776,c,index,2020,0.475
+776,c,index,2021,0.5
 780,c,index,2015,0.25
 780,c,index,2016,0.5
 780,c,index,2017,0.5
@@ -516,6 +563,7 @@ geo_area,nature,units,year,sg_dsr_lgrgsr
 798,c,index,2018,0.175
 798,c,index,2019,0.25
 798,c,index,2020,0.3
+798,c,index,2021,0.45
 800,c,index,2006,0
 800,c,index,2017,0.575
 800,c,index,2019,0.7
@@ -527,6 +575,7 @@ geo_area,nature,units,year,sg_dsr_lgrgsr
 804,c,index,2018,0.5
 804,c,index,2019,0.525
 804,c,index,2020,0.575
+804,c,index,2021,0.525
 818,c,index,2005,0.5
 818,c,index,2006,0.65
 818,c,index,2007,0.625
@@ -543,6 +592,7 @@ geo_area,nature,units,year,sg_dsr_lgrgsr
 818,c,index,2018,0.7
 818,c,index,2019,0.725
 818,c,index,2020,0.775
+818,c,index,2021,0.725
 826,c,index,2005,1
 826,c,index,2015,1
 826,c,index,2018,1
@@ -558,6 +608,7 @@ geo_area,nature,units,year,sg_dsr_lgrgsr
 840,c,index,2017,0.9
 840,c,index,2018,0.75
 840,c,index,2019,0.75
+840,c,index,2020,0.75
 854,c,index,2015,0.25
 854,c,index,2016,0.25
 854,c,index,2017,0.475
@@ -567,10 +618,12 @@ geo_area,nature,units,year,sg_dsr_lgrgsr
 858,c,index,2020,0.6
 860,c,index,2019,1
 860,c,index,2020,1
+860,c,index,2021,1
 882,c,index,2017,0.525
 882,c,index,2018,0.675
 882,c,index,2019,0.7
 882,c,index,2020,0.725
+882,c,index,2021,0.725
 894,c,index,2015,0.425
 894,c,index,2018,0.25
 894,c,index,2019,0.4
