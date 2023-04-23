@@ -8,7 +8,7 @@
     "description": "SDG indicators",
     "author": "Gapminder",
     "license": "CC-BY-4.0",
-    "created": "2023-04-16T01:15:01.970530+00:00",
+    "created": "2023-04-23T01:15:18.423786+00:00",
     "translations": [],
     "version": "0.0.1",
     "resources": [
@@ -3860,6 +3860,39 @@
                     },
                     {
                         "name": "en_haz_gengdp"
+                    }
+                ],
+                "primaryKey": [
+                    "geo_area",
+                    "nature",
+                    "observation_status",
+                    "units",
+                    "year"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--en_haz_genv--by--geo_area--nature--observation_status--units--year",
+            "path": "ddf--datapoints--en_haz_genv--by--geo_area--nature--observation_status--units--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "nature"
+                    },
+                    {
+                        "name": "observation_status"
+                    },
+                    {
+                        "name": "units"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "en_haz_genv"
                     }
                 ],
                 "primaryKey": [
@@ -18172,6 +18205,47 @@
             }
         },
         {
+            "name": "ddf--datapoints--sl_isv_ifem--by--activity--geo_area--nature--observation_status--sex--units--year",
+            "path": "ddf--datapoints--sl_isv_ifem--by--activity--geo_area--nature--observation_status--sex--units--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "activity"
+                    },
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "nature"
+                    },
+                    {
+                        "name": "observation_status"
+                    },
+                    {
+                        "name": "sex"
+                    },
+                    {
+                        "name": "units"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "sl_isv_ifem"
+                    }
+                ],
+                "primaryKey": [
+                    "activity",
+                    "geo_area",
+                    "nature",
+                    "observation_status",
+                    "sex",
+                    "units",
+                    "year"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--sl_isv_ifem_19icls--by--activity--geo_area--nature--observation_status--sex--units--year",
             "path": "ddf--datapoints--sl_isv_ifem_19icls--by--activity--geo_area--nature--observation_status--sex--units--year.csv",
             "schema": {
@@ -24956,6 +25030,19 @@
                     "units",
                     "year"
                 ],
+                "value": "en_haz_genv",
+                "resources": [
+                    "ddf--datapoints--en_haz_genv--by--geo_area--nature--observation_status--units--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo_area",
+                    "nature",
+                    "observation_status",
+                    "units",
+                    "year"
+                ],
                 "value": "en_haz_imp",
                 "resources": [
                     "ddf--datapoints--en_haz_imp--by--geo_area--nature--observation_status--units--year"
@@ -30516,6 +30603,21 @@
                 "value": "sl_emp_rcost_mo",
                 "resources": [
                     "ddf--datapoints--sl_emp_rcost_mo--by--geo_area--migratory_status--nature--sex--units--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "activity",
+                    "geo_area",
+                    "nature",
+                    "observation_status",
+                    "sex",
+                    "units",
+                    "year"
+                ],
+                "value": "sl_isv_ifem",
+                "resources": [
+                    "ddf--datapoints--sl_isv_ifem--by--activity--geo_area--nature--observation_status--sex--units--year"
                 ]
             },
             {
