@@ -20,15 +20,12 @@ geo_area,nature,observation_status,units,year,sp_gnp_wnowns
 270,e,a,percent,2020,29.1
 288,e,a,percent,2017,38.7
 320,e,a,percent,2015,28
-324,e,a,percent,2012,51.3
 332,e,a,percent,2016,36.1
 340,e,a,percent,2012,27.1
 356,e,a,percent,2012,14.3
 356,e,a,percent,2015,36.2
 356,e,a,percent,2020,41.3
 360,c,a,percent,2021,19.65
-360,e,a,percent,2012,48.6
-360,e,a,percent,2017,48.6
 384,e,a,percent,2019,16.2
 404,e,a,percent,2014,51.1
 417,e,a,percent,2012,40.2
@@ -63,7 +60,6 @@ geo_area,nature,observation_status,units,year,sp_gnp_wnowns
 646,e,a,percent,2015,50.5
 646,e,a,percent,2019,53.6
 686,c,a,percent,2022,8.9
-686,e,a,percent,2019,19.3
 694,e,a,percent,2018,34.6
 716,c,a,percent,2019,56.4
 768,e,a,percent,2014,19.9

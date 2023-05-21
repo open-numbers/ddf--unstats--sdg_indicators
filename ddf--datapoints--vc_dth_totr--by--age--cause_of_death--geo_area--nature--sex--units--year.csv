@@ -1,8 +1,9 @@
 age,cause_of_death,geo_area,nature,sex,units,year,vc_dth_totr
-allage,t,1,g,bothsex,per_100000_pop,2015,22.7
-allage,t,1,g,bothsex,per_100000_pop,2016,20.3
-allage,t,1,g,bothsex,per_100000_pop,2017,15.4
-allage,t,1,g,bothsex,per_100000_pop,2018,10.9
-allage,t,1,g,bothsex,per_100000_pop,2019,6.5
-allage,t,1,g,bothsex,per_100000_pop,2020,5.6
-allage,t,1,g,bothsex,per_100000_pop,2021,4.1
+allage,t,1,n,bothsex,per_100000_pop,2015,22.1
+allage,t,1,n,bothsex,per_100000_pop,2016,19.8
+allage,t,1,n,bothsex,per_100000_pop,2017,14.9
+allage,t,1,n,bothsex,per_100000_pop,2018,10.5
+allage,t,1,n,bothsex,per_100000_pop,2019,6.3
+allage,t,1,n,bothsex,per_100000_pop,2020,5.4
+allage,t,1,n,bothsex,per_100000_pop,2021,3.9
+allage,t,1,n,bothsex,per_100000_pop,2022,5.5

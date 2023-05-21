@@ -62,12 +62,6 @@ geo_area,nature,observation_status,sex,units,year,sp_lgl_lndagsec
 320,e,a,bothsex,percent,2015,26
 320,e,a,female,percent,2015,14.9
 320,e,a,male,percent,2015,36.4
-324,e,a,bothsex,percent,2012,43.4
-324,e,a,bothsex,percent,2018,53.1
-324,e,a,female,percent,2012,37.1
-324,e,a,female,percent,2018,43.7
-324,e,a,male,percent,2012,52.8
-324,e,a,male,percent,2018,65
 332,e,a,bothsex,percent,2016,49.5
 332,e,a,female,percent,2016,44.4
 332,e,a,male,percent,2016,52.9
@@ -86,12 +80,6 @@ geo_area,nature,observation_status,sex,units,year,sp_lgl_lndagsec
 360,c,a,bothsex,percent,2021,33.5
 360,c,a,female,percent,2021,13.61
 360,c,a,male,percent,2021,52.09
-360,e,a,bothsex,percent,2012,50.6
-360,e,a,bothsex,percent,2017,51.6
-360,e,a,female,percent,2012,46.4
-360,e,a,female,percent,2017,46.4
-360,e,a,male,percent,2012,55.2
-360,e,a,male,percent,2017,57.6
 384,e,a,bothsex,percent,2019,36.2
 384,e,a,female,percent,2019,11.2
 384,e,a,male,percent,2019,63.8
@@ -194,9 +182,6 @@ geo_area,nature,observation_status,sex,units,year,sp_lgl_lndagsec
 686,c,a,bothsex,percent,2022,7.9
 686,c,a,female,percent,2022,1.4
 686,c,a,male,percent,2022,14.3
-686,e,a,bothsex,percent,2019,19.1
-686,e,a,female,percent,2019,6.5
-686,e,a,male,percent,2019,35.7
 694,e,a,bothsex,percent,2018,15.3
 694,e,a,female,percent,2018,9.5
 694,e,a,male,percent,2018,22.7

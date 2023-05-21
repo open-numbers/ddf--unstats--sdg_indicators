@@ -50,32 +50,37 @@ dc_fin_climm,measure,"Climate-specific financial support provided via multilater
 dc_fin_climt,measure,Total climate-specific financial support provided (Billions of current United States dollars),13,13.a.1,DC_FIN_CLIMT,13.a
 dc_fin_gen,measure,Core/general contributions provided to multilateral institutions (Billions of current United States dollars),13,13.a.1,DC_FIN_GEN,13.a
 dc_fin_tot,measure,Total financial support provided (Billions of current United States dollars),13,13.a.1,DC_FIN_TOT,13.a
-dc_fta_total,measure,Total official development assistance (gross disbursement) for technical cooperation (millions of 2020 United States dollars),17,17.9.1,DC_FTA_TOTAL,17.9
-dc_oda_bdvdl,measure,"Total official development assistance for biodiversity, by donor countries (millions of constant 2020 United States dollars)","15, 15","15.a.1, 15.b.1",DC_ODA_BDVDL,"15.a, 15.b"
-dc_oda_bdvl,measure,"Total official development assistance for biodiversity, by recipient countries (millions of constant 2020 United States dollars)","15, 15","15.a.1, 15.b.1",DC_ODA_BDVL,"15.a, 15.b"
+dc_fta_total,measure,Total official development assistance (gross disbursement) for technical cooperation (millions of 2021 United States dollars),17,17.9.1,DC_FTA_TOTAL,17.9
+dc_oda_bdvdl,measure,"Total official development assistance for biodiversity, by donor countries (millions of constant 2021 United States dollars)","15, 15","15.a.1, 15.b.1",DC_ODA_BDVDL,"15.a, 15.b"
+dc_oda_bdvl,measure,"Total official development assistance for biodiversity, by recipient countries (millions of constant 2021 United States dollars)","15, 15","15.a.1, 15.b.1",DC_ODA_BDVL,"15.a, 15.b"
 dc_oda_ldcg,measure,"Net official development assistance (ODA) to LDCs as a percentage of OECD-DAC donors' GNI, by donor countries (%)",17,17.2.1,DC_ODA_LDCG,17.2
-dc_oda_ldcs,measure,"Net official development assistance (ODA) to LDCs from OECD-DAC countries, by donor countries (millions of constant 2020 United States dollars)",17,17.2.1,DC_ODA_LDCS,17.2
-dc_oda_lldc,measure,"Net official development assistance (ODA) to landlocked developing countries from OECD-DAC countries, by donor countries (millions of constant 2020 United States dollars)",17,17.2.1,DC_ODA_LLDC,17.2
+dc_oda_ldcs,measure,"Net official development assistance (ODA) to LDCs from OECD-DAC countries, by donor countries (millions of constant 2021 United States dollars)",17,17.2.1,DC_ODA_LDCS,17.2
+dc_oda_lldc,measure,"Net official development assistance (ODA) to landlocked developing countries from OECD-DAC countries, by donor countries (millions of constant 2021 United States dollars)",17,17.2.1,DC_ODA_LLDC,17.2
 dc_oda_lldcg,measure,"Net official development assistance (ODA) to landlocked developing countries as a percentage of OECD-DAC donors' GNI, by donor countries (%)",17,17.2.1,DC_ODA_LLDCG,17.2
 dc_oda_povdlg,measure,"Official development assistance grants for poverty reduction, by donor countries (percentage of GNI)",1,1.a.1,DC_ODA_POVDLG,1.a
 dc_oda_povg,measure,Official development assistance grants for poverty reduction (percentage of GNI),1,1.a.1,DC_ODA_POVG,1.a
 dc_oda_povlg,measure,"Official development assistance grants for poverty reduction, by recipient countries (percentage of GNI)",1,1.a.1,DC_ODA_POVLG,1.a
-dc_oda_sids,measure,"Net official development assistance (ODA) to small island states (SIDS) from OECD-DAC countries, by donor countries (millions of constant 2020 United States dollars)",17,17.2.1,DC_ODA_SIDS,17.2
+dc_oda_sids,measure,"Net official development assistance (ODA) to small island states (SIDS) from OECD-DAC countries, by donor countries (millions of constant 2021 United States dollars)",17,17.2.1,DC_ODA_SIDS,17.2
 dc_oda_sidsg,measure,"Net official development assistance (ODA) to small island states (SIDS) as a percentage of OECD-DAC donors' GNI, by donor countries (%)",17,17.2.1,DC_ODA_SIDSG,17.2
 dc_oda_totg,measure,"Net official development assistance (ODA) as a percentage of OECD-DAC donors' GNI, by donor countries (%)",17,17.2.1,DC_ODA_TOTG,17.2
 dc_oda_totgge,measure,"Official development assistance (ODA) as a percentage of OECD-DAC donors' GNI on grant equivalent basis, by donor countries (%)",17,17.2.1,DC_ODA_TOTGGE,17.2
-dc_oda_totl,measure,"Net official development assistance (ODA) from OECD-DAC countries, by donor countries (millions of constant 2020 United States dollars)",17,17.2.1,DC_ODA_TOTL,17.2
-dc_oda_totlge,measure,"Official development assistance (ODA) from OECD-DAC countries on grant equivalent basis, by donor countries (millions of constant 2020 United States dollars)",17,17.2.1,DC_ODA_TOTLGE,17.2
-dc_tof_agrl,measure,"Total official flows (disbursements) for agriculture, by recipient countries (millions of constant 2020 United States dollars)",2,2.a.2,DC_TOF_AGRL,2.a
-dc_tof_hlthl,measure,"Total official development assistance to medical research and basic heath sectors, gross disbursement, by recipient countries (millions of constant 2020 United States dollars)",3,3.b.2,DC_TOF_HLTHL,3.b
-dc_tof_hlthnt,measure,"Total official development assistance to medical research and basic heath sectors, net disbursement, by recipient countries (millions of constant 2020 United States dollars)",3,3.b.2,DC_TOF_HLTHNT,3.b
-dc_tof_infral,measure,"Total official flows for infrastructure, by recipient countries (millions of constant 2020 United States dollars)",9,9.a.1,DC_TOF_INFRAL,9.a
-dc_tof_schipsl,measure,"Total official flows for scholarships, by recipient countries (millions of constant 2020 United States dollars)",4,4.b.1,DC_TOF_SCHIPSL,4.b
-dc_tof_trdcmdl,measure,"Total official flows (commitments) for Aid for Trade, by donor countries (millions of constant 2020 United States dollars)",8,8.a.1,DC_TOF_TRDCMDL,8.a
-dc_tof_trdcml,measure,"Total official flows (commitments) for Aid for Trade, by recipient countries (millions of constant 2020 United States dollars)",8,8.a.1,DC_TOF_TRDCML,8.a
-dc_tof_trddbmdl,measure,"Total official flows (disbursement) for Aid for Trade, by donor countries (millions of constant 2020 United States dollars)",8,8.a.1,DC_TOF_TRDDBMDL,8.a
-dc_tof_trddbml,measure,"Total official flows (disbursement) for Aid for Trade, by recipient countries (millions of constant 2020 United States dollars)",8,8.a.1,DC_TOF_TRDDBML,8.a
-dc_tof_washl,measure,"Total official development assistance (gross disbursement) for water supply and sanitation, by recipient countries (millions of constant 2020 United States dollars)",6,6.a.1,DC_TOF_WASHL,6.a
+dc_oda_totl,measure,"Net official development assistance (ODA) from OECD-DAC countries, by donor countries (millions of constant 2021 United States dollars)",17,17.2.1,DC_ODA_TOTL,17.2
+dc_oda_totlge,measure,"Official development assistance (ODA) from OECD-DAC countries on grant equivalent basis, by donor countries (millions of constant 2021 United States dollars)",17,17.2.1,DC_ODA_TOTLGE,17.2
+dc_ossd_grt,measure,Gross receipts by developing countries of official sustainable development grants (millions of United States dollars),17,17.3.1,DC_OSSD_GRT,17.3
+dc_ossd_mpf,measure,Gross receipts by developing countries of mobilised private finance (MPF) - on an experimental basis (millions of United States dollars),17,17.3.1,DC_OSSD_MPF,17.3
+dc_ossd_offcl,measure,Gross receipts by developing countries of official concessional sustainable development loans (millions of United States dollars),17,17.3.1,DC_OSSD_OFFCL,17.3
+dc_ossd_offnl,measure,Gross receipts by developing countries of official non-concessional sustainable development loans (millions of United States dollars),17,17.3.1,DC_OSSD_OFFNL,17.3
+dc_ossd_prvgrt,measure,Gross receipts by developing countries of private grants (millions of United States dollars),17,17.3.1,DC_OSSD_PRVGRT,17.3
+dc_tof_agrl,measure,"Total official flows (disbursements) for agriculture, by recipient countries (millions of constant 2021 United States dollars)",2,2.a.2,DC_TOF_AGRL,2.a
+dc_tof_hlthl,measure,"Total official development assistance to medical research and basic heath sectors, gross disbursement, by recipient countries (millions of constant 2021 United States dollars)",3,3.b.2,DC_TOF_HLTHL,3.b
+dc_tof_hlthnt,measure,"Total official development assistance to medical research and basic heath sectors, net disbursement, by recipient countries (millions of constant 2021 United States dollars)",3,3.b.2,DC_TOF_HLTHNT,3.b
+dc_tof_infral,measure,"Total official flows for infrastructure, by recipient countries (millions of constant 2021 United States dollars)",9,9.a.1,DC_TOF_INFRAL,9.a
+dc_tof_schipsl,measure,"Total official flows for scholarships, by recipient countries (millions of constant 2021 United States dollars)",4,4.b.1,DC_TOF_SCHIPSL,4.b
+dc_tof_trdcmdl,measure,"Total official flows (commitments) for Aid for Trade, by donor countries (millions of constant 2021 United States dollars)",8,8.a.1,DC_TOF_TRDCMDL,8.a
+dc_tof_trdcml,measure,"Total official flows (commitments) for Aid for Trade, by recipient countries (millions of constant 2021 United States dollars)",8,8.a.1,DC_TOF_TRDCML,8.a
+dc_tof_trddbmdl,measure,"Total official flows (disbursement) for Aid for Trade, by donor countries (millions of constant 2021 United States dollars)",8,8.a.1,DC_TOF_TRDDBMDL,8.a
+dc_tof_trddbml,measure,"Total official flows (disbursement) for Aid for Trade, by recipient countries (millions of constant 2021 United States dollars)",8,8.a.1,DC_TOF_TRDDBML,8.a
+dc_tof_washl,measure,"Total official development assistance (gross disbursement) for water supply and sanitation, by recipient countries (millions of constant 2021 United States dollars)",6,6.a.1,DC_TOF_WASHL,6.a
 dc_trf_tfdv,measure,"Total resource flows for development, by recipient and donor countries (millions of current United States dollars)",10,10.b.1,DC_TRF_TFDV,10.b
 dc_trf_totdl,measure,"Total assistance for development, by donor countries (millions of current United States dollars)",10,10.b.1,DC_TRF_TOTDL,10.b
 dc_trf_totl,measure,"Total assistance for development, by recipient countries (millions of current United States dollars)",10,10.b.1,DC_TRF_TOTL,10.b
@@ -599,7 +604,7 @@ vc_dsr_aglh,measure,Direct agriculture loss attributed to disasters (current Uni
 vc_dsr_bsdn,measure,Number of disruptions to basic services attributed to disasters (number),11,11.5.3,VC_DSR_BSDN,11.5
 vc_dsr_cdan,measure,Number of damaged critical infrastructure attributed to disasters (number),11,11.5.3,VC_DSR_CDAN,11.5
 vc_dsr_cdyn,measure,Number of other destroyed or damaged critical infrastructure units and facilities attributed to disasters (number),11,11.5.3,VC_DSR_CDYN,11.5
-vc_dsr_chln,measure,Direct economic loss to cultural heritage damaged or destroyed attributed to disasters (current United States dollars),"1, 11","1.5.2, 11.5.2",VC_DSR_CHLN,"1.5, 11.5"
+vc_dsr_chln,measure,Direct economic loss to cultural heritage damaged or destroyed attributed to disasters (millions of current United States dollars),"1, 11","1.5.2, 11.5.2",VC_DSR_CHLN,"1.5, 11.5"
 vc_dsr_ciln,measure,Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters (current United States dollars),"1, 11","1.5.2, 11.5.2",VC_DSR_CILN,"1.5, 11.5"
 vc_dsr_daff,measure,"Number of directly affected persons attributed to disasters per 100,000 population (number)","1, 11, 13","1.5.1, 11.5.1, 13.1.1",VC_DSR_DAFF,"1.5, 11.5, 13.1"
 vc_dsr_ddpa,measure,Direct economic loss to other damaged or destroyed productive assets attributed to disasters (current United States dollars),"1, 11","1.5.2, 11.5.2",VC_DSR_DDPA,"1.5, 11.5"
@@ -607,7 +612,6 @@ vc_dsr_efdn,measure,Number of destroyed or damaged educational facilities attrib
 vc_dsr_esdn,measure,Number of disruptions to educational services attributed to disasters (number),11,11.5.3,VC_DSR_ESDN,11.5
 vc_dsr_gdpls,measure,Direct economic loss attributed to disasters (current United States dollars),"1, 11","1.5.2, 11.5.2",VC_DSR_GDPLS,"1.5, 11.5"
 vc_dsr_hfdn,measure,Number of destroyed or damaged health facilities attributed to disasters (number),11,11.5.3,VC_DSR_HFDN,11.5
-vc_dsr_holh,measure,Direct economic loss in the housing sector attributed to disasters (current United States dollars),"1, 11","1.5.2, 11.5.2",VC_DSR_HOLH,"1.5, 11.5"
 vc_dsr_hsdn,measure,Number of disruptions to health services attributed to disasters (number),11,11.5.3,VC_DSR_HSDN,11.5
 vc_dsr_ijiln,measure,Number of injured or ill people attributed to disasters (number),"1, 11, 13","1.5.1, 11.5.1, 13.1.1",VC_DSR_IJILN,"1.5, 11.5, 13.1"
 vc_dsr_lsgp,measure,Direct economic loss attributed to disasters relative to GDP (%),"1, 11","1.5.2, 11.5.2",VC_DSR_LSGP,"1.5, 11.5"

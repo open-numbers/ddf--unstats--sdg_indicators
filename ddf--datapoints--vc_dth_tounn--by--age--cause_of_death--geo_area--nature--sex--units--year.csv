@@ -1,8 +1,9 @@
 age,cause_of_death,geo_area,nature,sex,units,year,vc_dth_tounn
-allage,t,1,g,bothsex,number,2015,6063
-allage,t,1,g,bothsex,number,2016,4290
-allage,t,1,g,bothsex,number,2017,2937
-allage,t,1,g,bothsex,number,2018,3959
-allage,t,1,g,bothsex,number,2019,1618
-allage,t,1,g,bothsex,number,2020,714
-allage,t,1,g,bothsex,number,2021,658
+allage,t,1,n,bothsex,number,2015,5893
+allage,t,1,n,bothsex,number,2016,4198
+allage,t,1,n,bothsex,number,2017,2814
+allage,t,1,n,bothsex,number,2018,3932
+allage,t,1,n,bothsex,number,2019,1590
+allage,t,1,n,bothsex,number,2020,714
+allage,t,1,n,bothsex,number,2021,666
+allage,t,1,n,bothsex,number,2022,1067

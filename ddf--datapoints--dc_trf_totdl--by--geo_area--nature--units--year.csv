@@ -5,7 +5,7 @@ geo_area,nature,units,year,dc_trf_totdl
 31,c,cu_usd_m,2017,18.78
 31,c,cu_usd_m,2018,28.36
 31,c,cu_usd_m,2019,25.95
-31,c,cu_usd_m,2020,27.13
+31,c,cu_usd_m,2020,44.38
 36,c,cu_usd_m,2000,1890.79
 36,c,cu_usd_m,2001,1207.7
 36,c,cu_usd_m,2002,768.23
@@ -27,7 +27,7 @@ geo_area,nature,units,year,dc_trf_totdl
 36,c,cu_usd_m,2018,397.86
 36,c,cu_usd_m,2019,5031.77
 36,c,cu_usd_m,2020,2894.48
-36,c,cu_usd_m,2021,3444.35
+36,c,cu_usd_m,2021,3546.44
 40,c,cu_usd_m,2000,1135.48
 40,c,cu_usd_m,2001,836.44
 40,c,cu_usd_m,2002,1910.05
@@ -49,7 +49,7 @@ geo_area,nature,units,year,dc_trf_totdl
 40,c,cu_usd_m,2018,2585.17
 40,c,cu_usd_m,2019,2741.11
 40,c,cu_usd_m,2020,-91.43
-40,c,cu_usd_m,2021,1485.18
+40,c,cu_usd_m,2021,2137.67
 56,c,cu_usd_m,2000,2280.53
 56,c,cu_usd_m,2001,303.92
 56,c,cu_usd_m,2002,1336.79
@@ -70,8 +70,8 @@ geo_area,nature,units,year,dc_trf_totdl
 56,c,cu_usd_m,2017,7728.48
 56,c,cu_usd_m,2018,3896.1
 56,c,cu_usd_m,2019,4316.2
-56,c,cu_usd_m,2020,4185.14
-56,c,cu_usd_m,2021,2573.77
+56,c,cu_usd_m,2020,4220.08
+56,c,cu_usd_m,2021,5536.48
 100,c,cu_usd_m,2010,40.49
 100,c,cu_usd_m,2011,48.38
 100,c,cu_usd_m,2012,39.95
@@ -105,7 +105,7 @@ geo_area,nature,units,year,dc_trf_totdl
 124,c,cu_usd_m,2018,8885.72
 124,c,cu_usd_m,2019,4620.05
 124,c,cu_usd_m,2020,2741.65
-124,c,cu_usd_m,2021,6225.67
+124,c,cu_usd_m,2021,10008.54
 158,c,cu_usd_m,2004,420.96
 158,c,cu_usd_m,2005,483
 158,c,cu_usd_m,2006,513
@@ -123,7 +123,7 @@ geo_area,nature,units,year,dc_trf_totdl
 158,c,cu_usd_m,2018,291.54
 158,c,cu_usd_m,2019,315.85
 158,c,cu_usd_m,2020,504.16
-158,c,cu_usd_m,2021,347.45
+158,c,cu_usd_m,2021,328.9
 191,c,cu_usd_m,2012,21.36
 191,c,cu_usd_m,2013,45.08
 191,c,cu_usd_m,2014,72.09
@@ -133,7 +133,7 @@ geo_area,nature,units,year,dc_trf_totdl
 191,c,cu_usd_m,2018,78.89
 191,c,cu_usd_m,2019,72.61
 191,c,cu_usd_m,2020,76.99
-191,c,cu_usd_m,2021,94.38
+191,c,cu_usd_m,2021,87.77
 196,c,cu_usd_m,2005,15.1
 196,c,cu_usd_m,2006,26.02
 196,c,cu_usd_m,2007,34.88
@@ -148,6 +148,7 @@ geo_area,nature,units,year,dc_trf_totdl
 196,c,cu_usd_m,2018,25
 196,c,cu_usd_m,2019,19.97
 196,c,cu_usd_m,2020,14.83
+196,c,cu_usd_m,2021,20.44591
 203,c,cu_usd_m,2000,16.16
 203,c,cu_usd_m,2001,26.49
 203,c,cu_usd_m,2002,45.43
@@ -168,8 +169,8 @@ geo_area,nature,units,year,dc_trf_totdl
 203,c,cu_usd_m,2017,123.62
 203,c,cu_usd_m,2018,129.31
 203,c,cu_usd_m,2019,285.16
-203,c,cu_usd_m,2020,296.99
-203,c,cu_usd_m,2021,361.74
+203,c,cu_usd_m,2020,428.47
+203,c,cu_usd_m,2021,441.57
 208,c,cu_usd_m,2000,2175.87
 208,c,cu_usd_m,2001,2644.88
 208,c,cu_usd_m,2002,1576.54
@@ -191,7 +192,7 @@ geo_area,nature,units,year,dc_trf_totdl
 208,c,cu_usd_m,2018,5724.18
 208,c,cu_usd_m,2019,3120.78
 208,c,cu_usd_m,2020,3523.09
-208,c,cu_usd_m,2021,2867.21
+208,c,cu_usd_m,2021,3857.79
 233,c,cu_usd_m,2000,0.52
 233,c,cu_usd_m,2001,0.49
 233,c,cu_usd_m,2002,1.25
@@ -213,7 +214,7 @@ geo_area,nature,units,year,dc_trf_totdl
 233,c,cu_usd_m,2018,48.41
 233,c,cu_usd_m,2019,48.05
 233,c,cu_usd_m,2020,49.47
-233,c,cu_usd_m,2021,60.14
+233,c,cu_usd_m,2021,59.75
 246,c,cu_usd_m,2000,1087.3
 246,c,cu_usd_m,2001,1334.33
 246,c,cu_usd_m,2002,-179.73
@@ -235,7 +236,7 @@ geo_area,nature,units,year,dc_trf_totdl
 246,c,cu_usd_m,2018,2297.29
 246,c,cu_usd_m,2019,2246.65
 246,c,cu_usd_m,2020,2611.71
-246,c,cu_usd_m,2021,1493.23
+246,c,cu_usd_m,2021,3348.81
 250,c,cu_usd_m,2000,5557.31
 250,c,cu_usd_m,2001,16327.04
 250,c,cu_usd_m,2002,4729.39
@@ -256,8 +257,8 @@ geo_area,nature,units,year,dc_trf_totdl
 250,c,cu_usd_m,2017,23119.74
 250,c,cu_usd_m,2018,12631.99
 250,c,cu_usd_m,2019,21847.63
-250,c,cu_usd_m,2020,15612.3
-250,c,cu_usd_m,2021,16699.86
+250,c,cu_usd_m,2020,20721.13
+250,c,cu_usd_m,2021,19035.75
 276,c,cu_usd_m,2000,12330.77
 276,c,cu_usd_m,2001,6345.03
 276,c,cu_usd_m,2002,7207.35
@@ -273,13 +274,13 @@ geo_area,nature,units,year,dc_trf_totdl
 276,c,cu_usd_m,2012,34716.79
 276,c,cu_usd_m,2013,53096.13
 276,c,cu_usd_m,2014,53003.17
-276,c,cu_usd_m,2015,47626.73
+276,c,cu_usd_m,2015,20645.87
 276,c,cu_usd_m,2016,49198.57
 276,c,cu_usd_m,2017,53738.33
 276,c,cu_usd_m,2018,51983.42
 276,c,cu_usd_m,2019,42193.08
 276,c,cu_usd_m,2020,44700.6
-276,c,cu_usd_m,2021,31490.85
+276,c,cu_usd_m,2021,68835.38
 300,c,cu_usd_m,2000,228.52
 300,c,cu_usd_m,2001,201.54
 300,c,cu_usd_m,2002,322
@@ -300,8 +301,8 @@ geo_area,nature,units,year,dc_trf_totdl
 300,c,cu_usd_m,2017,363.77
 300,c,cu_usd_m,2018,260.54
 300,c,cu_usd_m,2019,369.15
-300,c,cu_usd_m,2020,448.45
-300,c,cu_usd_m,2021,263.83
+300,c,cu_usd_m,2020,448.68
+300,c,cu_usd_m,2021,165.3
 348,c,cu_usd_m,2003,21.23
 348,c,cu_usd_m,2004,70.14
 348,c,cu_usd_m,2005,100.37
@@ -320,7 +321,7 @@ geo_area,nature,units,year,dc_trf_totdl
 348,c,cu_usd_m,2018,1100.44
 348,c,cu_usd_m,2019,12263.57
 348,c,cu_usd_m,2020,3473.23
-348,c,cu_usd_m,2021,455.03
+348,c,cu_usd_m,2021,6333.68
 352,c,cu_usd_m,2000,8.61
 352,c,cu_usd_m,2001,9.73
 352,c,cu_usd_m,2002,12.65
@@ -342,7 +343,7 @@ geo_area,nature,units,year,dc_trf_totdl
 352,c,cu_usd_m,2018,77.09
 352,c,cu_usd_m,2019,119.39
 352,c,cu_usd_m,2020,57.9
-352,c,cu_usd_m,2021,71.92
+352,c,cu_usd_m,2021,70.84
 372,c,cu_usd_m,2000,739.91
 372,c,cu_usd_m,2001,734.57
 372,c,cu_usd_m,2002,1469.38
@@ -363,8 +364,8 @@ geo_area,nature,units,year,dc_trf_totdl
 372,c,cu_usd_m,2017,1202.43
 372,c,cu_usd_m,2018,1367.62
 372,c,cu_usd_m,2019,1149.4
-372,c,cu_usd_m,2020,987.79
-372,c,cu_usd_m,2021,1168.8
+372,c,cu_usd_m,2020,1123.45
+372,c,cu_usd_m,2021,1154.89
 376,c,cu_usd_m,2000,164.39
 376,c,cu_usd_m,2001,92.48
 376,c,cu_usd_m,2002,130.89
@@ -386,7 +387,7 @@ geo_area,nature,units,year,dc_trf_totdl
 376,c,cu_usd_m,2018,365.45
 376,c,cu_usd_m,2019,281.18
 376,c,cu_usd_m,2020,291.04
-376,c,cu_usd_m,2021,394.11
+376,c,cu_usd_m,2021,408.95
 380,c,cu_usd_m,2000,10846.33
 380,c,cu_usd_m,2001,-188.52
 380,c,cu_usd_m,2002,1399.01
@@ -408,7 +409,7 @@ geo_area,nature,units,year,dc_trf_totdl
 380,c,cu_usd_m,2018,7377.88
 380,c,cu_usd_m,2019,6612.58
 380,c,cu_usd_m,2020,6528.8
-380,c,cu_usd_m,2021,6119.25
+380,c,cu_usd_m,2021,11963.2
 392,c,cu_usd_m,2000,11422.92
 392,c,cu_usd_m,2001,13714.17
 392,c,cu_usd_m,2002,4658.76
@@ -430,7 +431,7 @@ geo_area,nature,units,year,dc_trf_totdl
 392,c,cu_usd_m,2018,53667.27
 392,c,cu_usd_m,2019,55518.98
 392,c,cu_usd_m,2020,32472.42
-392,c,cu_usd_m,2021,15750.03
+392,c,cu_usd_m,2021,38494.11
 398,c,cu_usd_m,2013,8.49
 398,c,cu_usd_m,2014,33.37
 398,c,cu_usd_m,2015,42.96
@@ -439,6 +440,7 @@ geo_area,nature,units,year,dc_trf_totdl
 398,c,cu_usd_m,2018,40.34
 398,c,cu_usd_m,2019,34.21
 398,c,cu_usd_m,2020,37.11
+398,c,cu_usd_m,2021,43.56
 410,c,cu_usd_m,2000,43.76
 410,c,cu_usd_m,2001,-38.2
 410,c,cu_usd_m,2002,1595.15
@@ -460,7 +462,7 @@ geo_area,nature,units,year,dc_trf_totdl
 410,c,cu_usd_m,2018,12614.56
 410,c,cu_usd_m,2019,12161.75
 410,c,cu_usd_m,2020,12201.03
-410,c,cu_usd_m,2021,2986.61
+410,c,cu_usd_m,2021,14814.34
 414,c,cu_usd_m,2000,165.03
 414,c,cu_usd_m,2001,73.43
 414,c,cu_usd_m,2002,20.38
@@ -482,6 +484,7 @@ geo_area,nature,units,year,dc_trf_totdl
 414,c,cu_usd_m,2018,273.37
 414,c,cu_usd_m,2019,401.81
 414,c,cu_usd_m,2020,506.15
+414,c,cu_usd_m,2021,466.71
 428,c,cu_usd_m,2002,1.5
 428,c,cu_usd_m,2003,0.88
 428,c,cu_usd_m,2004,8.33
@@ -501,7 +504,7 @@ geo_area,nature,units,year,dc_trf_totdl
 428,c,cu_usd_m,2018,34.42
 428,c,cu_usd_m,2019,34.36
 428,c,cu_usd_m,2020,40.62
-428,c,cu_usd_m,2021,47.04
+428,c,cu_usd_m,2021,47.62
 438,c,cu_usd_m,2007,17.97
 438,c,cu_usd_m,2008,23.69
 438,c,cu_usd_m,2009,26.24
@@ -516,6 +519,7 @@ geo_area,nature,units,year,dc_trf_totdl
 438,c,cu_usd_m,2018,26.12
 438,c,cu_usd_m,2019,25.47
 438,c,cu_usd_m,2020,28.03
+438,c,cu_usd_m,2021,26.45059
 440,c,cu_usd_m,2001,1.75
 440,c,cu_usd_m,2002,1.64
 440,c,cu_usd_m,2003,1.91
@@ -536,7 +540,7 @@ geo_area,nature,units,year,dc_trf_totdl
 440,c,cu_usd_m,2018,64.92
 440,c,cu_usd_m,2019,67.67
 440,c,cu_usd_m,2020,72.02
-440,c,cu_usd_m,2021,83.31
+440,c,cu_usd_m,2021,86.04
 442,c,cu_usd_m,2000,128.99
 442,c,cu_usd_m,2001,143.98
 442,c,cu_usd_m,2002,148.28
@@ -558,7 +562,7 @@ geo_area,nature,units,year,dc_trf_totdl
 442,c,cu_usd_m,2018,473.36
 442,c,cu_usd_m,2019,471.57
 442,c,cu_usd_m,2020,452.34
-442,c,cu_usd_m,2021,538.89
+442,c,cu_usd_m,2021,555.43
 470,c,cu_usd_m,2009,13.69
 470,c,cu_usd_m,2010,13.8
 470,c,cu_usd_m,2011,19.96
@@ -571,6 +575,8 @@ geo_area,nature,units,year,dc_trf_totdl
 470,c,cu_usd_m,2018,32.92752
 470,c,cu_usd_m,2019,41.01
 470,c,cu_usd_m,2020,53.4
+470,c,cu_usd_m,2021,52.17216
+492,c,cu_usd_m,2021,24.70253
 528,c,cu_usd_m,2000,6947.29
 528,c,cu_usd_m,2001,-3432.29
 528,c,cu_usd_m,2002,-1486.52
@@ -590,9 +596,9 @@ geo_area,nature,units,year,dc_trf_totdl
 528,c,cu_usd_m,2016,38796.56
 528,c,cu_usd_m,2017,35700.35
 528,c,cu_usd_m,2018,14695.91
-528,c,cu_usd_m,2019,27491.46
-528,c,cu_usd_m,2020,13258.44
-528,c,cu_usd_m,2021,5287.55
+528,c,cu_usd_m,2019,27455.8
+528,c,cu_usd_m,2020,13229.47
+528,c,cu_usd_m,2021,-8238.94
 554,c,cu_usd_m,2000,142.19
 554,c,cu_usd_m,2001,138.74
 554,c,cu_usd_m,2002,164.12
@@ -614,7 +620,7 @@ geo_area,nature,units,year,dc_trf_totdl
 554,c,cu_usd_m,2018,556.03
 554,c,cu_usd_m,2019,751.56
 554,c,cu_usd_m,2020,687.83
-554,c,cu_usd_m,2021,681
+554,c,cu_usd_m,2021,883.74
 578,c,cu_usd_m,2000,1436.8
 578,c,cu_usd_m,2001,1484.54
 578,c,cu_usd_m,2002,2279.24
@@ -635,8 +641,8 @@ geo_area,nature,units,year,dc_trf_totdl
 578,c,cu_usd_m,2017,4001.11
 578,c,cu_usd_m,2018,4261.96
 578,c,cu_usd_m,2019,4547.66
-578,c,cu_usd_m,2020,4187.57
-578,c,cu_usd_m,2021,4673.14
+578,c,cu_usd_m,2020,4187.58
+578,c,cu_usd_m,2021,6138.19
 616,c,cu_usd_m,2000,28.81
 616,c,cu_usd_m,2001,35.56
 616,c,cu_usd_m,2002,14.26
@@ -657,8 +663,8 @@ geo_area,nature,units,year,dc_trf_totdl
 616,c,cu_usd_m,2017,1114.34
 616,c,cu_usd_m,2018,976.08
 616,c,cu_usd_m,2019,961.1
-616,c,cu_usd_m,2020,811.95
-616,c,cu_usd_m,2021,940.04
+616,c,cu_usd_m,2020,958
+616,c,cu_usd_m,2021,971.22
 620,c,cu_usd_m,2000,4621.72
 620,c,cu_usd_m,2001,1775.05
 620,c,cu_usd_m,2002,174.82
@@ -677,14 +683,15 @@ geo_area,nature,units,year,dc_trf_totdl
 620,c,cu_usd_m,2015,519.72
 620,c,cu_usd_m,2016,732
 620,c,cu_usd_m,2017,3442.35
-620,c,cu_usd_m,2018,1561.67
-620,c,cu_usd_m,2019,83.97
-620,c,cu_usd_m,2020,-519.65
-620,c,cu_usd_m,2021,437.71
+620,c,cu_usd_m,2018,1568.94
+620,c,cu_usd_m,2019,467.58
+620,c,cu_usd_m,2020,-397.15
+620,c,cu_usd_m,2021,-241.01
 626,c,cu_usd_m,2014,3.37
 626,c,cu_usd_m,2015,4
 634,c,cu_usd_m,2019,567.35
 634,c,cu_usd_m,2020,527.67
+634,c,cu_usd_m,2021,676.62
 642,c,cu_usd_m,2008,122.86
 642,c,cu_usd_m,2009,152.54
 642,c,cu_usd_m,2010,114.26
@@ -697,8 +704,19 @@ geo_area,nature,units,year,dc_trf_totdl
 642,c,cu_usd_m,2017,219.54
 642,c,cu_usd_m,2018,248.82
 642,c,cu_usd_m,2019,254.15
-642,c,cu_usd_m,2020,305
-642,c,cu_usd_m,2021,326.68
+642,c,cu_usd_m,2020,308.89
+642,c,cu_usd_m,2021,417.26
+643,c,cu_usd_m,2010,659.39
+643,c,cu_usd_m,2011,478.99
+643,c,cu_usd_m,2012,465.01
+643,c,cu_usd_m,2013,713.66
+643,c,cu_usd_m,2014,875.85
+643,c,cu_usd_m,2015,745.29
+643,c,cu_usd_m,2016,1258.04
+643,c,cu_usd_m,2017,1189.6
+643,c,cu_usd_m,2018,999.08
+643,c,cu_usd_m,2019,802.46
+643,c,cu_usd_m,2020,537.89
 682,c,cu_usd_m,2000,275.5
 682,c,cu_usd_m,2001,205.07
 682,c,cu_usd_m,2002,2477.75
@@ -720,7 +738,7 @@ geo_area,nature,units,year,dc_trf_totdl
 682,c,cu_usd_m,2018,4838.62
 682,c,cu_usd_m,2019,2068.91
 682,c,cu_usd_m,2020,1957.07
-682,c,cu_usd_m,2021,2245.36
+682,c,cu_usd_m,2021,7144.1
 703,c,cu_usd_m,2000,5.86
 703,c,cu_usd_m,2001,8.28
 703,c,cu_usd_m,2002,6.68
@@ -742,7 +760,7 @@ geo_area,nature,units,year,dc_trf_totdl
 703,c,cu_usd_m,2018,137.74
 703,c,cu_usd_m,2019,109.7
 703,c,cu_usd_m,2020,164.47
-703,c,cu_usd_m,2021,150.71
+703,c,cu_usd_m,2021,167.43
 705,c,cu_usd_m,2005,34.67
 705,c,cu_usd_m,2006,44.01
 705,c,cu_usd_m,2007,54.14
@@ -759,7 +777,7 @@ geo_area,nature,units,year,dc_trf_totdl
 705,c,cu_usd_m,2018,236.38
 705,c,cu_usd_m,2019,146.64
 705,c,cu_usd_m,2020,600.04
-705,c,cu_usd_m,2021,114.81
+705,c,cu_usd_m,2021,385.76
 724,c,cu_usd_m,2000,23470.52
 724,c,cu_usd_m,2001,11523.31
 724,c,cu_usd_m,2002,8170.55
@@ -781,7 +799,7 @@ geo_area,nature,units,year,dc_trf_totdl
 724,c,cu_usd_m,2018,14451.88
 724,c,cu_usd_m,2019,13561.28
 724,c,cu_usd_m,2020,13877.96
-724,c,cu_usd_m,2021,3251.93
+724,c,cu_usd_m,2021,7400.92
 752,c,cu_usd_m,2000,3951.68
 752,c,cu_usd_m,2001,3077.2
 752,c,cu_usd_m,2002,2231.62
@@ -802,8 +820,8 @@ geo_area,nature,units,year,dc_trf_totdl
 752,c,cu_usd_m,2017,7041.22
 752,c,cu_usd_m,2018,6639.37
 752,c,cu_usd_m,2019,7101.37
-752,c,cu_usd_m,2020,5088.59
-752,c,cu_usd_m,2021,5926.63
+752,c,cu_usd_m,2020,7057.82
+752,c,cu_usd_m,2021,10480.36
 756,c,cu_usd_m,2000,1764.66
 756,c,cu_usd_m,2001,1535.45
 756,c,cu_usd_m,2002,1602.64
@@ -825,7 +843,7 @@ geo_area,nature,units,year,dc_trf_totdl
 756,c,cu_usd_m,2018,18902.36
 756,c,cu_usd_m,2019,11106.82
 756,c,cu_usd_m,2020,3257.7
-756,c,cu_usd_m,2021,3925.86
+756,c,cu_usd_m,2021,3903.27
 764,c,cu_usd_m,2006,73.73
 764,c,cu_usd_m,2007,66.91
 764,c,cu_usd_m,2008,177.02
@@ -841,6 +859,7 @@ geo_area,nature,units,year,dc_trf_totdl
 764,c,cu_usd_m,2018,134.18
 764,c,cu_usd_m,2019,144.19
 764,c,cu_usd_m,2020,71.44
+764,c,cu_usd_m,2021,84.54
 784,c,cu_usd_m,2000,399.24
 784,c,cu_usd_m,2001,487.19
 784,c,cu_usd_m,2002,558.06
@@ -862,7 +881,7 @@ geo_area,nature,units,year,dc_trf_totdl
 784,c,cu_usd_m,2018,5860.83
 784,c,cu_usd_m,2019,6501.19
 784,c,cu_usd_m,2020,1786.56
-784,c,cu_usd_m,2021,1301.06
+784,c,cu_usd_m,2021,1324.44
 792,c,cu_usd_m,2000,141.12
 792,c,cu_usd_m,2001,64.11
 792,c,cu_usd_m,2002,72.96
@@ -884,7 +903,7 @@ geo_area,nature,units,year,dc_trf_totdl
 792,c,cu_usd_m,2018,11198.86
 792,c,cu_usd_m,2019,9293.2
 792,c,cu_usd_m,2020,8710.96
-792,c,cu_usd_m,2021,7642.62
+792,c,cu_usd_m,2021,8318.2
 826,c,cu_usd_m,2000,10229.84
 826,c,cu_usd_m,2001,9614.5
 826,c,cu_usd_m,2002,7638.25
@@ -902,11 +921,11 @@ geo_area,nature,units,year,dc_trf_totdl
 826,c,cu_usd_m,2014,31766.35
 826,c,cu_usd_m,2015,18552.85
 826,c,cu_usd_m,2016,18052.8
-826,c,cu_usd_m,2017,17734.56
-826,c,cu_usd_m,2018,18949.6
-826,c,cu_usd_m,2019,18953.76
-826,c,cu_usd_m,2020,18403.42
-826,c,cu_usd_m,2021,16379.34
+826,c,cu_usd_m,2017,17724.5
+826,c,cu_usd_m,2018,18936.57
+826,c,cu_usd_m,2019,18944.14
+826,c,cu_usd_m,2020,19398.65
+826,c,cu_usd_m,2021,16145.94
 840,c,cu_usd_m,2000,25252.07
 840,c,cu_usd_m,2001,38617.81
 840,c,cu_usd_m,2002,24409.65
@@ -928,4 +947,4 @@ geo_area,nature,units,year,dc_trf_totdl
 840,c,cu_usd_m,2018,50784.48
 840,c,cu_usd_m,2019,148083.06
 840,c,cu_usd_m,2020,4809.16
-840,c,cu_usd_m,2021,41872.06
+840,c,cu_usd_m,2021,238682.43

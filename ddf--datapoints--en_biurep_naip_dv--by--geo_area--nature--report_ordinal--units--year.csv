@@ -1,6 +1,8 @@
 geo_area,nature,report_ordinal,units,year,en_biurep_naip_dv
-199,g,first,number,2021,10
-722,g,first,number,2021,8
-722,g,fourth,number,2021,1
-722,g,second,number,2021,1
-722,g,third,number,2021,1
+199,n,first,number,2023,23
+199,n,second,number,2023,2
+722,n,fifth,number,2023,1
+722,n,first,number,2023,16
+722,n,fourth,number,2023,1
+722,n,second,number,2023,2
+722,n,third,number,2023,1

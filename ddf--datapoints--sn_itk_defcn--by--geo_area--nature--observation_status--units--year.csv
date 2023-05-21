@@ -355,7 +355,7 @@ geo_area,nature,observation_status,units,year,sn_itk_defcn
 31,e,a,num_m,2003,0.9
 31,e,a,num_m,2004,0.6
 31,e,a,num_m,2005,0.4
-31,e,e,num_m,2006,0.2
+31,e,q,num_m,2006,0.2
 32,e,a,num_m,2002,1.4
 32,e,a,num_m,2003,1.7
 32,e,a,num_m,2004,1.6
@@ -373,7 +373,7 @@ geo_area,nature,observation_status,units,year,sn_itk_defcn
 32,e,a,num_m,2018,1.5
 32,e,a,num_m,2019,1.6
 32,e,a,num_m,2020,1.7
-32,e,e,num_m,2001,1.1
+32,e,q,num_m,2001,1.1
 34,n,a,num_m,2000,241.3
 34,n,a,num_m,2001,270.4
 34,n,a,num_m,2002,305.3
@@ -601,8 +601,8 @@ geo_area,nature,observation_status,units,year,sn_itk_defcn
 76,e,a,num_m,2012,5.9
 76,e,a,num_m,2013,5.5
 76,e,a,num_m,2020,8.6
-76,e,e,num_m,2014,5.2
-76,e,e,num_m,2019,5.4
+76,e,q,num_m,2014,5.2
+76,e,q,num_m,2019,5.4
 84,e,a,num_m,2001,<0.1
 84,e,a,num_m,2002,<0.1
 84,e,a,num_m,2003,<0.1
@@ -701,10 +701,10 @@ geo_area,nature,observation_status,units,year,sn_itk_defcn
 104,e,a,num_m,2016,1.9
 104,e,a,num_m,2017,1.6
 104,e,a,num_m,2018,1.4
-104,e,e,num_m,2020,1.7
+104,e,q,num_m,2020,1.7
 112,e,a,num_m,2003,0.3
 112,e,a,num_m,2004,0.3
-112,e,e,num_m,2002,0.3
+112,e,q,num_m,2002,0.3
 116,e,a,num_m,2001,2.9
 116,e,a,num_m,2002,2.7
 116,e,a,num_m,2003,2.5
@@ -1037,7 +1037,7 @@ geo_area,nature,observation_status,units,year,sn_itk_defcn
 196,e,a,num_m,2007,<0.1
 196,e,a,num_m,2008,<0.1
 196,e,a,num_m,2009,<0.1
-196,e,e,num_m,2010,<0.1
+196,e,q,num_m,2010,<0.1
 199,n,a,num_m,2000,216.2
 199,n,a,num_m,2001,214.1
 199,n,a,num_m,2002,214.3
@@ -1569,7 +1569,7 @@ geo_area,nature,observation_status,units,year,sn_itk_defcn
 392,e,a,num_m,2009,3.3
 392,e,a,num_m,2010,3.4
 392,e,a,num_m,2020,4
-392,e,e,num_m,2019,3.6
+392,e,q,num_m,2019,3.6
 398,e,a,num_m,2001,1
 398,e,a,num_m,2002,1
 398,e,a,num_m,2003,1.1
@@ -1580,7 +1580,7 @@ geo_area,nature,observation_status,units,year,sn_itk_defcn
 398,e,a,num_m,2008,0.7
 398,e,a,num_m,2009,0.6
 398,e,a,num_m,2010,0.5
-398,e,e,num_m,2011,0.4
+398,e,q,num_m,2011,0.4
 400,e,a,num_m,2001,0.5
 400,e,a,num_m,2002,0.4
 400,e,a,num_m,2003,0.3
@@ -1645,7 +1645,7 @@ geo_area,nature,observation_status,units,year,sn_itk_defcn
 410,e,a,num_m,2003,1.3
 410,e,a,num_m,2004,1.3
 414,e,a,num_m,2020,0.1
-414,e,e,num_m,2001,<0.1
+414,e,q,num_m,2001,<0.1
 417,e,a,num_m,2001,0.7
 417,e,a,num_m,2002,0.6
 417,e,a,num_m,2003,0.5
@@ -1870,8 +1870,8 @@ geo_area,nature,observation_status,units,year,sn_itk_defcn
 458,e,a,num_m,2016,1.1
 458,e,a,num_m,2017,1
 458,e,a,num_m,2018,0.9
-458,e,e,num_m,2001,0.6
-458,e,e,num_m,2019,0.8
+458,e,q,num_m,2001,0.6
+458,e,q,num_m,2019,0.8
 466,e,a,num_m,2001,1.8
 466,e,a,num_m,2002,1.8
 466,e,a,num_m,2003,1.8
@@ -1977,7 +1977,7 @@ geo_area,nature,observation_status,units,year,sn_itk_defcn
 499,e,a,num_m,2003,<0.1
 499,e,a,num_m,2004,<0.1
 499,e,a,num_m,2005,<0.1
-499,e,e,num_m,2006,<0.1
+499,e,q,num_m,2006,<0.1
 504,e,a,num_m,2001,1.8
 504,e,a,num_m,2002,1.7
 504,e,a,num_m,2003,1.7
@@ -2434,8 +2434,8 @@ geo_area,nature,observation_status,units,year,sn_itk_defcn
 688,e,a,num_m,2018,0.3
 688,e,a,num_m,2019,0.3
 688,e,a,num_m,2020,0.3
-688,e,e,num_m,2003,0.2
-688,e,e,num_m,2011,0.2
+688,e,q,num_m,2003,0.2
+688,e,q,num_m,2011,0.2
 694,e,a,num_m,2001,2.4
 694,e,a,num_m,2002,2.5
 694,e,a,num_m,2003,2.6
@@ -2756,8 +2756,8 @@ geo_area,nature,observation_status,units,year,sn_itk_defcn
 788,e,a,num_m,2013,0.3
 788,e,a,num_m,2014,0.3
 788,e,a,num_m,2020,0.4
-788,e,e,num_m,2015,0.3
-788,e,e,num_m,2019,0.3
+788,e,q,num_m,2015,0.3
+788,e,q,num_m,2019,0.3
 795,e,a,num_m,2001,0.3
 795,e,a,num_m,2002,0.3
 795,e,a,num_m,2003,0.2
@@ -2780,7 +2780,7 @@ geo_area,nature,observation_status,units,year,sn_itk_defcn
 795,e,a,num_m,2020,0.2
 804,e,a,num_m,2001,1.4
 804,e,a,num_m,2020,1.2
-804,e,e,num_m,2019,1.1
+804,e,q,num_m,2019,1.1
 807,e,a,num_m,2001,0.2
 807,e,a,num_m,2002,0.2
 807,e,a,num_m,2003,0.1
@@ -2799,8 +2799,8 @@ geo_area,nature,observation_status,units,year,sn_itk_defcn
 807,e,a,num_m,2016,<0.1
 807,e,a,num_m,2017,<0.1
 807,e,a,num_m,2020,<0.1
-807,e,e,num_m,2018,<0.1
-807,e,e,num_m,2019,<0.1
+807,e,q,num_m,2018,<0.1
+807,e,q,num_m,2019,<0.1
 818,e,a,num_m,2001,3.7
 818,e,a,num_m,2002,3.9
 818,e,a,num_m,2003,4.4
@@ -2868,7 +2868,7 @@ geo_area,nature,observation_status,units,year,sn_itk_defcn
 858,e,a,num_m,2005,0.1
 858,e,a,num_m,2006,0.1
 858,e,a,num_m,2007,0.1
-858,e,e,num_m,2008,<0.1
+858,e,q,num_m,2008,<0.1
 860,e,a,num_m,2001,4.5
 860,e,a,num_m,2002,4.9
 860,e,a,num_m,2003,4.8
@@ -2893,8 +2893,8 @@ geo_area,nature,observation_status,units,year,sn_itk_defcn
 862,e,a,num_m,2018,6.6
 862,e,a,num_m,2019,7.1
 862,e,a,num_m,2020,6.5
-862,e,e,num_m,2008,0.8
-862,e,e,num_m,2014,1.3
+862,e,q,num_m,2008,0.8
+862,e,q,num_m,2014,1.3
 882,e,a,num_m,2001,<0.1
 882,e,a,num_m,2002,<0.1
 882,e,a,num_m,2003,<0.1
@@ -3015,4 +3015,4 @@ geo_area,nature,observation_status,units,year,sn_itk_defcn
 906,n,a,num_m,2011,65.2
 906,n,a,num_m,2012,60.9
 906,n,a,num_m,2021,68.8
-906,n,e,num_m,2020,65.7
+906,n,q,num_m,2020,65.7

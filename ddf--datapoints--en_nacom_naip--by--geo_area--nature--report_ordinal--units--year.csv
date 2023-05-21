@@ -1,7 +1,7 @@
 geo_area,nature,report_ordinal,units,year,en_nacom_naip
-1,g,fifth,number,2021,2
-1,g,first,number,2021,154
-1,g,fourth,number,2021,11
-1,g,second,number,2021,142
-1,g,sixth,number,2021,1
-1,g,third,number,2021,84
+1,n,fifth,number,2023,4
+1,n,first,number,2023,154
+1,n,fourth,number,2023,26
+1,n,second,number,2023,146
+1,n,sixth,number,2023,1
+1,n,third,number,2023,99

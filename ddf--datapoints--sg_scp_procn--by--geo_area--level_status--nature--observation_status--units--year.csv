@@ -30,7 +30,7 @@ geo_area,level_status,nature,observation_status,units,year,sg_scp_procn
 250,mhigimp,c,a,number,2022,1
 276,mlowimp,c,a,number,2020,1
 276,mlowimp,c,a,number,2022,1
-300,mhigimp,c,a,number,2022,1
+300,mlowimp,c,a,number,2022,1
 372,lowimp,c,a,number,2020,1
 372,mhigimp,c,a,number,2022,1
 376,mlowimp,c,a,number,2022,1

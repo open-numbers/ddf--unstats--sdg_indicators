@@ -1600,7 +1600,6 @@ industries,372,g,a,usd_m3,2017,240.13
 industries,372,g,a,usd_m3,2018,246.32
 industries,372,g,a,usd_m3,2019,248.2
 industries,372,g,a,usd_m3,2020,278.15
-industries,376,e,a,usd_m3,2017,545.78
 industries,376,g,a,usd_m3,2000,316.79
 industries,376,g,a,usd_m3,2001,294.42
 industries,376,g,a,usd_m3,2002,289.82
@@ -12299,7 +12298,6 @@ total,372,g,a,usd_m3,2017,224.19
 total,372,g,a,usd_m3,2018,215.11
 total,372,g,a,usd_m3,2019,224.8
 total,372,g,a,usd_m3,2020,236.17
-total,376,e,a,usd_m3,2017,125.47
 total,376,g,a,usd_m3,2000,83.8
 total,376,g,a,usd_m3,2001,86.06
 total,376,g,a,usd_m3,2002,87.44
