@@ -21,7 +21,7 @@ isic4_c,1,n,a,con_usd,2018,1771
 isic4_c,1,n,a,con_usd,2019,1781.1
 isic4_c,1,n,a,con_usd,2020,1723.15
 isic4_c,1,n,a,con_usd,2021,1834.85
-isic4_c,1,n,a,con_usd,2022,1874.5
+isic4_c,1,n,a,con_usd,2022,1878.96
 isic4_c,2,n,a,con_usd,2000,177.24
 isic4_c,2,n,a,con_usd,2001,178.47
 isic4_c,2,n,a,con_usd,2002,184.39
@@ -44,7 +44,7 @@ isic4_c,2,n,a,con_usd,2018,215.71
 isic4_c,2,n,a,con_usd,2019,213.39
 isic4_c,2,n,a,con_usd,2020,201.4
 isic4_c,2,n,a,con_usd,2021,204.05
-isic4_c,2,n,a,con_usd,2022,205.91
+isic4_c,2,n,a,con_usd,2022,206.19
 isic4_c,4,ca,a,con_usd,2000,48.55
 isic4_c,4,ca,a,con_usd,2001,53.07
 isic4_c,4,ca,a,con_usd,2002,68.19
@@ -90,7 +90,7 @@ isic4_c,5,n,a,con_usd,2018,982.15
 isic4_c,5,n,a,con_usd,2019,939.81
 isic4_c,5,n,a,con_usd,2020,869.43
 isic4_c,5,n,a,con_usd,2021,878.32
-isic4_c,5,n,a,con_usd,2022,896.72
+isic4_c,5,n,a,con_usd,2022,899.86
 isic4_c,8,ca,a,con_usd,2000,78.4
 isic4_c,8,ca,a,con_usd,2001,83.66
 isic4_c,8,ca,a,con_usd,2002,88
@@ -113,7 +113,7 @@ isic4_c,8,ca,a,con_usd,2018,280.35
 isic4_c,8,ca,a,con_usd,2019,296.14
 isic4_c,8,ca,a,con_usd,2020,278.52
 isic4_c,8,ca,a,con_usd,2021,325.76
-isic4_c,8,e,a,con_usd,2022,344.78
+isic4_c,8,e,a,con_usd,2022,343.59
 isic4_c,9,n,a,con_usd,2000,3100.62
 isic4_c,9,n,a,con_usd,2001,3123.59
 isic4_c,9,n,a,con_usd,2002,3221.95
@@ -136,7 +136,7 @@ isic4_c,9,n,a,con_usd,2018,2372.46
 isic4_c,9,n,a,con_usd,2019,2300.76
 isic4_c,9,n,a,con_usd,2020,2296.45
 isic4_c,9,n,a,con_usd,2021,2340.6
-isic4_c,9,n,a,con_usd,2022,2347.81
+isic4_c,9,n,a,con_usd,2022,2347.37
 isic4_c,11,n,a,con_usd,2000,142.06
 isic4_c,11,n,a,con_usd,2001,140.9
 isic4_c,11,n,a,con_usd,2002,155.52
@@ -159,7 +159,7 @@ isic4_c,11,n,a,con_usd,2018,191.1
 isic4_c,11,n,a,con_usd,2019,191.06
 isic4_c,11,n,a,con_usd,2020,187.7
 isic4_c,11,n,a,con_usd,2021,193.62
-isic4_c,11,n,a,con_usd,2022,193.24
+isic4_c,11,n,a,con_usd,2022,193.82
 isic4_c,12,ca,a,con_usd,2000,134.48
 isic4_c,12,ca,a,con_usd,2001,138.22
 isic4_c,12,ca,a,con_usd,2002,143.62
@@ -182,7 +182,7 @@ isic4_c,12,ca,a,con_usd,2018,195.95
 isic4_c,12,ca,a,con_usd,2019,200.02
 isic4_c,12,ca,a,con_usd,2020,188.82
 isic4_c,12,ca,a,con_usd,2021,194.7
-isic4_c,12,e,a,con_usd,2022,198.66
+isic4_c,12,e,a,con_usd,2022,196.54
 isic4_c,13,n,a,con_usd,2000,1440.74
 isic4_c,13,n,a,con_usd,2001,1382.2
 isic4_c,13,n,a,con_usd,2002,1334.17
@@ -205,7 +205,7 @@ isic4_c,13,n,a,con_usd,2018,1413.32
 isic4_c,13,n,a,con_usd,2019,1405.37
 isic4_c,13,n,a,con_usd,2020,1272.41
 isic4_c,13,n,a,con_usd,2021,1376.11
-isic4_c,13,n,a,con_usd,2022,1393.19
+isic4_c,13,n,a,con_usd,2022,1408.83
 isic4_c,14,n,a,con_usd,2000,54.36
 isic4_c,14,n,a,con_usd,2001,54.73
 isic4_c,14,n,a,con_usd,2002,53.28
@@ -228,7 +228,7 @@ isic4_c,14,n,a,con_usd,2018,79.5
 isic4_c,14,n,a,con_usd,2019,80.51
 isic4_c,14,n,a,con_usd,2020,77.43
 isic4_c,14,n,a,con_usd,2021,79.26
-isic4_c,14,n,a,con_usd,2022,80.22
+isic4_c,14,n,a,con_usd,2022,80.84
 isic4_c,15,n,a,con_usd,2000,290.02
 isic4_c,15,n,a,con_usd,2001,298.79
 isic4_c,15,n,a,con_usd,2002,304.45
@@ -251,7 +251,7 @@ isic4_c,15,n,a,con_usd,2018,398.06
 isic4_c,15,n,a,con_usd,2019,395.33
 isic4_c,15,n,a,con_usd,2020,377.07
 isic4_c,15,n,a,con_usd,2021,372.73
-isic4_c,15,n,a,con_usd,2022,382.77
+isic4_c,15,n,a,con_usd,2022,382.39
 isic4_c,17,n,a,con_usd,2000,114.54
 isic4_c,17,n,a,con_usd,2001,109.08
 isic4_c,17,n,a,con_usd,2002,115.48
@@ -274,7 +274,7 @@ isic4_c,17,n,a,con_usd,2018,152.57
 isic4_c,17,n,a,con_usd,2019,146.94
 isic4_c,17,n,a,con_usd,2020,139.56
 isic4_c,17,n,a,con_usd,2021,141.22
-isic4_c,17,n,a,con_usd,2022,143.45
+isic4_c,17,n,a,con_usd,2022,143.43
 isic4_c,18,n,a,con_usd,2000,650.32
 isic4_c,18,n,a,con_usd,2001,665.64
 isic4_c,18,n,a,con_usd,2002,680.25
@@ -297,7 +297,7 @@ isic4_c,18,n,a,con_usd,2018,737.55
 isic4_c,18,n,a,con_usd,2019,723.64
 isic4_c,18,n,a,con_usd,2020,624.83
 isic4_c,18,n,a,con_usd,2021,655.07
-isic4_c,18,n,a,con_usd,2022,659.29
+isic4_c,18,n,a,con_usd,2022,658.66
 isic4_c,19,n,a,con_usd,2000,3025.53
 isic4_c,19,n,a,con_usd,2001,2895.64
 isic4_c,19,n,a,con_usd,2002,2870.41
@@ -320,7 +320,7 @@ isic4_c,19,n,a,con_usd,2018,3158.73
 isic4_c,19,n,a,con_usd,2019,3156.6
 isic4_c,19,n,a,con_usd,2020,2965.82
 isic4_c,19,n,a,con_usd,2021,3125.26
-isic4_c,19,n,a,con_usd,2022,3152.01
+isic4_c,19,n,a,con_usd,2022,3173.83
 isic4_c,20,ca,a,con_usd,2000,1298.19
 isic4_c,20,ca,a,con_usd,2001,1232.55
 isic4_c,20,ca,a,con_usd,2002,1228.64
@@ -343,7 +343,7 @@ isic4_c,20,ca,a,con_usd,2018,1419
 isic4_c,20,ca,a,con_usd,2019,1447.34
 isic4_c,20,ca,a,con_usd,2020,1283.54
 isic4_c,20,ca,a,con_usd,2021,1487.42
-isic4_c,20,e,a,con_usd,2022,1551.76
+isic4_c,20,e,a,con_usd,2022,1575.66
 isic4_c,21,n,a,con_usd,2000,6119.44
 isic4_c,21,n,a,con_usd,2001,5814.16
 isic4_c,21,n,a,con_usd,2002,5811.81
@@ -366,7 +366,7 @@ isic4_c,21,n,a,con_usd,2018,6632.47
 isic4_c,21,n,a,con_usd,2019,6684.49
 isic4_c,21,n,a,con_usd,2020,6324.72
 isic4_c,21,n,a,con_usd,2021,6715.59
-isic4_c,21,n,a,con_usd,2022,6760.15
+isic4_c,21,n,a,con_usd,2022,6809.29
 isic4_c,24,ca,a,con_usd,2000,118.75
 isic4_c,24,ca,a,con_usd,2001,123.77
 isic4_c,24,ca,a,con_usd,2002,130.12
@@ -389,7 +389,7 @@ isic4_c,24,ca,a,con_usd,2018,252.71
 isic4_c,24,ca,a,con_usd,2019,231.81
 isic4_c,24,ca,a,con_usd,2020,230.42
 isic4_c,24,ca,a,con_usd,2021,225.02
-isic4_c,24,e,a,con_usd,2022,228.49
+isic4_c,24,e,a,con_usd,2022,228.47
 isic4_c,28,ca,a,con_usd,2000,328.64
 isic4_c,28,ca,a,con_usd,2001,329.77
 isic4_c,28,ca,a,con_usd,2002,342.83
@@ -412,7 +412,7 @@ isic4_c,28,ca,a,con_usd,2018,433.16
 isic4_c,28,ca,a,con_usd,2019,414.81
 isic4_c,28,ca,a,con_usd,2020,340.82
 isic4_c,28,ca,a,con_usd,2021,343.86
-isic4_c,28,e,a,con_usd,2022,355.28
+isic4_c,28,e,a,con_usd,2022,356.22
 isic4_c,29,n,a,con_usd,2000,1760.46
 isic4_c,29,n,a,con_usd,2001,1911.26
 isic4_c,29,n,a,con_usd,2002,1937.93
@@ -435,7 +435,7 @@ isic4_c,29,n,a,con_usd,2018,1822.08
 isic4_c,29,n,a,con_usd,2019,1818.18
 isic4_c,29,n,a,con_usd,2020,1724.76
 isic4_c,29,n,a,con_usd,2021,1702.37
-isic4_c,29,n,a,con_usd,2022,1762.5
+isic4_c,29,n,a,con_usd,2022,1760.19
 isic4_c,30,n,a,con_usd,2000,999.1
 isic4_c,30,n,a,con_usd,2001,1005.89
 isic4_c,30,n,a,con_usd,2002,1074.56
@@ -458,7 +458,7 @@ isic4_c,30,n,a,con_usd,2018,3275.8
 isic4_c,30,n,a,con_usd,2019,3357.97
 isic4_c,30,n,a,con_usd,2020,3382.7
 isic4_c,30,n,a,con_usd,2021,3650.89
-isic4_c,30,n,a,con_usd,2022,3756.41
+isic4_c,30,n,a,con_usd,2022,3740.95
 isic4_c,31,ca,a,con_usd,2000,134.14
 isic4_c,31,ca,a,con_usd,2001,138.07
 isic4_c,31,ca,a,con_usd,2002,147.78
@@ -481,7 +481,7 @@ isic4_c,31,ca,a,con_usd,2018,271.11
 isic4_c,31,ca,a,con_usd,2019,296.94
 isic4_c,31,ca,a,con_usd,2020,323.88
 isic4_c,31,ca,a,con_usd,2021,385.07
-isic4_c,31,e,a,con_usd,2022,390.03
+isic4_c,31,e,a,con_usd,2022,392.7
 isic4_c,32,ca,a,con_usd,2000,1688.1
 isic4_c,32,ca,a,con_usd,2001,1546.73
 isic4_c,32,ca,a,con_usd,2002,1362.58
@@ -504,7 +504,7 @@ isic4_c,32,ca,a,con_usd,2018,1898.17
 isic4_c,32,ca,a,con_usd,2019,1767.52
 isic4_c,32,ca,a,con_usd,2020,1620.16
 isic4_c,32,ca,a,con_usd,2021,1540.35
-isic4_c,32,e,a,con_usd,2022,1582.3
+isic4_c,32,e,a,con_usd,2022,1602.84
 isic4_c,34,n,a,con_usd,2000,112.93
 isic4_c,34,n,a,con_usd,2001,116.5
 isic4_c,34,n,a,con_usd,2002,120.94
@@ -527,7 +527,7 @@ isic4_c,34,n,a,con_usd,2018,306.06
 isic4_c,34,n,a,con_usd,2019,302.59
 isic4_c,34,n,a,con_usd,2020,299.01
 isic4_c,34,n,a,con_usd,2021,323.6
-isic4_c,34,n,a,con_usd,2022,343.72
+isic4_c,34,n,a,con_usd,2022,343.38
 isic4_c,35,n,a,con_usd,2000,508.89
 isic4_c,35,n,a,con_usd,2001,504.79
 isic4_c,35,n,a,con_usd,2002,530.11
@@ -550,7 +550,7 @@ isic4_c,35,n,a,con_usd,2018,972.85
 isic4_c,35,n,a,con_usd,2019,992.73
 isic4_c,35,n,a,con_usd,2020,961.7
 isic4_c,35,n,a,con_usd,2021,1007.8
-isic4_c,35,n,a,con_usd,2022,1053.57
+isic4_c,35,n,a,con_usd,2022,1063.86
 isic4_c,36,ca,a,con_usd,2000,3967.59
 isic4_c,36,ca,a,con_usd,2001,4026.64
 isic4_c,36,ca,a,con_usd,2002,4145.44
@@ -573,7 +573,7 @@ isic4_c,36,ca,a,con_usd,2018,3054.37
 isic4_c,36,ca,a,con_usd,2019,2955.6
 isic4_c,36,ca,a,con_usd,2020,2985.05
 isic4_c,36,ca,a,con_usd,2021,3031.28
-isic4_c,36,e,a,con_usd,2022,3053.01
+isic4_c,36,e,a,con_usd,2022,3049.53
 isic4_c,39,n,a,con_usd,2000,3430.95
 isic4_c,39,n,a,con_usd,2001,3472.21
 isic4_c,39,n,a,con_usd,2002,3471.73
@@ -596,7 +596,7 @@ isic4_c,39,n,a,con_usd,2018,3312.03
 isic4_c,39,n,a,con_usd,2019,3317.41
 isic4_c,39,n,a,con_usd,2020,2913.29
 isic4_c,39,n,a,con_usd,2021,3244.79
-isic4_c,39,n,a,con_usd,2022,3403.63
+isic4_c,39,n,a,con_usd,2022,3433.63
 isic4_c,40,ca,a,con_usd,2000,5907.72
 isic4_c,40,ca,a,con_usd,2001,6046.96
 isic4_c,40,ca,a,con_usd,2002,5936.28
@@ -619,7 +619,7 @@ isic4_c,40,ca,a,con_usd,2018,8111.33
 isic4_c,40,ca,a,con_usd,2019,8153.6
 isic4_c,40,ca,a,con_usd,2020,7655.5
 isic4_c,40,ca,a,con_usd,2021,8369.41
-isic4_c,40,e,a,con_usd,2022,8979.46
+isic4_c,40,e,a,con_usd,2022,9021.5
 isic4_c,44,ca,a,con_usd,2000,961.65
 isic4_c,44,ca,a,con_usd,2001,823.32
 isic4_c,44,ca,a,con_usd,2002,757.43
@@ -642,7 +642,7 @@ isic4_c,44,ca,a,con_usd,2018,540.24
 isic4_c,44,ca,a,con_usd,2019,235.67
 isic4_c,44,ca,a,con_usd,2020,244.6
 isic4_c,44,ca,a,con_usd,2021,136.46
-isic4_c,44,e,a,con_usd,2022,134.08
+isic4_c,44,e,a,con_usd,2022,133.69
 isic4_c,48,ca,a,con_usd,2000,3192.05
 isic4_c,48,ca,a,con_usd,2001,3220.8
 isic4_c,48,ca,a,con_usd,2002,3285.12
@@ -665,7 +665,7 @@ isic4_c,48,ca,a,con_usd,2018,3931.97
 isic4_c,48,ca,a,con_usd,2019,3975.46
 isic4_c,48,ca,a,con_usd,2020,3792.76
 isic4_c,48,ca,a,con_usd,2021,3858.3
-isic4_c,48,e,a,con_usd,2022,3973.32
+isic4_c,48,e,a,con_usd,2022,4009.83
 isic4_c,50,ca,a,con_usd,2000,75.84
 isic4_c,50,ca,a,con_usd,2001,79.39
 isic4_c,50,ca,a,con_usd,2002,82.2
@@ -688,7 +688,7 @@ isic4_c,50,ca,a,con_usd,2018,377.14
 isic4_c,50,ca,a,con_usd,2019,418.97
 isic4_c,50,ca,a,con_usd,2020,421.17
 isic4_c,50,ca,a,con_usd,2021,464.59
-isic4_c,50,e,a,con_usd,2022,510.77
+isic4_c,50,e,a,con_usd,2022,509.39
 isic4_c,51,ca,a,con_usd,2000,120.09
 isic4_c,51,ca,a,con_usd,2001,124.69
 isic4_c,51,ca,a,con_usd,2002,147.27
@@ -711,7 +711,7 @@ isic4_c,51,ca,a,con_usd,2018,473.31
 isic4_c,51,ca,a,con_usd,2019,521.21
 isic4_c,51,ca,a,con_usd,2020,503.22
 isic4_c,51,ca,a,con_usd,2021,528.04
-isic4_c,51,e,a,con_usd,2022,564.34
+isic4_c,51,e,a,con_usd,2022,585.33
 isic4_c,52,ca,a,con_usd,2000,1491.72
 isic4_c,52,ca,a,con_usd,2001,1366.37
 isic4_c,52,ca,a,con_usd,2002,1364.2
@@ -734,7 +734,7 @@ isic4_c,52,ca,a,con_usd,2018,892.29
 isic4_c,52,ca,a,con_usd,2019,889.18
 isic4_c,52,ca,a,con_usd,2020,821.75
 isic4_c,52,ca,a,con_usd,2021,848.74
-isic4_c,52,e,a,con_usd,2022,901.83
+isic4_c,52,e,a,con_usd,2022,898.54
 isic4_c,53,n,a,con_usd,2000,4110.08
 isic4_c,53,n,a,con_usd,2001,4163.67
 isic4_c,53,n,a,con_usd,2002,4312.95
@@ -757,7 +757,7 @@ isic4_c,53,n,a,con_usd,2018,3283.19
 isic4_c,53,n,a,con_usd,2019,3182.63
 isic4_c,53,n,a,con_usd,2020,3184.36
 isic4_c,53,n,a,con_usd,2021,3252.69
-isic4_c,53,n,a,con_usd,2022,3266.63
+isic4_c,53,n,a,con_usd,2022,3264.69
 isic4_c,54,n,a,con_usd,2000,189.37
 isic4_c,54,n,a,con_usd,2001,169.32
 isic4_c,54,n,a,con_usd,2002,169.2
@@ -780,7 +780,7 @@ isic4_c,54,n,a,con_usd,2018,170.28
 isic4_c,54,n,a,con_usd,2019,172.82
 isic4_c,54,n,a,con_usd,2020,167.82
 isic4_c,54,n,a,con_usd,2021,171.87
-isic4_c,54,n,a,con_usd,2022,181.66
+isic4_c,54,n,a,con_usd,2022,185.19
 isic4_c,56,ca,a,con_usd,2000,5117.73
 isic4_c,56,ca,a,con_usd,2001,5131.58
 isic4_c,56,ca,a,con_usd,2002,5130.01
@@ -803,7 +803,7 @@ isic4_c,56,ca,a,con_usd,2018,5117.12
 isic4_c,56,ca,a,con_usd,2019,5298.19
 isic4_c,56,ca,a,con_usd,2020,5056.68
 isic4_c,56,ca,a,con_usd,2021,5036.53
-isic4_c,56,e,a,con_usd,2022,5119.69
+isic4_c,56,e,a,con_usd,2022,5161.01
 isic4_c,57,n,a,con_usd,2000,65.92
 isic4_c,57,n,a,con_usd,2001,72.66
 isic4_c,57,n,a,con_usd,2002,74.71
@@ -826,7 +826,7 @@ isic4_c,57,n,a,con_usd,2018,124.78
 isic4_c,57,n,a,con_usd,2019,125.83
 isic4_c,57,n,a,con_usd,2020,122.75
 isic4_c,57,n,a,con_usd,2021,122.51
-isic4_c,57,n,a,con_usd,2022,128.91
+isic4_c,57,n,a,con_usd,2022,132.6
 isic4_c,60,ca,a,con_usd,2000,2126.93
 isic4_c,60,ca,a,con_usd,2001,1955.03
 isic4_c,60,ca,a,con_usd,2002,1888.6
@@ -849,7 +849,7 @@ isic4_c,60,ca,a,con_usd,2018,571.92
 isic4_c,60,ca,a,con_usd,2019,569.56
 isic4_c,60,ca,a,con_usd,2020,458.35
 isic4_c,60,ca,a,con_usd,2021,443.43
-isic4_c,60,e,a,con_usd,2022,437.33
+isic4_c,60,e,a,con_usd,2022,438.49
 isic4_c,61,n,a,con_usd,2000,775.09
 isic4_c,61,n,a,con_usd,2001,805.45
 isic4_c,61,n,a,con_usd,2002,841.83
@@ -872,7 +872,7 @@ isic4_c,61,n,a,con_usd,2018,562.75
 isic4_c,61,n,a,con_usd,2019,581.55
 isic4_c,61,n,a,con_usd,2020,526.38
 isic4_c,61,n,a,con_usd,2021,530.43
-isic4_c,61,n,a,con_usd,2022,506.43
+isic4_c,61,n,a,con_usd,2022,500.44
 isic4_c,62,n,a,con_usd,2000,121.48
 isic4_c,62,n,a,con_usd,2001,125.81
 isic4_c,62,n,a,con_usd,2002,130.27
@@ -895,7 +895,7 @@ isic4_c,62,n,a,con_usd,2018,320.07
 isic4_c,62,n,a,con_usd,2019,317.08
 isic4_c,62,n,a,con_usd,2020,314.53
 isic4_c,62,n,a,con_usd,2021,339.5
-isic4_c,62,n,a,con_usd,2022,359.12
+isic4_c,62,n,a,con_usd,2022,359.01
 isic4_c,64,ca,a,con_usd,2000,85.11
 isic4_c,64,ca,a,con_usd,2001,93.17
 isic4_c,64,ca,a,con_usd,2002,92.52
@@ -918,7 +918,7 @@ isic4_c,64,ca,a,con_usd,2018,241.28
 isic4_c,64,ca,a,con_usd,2019,239.58
 isic4_c,64,ca,a,con_usd,2020,188.6
 isic4_c,64,ca,a,con_usd,2021,182.93
-isic4_c,64,e,a,con_usd,2022,187.72
+isic4_c,64,e,a,con_usd,2022,188.59
 isic4_c,68,ca,a,con_usd,2000,210.23
 isic4_c,68,ca,a,con_usd,2001,212.09
 isic4_c,68,ca,a,con_usd,2002,208.93
@@ -941,7 +941,7 @@ isic4_c,68,ca,a,con_usd,2018,335.31
 isic4_c,68,ca,a,con_usd,2019,341.02
 isic4_c,68,ca,a,con_usd,2020,309.59
 isic4_c,68,ca,a,con_usd,2021,317.88
-isic4_c,68,e,a,con_usd,2022,325.62
+isic4_c,68,e,a,con_usd,2022,324.04
 isic4_c,70,ca,a,con_usd,2000,211.1
 isic4_c,70,ca,a,con_usd,2001,223.93
 isic4_c,70,ca,a,con_usd,2002,242.43
@@ -964,7 +964,7 @@ isic4_c,70,ca,a,con_usd,2018,646.34
 isic4_c,70,ca,a,con_usd,2019,654.49
 isic4_c,70,ca,a,con_usd,2020,634.5
 isic4_c,70,ca,a,con_usd,2021,736.53
-isic4_c,70,e,a,con_usd,2022,773.23
+isic4_c,70,e,a,con_usd,2022,782.89
 isic4_c,72,ca,a,con_usd,2000,254.81
 isic4_c,72,ca,a,con_usd,2001,252.43
 isic4_c,72,ca,a,con_usd,2002,265.47
@@ -987,7 +987,7 @@ isic4_c,72,ca,a,con_usd,2018,405.69
 isic4_c,72,ca,a,con_usd,2019,415.84
 isic4_c,72,ca,a,con_usd,2020,347.37
 isic4_c,72,ca,a,con_usd,2021,369.33
-isic4_c,72,e,a,con_usd,2022,379.82
+isic4_c,72,e,a,con_usd,2022,387.42
 isic4_c,76,ca,a,con_usd,2000,928.43
 isic4_c,76,ca,a,con_usd,2001,922.67
 isic4_c,76,ca,a,con_usd,2002,933.29
@@ -1010,7 +1010,7 @@ isic4_c,76,ca,a,con_usd,2018,891.27
 isic4_c,76,ca,a,con_usd,2019,880.7
 isic4_c,76,ca,a,con_usd,2020,834.03
 isic4_c,76,ca,a,con_usd,2021,819.05
-isic4_c,76,e,a,con_usd,2022,831.14
+isic4_c,76,e,a,con_usd,2022,832.5
 isic4_c,84,ca,a,con_usd,2000,608.18
 isic4_c,84,ca,a,con_usd,2001,585.19
 isic4_c,84,ca,a,con_usd,2002,571.41
@@ -1033,7 +1033,7 @@ isic4_c,84,ca,a,con_usd,2018,430.96
 isic4_c,84,ca,a,con_usd,2019,430
 isic4_c,84,ca,a,con_usd,2020,395.44
 isic4_c,84,ca,a,con_usd,2021,429.66
-isic4_c,84,e,a,con_usd,2022,429.81
+isic4_c,84,e,a,con_usd,2022,450.23
 isic4_c,90,ca,a,con_usd,2000,212.83
 isic4_c,90,ca,a,con_usd,2001,170.28
 isic4_c,90,ca,a,con_usd,2002,161.19
@@ -1056,7 +1056,7 @@ isic4_c,90,ca,a,con_usd,2018,206.34
 isic4_c,90,ca,a,con_usd,2019,202.07
 isic4_c,90,ca,a,con_usd,2020,190.93
 isic4_c,90,ca,a,con_usd,2021,195.89
-isic4_c,90,e,a,con_usd,2022,177.04
+isic4_c,90,e,a,con_usd,2022,177.94
 isic4_c,92,ca,a,con_usd,2000,1431.94
 isic4_c,92,ca,a,con_usd,2001,1352.19
 isic4_c,92,ca,a,con_usd,2002,1307.08
@@ -1079,7 +1079,7 @@ isic4_c,92,ca,a,con_usd,2018,921.87
 isic4_c,92,ca,a,con_usd,2019,948.69
 isic4_c,92,ca,a,con_usd,2020,965.15
 isic4_c,92,ca,a,con_usd,2021,974.62
-isic4_c,92,e,a,con_usd,2022,1037.01
+isic4_c,92,e,a,con_usd,2022,1048.38
 isic4_c,96,ca,a,con_usd,2000,5830.37
 isic4_c,96,ca,a,con_usd,2001,5721.5
 isic4_c,96,ca,a,con_usd,2002,5995.12
@@ -1102,7 +1102,7 @@ isic4_c,96,ca,a,con_usd,2018,4655.46
 isic4_c,96,ca,a,con_usd,2019,4886.75
 isic4_c,96,ca,a,con_usd,2020,6003.97
 isic4_c,96,ca,a,con_usd,2021,5554.77
-isic4_c,96,e,a,con_usd,2022,5585.92
+isic4_c,96,e,a,con_usd,2022,5408.01
 isic4_c,100,ca,a,con_usd,2000,445.24
 isic4_c,100,ca,a,con_usd,2001,480.03
 isic4_c,100,ca,a,con_usd,2002,514.17
@@ -1125,7 +1125,7 @@ isic4_c,100,ca,a,con_usd,2018,1067.13
 isic4_c,100,ca,a,con_usd,2019,1092.07
 isic4_c,100,ca,a,con_usd,2020,966.22
 isic4_c,100,ca,a,con_usd,2021,1003.98
-isic4_c,100,e,a,con_usd,2022,1060.5
+isic4_c,100,e,a,con_usd,2022,1054.48
 isic4_c,104,ca,a,con_usd,2000,27.48
 isic4_c,104,ca,a,con_usd,2001,34.15
 isic4_c,104,ca,a,con_usd,2002,42.25
@@ -1171,7 +1171,7 @@ isic4_c,108,ca,a,con_usd,2018,29.86
 isic4_c,108,ca,a,con_usd,2019,29.13
 isic4_c,108,ca,a,con_usd,2020,29.02
 isic4_c,108,ca,a,con_usd,2021,28.58
-isic4_c,108,e,a,con_usd,2022,28.38
+isic4_c,108,e,a,con_usd,2022,27.92
 isic4_c,112,ca,a,con_usd,2000,414.51
 isic4_c,112,ca,a,con_usd,2001,447.03
 isic4_c,112,ca,a,con_usd,2002,480.72
@@ -1194,7 +1194,7 @@ isic4_c,112,ca,a,con_usd,2018,1347.54
 isic4_c,112,ca,a,con_usd,2019,1367.52
 isic4_c,112,ca,a,con_usd,2020,1376.64
 isic4_c,112,ca,a,con_usd,2021,1465.62
-isic4_c,112,e,a,con_usd,2022,1352.88
+isic4_c,112,e,a,con_usd,2022,1396.98
 isic4_c,116,ca,a,con_usd,2000,54.46
 isic4_c,116,ca,a,con_usd,2001,61.62
 isic4_c,116,ca,a,con_usd,2002,69.24
@@ -1217,7 +1217,7 @@ isic4_c,116,ca,a,con_usd,2018,224.21
 isic4_c,116,ca,a,con_usd,2019,236.61
 isic4_c,116,ca,a,con_usd,2020,227.4
 isic4_c,116,ca,a,con_usd,2021,218.75
-isic4_c,116,e,a,con_usd,2022,232.4
+isic4_c,116,e,a,con_usd,2022,232.15
 isic4_c,120,ca,a,con_usd,2000,130.73
 isic4_c,120,ca,a,con_usd,2001,143.74
 isic4_c,120,ca,a,con_usd,2002,160.67
@@ -1240,7 +1240,7 @@ isic4_c,120,ca,a,con_usd,2018,208.88
 isic4_c,120,ca,a,con_usd,2019,205.47
 isic4_c,120,ca,a,con_usd,2020,204.24
 isic4_c,120,ca,a,con_usd,2021,208.26
-isic4_c,120,e,a,con_usd,2022,212.01
+isic4_c,120,e,a,con_usd,2022,211.42
 isic4_c,124,ca,a,con_usd,2000,5651.53
 isic4_c,124,ca,a,con_usd,2001,5389.39
 isic4_c,124,ca,a,con_usd,2002,5432.32
@@ -1263,7 +1263,7 @@ isic4_c,124,ca,a,con_usd,2018,4403.28
 isic4_c,124,ca,a,con_usd,2019,4345.28
 isic4_c,124,ca,a,con_usd,2020,3890.36
 isic4_c,124,ca,a,con_usd,2021,4042.84
-isic4_c,124,e,a,con_usd,2022,4154.58
+isic4_c,124,e,a,con_usd,2022,4162.76
 isic4_c,132,ca,a,con_usd,2000,168.39
 isic4_c,132,ca,a,con_usd,2001,137.6
 isic4_c,132,ca,a,con_usd,2002,135.36
@@ -1286,7 +1286,7 @@ isic4_c,132,ca,a,con_usd,2018,207.92
 isic4_c,132,ca,a,con_usd,2019,212.81
 isic4_c,132,ca,a,con_usd,2020,194.96
 isic4_c,132,ca,a,con_usd,2021,230.66
-isic4_c,132,e,a,con_usd,2022,236.93
+isic4_c,132,e,a,con_usd,2022,243.49
 isic4_c,136,ca,a,con_usd,2000,810.74
 isic4_c,136,ca,a,con_usd,2001,786.91
 isic4_c,136,ca,a,con_usd,2002,778.54
@@ -1309,7 +1309,7 @@ isic4_c,136,ca,a,con_usd,2018,718.29
 isic4_c,136,ca,a,con_usd,2019,730.74
 isic4_c,136,ca,a,con_usd,2020,667.33
 isic4_c,136,ca,a,con_usd,2021,677.69
-isic4_c,136,e,a,con_usd,2022,713.07
+isic4_c,136,e,a,con_usd,2022,719.25
 isic4_c,140,ca,a,con_usd,2000,71.03
 isic4_c,140,ca,a,con_usd,2001,70.62
 isic4_c,140,ca,a,con_usd,2002,69.98
@@ -1332,7 +1332,7 @@ isic4_c,140,ca,a,con_usd,2018,69.85
 isic4_c,140,ca,a,con_usd,2019,69.73
 isic4_c,140,ca,a,con_usd,2020,68.92
 isic4_c,140,ca,a,con_usd,2021,68.49
-isic4_c,140,e,a,con_usd,2022,68.85
+isic4_c,140,e,a,con_usd,2022,67.91
 isic4_c,142,n,a,con_usd,2000,568.67
 isic4_c,142,n,a,con_usd,2001,568.29
 isic4_c,142,n,a,con_usd,2002,598.82
@@ -1355,7 +1355,7 @@ isic4_c,142,n,a,con_usd,2018,1546.08
 isic4_c,142,n,a,con_usd,2019,1569.8
 isic4_c,142,n,a,con_usd,2020,1564.09
 isic4_c,142,n,a,con_usd,2021,1679.49
-isic4_c,142,n,a,con_usd,2022,1729.58
+isic4_c,142,n,a,con_usd,2022,1726.41
 isic4_c,143,n,a,con_usd,2000,346.57
 isic4_c,143,n,a,con_usd,2001,372.89
 isic4_c,143,n,a,con_usd,2002,379.77
@@ -1378,7 +1378,7 @@ isic4_c,143,n,a,con_usd,2018,692.89
 isic4_c,143,n,a,con_usd,2019,701.08
 isic4_c,143,n,a,con_usd,2020,723.62
 isic4_c,143,n,a,con_usd,2021,756.15
-isic4_c,143,n,a,con_usd,2022,760.37
+isic4_c,143,n,a,con_usd,2022,766.39
 isic4_c,144,ca,a,con_usd,2000,398.93
 isic4_c,144,ca,a,con_usd,2001,383.09
 isic4_c,144,ca,a,con_usd,2002,384.72
@@ -1401,7 +1401,7 @@ isic4_c,144,ca,a,con_usd,2018,675.53
 isic4_c,144,ca,a,con_usd,2019,685.51
 isic4_c,144,ca,a,con_usd,2020,657
 isic4_c,144,ca,a,con_usd,2021,702.2
-isic4_c,144,e,a,con_usd,2022,649.37
+isic4_c,144,e,a,con_usd,2022,649.54
 isic4_c,145,n,a,con_usd,2000,950.69
 isic4_c,145,n,a,con_usd,2001,907.51
 isic4_c,145,n,a,con_usd,2002,910.64
@@ -1424,7 +1424,7 @@ isic4_c,145,n,a,con_usd,2018,1413.76
 isic4_c,145,n,a,con_usd,2019,1380.84
 isic4_c,145,n,a,con_usd,2020,1332.33
 isic4_c,145,n,a,con_usd,2021,1478.23
-isic4_c,145,n,a,con_usd,2022,1546.56
+isic4_c,145,n,a,con_usd,2022,1560.2
 isic4_c,148,ca,a,con_usd,2000,43.48
 isic4_c,148,ca,a,con_usd,2001,48.34
 isic4_c,148,ca,a,con_usd,2002,58.78
@@ -1447,7 +1447,7 @@ isic4_c,148,ca,a,con_usd,2018,89.65
 isic4_c,148,ca,a,con_usd,2019,87.52
 isic4_c,148,ca,a,con_usd,2020,84.63
 isic4_c,148,ca,a,con_usd,2021,82.24
-isic4_c,148,e,a,con_usd,2022,84.67
+isic4_c,148,e,a,con_usd,2022,84.66
 isic4_c,150,n,a,con_usd,2000,2993.93
 isic4_c,150,n,a,con_usd,2001,3056.34
 isic4_c,150,n,a,con_usd,2002,3079.05
@@ -1470,7 +1470,7 @@ isic4_c,150,n,a,con_usd,2018,3942.8
 isic4_c,150,n,a,con_usd,2019,3972.83
 isic4_c,150,n,a,con_usd,2020,3749.65
 isic4_c,150,n,a,con_usd,2021,4046.71
-isic4_c,150,n,a,con_usd,2022,4185.29
+isic4_c,150,n,a,con_usd,2022,4222.29
 isic4_c,151,n,a,con_usd,2000,720.23
 isic4_c,151,n,a,con_usd,2001,759.35
 isic4_c,151,n,a,con_usd,2002,798.85
@@ -1493,7 +1493,7 @@ isic4_c,151,n,a,con_usd,2018,1553.63
 isic4_c,151,n,a,con_usd,2019,1596.14
 isic4_c,151,n,a,con_usd,2020,1539.95
 isic4_c,151,n,a,con_usd,2021,1616.57
-isic4_c,151,n,a,con_usd,2022,1616.41
+isic4_c,151,n,a,con_usd,2022,1637.44
 isic4_c,152,ca,a,con_usd,2000,1310.54
 isic4_c,152,ca,a,con_usd,2001,1303.97
 isic4_c,152,ca,a,con_usd,2002,1314.25
@@ -1516,7 +1516,7 @@ isic4_c,152,ca,a,con_usd,2018,1578.39
 isic4_c,152,ca,a,con_usd,2019,1528.38
 isic4_c,152,ca,a,con_usd,2020,1458.26
 isic4_c,152,ca,a,con_usd,2021,1564.29
-isic4_c,152,e,a,con_usd,2022,1567.24
+isic4_c,152,e,a,con_usd,2022,1572.89
 isic4_c,154,n,a,con_usd,2000,4494.87
 isic4_c,154,n,a,con_usd,2001,4568.69
 isic4_c,154,n,a,con_usd,2002,4720.3
@@ -1539,7 +1539,7 @@ isic4_c,154,n,a,con_usd,2018,5707.98
 isic4_c,154,n,a,con_usd,2019,5759.8
 isic4_c,154,n,a,con_usd,2020,5929.67
 isic4_c,154,n,a,con_usd,2021,6590.99
-isic4_c,154,n,a,con_usd,2022,6959.82
+isic4_c,154,n,a,con_usd,2022,7070
 isic4_c,155,n,a,con_usd,2000,5670.9
 isic4_c,155,n,a,con_usd,2001,5756.8
 isic4_c,155,n,a,con_usd,2002,5673.87
@@ -1562,7 +1562,7 @@ isic4_c,155,n,a,con_usd,2018,7108.93
 isic4_c,155,n,a,con_usd,2019,7108.07
 isic4_c,155,n,a,con_usd,2020,6541.41
 isic4_c,155,n,a,con_usd,2021,6917.29
-isic4_c,155,n,a,con_usd,2022,7088.11
+isic4_c,155,n,a,con_usd,2022,7114.44
 isic4_c,156,ca,a,con_usd,2000,361.06
 isic4_c,156,ca,a,con_usd,2001,405.42
 isic4_c,156,ca,a,con_usd,2002,479.93
@@ -1585,7 +1585,7 @@ isic4_c,156,ca,a,con_usd,2018,2695.61
 isic4_c,156,ca,a,con_usd,2019,2805.06
 isic4_c,156,ca,a,con_usd,2020,2872.43
 isic4_c,156,ca,a,con_usd,2021,3145.22
-isic4_c,156,e,a,con_usd,2022,3236.26
+isic4_c,156,e,a,con_usd,2022,3228.26
 isic4_c,158,ca,a,con_usd,2000,2713.35
 isic4_c,158,ca,a,con_usd,2001,2511.43
 isic4_c,158,ca,a,con_usd,2002,2794.86
@@ -1631,7 +1631,7 @@ isic4_c,170,ca,a,con_usd,2018,759.57
 isic4_c,170,ca,a,con_usd,2019,754.78
 isic4_c,170,ca,a,con_usd,2020,670.83
 isic4_c,170,ca,a,con_usd,2021,771.7
-isic4_c,170,e,a,con_usd,2022,824.48
+isic4_c,170,e,a,con_usd,2022,823.83
 isic4_c,174,ca,a,con_usd,2000,82.23
 isic4_c,174,ca,a,con_usd,2001,83.96
 isic4_c,174,ca,a,con_usd,2002,81.82
@@ -1654,7 +1654,7 @@ isic4_c,174,ca,a,con_usd,2018,90.34
 isic4_c,174,ca,a,con_usd,2019,89.55
 isic4_c,174,ca,a,con_usd,2020,87.97
 isic4_c,174,ca,a,con_usd,2021,88.24
-isic4_c,174,e,a,con_usd,2022,88.46
+isic4_c,174,e,a,con_usd,2022,88.11
 isic4_c,178,ca,a,con_usd,2000,160
 isic4_c,178,ca,a,con_usd,2001,166.81
 isic4_c,178,ca,a,con_usd,2002,183.32
@@ -1677,7 +1677,7 @@ isic4_c,178,ca,a,con_usd,2018,144.04
 isic4_c,178,ca,a,con_usd,2019,132.63
 isic4_c,178,ca,a,con_usd,2020,133.27
 isic4_c,178,ca,a,con_usd,2021,124.82
-isic4_c,178,e,a,con_usd,2022,125.64
+isic4_c,178,e,a,con_usd,2022,124.45
 isic4_c,180,ca,a,con_usd,2000,111.99
 isic4_c,180,ca,a,con_usd,2001,93.3
 isic4_c,180,ca,a,con_usd,2002,94.39
@@ -1700,7 +1700,7 @@ isic4_c,180,ca,a,con_usd,2018,82.32
 isic4_c,180,ca,a,con_usd,2019,84.62
 isic4_c,180,ca,a,con_usd,2020,76.03
 isic4_c,180,ca,a,con_usd,2021,76.82
-isic4_c,180,e,a,con_usd,2022,76.85
+isic4_c,180,e,a,con_usd,2022,77.34
 isic4_c,184,ca,a,con_usd,2000,390.35
 isic4_c,184,ca,a,con_usd,2001,419.56
 isic4_c,184,ca,a,con_usd,2002,444.33
@@ -1723,7 +1723,7 @@ isic4_c,184,ca,a,con_usd,2018,484.91
 isic4_c,184,ca,a,con_usd,2019,503.58
 isic4_c,184,ca,a,con_usd,2020,348.04
 isic4_c,184,ca,a,con_usd,2021,383.51
-isic4_c,184,e,a,con_usd,2022,378.03
+isic4_c,184,e,a,con_usd,2022,373.43
 isic4_c,188,ca,a,con_usd,2000,1373.49
 isic4_c,188,ca,a,con_usd,2001,1340.77
 isic4_c,188,ca,a,con_usd,2002,1363.91
@@ -1746,7 +1746,7 @@ isic4_c,188,ca,a,con_usd,2018,1467.73
 isic4_c,188,ca,a,con_usd,2019,1498.86
 isic4_c,188,ca,a,con_usd,2020,1534.19
 isic4_c,188,ca,a,con_usd,2021,1720.79
-isic4_c,188,e,a,con_usd,2022,1757.7
+isic4_c,188,e,a,con_usd,2022,1765.61
 isic4_c,191,ca,a,con_usd,2000,1337.21
 isic4_c,191,ca,a,con_usd,2001,1368.8
 isic4_c,191,ca,a,con_usd,2002,1403.91
@@ -1769,7 +1769,7 @@ isic4_c,191,ca,a,con_usd,2018,1690.8
 isic4_c,191,ca,a,con_usd,2019,1734.05
 isic4_c,191,ca,a,con_usd,2020,1647.53
 isic4_c,191,ca,a,con_usd,2021,1804.99
-isic4_c,191,e,a,con_usd,2022,1910.74
+isic4_c,191,e,a,con_usd,2022,1919.58
 isic4_c,192,ca,a,con_usd,2000,781.43
 isic4_c,192,ca,a,con_usd,2001,774.41
 isic4_c,192,ca,a,con_usd,2002,773.42
@@ -1815,7 +1815,7 @@ isic4_c,196,ca,a,con_usd,2018,1061.42
 isic4_c,196,ca,a,con_usd,2019,1134.93
 isic4_c,196,ca,a,con_usd,2020,1102.13
 isic4_c,196,ca,a,con_usd,2021,1170.85
-isic4_c,196,e,a,con_usd,2022,1172.22
+isic4_c,196,e,a,con_usd,2022,1198.55
 isic4_c,199,n,a,con_usd,2000,61.56
 isic4_c,199,n,a,con_usd,2001,63.5
 isic4_c,199,n,a,con_usd,2002,65.93
@@ -1838,7 +1838,7 @@ isic4_c,199,n,a,con_usd,2018,147.11
 isic4_c,199,n,a,con_usd,2019,154.21
 isic4_c,199,n,a,con_usd,2020,149.79
 isic4_c,199,n,a,con_usd,2021,152.26
-isic4_c,199,n,a,con_usd,2022,159.29
+isic4_c,199,n,a,con_usd,2022,159.37
 isic4_c,202,n,a,con_usd,2000,145.82
 isic4_c,202,n,a,con_usd,2001,145.2
 isic4_c,202,n,a,con_usd,2002,151.44
@@ -1861,7 +1861,7 @@ isic4_c,202,n,a,con_usd,2018,173.74
 isic4_c,202,n,a,con_usd,2019,171.84
 isic4_c,202,n,a,con_usd,2020,161.63
 isic4_c,202,n,a,con_usd,2021,166.18
-isic4_c,202,n,a,con_usd,2022,166.55
+isic4_c,202,n,a,con_usd,2022,166.97
 isic4_c,203,ca,a,con_usd,2000,2044.99
 isic4_c,203,ca,a,con_usd,2001,2131.19
 isic4_c,203,ca,a,con_usd,2002,2213.08
@@ -1884,7 +1884,7 @@ isic4_c,203,ca,a,con_usd,2018,4943.53
 isic4_c,203,ca,a,con_usd,2019,5173.91
 isic4_c,203,ca,a,con_usd,2020,4587.38
 isic4_c,203,ca,a,con_usd,2021,4823.98
-isic4_c,203,e,a,con_usd,2022,5007.57
+isic4_c,203,e,a,con_usd,2022,5051.63
 isic4_c,204,ca,a,con_usd,2000,128.13
 isic4_c,204,ca,a,con_usd,2001,135.78
 isic4_c,204,ca,a,con_usd,2002,135.2
@@ -1907,7 +1907,7 @@ isic4_c,204,ca,a,con_usd,2018,105.06
 isic4_c,204,ca,a,con_usd,2019,113.56
 isic4_c,204,ca,a,con_usd,2020,114.11
 isic4_c,204,ca,a,con_usd,2021,116.59
-isic4_c,204,e,a,con_usd,2022,117.09
+isic4_c,204,e,a,con_usd,2022,116.99
 isic4_c,208,ca,a,con_usd,2000,6582.16
 isic4_c,208,ca,a,con_usd,2001,6662.42
 isic4_c,208,ca,a,con_usd,2002,6478.97
@@ -1930,7 +1930,7 @@ isic4_c,208,ca,a,con_usd,2018,7773.42
 isic4_c,208,ca,a,con_usd,2019,8134.04
 isic4_c,208,ca,a,con_usd,2020,7877.2
 isic4_c,208,ca,a,con_usd,2021,8255.19
-isic4_c,208,e,a,con_usd,2022,8502.52
+isic4_c,208,e,a,con_usd,2022,8649.9
 isic4_c,212,ca,a,con_usd,2000,414.5
 isic4_c,212,ca,a,con_usd,2001,391.44
 isic4_c,212,ca,a,con_usd,2002,346.73
@@ -1976,7 +1976,7 @@ isic4_c,214,ca,a,con_usd,2018,1093.39
 isic4_c,214,ca,a,con_usd,2019,1109.26
 isic4_c,214,ca,a,con_usd,2020,1072.35
 isic4_c,214,ca,a,con_usd,2021,1197.14
-isic4_c,214,e,a,con_usd,2022,1238.57
+isic4_c,214,e,a,con_usd,2022,1235.8
 isic4_c,218,ca,a,con_usd,2000,747.16
 isic4_c,218,ca,a,con_usd,2001,751.14
 isic4_c,218,ca,a,con_usd,2002,751.26
@@ -1999,7 +1999,7 @@ isic4_c,218,ca,a,con_usd,2018,869.08
 isic4_c,218,ca,a,con_usd,2019,845.83
 isic4_c,218,ca,a,con_usd,2020,781.44
 isic4_c,218,ca,a,con_usd,2021,804.72
-isic4_c,218,e,a,con_usd,2022,812.43
+isic4_c,218,e,a,con_usd,2022,813.64
 isic4_c,222,ca,a,con_usd,2000,533.94
 isic4_c,222,ca,a,con_usd,2001,539.22
 isic4_c,222,ca,a,con_usd,2002,539.34
@@ -2022,7 +2022,7 @@ isic4_c,222,ca,a,con_usd,2018,630.86
 isic4_c,222,ca,a,con_usd,2019,642.78
 isic4_c,222,ca,a,con_usd,2020,562.66
 isic4_c,222,ca,a,con_usd,2021,628.98
-isic4_c,222,e,a,con_usd,2022,641.28
+isic4_c,222,e,a,con_usd,2022,642.57
 isic4_c,226,ca,a,con_usd,2000,352.19
 isic4_c,226,ca,a,con_usd,2001,386.65
 isic4_c,226,ca,a,con_usd,2002,418.94
@@ -2045,7 +2045,7 @@ isic4_c,226,ca,a,con_usd,2018,1618.02
 isic4_c,226,ca,a,con_usd,2019,1379.51
 isic4_c,226,ca,a,con_usd,2020,1175.86
 isic4_c,226,ca,a,con_usd,2021,1431.36
-isic4_c,226,e,a,con_usd,2022,1516.6
+isic4_c,226,e,a,con_usd,2022,1502.68
 isic4_c,231,ca,a,con_usd,2000,9.53
 isic4_c,231,ca,a,con_usd,2001,9.59
 isic4_c,231,ca,a,con_usd,2002,9.43
@@ -2068,7 +2068,7 @@ isic4_c,231,ca,a,con_usd,2018,39.41
 isic4_c,231,ca,a,con_usd,2019,41.33
 isic4_c,231,ca,a,con_usd,2020,43.28
 isic4_c,231,ca,a,con_usd,2021,44.31
-isic4_c,231,e,a,con_usd,2022,45.09
+isic4_c,231,e,a,con_usd,2022,46.5
 isic4_c,232,ca,a,con_usd,2000,75.15
 isic4_c,232,ca,a,con_usd,2001,61.26
 isic4_c,232,ca,a,con_usd,2002,67.35
@@ -2114,7 +2114,7 @@ isic4_c,233,ca,a,con_usd,2018,2737.04
 isic4_c,233,ca,a,con_usd,2019,2772.5
 isic4_c,233,ca,a,con_usd,2020,2586.96
 isic4_c,233,ca,a,con_usd,2021,2764.28
-isic4_c,233,e,a,con_usd,2022,2804.86
+isic4_c,233,e,a,con_usd,2022,2729.77
 isic4_c,242,ca,a,con_usd,2000,475.73
 isic4_c,242,ca,a,con_usd,2001,529.59
 isic4_c,242,ca,a,con_usd,2002,527.74
@@ -2137,7 +2137,7 @@ isic4_c,242,ca,a,con_usd,2018,588.05
 isic4_c,242,ca,a,con_usd,2019,574.91
 isic4_c,242,ca,a,con_usd,2020,525.95
 isic4_c,242,ca,a,con_usd,2021,513.96
-isic4_c,242,e,a,con_usd,2022,555.6
+isic4_c,242,e,a,con_usd,2022,561.79
 isic4_c,246,ca,a,con_usd,2000,6332.74
 isic4_c,246,ca,a,con_usd,2001,6546.87
 isic4_c,246,ca,a,con_usd,2002,6747.9
@@ -2160,7 +2160,7 @@ isic4_c,246,ca,a,con_usd,2018,6731.86
 isic4_c,246,ca,a,con_usd,2019,6936.57
 isic4_c,246,ca,a,con_usd,2020,6782.2
 isic4_c,246,ca,a,con_usd,2021,6836.92
-isic4_c,246,e,a,con_usd,2022,7072.92
+isic4_c,246,e,a,con_usd,2022,7064.57
 isic4_c,250,ca,a,con_usd,2000,3896.66
 isic4_c,250,ca,a,con_usd,2001,3917.42
 isic4_c,250,ca,a,con_usd,2002,3887.45
@@ -2183,7 +2183,7 @@ isic4_c,250,ca,a,con_usd,2018,4148.77
 isic4_c,250,ca,a,con_usd,2019,4226.37
 isic4_c,250,ca,a,con_usd,2020,3686.08
 isic4_c,250,ca,a,con_usd,2021,3877.86
-isic4_c,250,e,a,con_usd,2022,3981.16
+isic4_c,250,e,a,con_usd,2022,3986.27
 isic4_c,258,ca,a,con_usd,2000,1290.09
 isic4_c,258,ca,a,con_usd,2001,1289.6
 isic4_c,258,ca,a,con_usd,2002,1345.15
@@ -2206,7 +2206,7 @@ isic4_c,258,ca,a,con_usd,2018,965.43
 isic4_c,258,ca,a,con_usd,2019,994.14
 isic4_c,258,ca,a,con_usd,2020,904.25
 isic4_c,258,ca,a,con_usd,2021,926.86
-isic4_c,258,e,a,con_usd,2022,895.14
+isic4_c,258,e,a,con_usd,2022,884.24
 isic4_c,262,ca,a,con_usd,2000,24.49
 isic4_c,262,ca,a,con_usd,2001,24.48
 isic4_c,262,ca,a,con_usd,2002,24.48
@@ -2229,7 +2229,7 @@ isic4_c,262,ca,a,con_usd,2018,83.93
 isic4_c,262,ca,a,con_usd,2019,88.62
 isic4_c,262,ca,a,con_usd,2020,91.04
 isic4_c,262,ca,a,con_usd,2021,97.61
-isic4_c,262,e,a,con_usd,2022,99.16
+isic4_c,262,e,a,con_usd,2022,98.27
 isic4_c,266,ca,a,con_usd,2000,319.36
 isic4_c,266,ca,a,con_usd,2001,329.89
 isic4_c,266,ca,a,con_usd,2002,372.53
@@ -2252,7 +2252,7 @@ isic4_c,266,ca,a,con_usd,2018,532.43
 isic4_c,266,ca,a,con_usd,2019,540.24
 isic4_c,266,ca,a,con_usd,2020,501.06
 isic4_c,266,ca,a,con_usd,2021,510.99
-isic4_c,266,e,a,con_usd,2022,530.7
+isic4_c,266,e,a,con_usd,2022,531.1
 isic4_c,268,ca,a,con_usd,2000,119.78
 isic4_c,268,ca,a,con_usd,2001,121.77
 isic4_c,268,ca,a,con_usd,2002,140.92
@@ -2275,7 +2275,7 @@ isic4_c,268,ca,a,con_usd,2018,386.08
 isic4_c,268,ca,a,con_usd,2019,391.38
 isic4_c,268,ca,a,con_usd,2020,364.08
 isic4_c,268,ca,a,con_usd,2021,397.77
-isic4_c,268,e,a,con_usd,2022,446.16
+isic4_c,268,e,a,con_usd,2022,453.1
 isic4_c,270,ca,a,con_usd,2000,40.79
 isic4_c,270,ca,a,con_usd,2001,40.29
 isic4_c,270,ca,a,con_usd,2002,40.99
@@ -2298,7 +2298,7 @@ isic4_c,270,ca,a,con_usd,2018,30.28
 isic4_c,270,ca,a,con_usd,2019,27.98
 isic4_c,270,ca,a,con_usd,2020,19.19
 isic4_c,270,ca,a,con_usd,2021,13.15
-isic4_c,270,e,a,con_usd,2022,12.9
+isic4_c,270,e,a,con_usd,2022,12.93
 isic4_c,275,ca,a,con_usd,2000,250.41
 isic4_c,275,ca,a,con_usd,2001,240.69
 isic4_c,275,ca,a,con_usd,2002,178.99
@@ -2344,7 +2344,7 @@ isic4_c,276,ca,a,con_usd,2018,8950.03
 isic4_c,276,ca,a,con_usd,2019,8810.44
 isic4_c,276,ca,a,con_usd,2020,8081.59
 isic4_c,276,ca,a,con_usd,2021,8483.27
-isic4_c,276,e,a,con_usd,2022,8619.31
+isic4_c,276,e,a,con_usd,2022,8669.1
 isic4_c,288,ca,a,con_usd,2000,167.56
 isic4_c,288,ca,a,con_usd,2001,169.2
 isic4_c,288,ca,a,con_usd,2002,172.51
@@ -2367,7 +2367,7 @@ isic4_c,288,ca,a,con_usd,2018,221.41
 isic4_c,288,ca,a,con_usd,2019,230.54
 isic4_c,288,ca,a,con_usd,2020,230.14
 isic4_c,288,ca,a,con_usd,2021,243.21
-isic4_c,288,e,a,con_usd,2022,245.38
+isic4_c,288,e,a,con_usd,2022,244.73
 isic4_c,296,ca,a,con_usd,2000,71.51
 isic4_c,296,ca,a,con_usd,2001,67.9
 isic4_c,296,ca,a,con_usd,2002,72.36
@@ -2390,7 +2390,7 @@ isic4_c,296,ca,a,con_usd,2018,58.21
 isic4_c,296,ca,a,con_usd,2019,57.38
 isic4_c,296,ca,a,con_usd,2020,57.85
 isic4_c,296,ca,a,con_usd,2021,58.81
-isic4_c,296,e,a,con_usd,2022,58.16
+isic4_c,296,e,a,con_usd,2022,58.15
 isic4_c,300,ca,a,con_usd,2000,2044.44
 isic4_c,300,ca,a,con_usd,2001,2238.24
 isic4_c,300,ca,a,con_usd,2002,2352.04
@@ -2413,7 +2413,7 @@ isic4_c,300,ca,a,con_usd,2018,1618.73
 isic4_c,300,ca,a,con_usd,2019,1654.49
 isic4_c,300,ca,a,con_usd,2020,1789.11
 isic4_c,300,ca,a,con_usd,2021,2017.64
-isic4_c,300,e,a,con_usd,2022,2118.07
+isic4_c,300,e,a,con_usd,2022,2133.42
 isic4_c,304,ca,a,con_usd,2000,1605.18
 isic4_c,304,ca,a,con_usd,2001,1665.55
 isic4_c,304,ca,a,con_usd,2002,1698.86
@@ -2436,7 +2436,7 @@ isic4_c,304,ca,a,con_usd,2018,984.13
 isic4_c,304,ca,a,con_usd,2019,963.65
 isic4_c,304,ca,a,con_usd,2020,1075.45
 isic4_c,304,ca,a,con_usd,2021,1141.85
-isic4_c,304,e,a,con_usd,2022,1200.08
+isic4_c,304,e,a,con_usd,2022,1204.99
 isic4_c,308,ca,a,con_usd,2000,318.61
 isic4_c,308,ca,a,con_usd,2001,320.52
 isic4_c,308,ca,a,con_usd,2002,340.12
@@ -2459,7 +2459,7 @@ isic4_c,308,ca,a,con_usd,2018,328.8
 isic4_c,308,ca,a,con_usd,2019,336.83
 isic4_c,308,ca,a,con_usd,2020,300.03
 isic4_c,308,ca,a,con_usd,2021,317.54
-isic4_c,308,e,a,con_usd,2022,328.53
+isic4_c,308,e,a,con_usd,2022,335.48
 isic4_c,320,ca,a,con_usd,2000,510.49
 isic4_c,320,ca,a,con_usd,2001,504.4
 isic4_c,320,ca,a,con_usd,2002,498.5
@@ -2482,7 +2482,7 @@ isic4_c,320,ca,a,con_usd,2018,579.13
 isic4_c,320,ca,a,con_usd,2019,588.8
 isic4_c,320,ca,a,con_usd,2020,576.21
 isic4_c,320,ca,a,con_usd,2021,613.61
-isic4_c,320,e,a,con_usd,2022,621.41
+isic4_c,320,e,a,con_usd,2022,623.86
 isic4_c,324,ca,a,con_usd,2000,85.47
 isic4_c,324,ca,a,con_usd,2001,89.01
 isic4_c,324,ca,a,con_usd,2002,92.81
@@ -2505,7 +2505,7 @@ isic4_c,324,ca,a,con_usd,2018,104.72
 isic4_c,324,ca,a,con_usd,2019,102.61
 isic4_c,324,ca,a,con_usd,2020,99.32
 isic4_c,324,ca,a,con_usd,2021,108.47
-isic4_c,324,e,a,con_usd,2022,110.27
+isic4_c,324,e,a,con_usd,2022,110.18
 isic4_c,328,ca,a,con_usd,2000,258.38
 isic4_c,328,ca,a,con_usd,2001,286.2
 isic4_c,328,ca,a,con_usd,2002,169.22
@@ -2528,7 +2528,7 @@ isic4_c,328,ca,a,con_usd,2018,281.32
 isic4_c,328,ca,a,con_usd,2019,317.21
 isic4_c,328,ca,a,con_usd,2020,290.59
 isic4_c,328,ca,a,con_usd,2021,298.27
-isic4_c,328,e,a,con_usd,2022,290.63
+isic4_c,328,e,a,con_usd,2022,288.86
 isic4_c,332,ca,a,con_usd,2000,188.93
 isic4_c,332,ca,a,con_usd,2001,185.64
 isic4_c,332,ca,a,con_usd,2002,187
@@ -2551,7 +2551,7 @@ isic4_c,332,ca,a,con_usd,2018,227.75
 isic4_c,332,ca,a,con_usd,2019,226.94
 isic4_c,332,ca,a,con_usd,2020,214.6
 isic4_c,332,ca,a,con_usd,2021,208.41
-isic4_c,332,e,a,con_usd,2022,203.94
+isic4_c,332,e,a,con_usd,2022,202.99
 isic4_c,340,ca,a,con_usd,2000,325.27
 isic4_c,340,ca,a,con_usd,2001,328.84
 isic4_c,340,ca,a,con_usd,2002,345.18
@@ -2574,7 +2574,7 @@ isic4_c,340,ca,a,con_usd,2018,417.98
 isic4_c,340,ca,a,con_usd,2019,419.22
 isic4_c,340,ca,a,con_usd,2020,354.57
 isic4_c,340,ca,a,con_usd,2021,417.02
-isic4_c,340,e,a,con_usd,2022,424.23
+isic4_c,340,e,a,con_usd,2022,427.54
 isic4_c,344,ca,a,con_usd,2000,766.46
 isic4_c,344,ca,a,con_usd,2001,690.65
 isic4_c,344,ca,a,con_usd,2002,619.47
@@ -2597,7 +2597,7 @@ isic4_c,344,ca,a,con_usd,2018,466.48
 isic4_c,344,ca,a,con_usd,2019,467.53
 isic4_c,344,ca,a,con_usd,2020,439.97
 isic4_c,344,ca,a,con_usd,2021,464.43
-isic4_c,344,e,a,con_usd,2022,437.14
+isic4_c,344,e,a,con_usd,2022,429.35
 isic4_c,348,ca,a,con_usd,2000,1641.65
 isic4_c,348,ca,a,con_usd,2001,1721.01
 isic4_c,348,ca,a,con_usd,2002,1850.97
@@ -2620,7 +2620,7 @@ isic4_c,348,ca,a,con_usd,2018,2754.47
 isic4_c,348,ca,a,con_usd,2019,2804.11
 isic4_c,348,ca,a,con_usd,2020,2587.8
 isic4_c,348,ca,a,con_usd,2021,2830.25
-isic4_c,348,e,a,con_usd,2022,2993.58
+isic4_c,348,e,a,con_usd,2022,2962.76
 isic4_c,352,ca,a,con_usd,2000,4307.66
 isic4_c,352,ca,a,con_usd,2001,4504.75
 isic4_c,352,ca,a,con_usd,2002,4366.08
@@ -2643,7 +2643,7 @@ isic4_c,352,ca,a,con_usd,2018,5560.26
 isic4_c,352,ca,a,con_usd,2019,5247.1
 isic4_c,352,ca,a,con_usd,2020,4907.08
 isic4_c,352,ca,a,con_usd,2021,5056.53
-isic4_c,352,e,a,con_usd,2022,5188.84
+isic4_c,352,e,a,con_usd,2022,5223.84
 isic4_c,356,ca,a,con_usd,2000,103.81
 isic4_c,356,ca,a,con_usd,2001,105.59
 isic4_c,356,ca,a,con_usd,2002,108.29
@@ -2666,7 +2666,7 @@ isic4_c,356,ca,a,con_usd,2018,298.94
 isic4_c,356,ca,a,con_usd,2019,287.29
 isic4_c,356,ca,a,con_usd,2020,282.86
 isic4_c,356,ca,a,con_usd,2021,308.46
-isic4_c,356,e,a,con_usd,2022,328.67
+isic4_c,356,e,a,con_usd,2022,328.63
 isic4_c,360,ca,a,con_usd,2000,427.44
 isic4_c,360,ca,a,con_usd,2001,435.37
 isic4_c,360,ca,a,con_usd,2002,452.14
@@ -2689,7 +2689,7 @@ isic4_c,360,ca,a,con_usd,2018,766.96
 isic4_c,360,ca,a,con_usd,2019,788.65
 isic4_c,360,ca,a,con_usd,2020,759.12
 isic4_c,360,ca,a,con_usd,2021,779.42
-isic4_c,360,e,a,con_usd,2022,817.08
+isic4_c,360,e,a,con_usd,2022,816.9
 isic4_c,364,ca,a,con_usd,2000,345.36
 isic4_c,364,ca,a,con_usd,2001,380.68
 isic4_c,364,ca,a,con_usd,2002,427.14
@@ -2712,7 +2712,7 @@ isic4_c,364,ca,a,con_usd,2018,694.85
 isic4_c,364,ca,a,con_usd,2019,709.54
 isic4_c,364,ca,a,con_usd,2020,760.03
 isic4_c,364,ca,a,con_usd,2021,780.24
-isic4_c,364,e,a,con_usd,2022,817.34
+isic4_c,364,e,a,con_usd,2022,812.13
 isic4_c,368,ca,a,con_usd,2000,242.08
 isic4_c,368,ca,a,con_usd,2001,256.1
 isic4_c,368,ca,a,con_usd,2002,226.06
@@ -2735,7 +2735,7 @@ isic4_c,368,ca,a,con_usd,2018,112.44
 isic4_c,368,ca,a,con_usd,2019,117.14
 isic4_c,368,ca,a,con_usd,2020,107.3
 isic4_c,368,ca,a,con_usd,2021,108.39
-isic4_c,368,e,a,con_usd,2022,112.55
+isic4_c,368,e,a,con_usd,2022,111.55
 isic4_c,372,ca,a,con_usd,2000,11359.64
 isic4_c,372,ca,a,con_usd,2001,11766.69
 isic4_c,372,ca,a,con_usd,2002,12919.18
@@ -2758,7 +2758,7 @@ isic4_c,372,ca,a,con_usd,2018,23680.26
 isic4_c,372,ca,a,con_usd,2019,23830.6
 isic4_c,372,ca,a,con_usd,2020,29078.88
 isic4_c,372,ca,a,con_usd,2021,35364.94
-isic4_c,372,e,a,con_usd,2022,39887.16
+isic4_c,372,e,a,con_usd,2022,41783.25
 isic4_c,376,ca,a,con_usd,2000,5708.51
 isic4_c,376,ca,a,con_usd,2001,5161.4
 isic4_c,376,ca,a,con_usd,2002,4786.6
@@ -2781,7 +2781,7 @@ isic4_c,376,ca,a,con_usd,2018,4925.11
 isic4_c,376,ca,a,con_usd,2019,4892.23
 isic4_c,376,ca,a,con_usd,2020,4848.68
 isic4_c,376,ca,a,con_usd,2021,4997.16
-isic4_c,376,e,a,con_usd,2022,5165.27
+isic4_c,376,e,a,con_usd,2022,5183.62
 isic4_c,380,ca,a,con_usd,2000,5053.11
 isic4_c,380,ca,a,con_usd,2001,5033.34
 isic4_c,380,ca,a,con_usd,2002,5020.79
@@ -2804,7 +2804,7 @@ isic4_c,380,ca,a,con_usd,2018,4784.03
 isic4_c,380,ca,a,con_usd,2019,4774.72
 isic4_c,380,ca,a,con_usd,2020,4150.33
 isic4_c,380,ca,a,con_usd,2021,4704.01
-isic4_c,380,e,a,con_usd,2022,4941.48
+isic4_c,380,e,a,con_usd,2022,4980.89
 isic4_c,384,ca,a,con_usd,2000,199.02
 isic4_c,384,ca,a,con_usd,2001,166.45
 isic4_c,384,ca,a,con_usd,2002,174.88
@@ -2827,7 +2827,7 @@ isic4_c,384,ca,a,con_usd,2018,357.03
 isic4_c,384,ca,a,con_usd,2019,364.91
 isic4_c,384,ca,a,con_usd,2020,407.95
 isic4_c,384,ca,a,con_usd,2021,457.24
-isic4_c,384,e,a,con_usd,2022,473.53
+isic4_c,384,e,a,con_usd,2022,478.53
 isic4_c,388,ca,a,con_usd,2000,492.59
 isic4_c,388,ca,a,con_usd,2001,486.36
 isic4_c,388,ca,a,con_usd,2002,474.9
@@ -2850,7 +2850,7 @@ isic4_c,388,ca,a,con_usd,2018,421.1
 isic4_c,388,ca,a,con_usd,2019,428.25
 isic4_c,388,ca,a,con_usd,2020,404.3
 isic4_c,388,ca,a,con_usd,2021,415.2
-isic4_c,388,e,a,con_usd,2022,415.34
+isic4_c,388,e,a,con_usd,2022,418.07
 isic4_c,392,ca,a,con_usd,2000,6164.34
 isic4_c,392,ca,a,con_usd,2001,5833.43
 isic4_c,392,ca,a,con_usd,2002,5743.72
@@ -2873,7 +2873,7 @@ isic4_c,392,ca,a,con_usd,2018,7761.08
 isic4_c,392,ca,a,con_usd,2019,7602.96
 isic4_c,392,ca,a,con_usd,2020,7130.14
 isic4_c,392,ca,a,con_usd,2021,7140.07
-isic4_c,392,e,a,con_usd,2022,7397.14
+isic4_c,392,e,a,con_usd,2022,7283.3
 isic4_c,398,ca,a,con_usd,2000,555.67
 isic4_c,398,ca,a,con_usd,2001,629.93
 isic4_c,398,ca,a,con_usd,2002,675.26
@@ -2896,7 +2896,7 @@ isic4_c,398,ca,a,con_usd,2018,1158.21
 isic4_c,398,ca,a,con_usd,2019,1211.6
 isic4_c,398,ca,a,con_usd,2020,1245.16
 isic4_c,398,ca,a,con_usd,2021,1300.09
-isic4_c,398,e,a,con_usd,2022,1318.82
+isic4_c,398,e,a,con_usd,2022,1326.52
 isic4_c,400,ca,a,con_usd,2000,543.59
 isic4_c,400,ca,a,con_usd,2001,572.16
 isic4_c,400,ca,a,con_usd,2002,674.88
@@ -2919,7 +2919,7 @@ isic4_c,400,ca,a,con_usd,2018,703.5
 isic4_c,400,ca,a,con_usd,2019,696.09
 isic4_c,400,ca,a,con_usd,2020,663.14
 isic4_c,400,ca,a,con_usd,2021,665.23
-isic4_c,400,e,a,con_usd,2022,671.26
+isic4_c,400,e,a,con_usd,2022,675.15
 isic4_c,404,ca,a,con_usd,2000,138.69
 isic4_c,404,ca,a,con_usd,2001,136.71
 isic4_c,404,ca,a,con_usd,2002,132.78
@@ -2942,7 +2942,7 @@ isic4_c,404,ca,a,con_usd,2018,148.81
 isic4_c,404,ca,a,con_usd,2019,149.75
 isic4_c,404,ca,a,con_usd,2020,146.15
 isic4_c,404,ca,a,con_usd,2021,153.29
-isic4_c,404,e,a,con_usd,2022,156.1
+isic4_c,404,e,a,con_usd,2022,156.12
 isic4_c,408,ca,a,con_usd,2000,133.28
 isic4_c,408,ca,a,con_usd,2001,136.63
 isic4_c,408,ca,a,con_usd,2002,133.91
@@ -2988,7 +2988,30 @@ isic4_c,410,ca,a,con_usd,2018,8271.88
 isic4_c,410,ca,a,con_usd,2019,8343.84
 isic4_c,410,ca,a,con_usd,2020,8247.85
 isic4_c,410,ca,a,con_usd,2021,8818.73
-isic4_c,410,e,a,con_usd,2022,9057.63
+isic4_c,410,e,a,con_usd,2022,9054.29
+isic4_c,412,ca,a,con_usd,2000,205.99
+isic4_c,412,ca,a,con_usd,2001,253.22
+isic4_c,412,ca,a,con_usd,2002,269
+isic4_c,412,ca,a,con_usd,2003,242.47
+isic4_c,412,ca,a,con_usd,2004,262.14
+isic4_c,412,ca,a,con_usd,2005,337.2
+isic4_c,412,ca,a,con_usd,2006,241.08
+isic4_c,412,ca,a,con_usd,2007,233.25
+isic4_c,412,ca,a,con_usd,2008,353.54
+isic4_c,412,ca,a,con_usd,2009,382.91
+isic4_c,412,ca,a,con_usd,2010,379.29
+isic4_c,412,ca,a,con_usd,2011,384.91
+isic4_c,412,ca,a,con_usd,2012,406.92
+isic4_c,412,ca,a,con_usd,2013,446.1
+isic4_c,412,ca,a,con_usd,2014,456.55
+isic4_c,412,ca,a,con_usd,2015,474.53
+isic4_c,412,ca,a,con_usd,2016,489.61
+isic4_c,412,ca,a,con_usd,2017,515.6
+isic4_c,412,ca,a,con_usd,2018,553.65
+isic4_c,412,ca,a,con_usd,2019,567.7
+isic4_c,412,ca,a,con_usd,2020,580.03
+isic4_c,412,ca,a,con_usd,2021,644.97
+isic4_c,412,e,a,con_usd,2022,668.21
 isic4_c,414,ca,a,con_usd,2000,2195.28
 isic4_c,414,ca,a,con_usd,2001,2004.74
 isic4_c,414,ca,a,con_usd,2002,2484.45
@@ -3011,7 +3034,7 @@ isic4_c,414,ca,a,con_usd,2018,2427.83
 isic4_c,414,ca,a,con_usd,2019,2366.34
 isic4_c,414,ca,a,con_usd,2020,1624.39
 isic4_c,414,ca,a,con_usd,2021,1626.66
-isic4_c,414,e,a,con_usd,2022,1883.55
+isic4_c,414,e,a,con_usd,2022,1866.66
 isic4_c,417,ca,a,con_usd,2000,170.18
 isic4_c,417,ca,a,con_usd,2001,183.89
 isic4_c,417,ca,a,con_usd,2002,162.42
@@ -3034,7 +3057,7 @@ isic4_c,417,ca,a,con_usd,2018,178.92
 isic4_c,417,ca,a,con_usd,2019,189.85
 isic4_c,417,ca,a,con_usd,2020,173.67
 isic4_c,417,ca,a,con_usd,2021,182.03
-isic4_c,417,e,a,con_usd,2022,184.87
+isic4_c,417,e,a,con_usd,2022,194.29
 isic4_c,418,ca,a,con_usd,2000,60.57
 isic4_c,418,ca,a,con_usd,2001,66.8
 isic4_c,418,ca,a,con_usd,2002,70.93
@@ -3057,7 +3080,7 @@ isic4_c,418,ca,a,con_usd,2018,189.82
 isic4_c,418,ca,a,con_usd,2019,199.58
 isic4_c,418,ca,a,con_usd,2020,221.9
 isic4_c,418,ca,a,con_usd,2021,225.35
-isic4_c,418,e,a,con_usd,2022,234.08
+isic4_c,418,e,a,con_usd,2022,234.16
 isic4_c,419,n,a,con_usd,2000,1166.85
 isic4_c,419,n,a,con_usd,2001,1148.14
 isic4_c,419,n,a,con_usd,2002,1115.45
@@ -3080,7 +3103,7 @@ isic4_c,419,n,a,con_usd,2018,1154.55
 isic4_c,419,n,a,con_usd,2019,1124.08
 isic4_c,419,n,a,con_usd,2020,1035.22
 isic4_c,419,n,a,con_usd,2021,1067.79
-isic4_c,419,n,a,con_usd,2022,1088.7
+isic4_c,419,n,a,con_usd,2022,1094.89
 isic4_c,422,ca,a,con_usd,2000,583.39
 isic4_c,422,ca,a,con_usd,2001,574.6
 isic4_c,422,ca,a,con_usd,2002,577.84
@@ -3126,7 +3149,7 @@ isic4_c,426,ca,a,con_usd,2018,197.25
 isic4_c,426,ca,a,con_usd,2019,193.45
 isic4_c,426,ca,a,con_usd,2020,173.66
 isic4_c,426,ca,a,con_usd,2021,184.72
-isic4_c,426,e,a,con_usd,2022,190.63
+isic4_c,426,e,a,con_usd,2022,190.59
 isic4_c,428,ca,a,con_usd,2000,899.65
 isic4_c,428,ca,a,con_usd,2001,977.52
 isic4_c,428,ca,a,con_usd,2002,1105.01
@@ -3149,7 +3172,7 @@ isic4_c,428,ca,a,con_usd,2018,1721.82
 isic4_c,428,ca,a,con_usd,2019,1803.42
 isic4_c,428,ca,a,con_usd,2020,1867.52
 isic4_c,428,ca,a,con_usd,2021,2029.86
-isic4_c,428,e,a,con_usd,2022,2082.43
+isic4_c,428,e,a,con_usd,2022,2067.88
 isic4_c,430,ca,a,con_usd,2000,1.6
 isic4_c,430,ca,a,con_usd,2001,25.08
 isic4_c,430,ca,a,con_usd,2002,25.17
@@ -3172,7 +3195,7 @@ isic4_c,430,ca,a,con_usd,2018,25.56
 isic4_c,430,ca,a,con_usd,2019,21.79
 isic4_c,430,ca,a,con_usd,2020,23.94
 isic4_c,430,ca,a,con_usd,2021,23.5
-isic4_c,430,e,a,con_usd,2022,22.62
+isic4_c,430,e,a,con_usd,2022,22.8
 isic4_c,432,n,a,con_usd,2000,121.69
 isic4_c,432,n,a,con_usd,2001,126.46
 isic4_c,432,n,a,con_usd,2002,128.46
@@ -3195,7 +3218,7 @@ isic4_c,432,n,a,con_usd,2018,194.45
 isic4_c,432,n,a,con_usd,2019,196.58
 isic4_c,432,n,a,con_usd,2020,195.36
 isic4_c,432,n,a,con_usd,2021,201.29
-isic4_c,432,n,a,con_usd,2022,201.48
+isic4_c,432,n,a,con_usd,2022,202.96
 isic4_c,434,ca,a,con_usd,2000,240.44
 isic4_c,434,ca,a,con_usd,2001,222.05
 isic4_c,434,ca,a,con_usd,2002,226.6
@@ -3218,7 +3241,7 @@ isic4_c,434,ca,a,con_usd,2018,277.64
 isic4_c,434,ca,a,con_usd,2019,217.21
 isic4_c,434,ca,a,con_usd,2020,167.77
 isic4_c,434,ca,a,con_usd,2021,206.29
-isic4_c,434,e,a,con_usd,2022,183.31
+isic4_c,434,e,a,con_usd,2022,189.65
 isic4_c,438,ca,a,con_usd,2000,52480.23
 isic4_c,438,ca,a,con_usd,2001,54904.15
 isic4_c,438,ca,a,con_usd,2002,55084.13
@@ -3241,7 +3264,7 @@ isic4_c,438,ca,a,con_usd,2018,64419.19
 isic4_c,438,ca,a,con_usd,2019,65871.18
 isic4_c,438,ca,a,con_usd,2020,58102.92
 isic4_c,438,ca,a,con_usd,2021,59930.76
-isic4_c,438,e,a,con_usd,2022,60709.85
+isic4_c,438,e,a,con_usd,2022,60683.56
 isic4_c,440,ca,a,con_usd,2000,850.4
 isic4_c,440,ca,a,con_usd,2001,973.8
 isic4_c,440,ca,a,con_usd,2002,1037.11
@@ -3264,7 +3287,7 @@ isic4_c,440,ca,a,con_usd,2018,2804.22
 isic4_c,440,ca,a,con_usd,2019,2943.75
 isic4_c,440,ca,a,con_usd,2020,3005.28
 isic4_c,440,ca,a,con_usd,2021,3393.45
-isic4_c,440,e,a,con_usd,2022,3521.84
+isic4_c,440,e,a,con_usd,2022,3527
 isic4_c,442,ca,a,con_usd,2000,6624.15
 isic4_c,442,ca,a,con_usd,2001,6381.18
 isic4_c,442,ca,a,con_usd,2002,6611.49
@@ -3287,7 +3310,7 @@ isic4_c,442,ca,a,con_usd,2018,4730.01
 isic4_c,442,ca,a,con_usd,2019,5255.52
 isic4_c,442,ca,a,con_usd,2020,5184.35
 isic4_c,442,ca,a,con_usd,2021,5370.49
-isic4_c,442,e,a,con_usd,2022,5281.06
+isic4_c,442,e,a,con_usd,2022,5275.27
 isic4_c,446,ca,a,con_usd,2000,2868.38
 isic4_c,446,ca,a,con_usd,2001,2339.04
 isic4_c,446,ca,a,con_usd,2002,2183.78
@@ -3310,7 +3333,7 @@ isic4_c,446,ca,a,con_usd,2018,442.43
 isic4_c,446,ca,a,con_usd,2019,428.15
 isic4_c,446,ca,a,con_usd,2020,277.29
 isic4_c,446,ca,a,con_usd,2021,322.26
-isic4_c,446,e,a,con_usd,2022,291.11
+isic4_c,446,e,a,con_usd,2022,289.17
 isic4_c,450,ca,a,con_usd,2000,44.79
 isic4_c,450,ca,a,con_usd,2001,48.15
 isic4_c,450,ca,a,con_usd,2002,38.08
@@ -3333,7 +3356,7 @@ isic4_c,450,ca,a,con_usd,2018,41.43
 isic4_c,450,ca,a,con_usd,2019,42.25
 isic4_c,450,ca,a,con_usd,2020,36.24
 isic4_c,450,ca,a,con_usd,2021,36.53
-isic4_c,450,e,a,con_usd,2022,37.31
+isic4_c,450,e,a,con_usd,2022,37.3
 isic4_c,454,ca,a,con_usd,2000,21.54
 isic4_c,454,ca,a,con_usd,2001,18.06
 isic4_c,454,ca,a,con_usd,2002,17.6
@@ -3356,7 +3379,7 @@ isic4_c,454,ca,a,con_usd,2018,64.3
 isic4_c,454,ca,a,con_usd,2019,67.38
 isic4_c,454,ca,a,con_usd,2020,68.45
 isic4_c,454,ca,a,con_usd,2021,67.9
-isic4_c,454,e,a,con_usd,2022,68.71
+isic4_c,454,e,a,con_usd,2022,68.65
 isic4_c,458,ca,a,con_usd,2000,1622.08
 isic4_c,458,ca,a,con_usd,2001,1513.42
 isic4_c,458,ca,a,con_usd,2002,1536.62
@@ -3379,7 +3402,7 @@ isic4_c,458,ca,a,con_usd,2018,2409.15
 isic4_c,458,ca,a,con_usd,2019,2468.72
 isic4_c,458,ca,a,con_usd,2020,2374.81
 isic4_c,458,ca,a,con_usd,2021,2572.36
-isic4_c,458,e,a,con_usd,2022,2698.83
+isic4_c,458,e,a,con_usd,2022,2835.48
 isic4_c,462,ca,a,con_usd,2000,169.68
 isic4_c,462,ca,a,con_usd,2001,195.26
 isic4_c,462,ca,a,con_usd,2002,199.21
@@ -3402,7 +3425,7 @@ isic4_c,462,ca,a,con_usd,2018,219.43
 isic4_c,462,ca,a,con_usd,2019,216.82
 isic4_c,462,ca,a,con_usd,2020,169.86
 isic4_c,462,ca,a,con_usd,2021,190.69
-isic4_c,462,e,a,con_usd,2022,203.79
+isic4_c,462,e,a,con_usd,2022,206.82
 isic4_c,466,ca,a,con_usd,2000,46.78
 isic4_c,466,ca,a,con_usd,2001,56.04
 isic4_c,466,ca,a,con_usd,2002,67.92
@@ -3425,7 +3448,7 @@ isic4_c,466,ca,a,con_usd,2018,125.13
 isic4_c,466,ca,a,con_usd,2019,134.21
 isic4_c,466,ca,a,con_usd,2020,138.93
 isic4_c,466,ca,a,con_usd,2021,134.14
-isic4_c,466,e,a,con_usd,2022,135.72
+isic4_c,466,e,a,con_usd,2022,137.52
 isic4_c,470,ca,a,con_usd,2000,2199.45
 isic4_c,470,ca,a,con_usd,2001,1805.56
 isic4_c,470,ca,a,con_usd,2002,1862.15
@@ -3448,7 +3471,7 @@ isic4_c,470,ca,a,con_usd,2018,1807.14
 isic4_c,470,ca,a,con_usd,2019,1839.21
 isic4_c,470,ca,a,con_usd,2020,1798.88
 isic4_c,470,ca,a,con_usd,2021,1816.41
-isic4_c,470,e,a,con_usd,2022,1849.93
+isic4_c,470,e,a,con_usd,2022,1856.56
 isic4_c,478,ca,a,con_usd,2000,119
 isic4_c,478,ca,a,con_usd,2001,109.42
 isic4_c,478,ca,a,con_usd,2002,122.52
@@ -3471,7 +3494,7 @@ isic4_c,478,ca,a,con_usd,2018,102.73
 isic4_c,478,ca,a,con_usd,2019,101.6
 isic4_c,478,ca,a,con_usd,2020,105.84
 isic4_c,478,ca,a,con_usd,2021,100.42
-isic4_c,478,e,a,con_usd,2022,100.89
+isic4_c,478,e,a,con_usd,2022,101.04
 isic4_c,480,ca,a,con_usd,2000,1051.84
 isic4_c,480,ca,a,con_usd,2001,1095.61
 isic4_c,480,ca,a,con_usd,2002,1061.3
@@ -3494,7 +3517,7 @@ isic4_c,480,ca,a,con_usd,2018,1230.91
 isic4_c,480,ca,a,con_usd,2019,1237.04
 isic4_c,480,ca,a,con_usd,2020,1025.74
 isic4_c,480,ca,a,con_usd,2021,1094.82
-isic4_c,480,e,a,con_usd,2022,1146.06
+isic4_c,480,e,a,con_usd,2022,1171.52
 isic4_c,484,ca,a,con_usd,2000,1773.49
 isic4_c,484,ca,a,con_usd,2001,1697.3
 isic4_c,484,ca,a,con_usd,2002,1631.83
@@ -3517,7 +3540,7 @@ isic4_c,484,ca,a,con_usd,2018,1722.93
 isic4_c,484,ca,a,con_usd,2019,1711.52
 isic4_c,484,ca,a,con_usd,2020,1543.44
 isic4_c,484,ca,a,con_usd,2021,1665.5
-isic4_c,484,e,a,con_usd,2022,1686.38
+isic4_c,484,e,a,con_usd,2022,1706.7
 isic4_c,492,ca,a,con_usd,2000,7761.54
 isic4_c,492,ca,a,con_usd,2001,7913.9
 isic4_c,492,ca,a,con_usd,2002,7903.38
@@ -3540,7 +3563,7 @@ isic4_c,492,ca,a,con_usd,2018,6497.52
 isic4_c,492,ca,a,con_usd,2019,5953.03
 isic4_c,492,ca,a,con_usd,2020,5759.98
 isic4_c,492,ca,a,con_usd,2021,7475.88
-isic4_c,492,e,a,con_usd,2022,7671.35
+isic4_c,492,e,a,con_usd,2022,7676.26
 isic4_c,496,ca,a,con_usd,2000,121.7
 isic4_c,496,ca,a,con_usd,2001,164.84
 isic4_c,496,ca,a,con_usd,2002,204.56
@@ -3563,7 +3586,7 @@ isic4_c,496,ca,a,con_usd,2018,332.68
 isic4_c,496,ca,a,con_usd,2019,338.06
 isic4_c,496,ca,a,con_usd,2020,343.14
 isic4_c,496,ca,a,con_usd,2021,338.76
-isic4_c,496,e,a,con_usd,2022,337.54
+isic4_c,496,e,a,con_usd,2022,345.06
 isic4_c,498,ca,a,con_usd,2000,131.33
 isic4_c,498,ca,a,con_usd,2001,140.29
 isic4_c,498,ca,a,con_usd,2002,146.19
@@ -3586,7 +3609,7 @@ isic4_c,498,ca,a,con_usd,2018,328.56
 isic4_c,498,ca,a,con_usd,2019,341.91
 isic4_c,498,ca,a,con_usd,2020,320.9
 isic4_c,498,ca,a,con_usd,2021,322.66
-isic4_c,498,e,a,con_usd,2022,295.29
+isic4_c,498,e,a,con_usd,2022,274.25
 isic4_c,499,ca,a,con_usd,2000,485.48
 isic4_c,499,ca,a,con_usd,2001,491.4
 isic4_c,499,ca,a,con_usd,2002,469.82
@@ -3609,7 +3632,7 @@ isic4_c,499,ca,a,con_usd,2018,300.38
 isic4_c,499,ca,a,con_usd,2019,297.92
 isic4_c,499,ca,a,con_usd,2020,279.43
 isic4_c,499,ca,a,con_usd,2021,290.26
-isic4_c,499,e,a,con_usd,2022,304.75
+isic4_c,499,e,a,con_usd,2022,302.55
 isic4_c,500,ca,a,con_usd,2000,118.74
 isic4_c,500,ca,a,con_usd,2001,129.7
 isic4_c,500,ca,a,con_usd,2002,148.55
@@ -3632,7 +3655,7 @@ isic4_c,500,ca,a,con_usd,2018,351.48
 isic4_c,500,ca,a,con_usd,2019,589.56
 isic4_c,500,ca,a,con_usd,2020,441.39
 isic4_c,500,ca,a,con_usd,2021,685.33
-isic4_c,500,e,a,con_usd,2022,758.61
+isic4_c,500,e,a,con_usd,2022,765.35
 isic4_c,504,ca,a,con_usd,2000,309.32
 isic4_c,504,ca,a,con_usd,2001,314.3
 isic4_c,504,ca,a,con_usd,2002,322.31
@@ -3655,7 +3678,7 @@ isic4_c,504,ca,a,con_usd,2018,450.34
 isic4_c,504,ca,a,con_usd,2019,434.5
 isic4_c,504,ca,a,con_usd,2020,376.77
 isic4_c,504,ca,a,con_usd,2021,362.76
-isic4_c,504,e,a,con_usd,2022,363.36
+isic4_c,504,e,a,con_usd,2022,363.75
 isic4_c,508,ca,a,con_usd,2000,27.38
 isic4_c,508,ca,a,con_usd,2001,35.96
 isic4_c,508,ca,a,con_usd,2002,38.11
@@ -3678,7 +3701,7 @@ isic4_c,508,ca,a,con_usd,2018,48.04
 isic4_c,508,ca,a,con_usd,2019,47.31
 isic4_c,508,ca,a,con_usd,2020,45.36
 isic4_c,508,ca,a,con_usd,2021,44.74
-isic4_c,508,e,a,con_usd,2022,44.82
+isic4_c,508,e,a,con_usd,2022,45.02
 isic4_c,512,ca,a,con_usd,2000,1263.37
 isic4_c,512,ca,a,con_usd,2001,1548.92
 isic4_c,512,ca,a,con_usd,2002,1675.23
@@ -3701,7 +3724,7 @@ isic4_c,512,ca,a,con_usd,2018,1724.93
 isic4_c,512,ca,a,con_usd,2019,1713.61
 isic4_c,512,ca,a,con_usd,2020,1539.81
 isic4_c,512,ca,a,con_usd,2021,1617.13
-isic4_c,512,e,a,con_usd,2022,1693.36
+isic4_c,512,e,a,con_usd,2022,1692.44
 isic4_c,513,n,a,con_usd,2000,3935.3
 isic4_c,513,n,a,con_usd,2001,3893.31
 isic4_c,513,n,a,con_usd,2002,3914.19
@@ -3724,7 +3747,7 @@ isic4_c,513,n,a,con_usd,2018,4834.18
 isic4_c,513,n,a,con_usd,2019,4875.16
 isic4_c,513,n,a,con_usd,2020,4609.55
 isic4_c,513,n,a,con_usd,2021,4940.88
-isic4_c,513,n,a,con_usd,2022,5051.64
+isic4_c,513,n,a,con_usd,2022,5092.72
 isic4_c,516,ca,a,con_usd,2000,396.9
 isic4_c,516,ca,a,con_usd,2001,412.02
 isic4_c,516,ca,a,con_usd,2002,421.06
@@ -3747,7 +3770,7 @@ isic4_c,516,ca,a,con_usd,2018,579.74
 isic4_c,516,ca,a,con_usd,2019,596.75
 isic4_c,516,ca,a,con_usd,2020,486
 isic4_c,516,ca,a,con_usd,2021,448.5
-isic4_c,516,e,a,con_usd,2022,454.76
+isic4_c,516,e,a,con_usd,2022,455.74
 isic4_c,520,ca,a,con_usd,2000,84.46
 isic4_c,520,ca,a,con_usd,2001,65.62
 isic4_c,520,ca,a,con_usd,2002,60.19
@@ -3769,7 +3792,7 @@ isic4_c,520,ca,a,con_usd,2018,1807.38
 isic4_c,520,ca,a,con_usd,2019,1805.18
 isic4_c,520,ca,a,con_usd,2020,1794.37
 isic4_c,520,ca,a,con_usd,2021,1803.61
-isic4_c,520,e,a,con_usd,2022,1930.24
+isic4_c,520,e,a,con_usd,2022,2024.81
 isic4_c,524,ca,a,con_usd,2000,34.85
 isic4_c,524,ca,a,con_usd,2001,35.59
 isic4_c,524,ca,a,con_usd,2002,33.47
@@ -3792,7 +3815,7 @@ isic4_c,524,ca,a,con_usd,2018,51.34
 isic4_c,524,ca,a,con_usd,2019,54.07
 isic4_c,524,ca,a,con_usd,2020,48.32
 isic4_c,524,ca,a,con_usd,2021,49.17
-isic4_c,524,e,a,con_usd,2022,49.86
+isic4_c,524,e,a,con_usd,2022,51.42
 isic4_c,528,ca,a,con_usd,2000,4506.13
 isic4_c,528,ca,a,con_usd,2001,4596.81
 isic4_c,528,ca,a,con_usd,2002,4549.74
@@ -3815,7 +3838,7 @@ isic4_c,528,ca,a,con_usd,2018,5387.91
 isic4_c,528,ca,a,con_usd,2019,5385.51
 isic4_c,528,ca,a,con_usd,2020,5242.26
 isic4_c,528,ca,a,con_usd,2021,5580.22
-isic4_c,528,e,a,con_usd,2022,5840.18
+isic4_c,528,e,a,con_usd,2022,5838.45
 isic4_c,530,ca,a,con_usd,2000,1321.62
 isic4_c,530,ca,a,con_usd,2001,1411.12
 isic4_c,530,ca,a,con_usd,2002,1301.84
@@ -3838,7 +3861,7 @@ isic4_c,531,ca,a,con_usd,2018,1390.97
 isic4_c,531,ca,a,con_usd,2019,1066.47
 isic4_c,531,ca,a,con_usd,2020,496.32
 isic4_c,531,ca,a,con_usd,2021,487.03
-isic4_c,531,e,a,con_usd,2022,577.87
+isic4_c,531,e,a,con_usd,2022,590.96
 isic4_c,533,ca,a,con_usd,2000,601.47
 isic4_c,533,ca,a,con_usd,2001,641.8
 isic4_c,533,ca,a,con_usd,2002,701.4
@@ -3861,7 +3884,7 @@ isic4_c,533,ca,a,con_usd,2018,988.11
 isic4_c,533,ca,a,con_usd,2019,1112.56
 isic4_c,533,ca,a,con_usd,2020,889.83
 isic4_c,533,ca,a,con_usd,2021,1015.62
-isic4_c,533,e,a,con_usd,2022,1130.97
+isic4_c,533,e,a,con_usd,2022,1152.58
 isic4_c,534,ca,a,con_usd,2011,467.04
 isic4_c,534,ca,a,con_usd,2012,394.6
 isic4_c,534,ca,a,con_usd,2013,333.79
@@ -3873,7 +3896,7 @@ isic4_c,534,ca,a,con_usd,2018,470.72
 isic4_c,534,ca,a,con_usd,2019,501.99
 isic4_c,534,ca,a,con_usd,2020,405.23
 isic4_c,534,ca,a,con_usd,2021,404.63
-isic4_c,534,e,a,con_usd,2022,416.45
+isic4_c,534,e,a,con_usd,2022,417.35
 isic4_c,540,ca,a,con_usd,2000,2501.16
 isic4_c,540,ca,a,con_usd,2001,1830.47
 isic4_c,540,ca,a,con_usd,2002,2036.17
@@ -3896,7 +3919,7 @@ isic4_c,540,ca,a,con_usd,2018,3038.18
 isic4_c,540,ca,a,con_usd,2019,3323.49
 isic4_c,540,ca,a,con_usd,2020,3515.91
 isic4_c,540,ca,a,con_usd,2021,3696.1
-isic4_c,540,e,a,con_usd,2022,4082.78
+isic4_c,540,e,a,con_usd,2022,4207.43
 isic4_c,543,n,a,con_usd,2000,226.05
 isic4_c,543,n,a,con_usd,2001,209.77
 isic4_c,543,n,a,con_usd,2002,211.48
@@ -3919,7 +3942,7 @@ isic4_c,543,n,a,con_usd,2018,189.36
 isic4_c,543,n,a,con_usd,2019,192.45
 isic4_c,543,n,a,con_usd,2020,184.77
 isic4_c,543,n,a,con_usd,2021,188.59
-isic4_c,543,n,a,con_usd,2022,196.5
+isic4_c,543,n,a,con_usd,2022,199.56
 isic4_c,548,ca,a,con_usd,2000,118.38
 isic4_c,548,ca,a,con_usd,2001,115.93
 isic4_c,548,ca,a,con_usd,2002,102.38
@@ -3942,7 +3965,7 @@ isic4_c,548,ca,a,con_usd,2018,91.31
 isic4_c,548,ca,a,con_usd,2019,93.7
 isic4_c,548,ca,a,con_usd,2020,75.62
 isic4_c,548,ca,a,con_usd,2021,73.04
-isic4_c,548,e,a,con_usd,2022,70.19
+isic4_c,548,e,a,con_usd,2022,70.36
 isic4_c,554,ca,a,con_usd,2000,4812.97
 isic4_c,554,ca,a,con_usd,2001,4841.83
 isic4_c,554,ca,a,con_usd,2002,5139.15
@@ -3965,7 +3988,7 @@ isic4_c,554,ca,a,con_usd,2018,4464.46
 isic4_c,554,ca,a,con_usd,2019,4343.46
 isic4_c,554,ca,a,con_usd,2020,4195.25
 isic4_c,554,ca,a,con_usd,2021,4371.54
-isic4_c,554,e,a,con_usd,2022,4345.07
+isic4_c,554,e,a,con_usd,2022,4350.87
 isic4_c,558,ca,a,con_usd,2000,169.38
 isic4_c,558,ca,a,con_usd,2001,176.89
 isic4_c,558,ca,a,con_usd,2002,178.29
@@ -3988,7 +4011,7 @@ isic4_c,558,ca,a,con_usd,2018,298.32
 isic4_c,558,ca,a,con_usd,2019,293.7
 isic4_c,558,ca,a,con_usd,2020,284.15
 isic4_c,558,ca,a,con_usd,2021,320.35
-isic4_c,558,e,a,con_usd,2022,331.79
+isic4_c,558,e,a,con_usd,2022,331.87
 isic4_c,562,ca,a,con_usd,2000,29.89
 isic4_c,562,ca,a,con_usd,2001,29.78
 isic4_c,562,ca,a,con_usd,2002,29.48
@@ -4011,7 +4034,7 @@ isic4_c,562,ca,a,con_usd,2018,38.32
 isic4_c,562,ca,a,con_usd,2019,39.72
 isic4_c,562,ca,a,con_usd,2020,39.69
 isic4_c,562,ca,a,con_usd,2021,40.02
-isic4_c,562,e,a,con_usd,2022,40.69
+isic4_c,562,e,a,con_usd,2022,42.23
 isic4_c,566,ca,a,con_usd,2000,171.77
 isic4_c,566,ca,a,con_usd,2001,171.2
 isic4_c,566,ca,a,con_usd,2002,196.21
@@ -4034,7 +4057,7 @@ isic4_c,566,ca,a,con_usd,2018,229.13
 isic4_c,566,ca,a,con_usd,2019,225.3
 isic4_c,566,ca,a,con_usd,2020,213.81
 isic4_c,566,ca,a,con_usd,2021,215.72
-isic4_c,566,e,a,con_usd,2022,211.96
+isic4_c,566,e,a,con_usd,2022,212.16
 isic4_c,578,ca,a,con_usd,2000,4940.58
 isic4_c,578,ca,a,con_usd,2001,4877.65
 isic4_c,578,ca,a,con_usd,2002,4819.43
@@ -4057,7 +4080,7 @@ isic4_c,578,ca,a,con_usd,2018,4880.69
 isic4_c,578,ca,a,con_usd,2019,4934.52
 isic4_c,578,ca,a,con_usd,2020,4782.6
 isic4_c,578,ca,a,con_usd,2021,4909.18
-isic4_c,578,e,a,con_usd,2022,4993.55
+isic4_c,578,e,a,con_usd,2022,4978.78
 isic4_c,583,ca,a,con_usd,2000,51.5
 isic4_c,583,ca,a,con_usd,2001,60.87
 isic4_c,583,ca,a,con_usd,2002,58.35
@@ -4103,7 +4126,7 @@ isic4_c,584,ca,a,con_usd,2018,109.49
 isic4_c,584,ca,a,con_usd,2019,110.61
 isic4_c,584,ca,a,con_usd,2020,96.99
 isic4_c,584,ca,a,con_usd,2021,95.32
-isic4_c,584,e,a,con_usd,2022,109.28
+isic4_c,584,e,a,con_usd,2022,108.71
 isic4_c,585,ca,a,con_usd,2000,159.62
 isic4_c,585,ca,a,con_usd,2001,189.14
 isic4_c,585,ca,a,con_usd,2002,224.09
@@ -4126,7 +4149,7 @@ isic4_c,585,ca,a,con_usd,2018,160.34
 isic4_c,585,ca,a,con_usd,2019,159.21
 isic4_c,585,ca,a,con_usd,2020,144.1
 isic4_c,585,ca,a,con_usd,2021,131.8
-isic4_c,585,e,a,con_usd,2022,130.08
+isic4_c,585,e,a,con_usd,2022,130.02
 isic4_c,586,ca,a,con_usd,2000,93.65
 isic4_c,586,ca,a,con_usd,2001,99.23
 isic4_c,586,ca,a,con_usd,2002,101.09
@@ -4172,7 +4195,7 @@ isic4_c,591,ca,a,con_usd,2018,872.49
 isic4_c,591,ca,a,con_usd,2019,837.43
 isic4_c,591,ca,a,con_usd,2020,661.5
 isic4_c,591,ca,a,con_usd,2021,725.47
-isic4_c,591,e,a,con_usd,2022,744.22
+isic4_c,591,e,a,con_usd,2022,760.96
 isic4_c,598,ca,a,con_usd,2000,53.76
 isic4_c,598,ca,a,con_usd,2001,52.03
 isic4_c,598,ca,a,con_usd,2002,47.4
@@ -4195,7 +4218,7 @@ isic4_c,598,ca,a,con_usd,2018,41.52
 isic4_c,598,ca,a,con_usd,2019,40.36
 isic4_c,598,ca,a,con_usd,2020,36.97
 isic4_c,598,ca,a,con_usd,2021,39.6
-isic4_c,598,e,a,con_usd,2022,39.77
+isic4_c,598,e,a,con_usd,2022,39.89
 isic4_c,600,ca,a,con_usd,2000,968.54
 isic4_c,600,ca,a,con_usd,2001,945.89
 isic4_c,600,ca,a,con_usd,2002,919.38
@@ -4241,7 +4264,7 @@ isic4_c,604,ca,a,con_usd,2018,863.99
 isic4_c,604,ca,a,con_usd,2019,837.64
 isic4_c,604,ca,a,con_usd,2020,715.59
 isic4_c,604,ca,a,con_usd,2021,832.1
-isic4_c,604,e,a,con_usd,2022,837.65
+isic4_c,604,e,a,con_usd,2022,837.61
 isic4_c,608,ca,a,con_usd,2000,428.64
 isic4_c,608,ca,a,con_usd,2001,430.97
 isic4_c,608,ca,a,con_usd,2002,438.05
@@ -4264,7 +4287,7 @@ isic4_c,608,ca,a,con_usd,2018,682.65
 isic4_c,608,ca,a,con_usd,2019,696.88
 isic4_c,608,ca,a,con_usd,2020,618.57
 isic4_c,608,ca,a,con_usd,2021,663.2
-isic4_c,608,e,a,con_usd,2022,691.94
+isic4_c,608,e,a,con_usd,2022,699.22
 isic4_c,616,ca,a,con_usd,2000,773.52
 isic4_c,616,ca,a,con_usd,2001,761.07
 isic4_c,616,ca,a,con_usd,2002,780.24
@@ -4287,7 +4310,7 @@ isic4_c,616,ca,a,con_usd,2018,2459.4
 isic4_c,616,ca,a,con_usd,2019,2523.05
 isic4_c,616,ca,a,con_usd,2020,2474.89
 isic4_c,616,ca,a,con_usd,2021,2530.18
-isic4_c,616,e,a,con_usd,2022,2566.67
+isic4_c,616,e,a,con_usd,2022,2606.61
 isic4_c,620,ca,a,con_usd,2000,2375.63
 isic4_c,620,ca,a,con_usd,2001,2395.15
 isic4_c,620,ca,a,con_usd,2002,2368.54
@@ -4310,7 +4333,7 @@ isic4_c,620,ca,a,con_usd,2018,2635.25
 isic4_c,620,ca,a,con_usd,2019,2650.19
 isic4_c,620,ca,a,con_usd,2020,2456.47
 isic4_c,620,ca,a,con_usd,2021,2623.58
-isic4_c,620,e,a,con_usd,2022,2787.97
+isic4_c,620,e,a,con_usd,2022,2800.85
 isic4_c,624,ca,a,con_usd,2000,66.58
 isic4_c,624,ca,a,con_usd,2001,61.31
 isic4_c,624,ca,a,con_usd,2002,61.01
@@ -4333,7 +4356,7 @@ isic4_c,624,ca,a,con_usd,2018,62.41
 isic4_c,624,ca,a,con_usd,2019,66.43
 isic4_c,624,ca,a,con_usd,2020,63.08
 isic4_c,624,ca,a,con_usd,2021,62.51
-isic4_c,624,e,a,con_usd,2022,62.69
+isic4_c,624,e,a,con_usd,2022,62.63
 isic4_c,626,ca,a,con_usd,2000,20.14
 isic4_c,626,ca,a,con_usd,2001,23.76
 isic4_c,626,ca,a,con_usd,2002,22.12
@@ -4402,7 +4425,7 @@ isic4_c,634,ca,a,con_usd,2018,5571.56
 isic4_c,634,ca,a,con_usd,2019,5396.53
 isic4_c,634,ca,a,con_usd,2020,5120.04
 isic4_c,634,ca,a,con_usd,2021,5461.08
-isic4_c,634,e,a,con_usd,2022,5607.96
+isic4_c,634,e,a,con_usd,2022,5649.76
 isic4_c,642,ca,a,con_usd,2000,885.88
 isic4_c,642,ca,a,con_usd,2001,990.04
 isic4_c,642,ca,a,con_usd,2002,1056.45
@@ -4425,7 +4448,7 @@ isic4_c,642,ca,a,con_usd,2018,2141.36
 isic4_c,642,ca,a,con_usd,2019,2116.39
 isic4_c,642,ca,a,con_usd,2020,1954.06
 isic4_c,642,ca,a,con_usd,2021,2091.6
-isic4_c,642,e,a,con_usd,2022,2166.37
+isic4_c,642,e,a,con_usd,2022,2166.14
 isic4_c,643,ca,a,con_usd,2000,742.43
 isic4_c,643,ca,a,con_usd,2001,778.73
 isic4_c,643,ca,a,con_usd,2002,814.39
@@ -4448,7 +4471,7 @@ isic4_c,643,ca,a,con_usd,2018,1289.59
 isic4_c,643,ca,a,con_usd,2019,1325.75
 isic4_c,643,ca,a,con_usd,2020,1333.52
 isic4_c,643,ca,a,con_usd,2021,1398.52
-isic4_c,643,e,a,con_usd,2022,1338.1
+isic4_c,643,e,a,con_usd,2022,1361.4
 isic4_c,646,ca,a,con_usd,2000,28.94
 isic4_c,646,ca,a,con_usd,2001,31.39
 isic4_c,646,ca,a,con_usd,2002,35.51
@@ -4471,7 +4494,7 @@ isic4_c,646,ca,a,con_usd,2018,59.84
 isic4_c,646,ca,a,con_usd,2019,64.96
 isic4_c,646,ca,a,con_usd,2020,64.78
 isic4_c,646,ca,a,con_usd,2021,68.29
-isic4_c,646,e,a,con_usd,2022,70.81
+isic4_c,646,e,a,con_usd,2022,71.36
 isic4_c,659,ca,a,con_usd,2000,1404.43
 isic4_c,659,ca,a,con_usd,2001,1790.77
 isic4_c,659,ca,a,con_usd,2002,1346.06
@@ -4494,7 +4517,7 @@ isic4_c,659,ca,a,con_usd,2018,1238.57
 isic4_c,659,ca,a,con_usd,2019,1275.07
 isic4_c,659,ca,a,con_usd,2020,1025.58
 isic4_c,659,ca,a,con_usd,2021,920.29
-isic4_c,659,e,a,con_usd,2022,1003.83
+isic4_c,659,e,a,con_usd,2022,994.29
 isic4_c,660,ca,a,con_usd,2000,479.03
 isic4_c,660,ca,a,con_usd,2001,384.21
 isic4_c,660,ca,a,con_usd,2002,484
@@ -4517,7 +4540,7 @@ isic4_c,660,ca,a,con_usd,2018,446.53
 isic4_c,660,ca,a,con_usd,2019,450.78
 isic4_c,660,ca,a,con_usd,2020,448.26
 isic4_c,660,ca,a,con_usd,2021,464.9
-isic4_c,660,e,a,con_usd,2022,485.79
+isic4_c,660,e,a,con_usd,2022,487.19
 isic4_c,662,ca,a,con_usd,2000,232.46
 isic4_c,662,ca,a,con_usd,2001,231.1
 isic4_c,662,ca,a,con_usd,2002,219.58
@@ -4540,7 +4563,7 @@ isic4_c,662,ca,a,con_usd,2018,351.17
 isic4_c,662,ca,a,con_usd,2019,351.88
 isic4_c,662,ca,a,con_usd,2020,314.29
 isic4_c,662,ca,a,con_usd,2021,334.25
-isic4_c,662,e,a,con_usd,2022,351.34
+isic4_c,662,e,a,con_usd,2022,361.18
 isic4_c,670,ca,a,con_usd,2000,404.47
 isic4_c,670,ca,a,con_usd,2001,389.01
 isic4_c,670,ca,a,con_usd,2002,378.68
@@ -4563,7 +4586,7 @@ isic4_c,670,ca,a,con_usd,2018,418.28
 isic4_c,670,ca,a,con_usd,2019,358.1
 isic4_c,670,ca,a,con_usd,2020,337.17
 isic4_c,670,ca,a,con_usd,2021,342.78
-isic4_c,670,e,a,con_usd,2022,348.07
+isic4_c,670,e,a,con_usd,2022,348.75
 isic4_c,674,ca,a,con_usd,2000,24730.77
 isic4_c,674,ca,a,con_usd,2001,24214.59
 isic4_c,674,ca,a,con_usd,2002,23464.47
@@ -4586,7 +4609,7 @@ isic4_c,674,ca,a,con_usd,2018,13969.19
 isic4_c,674,ca,a,con_usd,2019,13571.8
 isic4_c,674,ca,a,con_usd,2020,13132.43
 isic4_c,674,ca,a,con_usd,2021,13495.38
-isic4_c,674,e,a,con_usd,2022,13846.2
+isic4_c,674,e,a,con_usd,2022,14024.54
 isic4_c,678,ca,a,con_usd,2000,80.63
 isic4_c,678,ca,a,con_usd,2001,78.34
 isic4_c,678,ca,a,con_usd,2002,79.91
@@ -4609,7 +4632,7 @@ isic4_c,678,ca,a,con_usd,2018,106.25
 isic4_c,678,ca,a,con_usd,2019,105.82
 isic4_c,678,ca,a,con_usd,2020,107.32
 isic4_c,678,ca,a,con_usd,2021,108.3
-isic4_c,678,e,a,con_usd,2022,108.21
+isic4_c,678,e,a,con_usd,2022,107.98
 isic4_c,682,ca,a,con_usd,2000,1499.33
 isic4_c,682,ca,a,con_usd,2001,1506.73
 isic4_c,682,ca,a,con_usd,2002,1499.18
@@ -4632,7 +4655,7 @@ isic4_c,682,ca,a,con_usd,2018,2385.65
 isic4_c,682,ca,a,con_usd,2019,2328.28
 isic4_c,682,ca,a,con_usd,2020,2109.51
 isic4_c,682,ca,a,con_usd,2021,2356.6
-isic4_c,682,e,a,con_usd,2022,2497.36
+isic4_c,682,e,a,con_usd,2022,2511.68
 isic4_c,686,ca,a,con_usd,2000,215.85
 isic4_c,686,ca,a,con_usd,2001,226.78
 isic4_c,686,ca,a,con_usd,2002,228.28
@@ -4655,7 +4678,7 @@ isic4_c,686,ca,a,con_usd,2018,225.17
 isic4_c,686,ca,a,con_usd,2019,227.37
 isic4_c,686,ca,a,con_usd,2020,221.22
 isic4_c,686,ca,a,con_usd,2021,234.01
-isic4_c,686,e,a,con_usd,2022,235.33
+isic4_c,686,e,a,con_usd,2022,235.3
 isic4_c,688,ca,a,con_usd,2000,558.1
 isic4_c,688,ca,a,con_usd,2001,585.71
 isic4_c,688,ca,a,con_usd,2002,637.8
@@ -4678,7 +4701,7 @@ isic4_c,688,ca,a,con_usd,2018,860.4
 isic4_c,688,ca,a,con_usd,2019,864.74
 isic4_c,688,ca,a,con_usd,2020,871.43
 isic4_c,688,ca,a,con_usd,2021,924.69
-isic4_c,688,e,a,con_usd,2022,962.15
+isic4_c,688,e,a,con_usd,2022,950.59
 isic4_c,690,ca,a,con_usd,2000,995.25
 isic4_c,690,ca,a,con_usd,2001,950.36
 isic4_c,690,ca,a,con_usd,2002,960.86
@@ -4701,7 +4724,7 @@ isic4_c,690,ca,a,con_usd,2018,970.43
 isic4_c,690,ca,a,con_usd,2019,769.76
 isic4_c,690,ca,a,con_usd,2020,892.95
 isic4_c,690,ca,a,con_usd,2021,962.63
-isic4_c,690,e,a,con_usd,2022,1121.11
+isic4_c,690,e,a,con_usd,2022,1092.08
 isic4_c,694,ca,a,con_usd,2000,7.55
 isic4_c,694,ca,a,con_usd,2001,9.37
 isic4_c,694,ca,a,con_usd,2002,9.98
@@ -4724,7 +4747,7 @@ isic4_c,694,ca,a,con_usd,2018,10.65
 isic4_c,694,ca,a,con_usd,2019,10.87
 isic4_c,694,ca,a,con_usd,2020,9.91
 isic4_c,694,ca,a,con_usd,2021,10.07
-isic4_c,694,e,a,con_usd,2022,9.83
+isic4_c,694,e,a,con_usd,2022,9.85
 isic4_c,702,ca,a,con_usd,2000,7380.58
 isic4_c,702,ca,a,con_usd,2001,6416.81
 isic4_c,702,ca,a,con_usd,2002,6867.84
@@ -4747,7 +4770,7 @@ isic4_c,702,ca,a,con_usd,2018,11741.74
 isic4_c,702,ca,a,con_usd,2019,11468.58
 isic4_c,702,ca,a,con_usd,2020,12241.55
 isic4_c,702,ca,a,con_usd,2021,13782.78
-isic4_c,702,e,a,con_usd,2022,13986.21
+isic4_c,702,e,a,con_usd,2022,14112.09
 isic4_c,703,ca,a,con_usd,2000,859.92
 isic4_c,703,ca,a,con_usd,2001,1003.21
 isic4_c,703,ca,a,con_usd,2002,1035.74
@@ -4770,7 +4793,7 @@ isic4_c,703,ca,a,con_usd,2018,3587.9
 isic4_c,703,ca,a,con_usd,2019,3855.82
 isic4_c,703,ca,a,con_usd,2020,3270.15
 isic4_c,703,ca,a,con_usd,2021,3527.66
-isic4_c,703,e,a,con_usd,2022,3548.39
+isic4_c,703,e,a,con_usd,2022,3540.36
 isic4_c,704,ca,a,con_usd,2000,128.29
 isic4_c,704,ca,a,con_usd,2001,141.39
 isic4_c,704,ca,a,con_usd,2002,156.17
@@ -4793,7 +4816,7 @@ isic4_c,704,ca,a,con_usd,2018,734.01
 isic4_c,704,ca,a,con_usd,2019,797.2
 isic4_c,704,ca,a,con_usd,2020,829.44
 isic4_c,704,ca,a,con_usd,2021,872.26
-isic4_c,704,e,a,con_usd,2022,959.14
+isic4_c,704,e,a,con_usd,2022,971.06
 isic4_c,705,ca,a,con_usd,2000,2983.26
 isic4_c,705,ca,a,con_usd,2001,3140.84
 isic4_c,705,ca,a,con_usd,2002,3307.67
@@ -4816,7 +4839,7 @@ isic4_c,705,ca,a,con_usd,2018,4792.12
 isic4_c,705,ca,a,con_usd,2019,5168.23
 isic4_c,705,ca,a,con_usd,2020,4996.6
 isic4_c,705,ca,a,con_usd,2021,5562.01
-isic4_c,705,e,a,con_usd,2022,5989.56
+isic4_c,705,e,a,con_usd,2022,5964.22
 isic4_c,706,ca,a,con_usd,2000,5.18
 isic4_c,706,ca,a,con_usd,2001,4.68
 isic4_c,706,ca,a,con_usd,2002,5.21
@@ -4839,7 +4862,7 @@ isic4_c,706,ca,a,con_usd,2018,9.15
 isic4_c,706,ca,a,con_usd,2019,9.06
 isic4_c,706,ca,a,con_usd,2020,8.72
 isic4_c,706,ca,a,con_usd,2021,8.71
-isic4_c,706,e,a,con_usd,2022,8.7
+isic4_c,706,e,a,con_usd,2022,8.68
 isic4_c,710,ca,a,con_usd,2000,695.47
 isic4_c,710,ca,a,con_usd,2001,711.39
 isic4_c,710,ca,a,con_usd,2002,724.69
@@ -4862,7 +4885,7 @@ isic4_c,710,ca,a,con_usd,2018,770.64
 isic4_c,710,ca,a,con_usd,2019,752.83
 isic4_c,710,ca,a,con_usd,2020,651
 isic4_c,710,ca,a,con_usd,2021,686.61
-isic4_c,710,e,a,con_usd,2022,690.51
+isic4_c,710,e,a,con_usd,2022,689.92
 isic4_c,716,ca,a,con_usd,2000,129.73
 isic4_c,716,ca,a,con_usd,2001,120.61
 isic4_c,716,ca,a,con_usd,2002,107.57
@@ -4885,7 +4908,7 @@ isic4_c,716,ca,a,con_usd,2018,162.84
 isic4_c,716,ca,a,con_usd,2019,142.39
 isic4_c,716,ca,a,con_usd,2020,113.72
 isic4_c,716,ca,a,con_usd,2021,112.75
-isic4_c,716,e,a,con_usd,2022,109.51
+isic4_c,716,e,a,con_usd,2022,109.53
 isic4_c,722,n,a,con_usd,2000,1793.57
 isic4_c,722,n,a,con_usd,2001,1820.69
 isic4_c,722,n,a,con_usd,2002,1865.39
@@ -4908,7 +4931,7 @@ isic4_c,722,n,a,con_usd,2018,2192.02
 isic4_c,722,n,a,con_usd,2019,2161.89
 isic4_c,722,n,a,con_usd,2020,2158.24
 isic4_c,722,n,a,con_usd,2021,2267.41
-isic4_c,722,n,a,con_usd,2022,2317.56
+isic4_c,722,n,a,con_usd,2022,2327.82
 isic4_c,724,ca,a,con_usd,2000,3560.74
 isic4_c,724,ca,a,con_usd,2001,3662.19
 isic4_c,724,ca,a,con_usd,2002,3622
@@ -4931,7 +4954,7 @@ isic4_c,724,ca,a,con_usd,2018,3084.37
 isic4_c,724,ca,a,con_usd,2019,3076
 isic4_c,724,ca,a,con_usd,2020,2589.89
 isic4_c,724,ca,a,con_usd,2021,2813.23
-isic4_c,724,e,a,con_usd,2022,2925.02
+isic4_c,724,e,a,con_usd,2022,2967.24
 isic4_c,728,ca,a,con_usd,2011,19.57
 isic4_c,728,ca,a,con_usd,2012,8.74
 isic4_c,728,ca,a,con_usd,2013,9.25
@@ -4955,7 +4978,7 @@ isic4_c,729,ca,a,con_usd,2018,150.5
 isic4_c,729,ca,a,con_usd,2019,146.83
 isic4_c,729,ca,a,con_usd,2020,134.74
 isic4_c,729,ca,a,con_usd,2021,132.83
-isic4_c,729,e,a,con_usd,2022,128.92
+isic4_c,729,e,a,con_usd,2022,127.17
 isic4_c,736,ca,a,con_usd,2000,68.32
 isic4_c,736,ca,a,con_usd,2001,82.4
 isic4_c,736,ca,a,con_usd,2002,84.28
@@ -5012,7 +5035,7 @@ isic4_c,747,n,a,con_usd,2018,941.52
 isic4_c,747,n,a,con_usd,2019,922.18
 isic4_c,747,n,a,con_usd,2020,886.49
 isic4_c,747,n,a,con_usd,2021,960.54
-isic4_c,747,n,a,con_usd,2022,1000.78
+isic4_c,747,n,a,con_usd,2022,1007.84
 isic4_c,748,ca,a,con_usd,2000,767.27
 isic4_c,748,ca,a,con_usd,2001,765.05
 isic4_c,748,ca,a,con_usd,2002,805.02
@@ -5035,7 +5058,7 @@ isic4_c,748,ca,a,con_usd,2018,1153.96
 isic4_c,748,ca,a,con_usd,2019,1206.14
 isic4_c,748,ca,a,con_usd,2020,1074.09
 isic4_c,748,ca,a,con_usd,2021,1042.29
-isic4_c,748,e,a,con_usd,2022,1050.96
+isic4_c,748,e,a,con_usd,2022,1025.92
 isic4_c,752,ca,a,con_usd,2000,6703.46
 isic4_c,752,ca,a,con_usd,2001,6626.03
 isic4_c,752,ca,a,con_usd,2002,6908.93
@@ -5058,7 +5081,7 @@ isic4_c,752,ca,a,con_usd,2018,7215.99
 isic4_c,752,ca,a,con_usd,2019,7010.97
 isic4_c,752,ca,a,con_usd,2020,6554.91
 isic4_c,752,ca,a,con_usd,2021,7081.89
-isic4_c,752,e,a,con_usd,2022,7284.24
+isic4_c,752,e,a,con_usd,2022,7291.84
 isic4_c,753,n,a,con_usd,2000,871.49
 isic4_c,753,n,a,con_usd,2001,874.68
 isic4_c,753,n,a,con_usd,2002,931.15
@@ -5081,7 +5104,7 @@ isic4_c,753,n,a,con_usd,2018,2621.29
 isic4_c,753,n,a,con_usd,2019,2682.38
 isic4_c,753,n,a,con_usd,2020,2687.36
 isic4_c,753,n,a,con_usd,2021,2887.39
-isic4_c,753,n,a,con_usd,2022,2971.12
+isic4_c,753,n,a,con_usd,2022,2963.14
 isic4_c,756,ca,a,con_usd,2000,12269
 isic4_c,756,ca,a,con_usd,2001,12889
 isic4_c,756,ca,a,con_usd,2002,13086.18
@@ -5104,7 +5127,7 @@ isic4_c,756,ca,a,con_usd,2018,16578.05
 isic4_c,756,ca,a,con_usd,2019,16952.16
 isic4_c,756,ca,a,con_usd,2020,16328.7
 isic4_c,756,ca,a,con_usd,2021,18043.9
-isic4_c,756,e,a,con_usd,2022,18544.1
+isic4_c,756,e,a,con_usd,2022,18526.6
 isic4_c,760,ca,a,con_usd,2000,19.23
 isic4_c,760,ca,a,con_usd,2001,45.79
 isic4_c,760,ca,a,con_usd,2002,48.12
@@ -5150,7 +5173,7 @@ isic4_c,762,ca,a,con_usd,2018,165.08
 isic4_c,762,ca,a,con_usd,2019,180.68
 isic4_c,762,ca,a,con_usd,2020,224.34
 isic4_c,762,ca,a,con_usd,2021,244.97
-isic4_c,762,e,a,con_usd,2022,251.68
+isic4_c,762,e,a,con_usd,2022,257.96
 isic4_c,764,ca,a,con_usd,2000,966.8
 isic4_c,764,ca,a,con_usd,2001,976.75
 isic4_c,764,ca,a,con_usd,2002,1053.84
@@ -5173,7 +5196,7 @@ isic4_c,764,ca,a,con_usd,2018,1681.43
 isic4_c,764,ca,a,con_usd,2019,1663.29
 isic4_c,764,ca,a,con_usd,2020,1567.07
 isic4_c,764,ca,a,con_usd,2021,1640.74
-isic4_c,764,e,a,con_usd,2022,1687.75
+isic4_c,764,e,a,con_usd,2022,1684.11
 isic4_c,768,ca,a,con_usd,2000,39.2
 isic4_c,768,ca,a,con_usd,2001,39.37
 isic4_c,768,ca,a,con_usd,2002,39.4
@@ -5219,7 +5242,7 @@ isic4_c,776,ca,a,con_usd,2018,247.53
 isic4_c,776,ca,a,con_usd,2019,236.04
 isic4_c,776,ca,a,con_usd,2020,244.06
 isic4_c,776,ca,a,con_usd,2021,214.72
-isic4_c,776,e,a,con_usd,2022,210.19
+isic4_c,776,e,a,con_usd,2022,210.2
 isic4_c,780,ca,a,con_usd,2000,1284.11
 isic4_c,780,ca,a,con_usd,2001,1356.3
 isic4_c,780,ca,a,con_usd,2002,1519.04
@@ -5242,7 +5265,7 @@ isic4_c,780,ca,a,con_usd,2018,2509.73
 isic4_c,780,ca,a,con_usd,2019,2426.7
 isic4_c,780,ca,a,con_usd,2020,2172.05
 isic4_c,780,ca,a,con_usd,2021,2162.43
-isic4_c,780,e,a,con_usd,2022,2293.32
+isic4_c,780,e,a,con_usd,2022,2245.78
 isic4_c,784,ca,a,con_usd,2000,5701.28
 isic4_c,784,ca,a,con_usd,2001,5452.71
 isic4_c,784,ca,a,con_usd,2002,5333.56
@@ -5265,7 +5288,7 @@ isic4_c,784,ca,a,con_usd,2018,3899.09
 isic4_c,784,ca,a,con_usd,2019,3953.49
 isic4_c,784,ca,a,con_usd,2020,4016.18
 isic4_c,784,ca,a,con_usd,2021,4282.03
-isic4_c,784,e,a,con_usd,2022,4547.29
+isic4_c,784,e,a,con_usd,2022,4693.87
 isic4_c,788,ca,a,con_usd,2000,464.89
 isic4_c,788,ca,a,con_usd,2001,491.7
 isic4_c,788,ca,a,con_usd,2002,490.84
@@ -5288,7 +5311,7 @@ isic4_c,788,ca,a,con_usd,2018,557.45
 isic4_c,788,ca,a,con_usd,2019,546.91
 isic4_c,788,ca,a,con_usd,2020,485.04
 isic4_c,788,ca,a,con_usd,2021,515.25
-isic4_c,788,e,a,con_usd,2022,519.78
+isic4_c,788,e,a,con_usd,2022,521.38
 isic4_c,792,ca,a,con_usd,2000,981.61
 isic4_c,792,ca,a,con_usd,2001,883.84
 isic4_c,792,ca,a,con_usd,2002,909.89
@@ -5311,7 +5334,7 @@ isic4_c,792,ca,a,con_usd,2018,2004.74
 isic4_c,792,ca,a,con_usd,2019,1939.69
 isic4_c,792,ca,a,con_usd,2020,1989.67
 isic4_c,792,ca,a,con_usd,2021,2339.38
-isic4_c,792,e,a,con_usd,2022,2458.95
+isic4_c,792,e,a,con_usd,2022,2478.94
 isic4_c,795,ca,a,con_usd,2000,912.46
 isic4_c,795,ca,a,con_usd,2001,943.98
 isic4_c,795,ca,a,con_usd,2002,864.99
@@ -5334,7 +5357,7 @@ isic4_c,795,ca,a,con_usd,2018,2114.76
 isic4_c,795,ca,a,con_usd,2019,1920.42
 isic4_c,795,ca,a,con_usd,2020,1909.73
 isic4_c,795,ca,a,con_usd,2021,1948.79
-isic4_c,795,e,a,con_usd,2022,1892.07
+isic4_c,795,e,a,con_usd,2022,1907.52
 isic4_c,796,ca,a,con_usd,2000,764.13
 isic4_c,796,ca,a,con_usd,2001,652.87
 isic4_c,796,ca,a,con_usd,2002,529.97
@@ -5357,7 +5380,7 @@ isic4_c,796,ca,a,con_usd,2018,149.88
 isic4_c,796,ca,a,con_usd,2019,140.02
 isic4_c,796,ca,a,con_usd,2020,132.15
 isic4_c,796,ca,a,con_usd,2021,126.45
-isic4_c,796,e,a,con_usd,2022,125.13
+isic4_c,796,e,a,con_usd,2022,125.54
 isic4_c,798,ca,a,con_usd,2000,20.81
 isic4_c,798,ca,a,con_usd,2001,22.39
 isic4_c,798,ca,a,con_usd,2002,26.62
@@ -5380,7 +5403,7 @@ isic4_c,798,ca,a,con_usd,2018,53.44
 isic4_c,798,ca,a,con_usd,2019,59.62
 isic4_c,798,ca,a,con_usd,2020,13.11
 isic4_c,798,ca,a,con_usd,2021,8.98
-isic4_c,798,e,a,con_usd,2022,9.04
+isic4_c,798,e,a,con_usd,2022,8.85
 isic4_c,800,ca,a,con_usd,2000,69.35
 isic4_c,800,ca,a,con_usd,2001,72.84
 isic4_c,800,ca,a,con_usd,2002,73.1
@@ -5403,7 +5426,7 @@ isic4_c,800,ca,a,con_usd,2018,138.51
 isic4_c,800,ca,a,con_usd,2019,144.73
 isic4_c,800,ca,a,con_usd,2020,133.38
 isic4_c,800,ca,a,con_usd,2021,137.68
-isic4_c,800,e,a,con_usd,2022,138.24
+isic4_c,800,e,a,con_usd,2022,139.53
 isic4_c,804,ca,a,con_usd,2000,213.15
 isic4_c,804,ca,a,con_usd,2001,242.3
 isic4_c,804,ca,a,con_usd,2002,270.47
@@ -5426,7 +5449,7 @@ isic4_c,804,ca,a,con_usd,2018,267.17
 isic4_c,804,ca,a,con_usd,2019,270.91
 isic4_c,804,ca,a,con_usd,2020,257.04
 isic4_c,804,ca,a,con_usd,2021,265.31
-isic4_c,804,e,a,con_usd,2022,154.98
+isic4_c,804,e,a,con_usd,2022,172.89
 isic4_c,807,ca,a,con_usd,2000,299.03
 isic4_c,807,ca,a,con_usd,2001,279.88
 isic4_c,807,ca,a,con_usd,2002,286.56
@@ -5449,7 +5472,7 @@ isic4_c,807,ca,a,con_usd,2018,595.19
 isic4_c,807,ca,a,con_usd,2019,610.39
 isic4_c,807,ca,a,con_usd,2020,571.27
 isic4_c,807,ca,a,con_usd,2021,573.48
-isic4_c,807,e,a,con_usd,2022,594.35
+isic4_c,807,e,a,con_usd,2022,589.69
 isic4_c,818,ca,a,con_usd,2000,429.4
 isic4_c,818,ca,a,con_usd,2001,439.51
 isic4_c,818,ca,a,con_usd,2002,447.53
@@ -5472,7 +5495,7 @@ isic4_c,818,ca,a,con_usd,2018,551.04
 isic4_c,818,ca,a,con_usd,2019,556.33
 isic4_c,818,ca,a,con_usd,2020,554.24
 isic4_c,818,ca,a,con_usd,2021,542.6
-isic4_c,818,e,a,con_usd,2022,568
+isic4_c,818,e,a,con_usd,2022,568.02
 isic4_c,826,ca,a,con_usd,2000,3786.51
 isic4_c,826,ca,a,con_usd,2001,3842.05
 isic4_c,826,ca,a,con_usd,2002,3946.9
@@ -5495,7 +5518,7 @@ isic4_c,826,ca,a,con_usd,2018,4273.03
 isic4_c,826,ca,a,con_usd,2019,4301.07
 isic4_c,826,ca,a,con_usd,2020,4287.87
 isic4_c,826,ca,a,con_usd,2021,4695.56
-isic4_c,826,e,a,con_usd,2022,4838.84
+isic4_c,826,e,a,con_usd,2022,4860.47
 isic4_c,834,ca,a,con_usd,2000,36.38
 isic4_c,834,ca,a,con_usd,2001,36.99
 isic4_c,834,ca,a,con_usd,2002,38.81
@@ -5518,7 +5541,7 @@ isic4_c,834,ca,a,con_usd,2018,85.05
 isic4_c,834,ca,a,con_usd,2019,87.6
 isic4_c,834,ca,a,con_usd,2020,88.89
 isic4_c,834,ca,a,con_usd,2021,90.32
-isic4_c,834,e,a,con_usd,2022,92
+isic4_c,834,e,a,con_usd,2022,92.25
 isic4_c,840,ca,a,con_usd,2000,6172.05
 isic4_c,840,ca,a,con_usd,2001,5861.95
 isic4_c,840,ca,a,con_usd,2002,5854.69
@@ -5541,7 +5564,7 @@ isic4_c,840,ca,a,con_usd,2018,6883.14
 isic4_c,840,ca,a,con_usd,2019,6949.16
 isic4_c,840,ca,a,con_usd,2020,6601.27
 isic4_c,840,ca,a,con_usd,2021,7020.33
-isic4_c,840,e,a,con_usd,2022,7058.46
+isic4_c,840,e,a,con_usd,2022,7112.28
 isic4_c,854,ca,a,con_usd,2000,53.43
 isic4_c,854,ca,a,con_usd,2001,55.32
 isic4_c,854,ca,a,con_usd,2002,56.92
@@ -5564,7 +5587,7 @@ isic4_c,854,ca,a,con_usd,2018,70.98
 isic4_c,854,ca,a,con_usd,2019,71.88
 isic4_c,854,ca,a,con_usd,2020,72.13
 isic4_c,854,ca,a,con_usd,2021,76.16
-isic4_c,854,e,a,con_usd,2022,77.59
+isic4_c,854,e,a,con_usd,2022,77.69
 isic4_c,858,ca,a,con_usd,2000,1319.99
 isic4_c,858,ca,a,con_usd,2001,1227.14
 isic4_c,858,ca,a,con_usd,2002,1155.45
@@ -5587,7 +5610,7 @@ isic4_c,858,ca,a,con_usd,2018,1952.77
 isic4_c,858,ca,a,con_usd,2019,1879.98
 isic4_c,858,ca,a,con_usd,2020,1764.45
 isic4_c,858,ca,a,con_usd,2021,1863.14
-isic4_c,858,e,a,con_usd,2022,1924.05
+isic4_c,858,e,a,con_usd,2022,1918.23
 isic4_c,860,ca,a,con_usd,2000,192.29
 isic4_c,860,ca,a,con_usd,2001,194.93
 isic4_c,860,ca,a,con_usd,2002,198.96
@@ -5610,7 +5633,7 @@ isic4_c,860,ca,a,con_usd,2018,408.36
 isic4_c,860,ca,a,con_usd,2019,428.42
 isic4_c,860,ca,a,con_usd,2020,454.75
 isic4_c,860,ca,a,con_usd,2021,484.05
-isic4_c,860,e,a,con_usd,2022,493.76
+isic4_c,860,e,a,con_usd,2022,496.38
 isic4_c,862,ca,a,con_usd,2000,1841.61
 isic4_c,862,ca,a,con_usd,2001,1813.03
 isic4_c,862,ca,a,con_usd,2002,1536.09
@@ -5633,7 +5656,7 @@ isic4_c,862,ca,a,con_usd,2018,540.2
 isic4_c,862,ca,a,con_usd,2019,281.45
 isic4_c,862,ca,a,con_usd,2020,200.94
 isic4_c,862,ca,a,con_usd,2021,134.78
-isic4_c,862,e,a,con_usd,2022,140.77
+isic4_c,862,e,a,con_usd,2022,143.97
 isic4_c,882,ca,a,con_usd,2000,443.68
 isic4_c,882,ca,a,con_usd,2001,526.9
 isic4_c,882,ca,a,con_usd,2002,549.75
@@ -5656,7 +5679,7 @@ isic4_c,882,ca,a,con_usd,2018,182.13
 isic4_c,882,ca,a,con_usd,2019,202.4
 isic4_c,882,ca,a,con_usd,2020,174.38
 isic4_c,882,ca,a,con_usd,2021,170.63
-isic4_c,882,e,a,con_usd,2022,148.53
+isic4_c,882,e,a,con_usd,2022,146.02
 isic4_c,887,ca,a,con_usd,2000,124.06
 isic4_c,887,ca,a,con_usd,2001,124.38
 isic4_c,887,ca,a,con_usd,2002,121.99
@@ -5679,7 +5702,7 @@ isic4_c,887,ca,a,con_usd,2018,66.42
 isic4_c,887,ca,a,con_usd,2019,60.72
 isic4_c,887,ca,a,con_usd,2020,58.63
 isic4_c,887,ca,a,con_usd,2021,55.12
-isic4_c,887,e,a,con_usd,2022,55.33
+isic4_c,887,e,a,con_usd,2022,55.11
 isic4_c,894,ca,a,con_usd,2000,73.51
 isic4_c,894,ca,a,con_usd,2001,74.69
 isic4_c,894,ca,a,con_usd,2002,76.99
@@ -5702,4 +5725,4 @@ isic4_c,894,ca,a,con_usd,2018,99.04
 isic4_c,894,ca,a,con_usd,2019,98.43
 isic4_c,894,ca,a,con_usd,2020,96.53
 isic4_c,894,ca,a,con_usd,2021,97.73
-isic4_c,894,e,a,con_usd,2022,98.02
+isic4_c,894,e,a,con_usd,2022,98.26

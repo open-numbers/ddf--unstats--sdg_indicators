@@ -8,7 +8,7 @@
     "description": "SDG indicators",
     "author": "Gapminder",
     "license": "CC-BY-4.0",
-    "created": "2023-05-21T01:17:26.760694+00:00",
+    "created": "2023-07-23T01:17:17.206797+00:00",
     "translations": [],
     "version": "0.0.1",
     "resources": [
@@ -4491,6 +4491,39 @@
             }
         },
         {
+            "name": "ddf--datapoints--en_lnd_cnspop--by--cities--geo_area--nature--units--year",
+            "path": "ddf--datapoints--en_lnd_cnspop--by--cities--geo_area--nature--units--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "cities"
+                    },
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "nature"
+                    },
+                    {
+                        "name": "units"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "en_lnd_cnspop"
+                    }
+                ],
+                "primaryKey": [
+                    "cities",
+                    "geo_area",
+                    "nature",
+                    "units",
+                    "year"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--en_lnd_slum--by--geo_area--location--nature--units--year",
             "path": "ddf--datapoints--en_lnd_slum--by--geo_area--location--nature--units--year.csv",
             "schema": {
@@ -5827,10 +5860,13 @@
             }
         },
         {
-            "name": "ddf--datapoints--en_urb_opensp--by--custom_breakdown--geo_area--nature--units--year",
-            "path": "ddf--datapoints--en_urb_opensp--by--custom_breakdown--geo_area--nature--units--year.csv",
+            "name": "ddf--datapoints--en_urb_opensp--by--cities--custom_breakdown--geo_area--nature--units--year",
+            "path": "ddf--datapoints--en_urb_opensp--by--cities--custom_breakdown--geo_area--nature--units--year.csv",
             "schema": {
                 "fields": [
+                    {
+                        "name": "cities"
+                    },
                     {
                         "name": "custom_breakdown"
                     },
@@ -5851,6 +5887,7 @@
                     }
                 ],
                 "primaryKey": [
+                    "cities",
                     "custom_breakdown",
                     "geo_area",
                     "nature",
@@ -6591,6 +6628,39 @@
                     },
                     {
                         "name": "er_grf_animkpt"
+                    }
+                ],
+                "primaryKey": [
+                    "geo_area",
+                    "nature",
+                    "observation_status",
+                    "units",
+                    "year"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--er_grf_animkpt_trb--by--geo_area--nature--observation_status--units--year",
+            "path": "ddf--datapoints--er_grf_animkpt_trb--by--geo_area--nature--observation_status--units--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "nature"
+                    },
+                    {
+                        "name": "observation_status"
+                    },
+                    {
+                        "name": "units"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "er_grf_animkpt_trb"
                     }
                 ],
                 "primaryKey": [
@@ -19961,10 +20031,13 @@
             }
         },
         {
-            "name": "ddf--datapoints--sp_trn_publ--by--custom_breakdown--geo_area--nature--units--year",
-            "path": "ddf--datapoints--sp_trn_publ--by--custom_breakdown--geo_area--nature--units--year.csv",
+            "name": "ddf--datapoints--sp_trn_publ--by--cities--custom_breakdown--geo_area--nature--units--year",
+            "path": "ddf--datapoints--sp_trn_publ--by--cities--custom_breakdown--geo_area--nature--units--year.csv",
             "schema": {
                 "fields": [
+                    {
+                        "name": "cities"
+                    },
                     {
                         "name": "custom_breakdown"
                     },
@@ -19985,6 +20058,7 @@
                     }
                 ],
                 "primaryKey": [
+                    "cities",
                     "custom_breakdown",
                     "geo_area",
                     "nature",
@@ -22218,8 +22292,8 @@
             }
         },
         {
-            "name": "ddf--datapoints--vc_vov_gdsd--by--disability_status--geo_area--grounds_of_discrimination--location--nature--sex--units--year",
-            "path": "ddf--datapoints--vc_vov_gdsd--by--disability_status--geo_area--grounds_of_discrimination--location--nature--sex--units--year.csv",
+            "name": "ddf--datapoints--vc_vov_gdsd--by--disability_status--geo_area--grounds_of_discrimination--location--nature--observation_status--sex--units--year",
+            "path": "ddf--datapoints--vc_vov_gdsd--by--disability_status--geo_area--grounds_of_discrimination--location--nature--observation_status--sex--units--year.csv",
             "schema": {
                 "fields": [
                     {
@@ -22236,6 +22310,9 @@
                     },
                     {
                         "name": "nature"
+                    },
+                    {
+                        "name": "observation_status"
                     },
                     {
                         "name": "sex"
@@ -22256,6 +22333,7 @@
                     "grounds_of_discrimination",
                     "location",
                     "nature",
+                    "observation_status",
                     "sex",
                     "units",
                     "year"
@@ -25413,6 +25491,19 @@
             },
             {
                 "primaryKey": [
+                    "cities",
+                    "geo_area",
+                    "nature",
+                    "units",
+                    "year"
+                ],
+                "value": "en_lnd_cnspop",
+                "resources": [
+                    "ddf--datapoints--en_lnd_cnspop--by--cities--geo_area--nature--units--year"
+                ]
+            },
+            {
+                "primaryKey": [
                     "geo_area",
                     "location",
                     "nature",
@@ -25937,6 +26028,7 @@
             },
             {
                 "primaryKey": [
+                    "cities",
                     "custom_breakdown",
                     "geo_area",
                     "nature",
@@ -25945,7 +26037,7 @@
                 ],
                 "value": "en_urb_opensp",
                 "resources": [
-                    "ddf--datapoints--en_urb_opensp--by--custom_breakdown--geo_area--nature--units--year"
+                    "ddf--datapoints--en_urb_opensp--by--cities--custom_breakdown--geo_area--nature--units--year"
                 ]
             },
             {
@@ -26241,6 +26333,19 @@
                 "value": "er_grf_animkpt",
                 "resources": [
                     "ddf--datapoints--er_grf_animkpt--by--geo_area--nature--observation_status--units--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo_area",
+                    "nature",
+                    "observation_status",
+                    "units",
+                    "year"
+                ],
+                "value": "er_grf_animkpt_trb",
+                "resources": [
+                    "ddf--datapoints--er_grf_animkpt_trb--by--geo_area--nature--observation_status--units--year"
                 ]
             },
             {
@@ -31399,6 +31504,7 @@
             },
             {
                 "primaryKey": [
+                    "cities",
                     "custom_breakdown",
                     "geo_area",
                     "nature",
@@ -31407,7 +31513,7 @@
                 ],
                 "value": "sp_trn_publ",
                 "resources": [
-                    "ddf--datapoints--sp_trn_publ--by--custom_breakdown--geo_area--nature--units--year"
+                    "ddf--datapoints--sp_trn_publ--by--cities--custom_breakdown--geo_area--nature--units--year"
                 ]
             },
             {
@@ -32296,13 +32402,14 @@
                     "grounds_of_discrimination",
                     "location",
                     "nature",
+                    "observation_status",
                     "sex",
                     "units",
                     "year"
                 ],
                 "value": "vc_vov_gdsd",
                 "resources": [
-                    "ddf--datapoints--vc_vov_gdsd--by--disability_status--geo_area--grounds_of_discrimination--location--nature--sex--units--year"
+                    "ddf--datapoints--vc_vov_gdsd--by--disability_status--geo_area--grounds_of_discrimination--location--nature--observation_status--sex--units--year"
                 ]
             },
             {

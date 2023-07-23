@@ -72,8 +72,8 @@ dc_ossd_offcl,measure,Gross receipts by developing countries of official concess
 dc_ossd_offnl,measure,Gross receipts by developing countries of official non-concessional sustainable development loans (millions of United States dollars),17,17.3.1,DC_OSSD_OFFNL,17.3
 dc_ossd_prvgrt,measure,Gross receipts by developing countries of private grants (millions of United States dollars),17,17.3.1,DC_OSSD_PRVGRT,17.3
 dc_tof_agrl,measure,"Total official flows (disbursements) for agriculture, by recipient countries (millions of constant 2021 United States dollars)",2,2.a.2,DC_TOF_AGRL,2.a
-dc_tof_hlthl,measure,"Total official development assistance to medical research and basic heath sectors, gross disbursement, by recipient countries (millions of constant 2021 United States dollars)",3,3.b.2,DC_TOF_HLTHL,3.b
-dc_tof_hlthnt,measure,"Total official development assistance to medical research and basic heath sectors, net disbursement, by recipient countries (millions of constant 2021 United States dollars)",3,3.b.2,DC_TOF_HLTHNT,3.b
+dc_tof_hlthl,measure,"Total official development assistance to medical research and basic health sectors, gross disbursement, by recipient countries (millions of constant 2021 United States dollars)",3,3.b.2,DC_TOF_HLTHL,3.b
+dc_tof_hlthnt,measure,"Total official development assistance to medical research and basic health sectors, net disbursement, by recipient countries (millions of constant 2021 United States dollars)",3,3.b.2,DC_TOF_HLTHNT,3.b
 dc_tof_infral,measure,"Total official flows for infrastructure, by recipient countries (millions of constant 2021 United States dollars)",9,9.a.1,DC_TOF_INFRAL,9.a
 dc_tof_schipsl,measure,"Total official flows for scholarships, by recipient countries (millions of constant 2021 United States dollars)",4,4.b.1,DC_TOF_SCHIPSL,4.b
 dc_tof_trdcmdl,measure,"Total official flows (commitments) for Aid for Trade, by donor countries (millions of constant 2021 United States dollars)",8,8.a.1,DC_TOF_TRDCMDL,8.a
@@ -137,6 +137,7 @@ en_lkrv_swan,measure,Lakes and rivers seasonal water area (square kilometres),6,
 en_lkrv_swap,measure,Lakes and rivers seasonal water area (% of total land area),6,6.6.1,EN_LKRV_SWAP,6.6
 en_lkw_qltrb,measure,Lake water quality turbidity (%),6,6.6.1,EN_LKW_QLTRB,6.6
 en_lkw_qltrst,measure,Lake water quality trophic state (%),6,6.6.1,EN_LKW_QLTRST,6.6
+en_lnd_cnspop,measure,Ratio of land consumption rate to population growth rate,11,11.3.1,EN_LND_CNSPOP,11.3
 en_lnd_slum,measure,Proportion of urban population living in slums (%),11,11.1.1,EN_LND_SLUM,11.1
 en_mar_bealit_bp,measure,Beach litter originating from national land-based sources that ends in the beach (%),14,14.1.1,EN_MAR_BEALIT_BP,14.1
 en_mar_bealit_bv,measure,Beach litter originating from national land-based sources that ends in the beach (Tonnes),14,14.1.1,EN_MAR_BEALIT_BV,14.1
@@ -201,6 +202,7 @@ er_ffs_cmpt_cd,measure,Fossil-fuel subsidies (consumption and production) (billi
 er_ffs_cmpt_gdp,measure,Fossil-fuel subsidies (consumption and production) as a proportion of total GDP (%),12,12.c.1,ER_FFS_CMPT_GDP,12.c
 er_ffs_cmpt_pc_cd,measure,Fossil-fuel subsidies (consumption and production) per capita (nominal United States dollars),12,12.c.1,ER_FFS_CMPT_PC_CD,12.c
 er_grf_animkpt,measure,Number of local breeds kept in the country,2,2.5.1,ER_GRF_ANIMKPT,2.5
+er_grf_animkpt_trb,measure,Number of transboundary breeds (including extinct ones),2,2.5.1,ER_GRF_ANIMKPT_TRB,2.5
 er_grf_animrcntn,measure,Number of local breeds for which sufficient genetic resources are stored for reconstitution,2,2.5.1,ER_GRF_ANIMRCNTN,2.5
 er_grf_animrcntn_trb,measure,Number of transboundary breeds for which sufficient genetic resources are stored for reconstitution,2,2.5.1,ER_GRF_ANIMRCNTN_TRB,2.5
 er_grf_plntstor,measure,Plant genetic resources accessions stored ex situ (number),2,2.5.1,ER_GRF_PLNTSTOR,2.5
@@ -324,7 +326,7 @@ se_acs_cmptr,measure,"Proportion of schools with access to computers for pedago
 se_acs_elect,measure,"Proportion of schools with access to electricity, by education level (%)",4,4.a.1,SE_ACS_ELECT,4.a
 se_acs_h2o,measure,"Proportion of schools with access to basic drinking water, by education level (%)",4,4.a.1,SE_ACS_H2O,4.a
 se_acs_intnt,measure,"Proportion of schools with access to the internet for pedagogical purposes, by education level (%)",4,4.a.1,SE_ACS_INTNT,4.a
-se_acs_sanit,measure,"Proportion of schools with access to access to single-sex basic sanitation, by education level (%)",4,4.a.1,SE_ACS_SANIT,4.a
+se_acs_sanit,measure,"Proportion of schools with access to single-sex basic sanitation, by education level (%)",4,4.a.1,SE_ACS_SANIT,4.a
 se_adt_acts,measure,"Proportion of youth and adults with information and communications technology (ICT) skills, by sex and type of skill (%)",4,4.4.1,SE_ADT_ACTS,4.4
 se_adt_eductrn,measure,"Participation rate in formal and non-formal education and training, by sex (%)",4,4.3.1,SE_ADT_EDUCTRN,4.3
 se_adt_funs,measure,"Proportion of population achieving at least a fixed level of proficiency in functional skills, by sex, age and type of skill (%)",4,4.6.1,SE_ADT_FUNS,4.6
