@@ -1005,7 +1005,7 @@ geo_area,nature,observation_status,units,year,en_mar_chldev
 156,e,a,percent,2019,2.51755
 156,e,a,percent,2020,2.78657
 156,e,a,percent,2021,1.63732
-156,e,a,percent,2022,0.0583
+156,e,a,percent,2022,2.58786
 162,e,a,percent,2005,0.68347
 162,e,a,percent,2006,11.86225
 162,e,a,percent,2007,3.66487
@@ -1167,7 +1167,7 @@ geo_area,nature,observation_status,units,year,en_mar_chldev
 188,e,a,percent,2019,0.85611
 188,e,a,percent,2020,2.01005
 188,e,a,percent,2021,1.4854
-188,e,a,percent,2022,0.07815
+188,e,a,percent,2022,1.33904
 191,e,a,percent,2005,0.5876
 191,e,a,percent,2006,1.98793
 191,e,a,percent,2007,0.24971
@@ -1329,7 +1329,7 @@ geo_area,nature,observation_status,units,year,en_mar_chldev
 214,e,a,percent,2019,0.05484
 214,e,a,percent,2020,0.33958
 214,e,a,percent,2021,3.92844
-214,e,a,percent,2022,0
+214,e,a,percent,2022,0.11914
 218,e,a,percent,2005,2.07063
 218,e,a,percent,2006,2.19319
 218,e,a,percent,2007,5.94621
@@ -1879,7 +1879,7 @@ geo_area,nature,observation_status,units,year,en_mar_chldev
 328,e,a,percent,2019,3.77585
 328,e,a,percent,2020,8.05661
 328,e,a,percent,2021,7.1298
-328,e,a,percent,2022,10.52632
+328,e,a,percent,2022,13.44014
 332,e,a,percent,2005,1.36589
 332,e,a,percent,2006,0.25582
 332,e,a,percent,2007,1.17528
@@ -1951,7 +1951,7 @@ geo_area,nature,observation_status,units,year,en_mar_chldev
 352,e,a,percent,2019,13.19985
 352,e,a,percent,2020,11.46282
 352,e,a,percent,2021,7.80764
-352,e,a,percent,2022,6.62275
+352,e,a,percent,2022,10.15738
 356,e,a,percent,2005,4.30771
 356,e,a,percent,2006,3.71961
 356,e,a,percent,2007,3.04671
@@ -2005,7 +2005,7 @@ geo_area,nature,observation_status,units,year,en_mar_chldev
 364,e,a,percent,2019,1.65877
 364,e,a,percent,2020,0.30296
 364,e,a,percent,2021,0.2194
-364,e,a,percent,2022,0.54638
+364,e,a,percent,2022,0.17153
 368,e,a,percent,2005,5.72448
 368,e,a,percent,2006,14.67492
 368,e,a,percent,2007,8.06452
@@ -2101,7 +2101,7 @@ geo_area,nature,observation_status,units,year,en_mar_chldev
 388,e,a,percent,2019,0.08206
 388,e,a,percent,2020,0.21597
 388,e,a,percent,2021,0.47794
-388,e,a,percent,2022,0.16805
+388,e,a,percent,2022,0.04729
 392,e,a,percent,2005,1.26455
 392,e,a,percent,2006,2.7316
 392,e,a,percent,2007,1.35448
@@ -2159,7 +2159,7 @@ geo_area,nature,observation_status,units,year,en_mar_chldev
 404,e,a,percent,2019,0.14538
 404,e,a,percent,2020,0.10593
 404,e,a,percent,2021,0.13527
-404,e,a,percent,2022,0
+404,e,a,percent,2022,0.52009
 408,e,a,percent,2005,1.14657
 408,e,a,percent,2006,1.99004
 408,e,a,percent,2007,3.05531
@@ -2908,6 +2908,7 @@ geo_area,nature,observation_status,units,year,en_mar_chldev
 583,e,a,percent,2019,0.33864
 583,e,a,percent,2020,2.08202
 583,e,a,percent,2021,4.64228
+583,e,a,percent,2022,2.16737
 584,e,a,percent,2005,0.3497
 584,e,a,percent,2006,0.42617
 584,e,a,percent,2007,2.32396
@@ -3141,7 +3142,7 @@ geo_area,nature,observation_status,units,year,en_mar_chldev
 630,e,a,percent,2019,0.08084
 630,e,a,percent,2020,0.15352
 630,e,a,percent,2021,15.80631
-630,e,a,percent,2022,0
+630,e,a,percent,2022,0.12356
 634,e,a,percent,2005,1.68427
 634,e,a,percent,2006,1.3769
 634,e,a,percent,2007,0.75293
@@ -3159,7 +3160,7 @@ geo_area,nature,observation_status,units,year,en_mar_chldev
 634,e,a,percent,2019,0.10631
 634,e,a,percent,2020,0.06363
 634,e,a,percent,2021,0.11469
-634,e,a,percent,2022,0
+634,e,a,percent,2022,0.10254
 638,e,a,percent,2005,2.35941
 638,e,a,percent,2006,2.98064
 638,e,a,percent,2007,0.57703
@@ -3573,7 +3574,7 @@ geo_area,nature,observation_status,units,year,en_mar_chldev
 729,e,a,percent,2019,1.74325
 729,e,a,percent,2020,1.46076
 729,e,a,percent,2021,2.04023
-729,e,a,percent,2022,0.26577
+729,e,a,percent,2022,1.90146
 732,e,a,percent,2005,6.63093
 732,e,a,percent,2006,4.03229
 732,e,a,percent,2007,13.51906
@@ -3788,7 +3789,7 @@ geo_area,nature,observation_status,units,year,en_mar_chldev
 780,e,a,percent,2019,4.91901
 780,e,a,percent,2020,11.05235
 780,e,a,percent,2021,10.79545
-780,e,a,percent,2022,0.74938
+780,e,a,percent,2022,20.60933
 784,e,a,percent,2005,1.13198
 784,e,a,percent,2006,2.34702
 784,e,a,percent,2007,2.3132
@@ -3806,7 +3807,7 @@ geo_area,nature,observation_status,units,year,en_mar_chldev
 784,e,a,percent,2019,2.04459
 784,e,a,percent,2020,0.96385
 784,e,a,percent,2021,1.98344
-784,e,a,percent,2022,0.36702
+784,e,a,percent,2022,0.16976
 788,e,a,percent,2005,3.63016
 788,e,a,percent,2006,2.08465
 788,e,a,percent,2007,1.73793

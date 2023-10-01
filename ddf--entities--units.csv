@@ -11,6 +11,7 @@ cur_lcu_m,CUR_LCU_M
 ha_th,HA_TH
 index,INDEX
 kg,KG
+kg_km2_per_day,KG_KM2_PER_DAY
 kg_per_con_usd,KG_PER_CON_USD
 kmsq,KMSQ
 ltpureal,LTPUREAL

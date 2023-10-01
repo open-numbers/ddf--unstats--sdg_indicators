@@ -8,7 +8,7 @@
     "description": "SDG indicators",
     "author": "Gapminder",
     "license": "CC-BY-4.0",
-    "created": "2023-07-23T01:17:17.206797+00:00",
+    "created": "2023-10-01T01:19:25.748559+00:00",
     "translations": [],
     "version": "0.0.1",
     "resources": [
@@ -4805,6 +4805,68 @@
             }
         },
         {
+            "name": "ddf--datapoints--en_mar_coeupo--by--geo_area--nature--nutrient_loading--units--year",
+            "path": "ddf--datapoints--en_mar_coeupo--by--geo_area--nature--nutrient_loading--units--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "nature"
+                    },
+                    {
+                        "name": "nutrient_loading"
+                    },
+                    {
+                        "name": "units"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "en_mar_coeupo"
+                    }
+                ],
+                "primaryKey": [
+                    "geo_area",
+                    "nature",
+                    "nutrient_loading",
+                    "units",
+                    "year"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--en_mar_dsi--by--geo_area--nature--units--year",
+            "path": "ddf--datapoints--en_mar_dsi--by--geo_area--nature--units--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "nature"
+                    },
+                    {
+                        "name": "units"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "en_mar_dsi"
+                    }
+                ],
+                "primaryKey": [
+                    "geo_area",
+                    "nature",
+                    "units",
+                    "year"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--en_mar_plasdd--by--geo_area--nature--units--year",
             "path": "ddf--datapoints--en_mar_plasdd--by--geo_area--nature--units--year.csv",
             "schema": {
@@ -4823,6 +4885,64 @@
                     },
                     {
                         "name": "en_mar_plasdd"
+                    }
+                ],
+                "primaryKey": [
+                    "geo_area",
+                    "nature",
+                    "units",
+                    "year"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--en_mar_tn--by--geo_area--nature--units--year",
+            "path": "ddf--datapoints--en_mar_tn--by--geo_area--nature--units--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "nature"
+                    },
+                    {
+                        "name": "units"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "en_mar_tn"
+                    }
+                ],
+                "primaryKey": [
+                    "geo_area",
+                    "nature",
+                    "units",
+                    "year"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--en_mar_tp--by--geo_area--nature--units--year",
+            "path": "ddf--datapoints--en_mar_tp--by--geo_area--nature--units--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "nature"
+                    },
+                    {
+                        "name": "units"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "en_mar_tp"
                     }
                 ],
                 "primaryKey": [
@@ -12029,35 +12149,6 @@
             }
         },
         {
-            "name": "ddf--datapoints--sg_cpa_inforce_bit--by--geo_area--nature--units--year",
-            "path": "ddf--datapoints--sg_cpa_inforce_bit--by--geo_area--nature--units--year.csv",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "geo_area"
-                    },
-                    {
-                        "name": "nature"
-                    },
-                    {
-                        "name": "units"
-                    },
-                    {
-                        "name": "year"
-                    },
-                    {
-                        "name": "sg_cpa_inforce_bit"
-                    }
-                ],
-                "primaryKey": [
-                    "geo_area",
-                    "nature",
-                    "units",
-                    "year"
-                ]
-            }
-        },
-        {
             "name": "ddf--datapoints--sg_cpa_migrp--by--geo_area--nature--policy_domains--units--year",
             "path": "ddf--datapoints--sg_cpa_migrp--by--geo_area--nature--policy_domains--units--year.csv",
             "schema": {
@@ -12124,6 +12215,39 @@
             }
         },
         {
+            "name": "ddf--datapoints--sg_cpa_ofdi--by--geo_area--nature--type_of_ofdi_scheme--units--year",
+            "path": "ddf--datapoints--sg_cpa_ofdi--by--geo_area--nature--type_of_ofdi_scheme--units--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo_area"
+                    },
+                    {
+                        "name": "nature"
+                    },
+                    {
+                        "name": "type_of_ofdi_scheme"
+                    },
+                    {
+                        "name": "units"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "sg_cpa_ofdi"
+                    }
+                ],
+                "primaryKey": [
+                    "geo_area",
+                    "nature",
+                    "type_of_ofdi_scheme",
+                    "units",
+                    "year"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--sg_cpa_sdevp--by--geo_area--nature--observation_status--units--year",
             "path": "ddf--datapoints--sg_cpa_sdevp--by--geo_area--nature--observation_status--units--year.csv",
             "schema": {
@@ -12151,35 +12275,6 @@
                     "geo_area",
                     "nature",
                     "observation_status",
-                    "units",
-                    "year"
-                ]
-            }
-        },
-        {
-            "name": "ddf--datapoints--sg_cpa_sign_bit--by--geo_area--nature--units--year",
-            "path": "ddf--datapoints--sg_cpa_sign_bit--by--geo_area--nature--units--year.csv",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "geo_area"
-                    },
-                    {
-                        "name": "nature"
-                    },
-                    {
-                        "name": "units"
-                    },
-                    {
-                        "name": "year"
-                    },
-                    {
-                        "name": "sg_cpa_sign_bit"
-                    }
-                ],
-                "primaryKey": [
-                    "geo_area",
-                    "nature",
                     "units",
                     "year"
                 ]
@@ -22905,6 +23000,21 @@
             }
         },
         {
+            "name": "ddf--entities--nutrient_loading",
+            "path": "ddf--entities--nutrient_loading.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "nutrient_loading"
+                    },
+                    {
+                        "name": "name"
+                    }
+                ],
+                "primaryKey": "nutrient_loading"
+            }
+        },
+        {
             "name": "ddf--entities--observation_status",
             "path": "ddf--entities--observation_status.csv",
             "schema": {
@@ -23097,6 +23207,21 @@
                     }
                 ],
                 "primaryKey": "type_of_occupation"
+            }
+        },
+        {
+            "name": "ddf--entities--type_of_ofdi_scheme",
+            "path": "ddf--entities--type_of_ofdi_scheme.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "type_of_ofdi_scheme"
+                    },
+                    {
+                        "name": "name"
+                    }
+                ],
+                "primaryKey": "type_of_ofdi_scheme"
             }
         },
         {
@@ -23546,6 +23671,15 @@
             },
             {
                 "primaryKey": [
+                    "nutrient_loading"
+                ],
+                "value": "name",
+                "resources": [
+                    "ddf--entities--nutrient_loading"
+                ]
+            },
+            {
+                "primaryKey": [
                     "observation_status"
                 ],
                 "value": "name",
@@ -23659,6 +23793,15 @@
                 "value": "name",
                 "resources": [
                     "ddf--entities--type_of_occupation"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "type_of_ofdi_scheme"
+                ],
+                "value": "name",
+                "resources": [
+                    "ddf--entities--type_of_ofdi_scheme"
                 ]
             },
             {
@@ -25619,12 +25762,61 @@
                 "primaryKey": [
                     "geo_area",
                     "nature",
+                    "nutrient_loading",
+                    "units",
+                    "year"
+                ],
+                "value": "en_mar_coeupo",
+                "resources": [
+                    "ddf--datapoints--en_mar_coeupo--by--geo_area--nature--nutrient_loading--units--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo_area",
+                    "nature",
+                    "units",
+                    "year"
+                ],
+                "value": "en_mar_dsi",
+                "resources": [
+                    "ddf--datapoints--en_mar_dsi--by--geo_area--nature--units--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo_area",
+                    "nature",
                     "units",
                     "year"
                 ],
                 "value": "en_mar_plasdd",
                 "resources": [
                     "ddf--datapoints--en_mar_plasdd--by--geo_area--nature--units--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo_area",
+                    "nature",
+                    "units",
+                    "year"
+                ],
+                "value": "en_mar_tn",
+                "resources": [
+                    "ddf--datapoints--en_mar_tn--by--geo_area--nature--units--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo_area",
+                    "nature",
+                    "units",
+                    "year"
+                ],
+                "value": "en_mar_tp",
+                "resources": [
+                    "ddf--datapoints--en_mar_tp--by--geo_area--nature--units--year"
                 ]
             },
             {
@@ -28413,18 +28605,6 @@
                 "primaryKey": [
                     "geo_area",
                     "nature",
-                    "units",
-                    "year"
-                ],
-                "value": "sg_cpa_inforce_bit",
-                "resources": [
-                    "ddf--datapoints--sg_cpa_inforce_bit--by--geo_area--nature--units--year"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo_area",
-                    "nature",
                     "policy_domains",
                     "units",
                     "year"
@@ -28451,6 +28631,19 @@
                 "primaryKey": [
                     "geo_area",
                     "nature",
+                    "type_of_ofdi_scheme",
+                    "units",
+                    "year"
+                ],
+                "value": "sg_cpa_ofdi",
+                "resources": [
+                    "ddf--datapoints--sg_cpa_ofdi--by--geo_area--nature--type_of_ofdi_scheme--units--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo_area",
+                    "nature",
                     "observation_status",
                     "units",
                     "year"
@@ -28458,18 +28651,6 @@
                 "value": "sg_cpa_sdevp",
                 "resources": [
                     "ddf--datapoints--sg_cpa_sdevp--by--geo_area--nature--observation_status--units--year"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo_area",
-                    "nature",
-                    "units",
-                    "year"
-                ],
-                "value": "sg_cpa_sign_bit",
-                "resources": [
-                    "ddf--datapoints--sg_cpa_sign_bit--by--geo_area--nature--units--year"
                 ]
             },
             {

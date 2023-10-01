@@ -34,6 +34,7 @@ name,string,Name
 name_of_international_institution,entity_domain,Name Of International Institution
 name_of_non_communicable_disease,entity_domain,Name Of Non Communicable Disease
 nature,entity_domain,Nature
+nutrient_loading,entity_domain,Nutrient Loading
 observation_status,entity_domain,Observation Status
 parliamentary_committees,entity_domain,Parliamentary Committees
 policy_domains,entity_domain,Policy Domains
@@ -48,6 +49,7 @@ sex,entity_domain,Sex
 substance_use_disorders,entity_domain,Substance Use Disorders
 target,string,Target
 type_of_occupation,entity_domain,Type Of Occupation
+type_of_ofdi_scheme,entity_domain,Type Of Ofdi Scheme
 type_of_product,entity_domain,Type Of Product
 type_of_renewable_technology,entity_domain,Type Of Renewable Technology
 type_of_skill,entity_domain,Type Of Skill
