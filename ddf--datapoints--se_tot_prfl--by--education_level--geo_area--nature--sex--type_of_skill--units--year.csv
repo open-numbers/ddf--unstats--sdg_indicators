@@ -144,6 +144,8 @@ grad23,152,c,female,skill_math,percent,2006,65.91833
 grad23,152,c,female,skill_read,percent,2006,89.38688
 grad23,152,c,male,skill_math,percent,2006,68.60705
 grad23,152,c,male,skill_read,percent,2006,88.13369
+grad23,156,c,bothsex,skill_math,percent,2015,84.6
+grad23,156,c,bothsex,skill_read,percent,2016,81.8
 grad23,170,c,bothsex,skill_math,percent,2006,52.83
 grad23,170,c,bothsex,skill_math,percent,2013,52
 grad23,170,c,bothsex,skill_math,percent,2019,56.4
@@ -349,6 +351,12 @@ grad23,352,c,female,skill_read,percent,2001,94.72924
 grad23,352,c,female,skill_read,percent,2006,95.59939
 grad23,352,c,male,skill_read,percent,2001,89.81849
 grad23,352,c,male,skill_read,percent,2006,90.92284
+grad23,356,c,bothsex,skill_math,percent,2017,52.9
+grad23,356,c,bothsex,skill_read,percent,2017,47.2
+grad23,356,c,female,skill_math,percent,2017,53
+grad23,356,c,female,skill_read,percent,2017,49
+grad23,356,c,male,skill_math,percent,2017,53
+grad23,356,c,male,skill_read,percent,2017,47
 grad23,372,c,bothsex,skill_math,percent,2011,76.55276
 grad23,372,c,bothsex,skill_math,percent,2015,83.85001
 grad23,372,c,bothsex,skill_math,percent,2019,83.5662
@@ -1062,6 +1070,8 @@ lowsec,152,c,male,skill_read,percent,2009,63.89
 lowsec,152,c,male,skill_read,percent,2012,60.76
 lowsec,152,c,male,skill_read,percent,2015,68.9751
 lowsec,152,c,male,skill_read,percent,2018,63.51792
+lowsec,156,c,bothsex,skill_math,percent,2015,78.9
+lowsec,156,c,bothsex,skill_read,percent,2016,79.6
 lowsec,170,c,bothsex,skill_math,percent,2006,28.10381
 lowsec,170,c,bothsex,skill_math,percent,2009,29.55274
 lowsec,170,c,bothsex,skill_math,percent,2012,26.18298
@@ -1613,6 +1623,8 @@ lowsec,352,c,male,skill_read,percent,2009,76.17
 lowsec,352,c,male,skill_read,percent,2012,70.23
 lowsec,352,c,male,skill_read,percent,2015,71.10767
 lowsec,352,c,male,skill_read,percent,2018,65.86033
+lowsec,356,c,bothsex,skill_math,percent,2017,39.5
+lowsec,356,c,bothsex,skill_read,percent,2017,38.3
 lowsec,360,c,bothsex,skill_math,percent,2000,26.47185
 lowsec,360,c,bothsex,skill_math,percent,2003,21.86334
 lowsec,360,c,bothsex,skill_math,percent,2006,34.23572
@@ -3835,6 +3847,12 @@ primar,348,c,male,skill_read,percent,2001,96.51043
 primar,348,c,male,skill_read,percent,2006,97.15556
 primar,348,c,male,skill_read,percent,2011,93.6272
 primar,348,c,male,skill_read,percent,2016,96.54117
+primar,356,c,bothsex,skill_math,percent,2017,43.6
+primar,356,c,bothsex,skill_read,percent,2017,46.3
+primar,356,c,female,skill_math,percent,2017,44
+primar,356,c,female,skill_read,percent,2017,47
+primar,356,c,male,skill_math,percent,2017,44
+primar,356,c,male,skill_read,percent,2017,45
 primar,360,c,bothsex,skill_math,percent,2015,17.53671
 primar,360,c,bothsex,skill_read,percent,2006,53.97707
 primar,360,c,bothsex,skill_read,percent,2011,66.2271
