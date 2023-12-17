@@ -217,7 +217,9 @@ er_h2o_iwrmd_fi,measure,"Degree of integrated water resources management impleme
 er_h2o_iwrmd_ip,measure,"Degree of integrated water resources management implementation, institutions and participation (%)",6,6.5.1,ER_H2O_IWRMD_IP,6.5
 er_h2o_iwrmd_mi,measure,"Degree of integrated water resources management implementation, management instruments (%)",6,6.5.1,ER_H2O_IWRMD_MI,6.5
 er_h2o_iwrmp,measure,Proportion of countries by IWRM implementation category (%),6,6.5.1,ER_H2O_IWRMP,6.5
+er_h2o_partic,measure,Proportion of countries with high level of users/communities participating in planning programs in rural drinking-water supply (%),6,6.b.1,ER_H2O_PARTIC,6.b
 er_h2o_prdu,measure,"Countries with procedures in law or policy for participation by service users/communities in planning program in rural drinking-water supply, by level of definition in procedures (10 = Clearly defined; 5 = Not clearly defined ; 0 = NA)",6,6.b.1,ER_H2O_PRDU,6.b
+er_h2o_proced,measure,Proportion of countries with clearly defined procedures in law or policy for participation by service users/communities in planning program in rural drinking-water supply (%),6,6.b.1,ER_H2O_PROCED,6.b
 er_h2o_rurp,measure,"Countries with users/communities participating in planning programs in rural drinking-water supply, by level of participation (3 = High; 2 = Moderate; 1 = Low; 0 = NA)",6,6.b.1,ER_H2O_RURP,6.b
 er_h2o_stress,measure,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources (%),6,6.4.2,ER_H2O_STRESS,6.4
 er_h2o_wueyst,measure,Water Use Efficiency (United States dollars per cubic meter),6,6.4.1,ER_H2O_WUEYST,6.4
@@ -248,7 +250,9 @@ er_unclos_imple,measure,Score for the implementation of UNCLOS and its two imple
 er_unclos_ratacc,measure,Score for the ratification of and accession to UNCLOS and its two implementing agreements (%),14,14.c.1,ER_UNCLOS_RATACC,14.c
 er_unk_lbredn,measure,Number of local breeds with unknown risk status (number),2,2.5.2,ER_UNK_LBREDN,2.5
 er_wat_part,measure,"Countries with users/communities participating in planning programs in water resources planning and management, by level of participation (3 = High; 2 = Moderate; 1 = Low; 0 = NA)",6,6.b.1,ER_WAT_PART,6.b
+er_wat_partic,measure,Proportion of countries with high level of users/communities participating in planning programs in water resources planning and management (%),6,6.b.1,ER_WAT_PARTIC,6.b
 er_wat_prdu,measure,"Countries with procedures in law or policy for participation by service users/communities in planning program in water resources planning and management, by level of definition in procedures (10 = Clearly defined; 5 = Not clearly defined ; 0 = NA)",6,6.b.1,ER_WAT_PRDU,6.b
+er_wat_proced,measure,Proportion of countries with clearly defined procedures in law or policy for participation by service users/communities in planning program in water resources planning and management (%),6,6.b.1,ER_WAT_PROCED,6.b
 fb_atm_totl,measure,"Number of automated teller machines (ATMs) per 100,000 adults",8,8.10.1,FB_ATM_TOTL,8.10
 fb_bnk_accss,measure,"Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",8,8.10.2,FB_BNK_ACCSS,8.10
 fb_bnk_accss_ilf,measure,Proportion of adults (15 years and older) active in labor force with an account at a financial institution or mobile-money-service provider (% of adults aged 15 years and older),8,8.10.2,FB_BNK_ACCSS_ILF,8.10
@@ -275,7 +279,7 @@ gb_xpd_culnat_pv,measure,"Total expenditure per capita spent on cultural and nat
 gb_xpd_nat_pbpv,measure,"Total expenditure per capita spent on natural heritage, public and private (PPP, constant 2017 United States dollars)",11,11.4.1,GB_XPD_NAT_PBPV,11.4
 gb_xpd_rsdv,measure,Research and development expenditure as a proportion of GDP (%),9,9.5.1,GB_XPD_RSDV,9.5
 gc_bal_cash_gd_zs,measure,Cash surplus/deficit as a proportion of GDP (%),17,17.13.1,GC_BAL_CASH_GD_ZS,17.13
-gc_gob_taxd,measure,Proportion of domestic budget funded by domestic taxes (% of GDP),17,17.1.2,GC_GOB_TAXD,17.1
+gc_gob_taxd,measure,Proportion of domestic budget funded by domestic taxes (%),17,17.1.2,GC_GOB_TAXD,17.1
 gc_tax_totl_gd_zs,measure,Tax revenue as a proportion of GDP (%),17,17.13.1,GC_TAX_TOTL_GD_ZS,17.13
 gf_com_pppi,measure,"Amount of United States dollars committed to public-private partnerships for infrastructure, million USD nominal",17,17.17.1,GF_COM_PPPI,17.17
 gf_com_pppi_kd,measure,"Amount of United States dollars committed to public-private partnerships for infrastructure, million USD real",17,17.17.1,GF_COM_PPPI_KD,17.17
@@ -288,6 +292,8 @@ ic_gen_mgtl,measure,Proportion of women in managerial positions - 13th ICLS (%),
 ic_gen_mgtl_19icls,measure,Proportion of women in managerial positions - 19th ICLS (%),5,5.5.2,IC_GEN_MGTL_19ICLS,5.5
 ic_gen_mgtn,measure,Proportion of women in senior and middle management positions - 13th ICLS (%),5,5.5.2,IC_GEN_MGTN,5.5
 ic_gen_mgtn_19icls,measure,Proportion of women in senior and middle management positions - 19th ICLS (%),5,5.5.2,IC_GEN_MGTN_19ICLS,5.5
+iq_spi_pil4,measure,Data Sources performance index (Statistical Performance Indicators Pillar 4) (Index),17,17.18.1,IQ_SPI_PIL4,17.18
+iq_spi_pil5,measure,Data Infrastructure performance index (Statistical Performance Indicators Pillar 5) (Index),17,17.18.1,IQ_SPI_PIL5,17.18
 is_rdp_frgvol,measure,"Freight volume, by mode of transport (tonne kilometres)",9,9.1.2,IS_RDP_FRGVOL,9.1
 is_rdp_lulfrg,measure,"Freight loaded and unloaded, maritime transport (metric tons)",9,9.1.2,IS_RDP_LULFRG,9.1
 is_rdp_pfvol,measure,"Passenger volume (passenger kilometres), by mode of transport",9,9.1.2,IS_RDP_PFVOL,9.1
@@ -324,7 +330,7 @@ sd_mdp_andihh,measure,Average share of weighted deprivations of total households
 sd_mdp_csmp,measure,Proportion of children living in child-specific multidimensional poverty (%),1,1.2.2,SD_MDP_CSMP,1.2
 sd_mdp_muhc,measure,Proportion of population living in multidimensional poverty (%),1,1.2.2,SD_MDP_MUHC,1.2
 sd_mdp_muhhc,measure,Proportion of households living in multidimensional poverty (%),1,1.2.2,SD_MDP_MUHHC,1.2
-sd_xpd_esed,measure,"Proportion of total government spending on essential services, education (%)",1,1.a.2,SD_XPD_ESED,1.a
+sd_xpd_mnpo,measure,"Proportion of government spending in health, direct social transfers and education which benefit the monetary poor (%)",1,1.b.1,SD_XPD_MNPO,1.b
 se_acc_hndwsh,measure,"Proportion of schools with basic handwashing facilities, by education level (%)",4,4.a.1,SE_ACC_HNDWSH,4.a
 se_acs_cmptr,measure,"Proportion of schools with access to computers for pedagogical purposes, by education level (%)",4,4.a.1,SE_ACS_CMPTR,4.a
 se_acs_elect,measure,"Proportion of schools with access to electricity, by education level (%)",4,4.a.1,SE_ACS_ELECT,4.a
@@ -440,11 +446,12 @@ sg_stt_nsdsfdgvt,measure,Countries with national statistical plans with funding 
 sg_stt_nsdsfdothr,measure,Countries with national statistical plans with funding from others (1 = YES; 0 = NO),17,17.18.3,SG_STT_NSDSFDOTHR,17.18
 sg_stt_nsdsfnd,measure,Countries with national statistical plans that are fully funded (1 = YES; 0 = NO),17,17.18.3,SG_STT_NSDSFND,17.18
 sg_stt_nsdsimpl,measure,Countries with national statistical plans that are under implementation (1 = YES; 0 = NO),17,17.18.3,SG_STT_NSDSIMPL,17.18
+sg_stt_odin,measure,Open Data Inventory (ODIN) Coverage Index,17,17.18.1,SG_STT_ODIN,17.18
 sh_aap_asmort,measure,"Age-standardized mortality rate attributed to ambient air pollution (deaths per 100,000 population)",3,3.9.1,SH_AAP_ASMORT,3.9
-sh_acs_dtp3,measure,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3) (%),3,3.b.1,SH_ACS_DTP3,3.b
-sh_acs_hpv,measure,"Proportion of the target population with access to affordable medicines and vaccines on a sustainable basis, human papillomavirus (HPV) (%)",3,3.b.1,SH_ACS_HPV,3.b
-sh_acs_mcv2,measure,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2) (%),3,3.b.1,SH_ACS_MCV2,3.b
-sh_acs_pcv3,measure,Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3) (%),3,3.b.1,SH_ACS_PCV3,3.b
+sh_acs_dtp3,measure,Proportion of the target population who received 3 doses of diphtheria-tetanus-pertussis (DTP3) vaccine (%),3,3.b.1,SH_ACS_DTP3,3.b
+sh_acs_hpv,measure,Proportion of the target population who received the final dose of human papillomavirus (HPV) vaccine (%),3,3.b.1,SH_ACS_HPV,3.b
+sh_acs_mcv2,measure,Proportion of the target population who received measles-containing-vaccine second-dose (MCV2) (%),3,3.b.1,SH_ACS_MCV2,3.b
+sh_acs_pcv3,measure,Proportion of the target population who received a 3rd dose of pneumococcal conjugate (PCV3) vaccine (%),3,3.b.1,SH_ACS_PCV3,3.b
 sh_acs_unhc,measure,Universal health coverage (UHC) service coverage index,3,3.8.1,SH_ACS_UNHC,3.8
 sh_alc_conspt,measure,Alcohol consumption per capita (aged 15 years and older) within a calendar year (litres of pure alcohol),3,3.5.2,SH_ALC_CONSPT,3.5
 sh_bld_ecoli,measure,"Percentage of bloodstream infection due to Escherichia coli resistant to 3rd-generation cephalosporin (e.g., ESBL- E. coli) among patients seeking care and whose blood sample is taken and tested (%)",3,3.d.2,SH_BLD_ECOLI,3.d

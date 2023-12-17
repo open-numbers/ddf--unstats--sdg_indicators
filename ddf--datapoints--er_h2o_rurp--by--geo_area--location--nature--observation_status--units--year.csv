@@ -7,6 +7,7 @@ geo_area,location,nature,observation_status,units,year,er_h2o_rurp
 8,rural,g,a,number,2022,3
 24,rural,g,a,number,2014,3
 24,rural,g,a,number,2019,0
+24,rural,g,a,number,2022,1
 28,rural,g,a,number,2019,2
 31,rural,g,a,number,2014,2
 31,rural,g,a,number,2017,3
@@ -57,7 +58,7 @@ geo_area,location,nature,observation_status,units,year,er_h2o_rurp
 108,rural,g,a,number,2014,2
 108,rural,g,a,number,2017,2
 108,rural,g,a,number,2019,2
-108,rural,g,a,number,2022,0
+108,rural,g,a,number,2022,3
 112,rural,g,a,number,2014,2
 112,rural,g,a,number,2017,2
 112,rural,g,a,number,2019,2
@@ -75,6 +76,7 @@ geo_area,location,nature,observation_status,units,year,er_h2o_rurp
 140,rural,g,a,number,2022,2
 144,rural,g,a,number,2014,3
 144,rural,g,a,number,2019,3
+144,rural,g,a,number,2022,3
 148,rural,g,a,number,2014,1
 148,rural,g,a,number,2019,2
 148,rural,g,a,number,2022,2
@@ -284,8 +286,8 @@ geo_area,location,nature,observation_status,units,year,er_h2o_rurp
 566,rural,g,a,number,2014,2
 566,rural,g,a,number,2017,2
 566,rural,g,a,number,2019,2
-566,rural,g,a,number,2022,0
-578,rural,g,a,number,2022,2
+566,rural,g,a,number,2022,3
+578,rural,g,a,number,2022,3
 583,rural,g,a,number,2017,2
 584,rural,g,a,number,2019,1
 584,rural,g,a,number,2022,0

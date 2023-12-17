@@ -5,6 +5,7 @@ geo_area,nature,observation_status,units,year,er_wat_part
 8,g,a,number,2019,3
 8,g,a,number,2022,3
 24,g,a,number,2019,1
+24,g,a,number,2022,1
 28,g,a,number,2019,1
 31,g,a,number,2017,3
 31,g,a,number,2019,3
@@ -46,7 +47,7 @@ geo_area,nature,observation_status,units,year,er_wat_part
 104,g,a,number,2019,1
 108,g,a,number,2017,2
 108,g,a,number,2019,2
-108,g,a,number,2022,0
+108,g,a,number,2022,3
 112,g,a,number,2017,2
 112,g,a,number,2019,3
 112,g,a,number,2022,3
@@ -59,6 +60,7 @@ geo_area,nature,observation_status,units,year,er_wat_part
 140,g,a,number,2019,2
 140,g,a,number,2022,1
 144,g,a,number,2019,3
+144,g,a,number,2022,3
 148,g,a,number,2019,1
 148,g,a,number,2022,1
 152,g,a,number,2017,1
@@ -218,7 +220,7 @@ geo_area,nature,observation_status,units,year,er_wat_part
 562,g,a,number,2022,2
 566,g,a,number,2017,2
 566,g,a,number,2019,2
-566,g,a,number,2022,0
+566,g,a,number,2022,2
 578,g,a,number,2022,0
 583,g,a,number,2017,2
 584,g,a,number,2019,1
